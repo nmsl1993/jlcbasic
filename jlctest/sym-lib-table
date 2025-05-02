@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "jlcbasic")(type "KiCad")(uri "/Users/cjh/work/electronics/jlcbasic/jlcbasic.kicad_sym")(options "")(descr ""))
+)

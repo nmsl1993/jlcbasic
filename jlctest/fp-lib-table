@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "jlcbasic")(type "KiCad")(uri "../jlcbasic.pretty")(options "")(descr ""))
+)
