@@ -15192,19 +15192,25 @@
 		(embedded_fonts no)
 	)
 	(symbol "0805W8F1201T5E"
+		(pin_numbers
+			(hide yes)
+		)
+		(pin_names
+			(hide yes)
+		)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(property "Reference" "R"
-			(at 0 5.08 0)
+			(at 0 2.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "0805W8F1201T5E"
-			(at 0 -5.08 0)
+		(property "Value" "1.2kΩ"
+			(at 0 -2.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15212,7 +15218,7 @@
 			)
 		)
 		(property "Footprint" "jlcbasic:R0805"
-			(at 0 -7.62 0)
+			(at 0 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15221,7 +15227,7 @@
 			)
 		)
 		(property "Datasheet" "https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount-UniOhm_1-2KR-1201-1_C17379.html"
-			(at 0 -10.16 0)
+			(at 0 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15229,7 +15235,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "0.125W Thick Film Resistors 150V ±100ppm/℃ ±1% 1.2kΩ 0805 Chip Resistor - Surface Mount ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -15239,7 +15245,16 @@
 			)
 		)
 		(property "LCSC Part" "C17379"
-			(at 0 -12.7 0)
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PartNumber" "0805W8F1201T5E"
+			(at 0 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
