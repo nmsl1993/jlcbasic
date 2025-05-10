@@ -1,7 +1,7 @@
 JLC Basic parts Kicad library
 
-Parts list was scraped from parts selector 1/May/2025 as JLC_basic_lcsc_list.txt
-EasyEDA symbols, foorptints and models fetched using easyeda2kicad (see run script)
+Parts list was scraped from parts selector 1/May/2025 as Data/LCSC-codes-EasyEDA.txt
+EasyEDA symbols, footprints and models fetched using easyeda2kicad (see run script)
 Rename files from ~/Documents/Kicad/easyeda2kicad to jlcbasic
 Edit the kicad_sym and .pretty files to change library references
 
