@@ -8724,6 +8724,56 @@
 			(embedded_fonts no)
 		)
 	)
+	(text "0805"
+		(exclude_from_sim no)
+		(at 29.21 73.914 0)
+		(effects
+			(font
+				(size 3.81 3.81)
+			)
+		)
+		(uuid "6031bce8-6906-49db-b96f-6f482b5d2266")
+	)
+	(text "1206"
+		(exclude_from_sim no)
+		(at 29.464 84.328 0)
+		(effects
+			(font
+				(size 3.81 3.81)
+			)
+		)
+		(uuid "d1b6deea-0d1a-4363-b9df-57d7d7f6bac5")
+	)
+	(text "0603"
+		(exclude_from_sim no)
+		(at 28.956 63.246 0)
+		(effects
+			(font
+				(size 3.81 3.81)
+			)
+		)
+		(uuid "d65aeaf4-58fd-4372-978d-d13ab8c8b70a")
+	)
+	(text "0402"
+		(exclude_from_sim no)
+		(at 28.448 53.594 0)
+		(effects
+			(font
+				(size 3.81 3.81)
+			)
+		)
+		(uuid "d87a4cf4-6639-4279-8ebd-29d51d8cdee4")
+	)
+	(text "0805"
+		(exclude_from_sim no)
+		(at 29.21 94.488 0)
+		(effects
+			(font
+				(size 3.81 3.81)
+			)
+		)
+		(uuid "de691b12-b315-412b-a53f-a2daf6dcaa01")
+	)
 	(bus_entry
 		(at 88.9 205.74)
 		(size 2.54 2.54)
@@ -9394,7 +9444,7 @@
 	)
 	(symbol
 		(lib_id "jlcbasic:TAJA106K016RNJ")
-		(at 66.04 93.98 0)
+		(at 66.04 106.68 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9402,7 +9452,7 @@
 		(dnp no)
 		(uuid "430a2984-907b-4887-81a4-2a890090d1a1")
 		(property "Reference" "C5"
-			(at 66.04 90.932 0)
+			(at 66.04 103.632 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9410,7 +9460,7 @@
 			)
 		)
 		(property "Value" "10uF"
-			(at 66.04 97.028 0)
+			(at 66.04 109.728 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9418,7 +9468,7 @@
 			)
 		)
 		(property "Footprint" "jlcbasic:CAP-SMD_L3.2-W1.6-RD-C7171"
-			(at 66.04 99.314 0)
+			(at 66.04 112.014 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9427,7 +9477,7 @@
 			)
 		)
 		(property "Datasheet" "https://lcsc.com/product-detail/Tantalum-Capacitors_AVX_TAJA106K016RNJ_10uF-106-10-16V_C7171.html"
-			(at 66.04 85.09 0)
+			(at 66.04 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9436,7 +9486,7 @@
 			)
 		)
 		(property "Description" "10uF 16V 3Ω@100kHz ±10% CASE-A-3216-18(mm) Tantalum Capacitors ROHS"
-			(at 65.786 88.138 0)
+			(at 65.786 100.838 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9445,7 +9495,7 @@
 			)
 		)
 		(property "LCSC Part" "C7171"
-			(at 66.04 101.6 0)
+			(at 66.04 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9454,7 +9504,7 @@
 			)
 		)
 		(property "PartNumber" "TAJA106K016RNJ"
-			(at 66.04 93.98 0)
+			(at 66.04 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10067,7 +10117,7 @@
 	)
 	(symbol
 		(lib_id "jlcbasic:Q13FC1350000400")
-		(at 87.63 93.98 0)
+		(at 87.63 104.14 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10075,7 +10125,7 @@
 		(dnp no)
 		(uuid "6317fad0-b706-4d07-99a4-c55995f1e0a7")
 		(property "Reference" "X2"
-			(at 87.63 90.932 0)
+			(at 87.63 101.092 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10083,7 +10133,7 @@
 			)
 		)
 		(property "Value" "32.768kHz"
-			(at 87.63 97.028 0)
+			(at 87.63 107.188 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10091,7 +10141,7 @@
 			)
 		)
 		(property "Footprint" "jlcbasic:FC-135R_L3.2-W1.5"
-			(at 87.63 99.314 0)
+			(at 87.63 109.474 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10100,7 +10150,7 @@
 			)
 		)
 		(property "Datasheet" "https://lcsc.com/product-detail/SMD-Crystals_EPSON_Q13FC1350000400_32-768KHz-20ppm-12-5pF_C32346.html"
-			(at 87.376 85.598 0)
+			(at 87.376 95.758 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10109,7 +10159,7 @@
 			)
 		)
 		(property "Description" "32.768kHz Surface Mount Crystal 12.5pF ±20ppm SMD3215-2P Crystals ROHS"
-			(at 87.63 88.392 0)
+			(at 87.63 98.552 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10118,7 +10168,7 @@
 			)
 		)
 		(property "LCSC Part" "C32346"
-			(at 87.376 101.854 0)
+			(at 87.376 112.014 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10127,7 +10177,7 @@
 			)
 		)
 		(property "PartNumber" "Q13FC1350000400"
-			(at 87.63 93.98 0)
+			(at 87.63 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10322,7 +10372,7 @@
 	)
 	(symbol
 		(lib_id "jlcbasic:TAJB107K006RNJ")
-		(at 66.04 104.14 0)
+		(at 66.04 116.84 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10330,7 +10380,7 @@
 		(dnp no)
 		(uuid "6e1664b5-457c-42b2-b991-14612414efc1")
 		(property "Reference" "C6"
-			(at 66.04 100.838 0)
+			(at 66.04 113.538 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10338,7 +10388,7 @@
 			)
 		)
 		(property "Value" "100uF"
-			(at 66.04 107.442 0)
+			(at 66.04 120.142 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10346,7 +10396,7 @@
 			)
 		)
 		(property "Footprint" "jlcbasic:CASE-B_3528"
-			(at 66.04 108.966 0)
+			(at 66.04 121.666 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10355,7 +10405,7 @@
 			)
 		)
 		(property "Datasheet" "https://lcsc.com/product-detail/Tantalum-Capacitors_AVX_TAJB107K006RNJ_100uF-107-10-6-3V_C16133.html"
-			(at 66.04 93.98 0)
+			(at 66.04 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10364,7 +10414,7 @@
 			)
 		)
 		(property "Description" "100uF 6.3V 1.7Ω@100kHz ±10% CASE-B-3528-21(mm) Tantalum Capacitors ROHS"
-			(at 65.786 99.06 0)
+			(at 65.786 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10373,7 +10423,7 @@
 			)
 		)
 		(property "LCSC Part" "C16133"
-			(at 66.04 110.744 0)
+			(at 66.04 123.444 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10382,7 +10432,7 @@
 			)
 		)
 		(property "PartNumber" "TAJB107K006RNJ"
-			(at 66.04 104.14 0)
+			(at 66.04 116.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10510,7 +10560,7 @@
 	)
 	(symbol
 		(lib_id "jlcbasic:GZ1608D601TF")
-		(at 86.36 53.34 0)
+		(at 86.36 63.5 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10518,7 +10568,7 @@
 		(dnp no)
 		(uuid "7555b223-47ef-4439-ace8-a7797b92cd3a")
 		(property "Reference" "L1"
-			(at 86.36 50.8 0)
+			(at 86.36 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10526,7 +10576,7 @@
 			)
 		)
 		(property "Value" "600Ω@100MHz"
-			(at 86.36 55.88 0)
+			(at 86.36 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10534,7 +10584,7 @@
 			)
 		)
 		(property "Footprint" "jlcbasic:L0603"
-			(at 86.106 58.42 0)
+			(at 86.106 68.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10543,7 +10593,7 @@
 			)
 		)
 		(property "Datasheet" "https://lcsc.com/product-detail/Ferrite-Beads-And-Chips_600R-25-100MHz_C1002.html"
-			(at 86.614 46.228 0)
+			(at 86.614 56.388 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10552,7 +10602,7 @@
 			)
 		)
 		(property "Description" "450mΩ ±25% 600Ω@100MHz 0603 Ferrite Beads ROHS"
-			(at 86.36 48.768 0)
+			(at 86.36 58.928 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10561,7 +10611,7 @@
 			)
 		)
 		(property "LCSC Part" "C1002"
-			(at 86.106 60.452 0)
+			(at 86.106 70.612 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10570,7 +10620,7 @@
 			)
 		)
 		(property "PartNumber" "GZ1608D601TF"
-			(at 86.36 53.34 0)
+			(at 86.36 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10877,7 +10927,7 @@
 	)
 	(symbol
 		(lib_id "jlcbasic:X49SM8MSD2SC")
-		(at 87.63 123.19 0)
+		(at 87.63 133.35 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10885,7 +10935,7 @@
 		(dnp no)
 		(uuid "8659cf38-37cb-4f9d-aa22-4b2823b99935")
 		(property "Reference" "X4"
-			(at 87.63 120.142 0)
+			(at 87.63 130.302 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10893,7 +10943,7 @@
 			)
 		)
 		(property "Value" "8MHz"
-			(at 87.63 126.492 0)
+			(at 87.63 136.652 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10901,7 +10951,7 @@
 			)
 		)
 		(property "Footprint" "jlcbasic:CRYSTAL-SMD_L11.5-W4.8-LS12.7"
-			(at 87.63 128.524 0)
+			(at 87.63 138.684 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10910,7 +10960,7 @@
 			)
 		)
 		(property "Datasheet" "https://lcsc.com/product-detail/49SMD_HC-49SMD-8MHZ-20PF-20PPM_C12674.html"
-			(at 87.63 115.57 0)
+			(at 87.63 125.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10919,7 +10969,7 @@
 			)
 		)
 		(property "Description" "8MHz Surface Mount Crystal 20pF ±20ppm ±30ppm HC-49S-SMD Crystals ROHS"
-			(at 87.63 117.856 0)
+			(at 87.63 128.016 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10928,7 +10978,7 @@
 			)
 		)
 		(property "LCSC Part" "C12674"
-			(at 87.63 130.302 0)
+			(at 87.63 140.462 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10937,7 +10987,7 @@
 			)
 		)
 		(property "PartNumber" "X49SM8MSD2SC"
-			(at 87.376 121.666 0)
+			(at 87.376 131.826 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11068,7 +11118,7 @@
 	)
 	(symbol
 		(lib_id "jlcbasic:X50328MSB2GI")
-		(at 87.63 134.62 0)
+		(at 87.63 144.78 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11076,14 +11126,6 @@
 		(dnp no)
 		(uuid "8bea7d9a-907c-44c6-bd9c-6165660ae1a4")
 		(property "Reference" "X5"
-			(at 87.63 129.54 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "8MHz"
 			(at 87.63 139.7 0)
 			(effects
 				(font
@@ -11091,8 +11133,16 @@
 				)
 			)
 		)
+		(property "Value" "8MHz"
+			(at 87.63 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "Footprint" "jlcbasic:CRYSTAL-SMD_L5.0-W3.2"
-			(at 87.63 142.24 0)
+			(at 87.63 152.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11101,7 +11151,7 @@
 			)
 		)
 		(property "Datasheet" "https://lcsc.com/product-detail/SMD-Crystals_YSX530GA-8MHZ-20PF-10PPM-40-85_C115962.html"
-			(at 87.376 127.508 0)
+			(at 87.376 137.668 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11110,7 +11160,7 @@
 			)
 		)
 		(property "Description" "8MHz Surface Mount Crystal 20pF ±10ppm ±20ppm SMD5032 Crystals ROHS"
-			(at 87.376 130.302 0)
+			(at 87.376 140.462 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11119,7 +11169,7 @@
 			)
 		)
 		(property "LCSC Part" "C115962"
-			(at 87.63 144.272 0)
+			(at 87.63 154.432 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11128,7 +11178,7 @@
 			)
 		)
 		(property "PartNumber" "X50328MSB2GI"
-			(at 87.376 137.668 0)
+			(at 87.376 147.828 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11687,7 +11737,7 @@
 	)
 	(symbol
 		(lib_id "jlcbasic:GZ2012D101TF")
-		(at 86.36 63.5 0)
+		(at 86.36 73.66 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11695,7 +11745,7 @@
 		(dnp no)
 		(uuid "b686994c-bac1-4b38-87e0-18da1e5cd8e6")
 		(property "Reference" "L2"
-			(at 86.36 60.96 0)
+			(at 86.36 71.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11703,7 +11753,7 @@
 			)
 		)
 		(property "Value" "100Ω@100MHz"
-			(at 86.36 66.04 0)
+			(at 86.36 76.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11711,7 +11761,7 @@
 			)
 		)
 		(property "Footprint" "jlcbasic:L0805"
-			(at 86.106 68.58 0)
+			(at 86.106 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11720,7 +11770,7 @@
 			)
 		)
 		(property "Datasheet" "https://lcsc.com/product-detail/Ferrite-Beads-And-Chips_100R-25-100MHz_C1015.html"
-			(at 86.36 55.88 0)
+			(at 86.36 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11729,7 +11779,7 @@
 			)
 		)
 		(property "Description" "±25% 100Ω@100MHz 0805 Ferrite Beads ROHS"
-			(at 86.36 58.674 0)
+			(at 86.36 68.834 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11738,7 +11788,7 @@
 			)
 		)
 		(property "LCSC Part" "C1015"
-			(at 85.852 70.612 0)
+			(at 85.852 80.772 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11747,7 +11797,7 @@
 			)
 		)
 		(property "PartNumber" "GZ2012D101TF"
-			(at 86.36 63.5 0)
+			(at 86.36 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11772,7 +11822,7 @@
 	)
 	(symbol
 		(lib_id "jlcbasic:X322512MSB4SI")
-		(at 87.63 109.22 0)
+		(at 87.63 119.38 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11780,7 +11830,7 @@
 		(dnp no)
 		(uuid "b71c288b-afc3-4064-9e56-37a7342aa2a4")
 		(property "Reference" "X3"
-			(at 87.63 101.6 0)
+			(at 87.63 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11788,7 +11838,7 @@
 			)
 		)
 		(property "Value" "12MHz"
-			(at 87.63 116.84 0)
+			(at 87.63 127 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11796,7 +11846,7 @@
 			)
 		)
 		(property "Footprint" "jlcbasic:CRYSTAL-SMD_4P-L3.2-W2.5-BL"
-			(at 87.63 119.38 0)
+			(at 87.63 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11805,7 +11855,7 @@
 			)
 		)
 		(property "Datasheet" "https://lcsc.com/product-detail/SMD-Crystals_YSX321SL-12MHZ-20PF-10PPM-40-85_C9002.html"
-			(at 87.63 96.266 0)
+			(at 87.63 106.426 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11814,7 +11864,7 @@
 			)
 		)
 		(property "Description" "12MHz Surface Mount Crystal 20pF ±10ppm ±20ppm SMD3225-4P Crystals ROHS"
-			(at 87.376 99.314 0)
+			(at 87.376 109.474 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11823,7 +11873,7 @@
 			)
 		)
 		(property "LCSC Part" "C9002"
-			(at 87.376 121.412 0)
+			(at 87.376 131.572 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11832,7 +11882,7 @@
 			)
 		)
 		(property "PartNumber" "X322512MSB4SI"
-			(at 87.63 109.22 0)
+			(at 87.63 119.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12655,7 +12705,7 @@
 	)
 	(symbol
 		(lib_id "jlcbasic:X322516MLB4SI")
-		(at 87.63 78.74 0)
+		(at 87.63 88.9 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -12663,7 +12713,7 @@
 		(dnp no)
 		(uuid "fe48d354-c2e7-49cb-8951-9524e438b9d7")
 		(property "Reference" "X1"
-			(at 87.63 71.12 0)
+			(at 87.63 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12671,7 +12721,7 @@
 			)
 		)
 		(property "Value" "16MHz"
-			(at 87.63 86.36 0)
+			(at 87.63 96.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12679,7 +12729,7 @@
 			)
 		)
 		(property "Footprint" "jlcbasic:OSC-SMD_4P-L3.2-W2.5-BL"
-			(at 87.63 88.9 0)
+			(at 87.63 99.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12688,7 +12738,7 @@
 			)
 		)
 		(property "Datasheet" "https://lcsc.com/product-detail/SMD-Crystals_YSX321SL-16MHZ-9PF-10PPM-40-85_C13738.html"
-			(at 87.376 66.548 0)
+			(at 87.376 76.708 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12697,7 +12747,7 @@
 			)
 		)
 		(property "Description" "16MHz Surface Mount Crystal 9pF ±10ppm ±20ppm SMD3225-4P Crystals ROHS"
-			(at 87.63 68.58 0)
+			(at 87.63 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12706,7 +12756,7 @@
 			)
 		)
 		(property "LCSC Part" "C13738"
-			(at 87.122 90.932 0)
+			(at 87.122 101.092 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12715,7 +12765,7 @@
 			)
 		)
 		(property "PartNumber" "X322516MLB4SI"
-			(at 87.63 78.74 0)
+			(at 87.63 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)

@@ -1,3 +1,4 @@
+*.log
 *.lck
 *-backups
 *.bak
