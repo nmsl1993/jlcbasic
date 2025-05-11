@@ -21,16 +21,26 @@ For each resistor and capacitor:
 - populate the Description property with text from the appropriate field on the LCSC web page for the part
 =end
 
+# Hide a pin_names or pin_numbers node:
+def hide p
+  if p.hide
+    p.hide.hide = :yes
+  else  # Add a hide node
+    p.children.append(KiCad.parse('(hide yes)')&.value)
+  end
+end
+
 k = KiCad.load('jlcbasic.kicad_sym').value
 
 k.all_symbol.
   each do |s|
     # Create PartNumber from Value if there isn't one
-    if s.property('PartNumber')
+    unless s.property('PartNumber')
       s['PartNumber'] = s.property('Value')
+      s.property_node('PartNumber').hidden = true
     end
 
-    # Hide "LCSC Part" is present
+    # Hide "LCSC Part" if present
     if s.property('LCSC Part')
       s.property_node('LCSC Part').hidden = true
     end
@@ -40,6 +50,22 @@ k.all_symbol.
       at = footprint_node.at
       if at && (at.x != 0 || at.y != 0 || at.angle != 0)
         puts "#{s.id} has footprint at (#{at.x}, #{at.y}, #{at.angle}) - not resetting"
+      end
+    end
+
+    # If there are 3 or fewer pin numbers, hide them:
+    pins = s.all_pin
+    if pins.size == 0 && s.all_symbol.size > 0
+      pins = s.all_symbol[0].all_pin
+    end
+    debugger if s.id =~ /LM324/
+    if pins.size <= 3
+      pin_number_node = s.pin_numbers
+      if pin_number_node
+        hide(pin_number_node)
+      else
+        puts "#{s.id} has no pin_number node, adding it"
+        s.children.prepend(KiCad.parse('(pin_numbers(hide yes))')&.value)
       end
     end
   end
@@ -62,20 +88,11 @@ k.all_symbol.           # All top-level symbols
     end
   end
 
-# Hide a pin_names or pin_numbers node:
-def hide p
-  if p.hide
-    p.hide.hide = :yes
-  else  # Add a hide node
-    p.children.append(KiCad.parse('(hide yes)')&.value)
-  end
-end
-
-# For all R's and C's:
+# For all R's, 'L's and C's:
 k.all_symbol.
   each do |s|
     reference = s.property('Reference')
-    next unless ['R', 'C'].include?(reference)
+    next unless ['R', 'L', 'C'].include?(reference)
 
     # Hide PartNumbers:
     s.property_node('PartNumber')&.hidden = true
@@ -91,6 +108,7 @@ k.all_symbol.
     end
 
     # Move the Value:
+    # REVISIT: Find the south-most graphic element and place text below/above that
     value_node = s.property_node('Value')
     at = value_node.at
     if at
@@ -101,7 +119,7 @@ k.all_symbol.
     end
 
     # If there are pin names, hide them:
-    pin_name_node = s.property_node('pin_names')
+    pin_name_node = s.pin_names
     if pin_name_node
       hide(pin_name_node)
     else
@@ -109,14 +127,17 @@ k.all_symbol.
       s.children.prepend(KiCad.parse('(pin_names(hide yes))')&.value)
     end
 
+=begin
     # If there are pin numbers, hide them:
-    pin_number_node = s.property_node('pin_numbers')
+    pin_number_node = s.pin_numbers
     if pin_number_node
       hide(pin_number_node)
     else
       puts "#{s.id} has no pin_number node, adding it"
       s.children.prepend(KiCad.parse('(pin_numbers(hide yes))')&.value)
     end
+=end
+
   end
 
 File.open('rewrite.kicad_sym', 'w') { |f| f.puts k.emit }
