@@ -20,7 +20,7 @@
 				)
 			)
 		)
-		(property "Value" "0402B102K500NT"
+		(property "Value" "1nF"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -46,7 +46,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "50V 1nF X7R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -183,7 +183,7 @@
 				)
 			)
 		)
-		(property "Value" "0402B221K500NT"
+		(property "Value" "220pF"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -209,7 +209,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "50V 220pF X7R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -346,7 +346,7 @@
 				)
 			)
 		)
-		(property "Value" "0402B223K500NT"
+		(property "Value" "22nF"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -372,7 +372,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "50V 22nF X7R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -509,7 +509,7 @@
 				)
 			)
 		)
-		(property "Value" "0402B472K500NT"
+		(property "Value" "4.7nF"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -535,7 +535,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "50V 4.7nF X7R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -672,7 +672,7 @@
 				)
 			)
 		)
-		(property "Value" "0402CG101J500NT"
+		(property "Value" "100pF"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -698,7 +698,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "50V 100pF C0G ±5% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -835,7 +835,7 @@
 				)
 			)
 		)
-		(property "Value" "0402CG120J500NT"
+		(property "Value" "12pF"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -861,7 +861,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "50V 12pF C0G ±5% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -998,7 +998,7 @@
 				)
 			)
 		)
-		(property "Value" "0402CG150J500NT"
+		(property "Value" "15pF"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -1024,7 +1024,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "50V 15pF C0G ±5% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -1161,7 +1161,7 @@
 				)
 			)
 		)
-		(property "Value" "0402CG180J500NT"
+		(property "Value" "18pF"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -1187,7 +1187,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "50V 18pF C0G ±5% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -1324,7 +1324,7 @@
 				)
 			)
 		)
-		(property "Value" "0402CG200J500NT"
+		(property "Value" "20pF"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -1350,7 +1350,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "50V 20pF C0G ±5% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -1487,7 +1487,7 @@
 				)
 			)
 		)
-		(property "Value" "0402CG220J500NT"
+		(property "Value" "22pF"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -1513,7 +1513,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "50V 22pF C0G ±5% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -1650,7 +1650,7 @@
 				)
 			)
 		)
-		(property "Value" "0402CG330J500NT"
+		(property "Value" "33pF"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -1676,7 +1676,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "50V 33pF C0G ±5% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -1813,7 +1813,7 @@
 				)
 			)
 		)
-		(property "Value" "0402CG470J500NT"
+		(property "Value" "47pF"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -1839,7 +1839,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "50V 47pF C0G ±5% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -1976,7 +1976,7 @@
 				)
 			)
 		)
-		(property "Value" "0402WGF0000TCE"
+		(property "Value" "0Ω"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -2002,7 +2002,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "62.5mW Thick Film Resistors 50V ±800ppm/℃ ±1% 0Ω 0402 Chip Resistor - Surface Mount ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -2098,7 +2098,7 @@
 				)
 			)
 		)
-		(property "Value" "0402WGF1000TCE"
+		(property "Value" "100Ω"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -2124,7 +2124,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "62.5mW Thick Film Resistors 50V ±1% ±200ppm/℃ 100Ω 0402 Chip Resistor - Surface Mount ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -2220,7 +2220,7 @@
 				)
 			)
 		)
-		(property "Value" "0402WGF1001TCE"
+		(property "Value" "1kΩ"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -2246,7 +2246,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "62.5mW Thick Film Resistors 50V ±100ppm/℃ ±1% 1kΩ 0402 Chip Resistor - Surface Mount ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -2342,7 +2342,7 @@
 				)
 			)
 		)
-		(property "Value" "0402WGF1002TCE"
+		(property "Value" "10kΩ"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -2368,7 +2368,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "62.5mW Thick Film Resistors 50V ±100ppm/℃ ±1% 10kΩ 0402 Chip Resistor - Surface Mount ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -2464,7 +2464,7 @@
 				)
 			)
 		)
-		(property "Value" "0402WGF1003TCE"
+		(property "Value" "100kΩ"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -2490,7 +2490,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "62.5mW Thick Film Resistors 50V ±100ppm/℃ ±1% 100kΩ 0402 Chip Resistor - Surface Mount ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -2586,7 +2586,7 @@
 				)
 			)
 		)
-		(property "Value" "0402WGF1004TCE"
+		(property "Value" "1MΩ"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -2612,7 +2612,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "62.5mW Thick Film Resistors 50V ±100ppm/℃ ±1% 1MΩ 0402 Chip Resistor - Surface Mount ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -2708,7 +2708,7 @@
 				)
 			)
 		)
-		(property "Value" "0402WGF100JTCE"
+		(property "Value" "10Ω"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -2734,7 +2734,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "62.5mW Thick Film Resistors 50V ±1% ±200ppm/℃ 10Ω 0402 Chip Resistor - Surface Mount ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -2830,7 +2830,7 @@
 				)
 			)
 		)
-		(property "Value" "0402WGF1200TCE"
+		(property "Value" "120Ω"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -2856,7 +2856,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "62.5mW Thick Film Resistors 50V ±100ppm/℃ ±1% 120Ω 0402 Chip Resistor - Surface Mount ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -2952,7 +2952,7 @@
 				)
 			)
 		)
-		(property "Value" "0402WGF1202TCE"
+		(property "Value" "12kΩ"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -2978,7 +2978,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "62.5mW Thick Film Resistors 50V ±100ppm/℃ ±1% 12kΩ 0402 Chip Resistor - Surface Mount ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -3074,7 +3074,7 @@
 				)
 			)
 		)
-		(property "Value" "0402WGF1501TCE"
+		(property "Value" "1.5kΩ"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -3100,7 +3100,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "62.5mW Thick Film Resistors 50V ±100ppm/℃ ±1% 1.5kΩ 0402 Chip Resistor - Surface Mount ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -3196,7 +3196,7 @@
 				)
 			)
 		)
-		(property "Value" "0402WGF1502TCE"
+		(property "Value" "15kΩ"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -3222,7 +3222,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "62.5mW Thick Film Resistors 50V ±100ppm/℃ ±1% 15kΩ 0402 Chip Resistor - Surface Mount ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -3318,7 +3318,7 @@
 				)
 			)
 		)
-		(property "Value" "0402WGF2000TCE"
+		(property "Value" "200Ω"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -3344,7 +3344,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "62.5mW Thick Film Resistors 50V ±100ppm/℃ ±1% 200Ω 0402 Chip Resistor - Surface Mount ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -3440,7 +3440,7 @@
 				)
 			)
 		)
-		(property "Value" "0402WGF2002TCE"
+		(property "Value" "20kΩ"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -3466,7 +3466,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "62.5mW Thick Film Resistors 50V ±100ppm/℃ ±1% 20kΩ 0402 Chip Resistor - Surface Mount ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -3562,7 +3562,7 @@
 				)
 			)
 		)
-		(property "Value" "0402WGF2003TCE"
+		(property "Value" "200kΩ"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -3588,7 +3588,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "62.5mW Thick Film Resistors 50V ±100ppm/℃ ±1% 200kΩ 0402 Chip Resistor - Surface Mount ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -3684,7 +3684,7 @@
 				)
 			)
 		)
-		(property "Value" "0402WGF2200TCE"
+		(property "Value" "220Ω"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -3710,7 +3710,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "62.5mW Thick Film Resistors 50V ±100ppm/℃ ±1% 220Ω 0402 Chip Resistor - Surface Mount ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -3806,7 +3806,7 @@
 				)
 			)
 		)
-		(property "Value" "0402WGF2201TCE"
+		(property "Value" "2.2kΩ"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -3832,7 +3832,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "62.5mW Thick Film Resistors 50V ±100ppm/℃ ±1% 2.2kΩ 0402 Chip Resistor - Surface Mount ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -3928,7 +3928,7 @@
 				)
 			)
 		)
-		(property "Value" "0402WGF2202TCE"
+		(property "Value" "22kΩ"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -3954,7 +3954,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "62.5mW Thick Film Resistors 50V ±100ppm/℃ ±1% 22kΩ 0402 Chip Resistor - Surface Mount ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -4050,7 +4050,7 @@
 				)
 			)
 		)
-		(property "Value" "0402WGF220JTCE"
+		(property "Value" "22Ω"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -4076,7 +4076,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "62.5mW Thick Film Resistors 50V ±1% ±100ppm/℃ 22Ω 0402 Chip Resistor - Surface Mount ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -4172,7 +4172,7 @@
 				)
 			)
 		)
-		(property "Value" "0402WGF3300TCE"
+		(property "Value" "330Ω"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -4198,7 +4198,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "62.5mW Thick Film Resistors 50V ±100ppm/℃ ±1% 330Ω 0402 Chip Resistor - Surface Mount ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -4294,7 +4294,7 @@
 				)
 			)
 		)
-		(property "Value" "0402WGF3301TCE"
+		(property "Value" "3.3kΩ"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -4320,7 +4320,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "62.5mW Thick Film Resistors 50V ±100ppm/℃ ±1% 3.3kΩ 0402 Chip Resistor - Surface Mount ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -4416,7 +4416,7 @@
 				)
 			)
 		)
-		(property "Value" "0402WGF3302TCE"
+		(property "Value" "33kΩ"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -4442,7 +4442,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "62.5mW Thick Film Resistors 50V ±100ppm/℃ ±1% 33kΩ 0402 Chip Resistor - Surface Mount ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -4538,7 +4538,7 @@
 				)
 			)
 		)
-		(property "Value" "0402WGF330JTCE"
+		(property "Value" "33Ω"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -4564,7 +4564,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "62.5mW Thick Film Resistors 50V ±100ppm/℃ ±1% 33Ω 0402 Chip Resistor - Surface Mount ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -4660,7 +4660,7 @@
 				)
 			)
 		)
-		(property "Value" "0402WGF4700TCE"
+		(property "Value" "470Ω"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -4686,7 +4686,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "62.5mW Thick Film Resistors 50V ±100ppm/℃ ±1% 470Ω 0402 Chip Resistor - Surface Mount ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -4782,7 +4782,7 @@
 				)
 			)
 		)
-		(property "Value" "0402WGF4701TCE"
+		(property "Value" "4.7kΩ"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -4808,7 +4808,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "62.5mW Thick Film Resistors 50V ±100ppm/℃ ±1% 4.7kΩ 0402 Chip Resistor - Surface Mount ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -4904,7 +4904,7 @@
 				)
 			)
 		)
-		(property "Value" "0402WGF4702TCE"
+		(property "Value" "47kΩ"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -4930,7 +4930,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "62.5mW Thick Film Resistors 50V ±100ppm/℃ ±1% 47kΩ 0402 Chip Resistor - Surface Mount ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -5026,7 +5026,7 @@
 				)
 			)
 		)
-		(property "Value" "0402WGF499JTCE"
+		(property "Value" "49.9Ω"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -5052,7 +5052,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "62.5mW Thick Film Resistors 50V ±100ppm/℃ ±1% 49.9Ω 0402 Chip Resistor - Surface Mount ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -5148,7 +5148,7 @@
 				)
 			)
 		)
-		(property "Value" "0402WGF5100TCE"
+		(property "Value" "510Ω"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -5174,7 +5174,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "62.5mW Thick Film Resistors 50V ±100ppm/℃ ±1% 510Ω 0402 Chip Resistor - Surface Mount ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -5270,7 +5270,7 @@
 				)
 			)
 		)
-		(property "Value" "0402WGF5101TCE"
+		(property "Value" "5.1kΩ"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -5296,7 +5296,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "62.5mW Thick Film Resistors 50V ±100ppm/℃ ±1% 5.1kΩ 0402 Chip Resistor - Surface Mount ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -5392,7 +5392,7 @@
 				)
 			)
 		)
-		(property "Value" "0402WGF5102TCE"
+		(property "Value" "51kΩ"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -5418,7 +5418,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "62.5mW Thick Film Resistors 50V ±100ppm/℃ ±1% 51kΩ 0402 Chip Resistor - Surface Mount ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -5514,7 +5514,7 @@
 				)
 			)
 		)
-		(property "Value" "0603B103K500NT"
+		(property "Value" "10nF"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -5540,7 +5540,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "50V 10nF X7R ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -5677,7 +5677,7 @@
 				)
 			)
 		)
-		(property "Value" "0603B151K500NT"
+		(property "Value" "150pF"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -5703,7 +5703,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "50V 150pF X7R ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -5840,7 +5840,7 @@
 				)
 			)
 		)
-		(property "Value" "0603B222K500NT"
+		(property "Value" "2.2nF"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -5866,7 +5866,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "50V 2.2nF X7R ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -6003,7 +6003,7 @@
 				)
 			)
 		)
-		(property "Value" "0603B471K500NT"
+		(property "Value" "470pF"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -6029,7 +6029,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "50V 470pF X7R ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -6166,7 +6166,7 @@
 				)
 			)
 		)
-		(property "Value" "0603B472K500NT"
+		(property "Value" "4.7nF"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -6192,7 +6192,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "50V 4.7nF X7R ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -6329,7 +6329,7 @@
 				)
 			)
 		)
-		(property "Value" "0603B682K500NT"
+		(property "Value" "6.8nF"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -6355,7 +6355,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "50V 6.8nF X7R ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -6492,7 +6492,7 @@
 				)
 			)
 		)
-		(property "Value" "0603B822K500NT"
+		(property "Value" "8.2nF"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -6518,7 +6518,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "50V 8.2nF X7R ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -6655,7 +6655,7 @@
 				)
 			)
 		)
-		(property "Value" "0603CG300J500NT"
+		(property "Value" "30pF"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -6681,7 +6681,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "50V 30pF C0G ±5% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -6818,7 +6818,7 @@
 				)
 			)
 		)
-		(property "Value" "0603WAF0000T5E"
+		(property "Value" "0Ω"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -6844,7 +6844,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "100mW Thick Film Resistors 75V ±1% 0Ω 0603 Chip Resistor - Surface Mount ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -6940,7 +6940,7 @@
 				)
 			)
 		)
-		(property "Value" "0603WAF1000T5E"
+		(property "Value" "100Ω"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -6966,7 +6966,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "100mW Thick Film Resistors 75V ±1% ±200ppm/℃ 100Ω 0603 Chip Resistor - Surface Mount ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -7062,7 +7062,7 @@
 				)
 			)
 		)
-		(property "Value" "0603WAF1001T5E"
+		(property "Value" "1kΩ"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -7088,7 +7088,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 1kΩ 0603 Chip Resistor - Surface Mount ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -7184,7 +7184,7 @@
 				)
 			)
 		)
-		(property "Value" "0603WAF1002T5E"
+		(property "Value" "10kΩ"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -7210,7 +7210,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 10kΩ 0603 Chip Resistor - Surface Mount ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -7306,7 +7306,7 @@
 				)
 			)
 		)
-		(property "Value" "0603WAF1003T5E"
+		(property "Value" "100kΩ"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -7332,7 +7332,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 100kΩ 0603 Chip Resistor - Surface Mount ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -7428,7 +7428,7 @@
 				)
 			)
 		)
-		(property "Value" "0603WAF1004T5E"
+		(property "Value" "1MΩ"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -7454,7 +7454,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 1MΩ 0603 Chip Resistor - Surface Mount ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -7550,7 +7550,7 @@
 				)
 			)
 		)
-		(property "Value" "0603WAF1005T5E"
+		(property "Value" "10MΩ"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -7576,7 +7576,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 10MΩ 0603 Chip Resistor - Surface Mount ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -7672,7 +7672,7 @@
 				)
 			)
 		)
-		(property "Value" "0603WAF100JT5E"
+		(property "Value" "10Ω"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -7698,7 +7698,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "100mW Thick Film Resistors 75V ±1% ±400ppm/℃ 10Ω 0603 Chip Resistor - Surface Mount ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -7794,7 +7794,7 @@
 				)
 			)
 		)
-		(property "Value" "0603WAF100KT5E"
+		(property "Value" "1Ω"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -7820,7 +7820,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "100mW Thick Film Resistors 75V ±1% ±400ppm/℃ 1Ω 0603 Chip Resistor - Surface Mount ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -7916,7 +7916,7 @@
 				)
 			)
 		)
-		(property "Value" "0603WAF1200T5E"
+		(property "Value" "120Ω"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -7942,7 +7942,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 120Ω 0603 Chip Resistor - Surface Mount ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -8038,7 +8038,7 @@
 				)
 			)
 		)
-		(property "Value" "0603WAF1201T5E"
+		(property "Value" "1.2kΩ"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -8064,7 +8064,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 1.2kΩ 0603 Chip Resistor - Surface Mount ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -8160,7 +8160,7 @@
 				)
 			)
 		)
-		(property "Value" "0603WAF1202T5E"
+		(property "Value" "12kΩ"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -8186,7 +8186,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 12kΩ 0603 Chip Resistor - Surface Mount ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -8282,7 +8282,7 @@
 				)
 			)
 		)
-		(property "Value" "0603WAF1203T5E"
+		(property "Value" "120kΩ"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -8308,7 +8308,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 120kΩ 0603 Chip Resistor - Surface Mount ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -8404,7 +8404,7 @@
 				)
 			)
 		)
-		(property "Value" "0603WAF1302T5E"
+		(property "Value" "13kΩ"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -8430,7 +8430,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 13kΩ 0603 Chip Resistor - Surface Mount ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -8526,7 +8526,7 @@
 				)
 			)
 		)
-		(property "Value" "0603WAF1500T5E"
+		(property "Value" "150Ω"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -8552,7 +8552,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 150Ω 0603 Chip Resistor - Surface Mount ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -8648,7 +8648,7 @@
 				)
 			)
 		)
-		(property "Value" "0603WAF1501T5E"
+		(property "Value" "1.5kΩ"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -8674,7 +8674,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 1.5kΩ 0603 Chip Resistor - Surface Mount ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -8770,7 +8770,7 @@
 				)
 			)
 		)
-		(property "Value" "0603WAF1502T5E"
+		(property "Value" "15kΩ"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -8796,7 +8796,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 15kΩ 0603 Chip Resistor - Surface Mount ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -8892,7 +8892,7 @@
 				)
 			)
 		)
-		(property "Value" "0603WAF1503T5E"
+		(property "Value" "150kΩ"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -8918,7 +8918,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 150kΩ 0603 Chip Resistor - Surface Mount ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -9014,7 +9014,7 @@
 				)
 			)
 		)
-		(property "Value" "0603WAF1802T5E"
+		(property "Value" "18kΩ"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -9040,7 +9040,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 18kΩ 0603 Chip Resistor - Surface Mount ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -9136,7 +9136,7 @@
 				)
 			)
 		)
-		(property "Value" "0603WAF2000T5E"
+		(property "Value" "200Ω"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -9162,7 +9162,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 200Ω 0603 Chip Resistor - Surface Mount ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -9258,7 +9258,7 @@
 				)
 			)
 		)
-		(property "Value" "0603WAF2001T5E"
+		(property "Value" "2kΩ"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -9284,7 +9284,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 2kΩ 0603 Chip Resistor - Surface Mount ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -9380,7 +9380,7 @@
 				)
 			)
 		)
-		(property "Value" "0603WAF2003T5E"
+		(property "Value" "200kΩ"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -9406,7 +9406,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 200kΩ 0603 Chip Resistor - Surface Mount ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -9502,7 +9502,7 @@
 				)
 			)
 		)
-		(property "Value" "0603WAF2004T5E"
+		(property "Value" "2MΩ"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -9528,7 +9528,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 2MΩ 0603 Chip Resistor - Surface Mount ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -9624,7 +9624,7 @@
 				)
 			)
 		)
-		(property "Value" "0603WAF200JT5E"
+		(property "Value" "20Ω"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -9650,7 +9650,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 20Ω 0603 Chip Resistor - Surface Mount ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -9746,7 +9746,7 @@
 				)
 			)
 		)
-		(property "Value" "0603WAF200KT5E"
+		(property "Value" "2Ω"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -9772,7 +9772,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "100mW Thick Film Resistors 75V ±1% ±200ppm/℃ 2Ω 0603 Chip Resistor - Surface Mount ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -9868,7 +9868,7 @@
 				)
 			)
 		)
-		(property "Value" "0603WAF2200T5E"
+		(property "Value" "220Ω"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -9894,7 +9894,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 220Ω 0603 Chip Resistor - Surface Mount ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -9990,7 +9990,7 @@
 				)
 			)
 		)
-		(property "Value" "0603WAF2202T5E"
+		(property "Value" "22kΩ"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -10016,7 +10016,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 22kΩ 0603 Chip Resistor - Surface Mount ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -10112,7 +10112,7 @@
 				)
 			)
 		)
-		(property "Value" "0603WAF2203T5E"
+		(property "Value" "220kΩ"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -10138,7 +10138,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 220kΩ 0603 Chip Resistor - Surface Mount ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -10234,7 +10234,7 @@
 				)
 			)
 		)
-		(property "Value" "0603WAF220JT5E"
+		(property "Value" "22Ω"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -10260,7 +10260,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 22Ω 0603 Chip Resistor - Surface Mount ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -10356,7 +10356,7 @@
 				)
 			)
 		)
-		(property "Value" "0603WAF220KT5E"
+		(property "Value" "2.2Ω"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -10382,7 +10382,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "100mW Thick Film Resistors 75V ±1% ±400ppm/℃ 2.2Ω 0603 Chip Resistor - Surface Mount ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -10478,7 +10478,7 @@
 				)
 			)
 		)
-		(property "Value" "0603WAF2401T5E"
+		(property "Value" "2.4kΩ"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -10504,7 +10504,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 2.4kΩ 0603 Chip Resistor - Surface Mount ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -10600,7 +10600,7 @@
 				)
 			)
 		)
-		(property "Value" "0603WAF2402T5E"
+		(property "Value" "24kΩ"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -10626,7 +10626,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 24kΩ 0603 Chip Resistor - Surface Mount ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -10722,7 +10722,7 @@
 				)
 			)
 		)
-		(property "Value" "0603WAF2700T5E"
+		(property "Value" "270Ω"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -10748,7 +10748,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 270Ω 0603 Chip Resistor - Surface Mount ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -10844,7 +10844,7 @@
 				)
 			)
 		)
-		(property "Value" "0603WAF2701T5E"
+		(property "Value" "2.7kΩ"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -10870,7 +10870,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 2.7kΩ 0603 Chip Resistor - Surface Mount ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -10966,7 +10966,7 @@
 				)
 			)
 		)
-		(property "Value" "0603WAF2702T5E"
+		(property "Value" "27kΩ"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -10992,7 +10992,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 27kΩ 0603 Chip Resistor - Surface Mount ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -11088,7 +11088,7 @@
 				)
 			)
 		)
-		(property "Value" "0603WAF3000T5E"
+		(property "Value" "300Ω"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -11114,7 +11114,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 300Ω 0603 Chip Resistor - Surface Mount ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -11210,7 +11210,7 @@
 				)
 			)
 		)
-		(property "Value" "0603WAF3002T5E"
+		(property "Value" "30kΩ"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -11236,7 +11236,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 30kΩ 0603 Chip Resistor - Surface Mount ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -11332,7 +11332,7 @@
 				)
 			)
 		)
-		(property "Value" "0603WAF3003T5E"
+		(property "Value" "300kΩ"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -11358,7 +11358,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 300kΩ 0603 Chip Resistor - Surface Mount ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -11454,7 +11454,7 @@
 				)
 			)
 		)
-		(property "Value" "0603WAF3300T5E"
+		(property "Value" "330Ω"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -11480,7 +11480,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 330Ω 0603 Chip Resistor - Surface Mount ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -11576,7 +11576,7 @@
 				)
 			)
 		)
-		(property "Value" "0603WAF3301T5E"
+		(property "Value" "3.3kΩ"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -11602,7 +11602,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 3.3kΩ 0603 Chip Resistor - Surface Mount ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -11698,7 +11698,7 @@
 				)
 			)
 		)
-		(property "Value" "0603WAF3303T5E"
+		(property "Value" "330kΩ"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -11724,7 +11724,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 330kΩ 0603 Chip Resistor - Surface Mount ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -11820,7 +11820,7 @@
 				)
 			)
 		)
-		(property "Value" "0603WAF330JT5E"
+		(property "Value" "33Ω"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -11846,7 +11846,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 33Ω 0603 Chip Resistor - Surface Mount ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -11942,7 +11942,7 @@
 				)
 			)
 		)
-		(property "Value" "0603WAF3601T5E"
+		(property "Value" "3.6kΩ"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -11968,7 +11968,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 3.6kΩ 0603 Chip Resistor - Surface Mount ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -12064,7 +12064,7 @@
 				)
 			)
 		)
-		(property "Value" "0603WAF3900T5E"
+		(property "Value" "390Ω"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -12090,7 +12090,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 390Ω 0603 Chip Resistor - Surface Mount ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -12186,7 +12186,7 @@
 				)
 			)
 		)
-		(property "Value" "0603WAF3901T5E"
+		(property "Value" "3.9kΩ"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -12212,7 +12212,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 3.9kΩ 0603 Chip Resistor - Surface Mount ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -12308,7 +12308,7 @@
 				)
 			)
 		)
-		(property "Value" "0603WAF3902T5E"
+		(property "Value" "39kΩ"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -12334,7 +12334,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 39kΩ 0603 Chip Resistor - Surface Mount ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -12430,7 +12430,7 @@
 				)
 			)
 		)
-		(property "Value" "0603WAF4700T5E"
+		(property "Value" "470Ω"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -12456,7 +12456,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 470Ω 0603 Chip Resistor - Surface Mount ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -12552,7 +12552,7 @@
 				)
 			)
 		)
-		(property "Value" "0603WAF4701T5E"
+		(property "Value" "4.7kΩ"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -12578,7 +12578,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 4.7kΩ 0603 Chip Resistor - Surface Mount ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -12674,7 +12674,7 @@
 				)
 			)
 		)
-		(property "Value" "0603WAF4702T5E"
+		(property "Value" "47kΩ"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -12700,7 +12700,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 47kΩ 0603 Chip Resistor - Surface Mount ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -12796,7 +12796,7 @@
 				)
 			)
 		)
-		(property "Value" "0603WAF4703T5E"
+		(property "Value" "470kΩ"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -12822,7 +12822,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 470kΩ 0603 Chip Resistor - Surface Mount ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -12918,7 +12918,7 @@
 				)
 			)
 		)
-		(property "Value" "0603WAF470JT5E"
+		(property "Value" "47Ω"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -12944,7 +12944,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 47Ω 0603 Chip Resistor - Surface Mount ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -13040,7 +13040,7 @@
 				)
 			)
 		)
-		(property "Value" "0603WAF470KT5E"
+		(property "Value" "4.7Ω"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -13066,7 +13066,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "100mW Thick Film Resistors 75V ±1% ±400ppm/℃ 4.7Ω 0603 Chip Resistor - Surface Mount ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -13162,7 +13162,7 @@
 				)
 			)
 		)
-		(property "Value" "0603WAF4991T5E"
+		(property "Value" "4.99kΩ"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -13188,7 +13188,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 4.99kΩ 0603 Chip Resistor - Surface Mount ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -13284,7 +13284,7 @@
 				)
 			)
 		)
-		(property "Value" "0603WAF4992T5E"
+		(property "Value" "49.9kΩ"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -13310,7 +13310,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 49.9kΩ 0603 Chip Resistor - Surface Mount ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -13406,7 +13406,7 @@
 				)
 			)
 		)
-		(property "Value" "0603WAF499JT5E"
+		(property "Value" "49.9Ω"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -13432,7 +13432,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 49.9Ω 0603 Chip Resistor - Surface Mount ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -13528,7 +13528,7 @@
 				)
 			)
 		)
-		(property "Value" "0603WAF5100T5E"
+		(property "Value" "510Ω"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -13554,7 +13554,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 510Ω 0603 Chip Resistor - Surface Mount ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -13650,7 +13650,7 @@
 				)
 			)
 		)
-		(property "Value" "0603WAF5101T5E"
+		(property "Value" "5.1kΩ"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -13676,7 +13676,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 5.1kΩ 0603 Chip Resistor - Surface Mount ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -13772,7 +13772,7 @@
 				)
 			)
 		)
-		(property "Value" "0603WAF5102T5E"
+		(property "Value" "51kΩ"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -13798,7 +13798,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 51kΩ 0603 Chip Resistor - Surface Mount ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -13894,7 +13894,7 @@
 				)
 			)
 		)
-		(property "Value" "0603WAF5103T5E"
+		(property "Value" "510kΩ"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -13920,7 +13920,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 510kΩ 0603 Chip Resistor - Surface Mount ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -14016,7 +14016,7 @@
 				)
 			)
 		)
-		(property "Value" "0603WAF510JT5E"
+		(property "Value" "51Ω"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -14042,7 +14042,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 51Ω 0603 Chip Resistor - Surface Mount ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -14138,7 +14138,7 @@
 				)
 			)
 		)
-		(property "Value" "0603WAF510KT5E"
+		(property "Value" "5.1Ω"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -14164,7 +14164,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "100mW Thick Film Resistors 75V ±1% ±200ppm/℃ 5.1Ω 0603 Chip Resistor - Surface Mount ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -14260,7 +14260,7 @@
 				)
 			)
 		)
-		(property "Value" "0603WAF5600T5E"
+		(property "Value" "560Ω"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -14286,7 +14286,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 560Ω 0603 Chip Resistor - Surface Mount ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -14382,7 +14382,7 @@
 				)
 			)
 		)
-		(property "Value" "0603WAF5601T5E"
+		(property "Value" "5.6kΩ"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -14408,7 +14408,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 5.6kΩ 0603 Chip Resistor - Surface Mount ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -14504,7 +14504,7 @@
 				)
 			)
 		)
-		(property "Value" "0603WAF5602T5E"
+		(property "Value" "56kΩ"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -14530,7 +14530,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 56kΩ 0603 Chip Resistor - Surface Mount ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -14626,7 +14626,7 @@
 				)
 			)
 		)
-		(property "Value" "0603WAF6800T5E"
+		(property "Value" "680Ω"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -14652,7 +14652,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 680Ω 0603 Chip Resistor - Surface Mount ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -14748,7 +14748,7 @@
 				)
 			)
 		)
-		(property "Value" "0603WAF6801T5E"
+		(property "Value" "6.8kΩ"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -14774,7 +14774,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 6.8kΩ 0603 Chip Resistor - Surface Mount ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -14870,7 +14870,7 @@
 				)
 			)
 		)
-		(property "Value" "0603WAF6802T5E"
+		(property "Value" "68kΩ"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -14896,7 +14896,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 68kΩ 0603 Chip Resistor - Surface Mount ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -14992,7 +14992,7 @@
 				)
 			)
 		)
-		(property "Value" "0603WAF7501T5E"
+		(property "Value" "7.5kΩ"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -15018,7 +15018,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 7.5kΩ 0603 Chip Resistor - Surface Mount ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -15114,7 +15114,7 @@
 				)
 			)
 		)
-		(property "Value" "0603WAF7502T5E"
+		(property "Value" "75kΩ"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -15140,7 +15140,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 75kΩ 0603 Chip Resistor - Surface Mount ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -15236,7 +15236,7 @@
 				)
 			)
 		)
-		(property "Value" "0603WAF8200T5E"
+		(property "Value" "820Ω"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -15262,7 +15262,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 820Ω 0603 Chip Resistor - Surface Mount ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -15358,7 +15358,7 @@
 				)
 			)
 		)
-		(property "Value" "0603WAF8201T5E"
+		(property "Value" "8.2kΩ"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -15384,7 +15384,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 8.2kΩ 0603 Chip Resistor - Surface Mount ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -15480,7 +15480,7 @@
 				)
 			)
 		)
-		(property "Value" "0603WAF8202T5E"
+		(property "Value" "82kΩ"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -15506,7 +15506,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 82kΩ 0603 Chip Resistor - Surface Mount ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -15602,7 +15602,7 @@
 				)
 			)
 		)
-		(property "Value" "0603WAF9101T5E"
+		(property "Value" "9.1kΩ"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -15628,7 +15628,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 9.1kΩ 0603 Chip Resistor - Surface Mount ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -15724,7 +15724,7 @@
 				)
 			)
 		)
-		(property "Value" "0805B333K500NT"
+		(property "Value" "33nF"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -15750,7 +15750,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "50V 33nF X7R ±10% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -15887,7 +15887,7 @@
 				)
 			)
 		)
-		(property "Value" "0805B471K500NT"
+		(property "Value" "470pF"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -15913,7 +15913,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "50V 470pF X7R ±10% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -16050,7 +16050,7 @@
 				)
 			)
 		)
-		(property "Value" "0805B472K500NT"
+		(property "Value" "4.7nF"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -16076,7 +16076,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "50V 4.7nF X7R ±10% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -16213,7 +16213,7 @@
 				)
 			)
 		)
-		(property "Value" "0805W8F0000T5E"
+		(property "Value" "0Ω"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -16239,7 +16239,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "125mW Thick Film Resistors 150V ±800ppm/℃ ±1% 0Ω 0805 Chip Resistor - Surface Mount ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -16335,7 +16335,7 @@
 				)
 			)
 		)
-		(property "Value" "0805W8F1000T5E"
+		(property "Value" "100Ω"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -16361,7 +16361,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "125mW Thick Film Resistors 150V ±100ppm/℃ ±1% 100Ω 0805 Chip Resistor - Surface Mount ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -16457,7 +16457,7 @@
 				)
 			)
 		)
-		(property "Value" "0805W8F1001T5E"
+		(property "Value" "1kΩ"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -16483,7 +16483,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "125mW Thick Film Resistors 150V ±100ppm/℃ ±1% 1kΩ 0805 Chip Resistor - Surface Mount ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -16579,7 +16579,7 @@
 				)
 			)
 		)
-		(property "Value" "0805W8F1002T5E"
+		(property "Value" "10kΩ"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -16605,7 +16605,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "125mW Thick Film Resistors 150V ±100ppm/℃ ±1% 10kΩ 0805 Chip Resistor - Surface Mount ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -16701,7 +16701,7 @@
 				)
 			)
 		)
-		(property "Value" "0805W8F1003T5E_C149504"
+		(property "Value" "100kΩ"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -16727,7 +16727,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "125mW Thick Film Resistors 150V ±100ppm/℃ ±1% 100kΩ 0805 Chip Resistor - Surface Mount ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -16823,7 +16823,7 @@
 				)
 			)
 		)
-		(property "Value" "0805W8F1004T5E"
+		(property "Value" "1MΩ"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -16849,7 +16849,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "125mW Thick Film Resistors 150V ±100ppm/℃ ±1% 1MΩ 0805 Chip Resistor - Surface Mount ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -16945,7 +16945,7 @@
 				)
 			)
 		)
-		(property "Value" "0805W8F100JT5E"
+		(property "Value" "10Ω"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -16971,7 +16971,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "125mW Thick Film Resistors 150V ±1% ±200ppm/℃ 10Ω 0805 Chip Resistor - Surface Mount ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -17067,7 +17067,7 @@
 				)
 			)
 		)
-		(property "Value" "0805W8F100KT5E"
+		(property "Value" "1Ω"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -17093,7 +17093,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "125mW Thick Film Resistors 150V ±1% ±400ppm/℃ 1Ω 0805 Chip Resistor - Surface Mount ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -17189,7 +17189,7 @@
 				)
 			)
 		)
-		(property "Value" "0805W8F1200T5E"
+		(property "Value" "120Ω"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -17215,7 +17215,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "125mW Thick Film Resistors 150V ±100ppm/℃ ±1% 120Ω 0805 Chip Resistor - Surface Mount ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -17337,7 +17337,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "0.125W Thick Film Resistors 150V ±100ppm/℃ ±1% 1.2kΩ 0805 Chip Resistor - Surface Mount ROHS"
+		(property "Description" "125mW Thick Film Resistors 150V ±100ppm/℃ ±1% 1.2kΩ 0805 Chip Resistor - Surface Mount ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -17433,7 +17433,7 @@
 				)
 			)
 		)
-		(property "Value" "0805W8F1202T5E"
+		(property "Value" "12kΩ"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -17459,7 +17459,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "125mW Thick Film Resistors 150V ±100ppm/℃ ±1% 12kΩ 0805 Chip Resistor - Surface Mount ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -17555,7 +17555,7 @@
 				)
 			)
 		)
-		(property "Value" "0805W8F1500T5E"
+		(property "Value" "150Ω"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -17581,7 +17581,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "125mW Thick Film Resistors 150V ±100ppm/℃ ±1% 150Ω 0805 Chip Resistor - Surface Mount ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -17677,7 +17677,7 @@
 				)
 			)
 		)
-		(property "Value" "0805W8F1502T5E"
+		(property "Value" "15kΩ"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -17703,7 +17703,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "125mW Thick Film Resistors 150V ±100ppm/℃ ±1% 15kΩ 0805 Chip Resistor - Surface Mount ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -17799,7 +17799,7 @@
 				)
 			)
 		)
-		(property "Value" "0805W8F1503T5E"
+		(property "Value" "150kΩ"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -17825,7 +17825,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "125mW Thick Film Resistors 150V ±100ppm/℃ ±1% 150kΩ 0805 Chip Resistor - Surface Mount ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -17921,7 +17921,7 @@
 				)
 			)
 		)
-		(property "Value" "0805W8F2000T5E"
+		(property "Value" "200Ω"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -17947,7 +17947,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "125mW Thick Film Resistors 150V ±100ppm/℃ ±1% 200Ω 0805 Chip Resistor - Surface Mount ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -18043,7 +18043,7 @@
 				)
 			)
 		)
-		(property "Value" "0805W8F2001T5E"
+		(property "Value" "2kΩ"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -18069,7 +18069,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "125mW Thick Film Resistors 150V ±100ppm/℃ ±1% 2kΩ 0805 Chip Resistor - Surface Mount ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -18165,7 +18165,7 @@
 				)
 			)
 		)
-		(property "Value" "0805W8F2003T5E"
+		(property "Value" "200kΩ"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -18191,7 +18191,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "125mW Thick Film Resistors 150V ±100ppm/℃ ±1% 200kΩ 0805 Chip Resistor - Surface Mount ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -18287,7 +18287,7 @@
 				)
 			)
 		)
-		(property "Value" "0805W8F200JT5E"
+		(property "Value" "20Ω"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -18313,7 +18313,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "125mW Thick Film Resistors 150V ±1% ±200ppm/℃ 20Ω 0805 Chip Resistor - Surface Mount ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -18409,7 +18409,7 @@
 				)
 			)
 		)
-		(property "Value" "0805W8F2200T5E"
+		(property "Value" "220Ω"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -18435,7 +18435,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "125mW Thick Film Resistors 150V ±100ppm/℃ ±1% 220Ω 0805 Chip Resistor - Surface Mount ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -18531,7 +18531,7 @@
 				)
 			)
 		)
-		(property "Value" "0805W8F2201T5E"
+		(property "Value" "2.2kΩ"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -18557,7 +18557,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "125mW Thick Film Resistors 150V ±100ppm/℃ ±1% 2.2kΩ 0805 Chip Resistor - Surface Mount ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -18653,7 +18653,7 @@
 				)
 			)
 		)
-		(property "Value" "0805W8F2202T5E"
+		(property "Value" "22kΩ"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -18679,7 +18679,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "125mW Thick Film Resistors 150V ±100ppm/℃ ±1% 22kΩ 0805 Chip Resistor - Surface Mount ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -18775,7 +18775,7 @@
 				)
 			)
 		)
-		(property "Value" "0805W8F2203T5E"
+		(property "Value" "220kΩ"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -18801,7 +18801,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "125mW Thick Film Resistors 150V ±100ppm/℃ ±1% 220kΩ 0805 Chip Resistor - Surface Mount ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -18897,7 +18897,7 @@
 				)
 			)
 		)
-		(property "Value" "0805W8F220JT5E"
+		(property "Value" "22Ω"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -18923,7 +18923,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "125mW Thick Film Resistors 150V ±100ppm/℃ ±1% 22Ω 0805 Chip Resistor - Surface Mount ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -19019,7 +19019,7 @@
 				)
 			)
 		)
-		(property "Value" "0805W8F220KT5E"
+		(property "Value" "2.2Ω"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -19045,7 +19045,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "125mW Thick Film Resistors 150V ±1% ±400ppm/℃ 2.2Ω 0805 Chip Resistor - Surface Mount ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -19141,7 +19141,7 @@
 				)
 			)
 		)
-		(property "Value" "0805W8F2401T5E"
+		(property "Value" "2.4kΩ"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -19167,7 +19167,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "125mW Thick Film Resistors 150V ±100ppm/℃ ±1% 2.4kΩ 0805 Chip Resistor - Surface Mount ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -19263,7 +19263,7 @@
 				)
 			)
 		)
-		(property "Value" "0805W8F2402T5E"
+		(property "Value" "24kΩ"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -19289,7 +19289,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "125mW Thick Film Resistors 150V ±100ppm/℃ ±1% 24kΩ 0805 Chip Resistor - Surface Mount ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -19385,7 +19385,7 @@
 				)
 			)
 		)
-		(property "Value" "0805W8F2701T5E"
+		(property "Value" "2.7kΩ"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -19411,7 +19411,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "125mW Thick Film Resistors 150V ±100ppm/℃ ±1% 2.7kΩ 0805 Chip Resistor - Surface Mount ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -19507,7 +19507,7 @@
 				)
 			)
 		)
-		(property "Value" "0805W8F2702T5E"
+		(property "Value" "27kΩ"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -19533,7 +19533,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "125mW Thick Film Resistors 150V ±100ppm/℃ ±1% 27kΩ 0805 Chip Resistor - Surface Mount ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -19629,7 +19629,7 @@
 				)
 			)
 		)
-		(property "Value" "0805W8F3000T5E"
+		(property "Value" "300Ω"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -19655,7 +19655,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "125mW Thick Film Resistors 150V ±100ppm/℃ ±1% 300Ω 0805 Chip Resistor - Surface Mount ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -19751,7 +19751,7 @@
 				)
 			)
 		)
-		(property "Value" "0805W8F3001T5E"
+		(property "Value" "3kΩ"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -19777,7 +19777,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "125mW Thick Film Resistors 150V ±100ppm/℃ ±1% 3kΩ 0805 Chip Resistor - Surface Mount ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -19873,7 +19873,7 @@
 				)
 			)
 		)
-		(property "Value" "0805W8F3002T5E"
+		(property "Value" "30kΩ"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -19899,7 +19899,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "125mW Thick Film Resistors 150V ±100ppm/℃ ±1% 30kΩ 0805 Chip Resistor - Surface Mount ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -19995,7 +19995,7 @@
 				)
 			)
 		)
-		(property "Value" "0805W8F3300T5E"
+		(property "Value" "330Ω"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -20021,7 +20021,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "125mW Thick Film Resistors 150V ±100ppm/℃ ±1% 330Ω 0805 Chip Resistor - Surface Mount ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -20117,7 +20117,7 @@
 				)
 			)
 		)
-		(property "Value" "0805W8F3301T5E"
+		(property "Value" "3.3kΩ"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -20143,7 +20143,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "125mW Thick Film Resistors 150V ±100ppm/℃ ±1% 3.3kΩ 0805 Chip Resistor - Surface Mount ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -20239,7 +20239,7 @@
 				)
 			)
 		)
-		(property "Value" "0805W8F3302T5E"
+		(property "Value" "33kΩ"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -20265,7 +20265,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "125mW Thick Film Resistors 150V ±100ppm/℃ ±1% 33kΩ 0805 Chip Resistor - Surface Mount ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -20361,7 +20361,7 @@
 				)
 			)
 		)
-		(property "Value" "0805W8F330JT5E"
+		(property "Value" "33Ω"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -20387,7 +20387,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "125mW Thick Film Resistors 150V ±1% ±200ppm/℃ 33Ω 0805 Chip Resistor - Surface Mount ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -20483,7 +20483,7 @@
 				)
 			)
 		)
-		(property "Value" "0805W8F3900T5E"
+		(property "Value" "390Ω"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -20509,7 +20509,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "125mW Thick Film Resistors 150V ±100ppm/℃ ±1% 390Ω 0805 Chip Resistor - Surface Mount ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -20605,7 +20605,7 @@
 				)
 			)
 		)
-		(property "Value" "0805W8F3901T5E"
+		(property "Value" "3.9kΩ"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -20631,7 +20631,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "125mW Thick Film Resistors 150V ±100ppm/℃ ±1% 3.9kΩ 0805 Chip Resistor - Surface Mount ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -20727,7 +20727,7 @@
 				)
 			)
 		)
-		(property "Value" "0805W8F4700T5E"
+		(property "Value" "470Ω"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -20753,7 +20753,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "125mW Thick Film Resistors 150V ±100ppm/℃ ±1% 470Ω 0805 Chip Resistor - Surface Mount ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -20849,7 +20849,7 @@
 				)
 			)
 		)
-		(property "Value" "0805W8F4701T5E"
+		(property "Value" "4.7kΩ"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -20875,7 +20875,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "125mW Thick Film Resistors 150V ±100ppm/℃ ±1% 4.7kΩ 0805 Chip Resistor - Surface Mount ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -20971,7 +20971,7 @@
 				)
 			)
 		)
-		(property "Value" "0805W8F4702T5E"
+		(property "Value" "47kΩ"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -20997,7 +20997,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "125mW Thick Film Resistors 150V ±100ppm/℃ ±1% 47kΩ 0805 Chip Resistor - Surface Mount ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -21093,7 +21093,7 @@
 				)
 			)
 		)
-		(property "Value" "0805W8F4703T5E"
+		(property "Value" "470kΩ"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -21119,7 +21119,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "125mW Thick Film Resistors 150V ±100ppm/℃ ±1% 470kΩ 0805 Chip Resistor - Surface Mount ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -21215,7 +21215,7 @@
 				)
 			)
 		)
-		(property "Value" "0805W8F470JT5E"
+		(property "Value" "47Ω"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -21241,7 +21241,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "125mW Thick Film Resistors 150V ±1% ±200ppm/℃ 47Ω 0805 Chip Resistor - Surface Mount ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -21337,7 +21337,7 @@
 				)
 			)
 		)
-		(property "Value" "0805W8F470KT5E"
+		(property "Value" "4.7Ω"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -21363,7 +21363,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "125mW Thick Film Resistors 150V ±1% ±200ppm/℃ 4.7Ω 0805 Chip Resistor - Surface Mount ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -21459,7 +21459,7 @@
 				)
 			)
 		)
-		(property "Value" "0805W8F499JT5E"
+		(property "Value" "49.9Ω"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -21485,7 +21485,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "125mW Thick Film Resistors 150V ±100ppm/℃ ±1% 49.9Ω 0805 Chip Resistor - Surface Mount ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -21581,7 +21581,7 @@
 				)
 			)
 		)
-		(property "Value" "0805W8F5100T5E"
+		(property "Value" "510Ω"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -21607,7 +21607,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "125mW Thick Film Resistors 150V ±100ppm/℃ ±1% 510Ω 0805 Chip Resistor - Surface Mount ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -21703,7 +21703,7 @@
 				)
 			)
 		)
-		(property "Value" "0805W8F5101T5E"
+		(property "Value" "5.1kΩ"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -21729,7 +21729,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "125mW Thick Film Resistors 150V ±100ppm/℃ ±1% 5.1kΩ 0805 Chip Resistor - Surface Mount ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -21825,7 +21825,7 @@
 				)
 			)
 		)
-		(property "Value" "0805W8F5102T5E"
+		(property "Value" "51kΩ"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -21851,7 +21851,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "125mW Thick Film Resistors 150V ±100ppm/℃ ±1% 51kΩ 0805 Chip Resistor - Surface Mount ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -21947,7 +21947,7 @@
 				)
 			)
 		)
-		(property "Value" "0805W8F510JT5E"
+		(property "Value" "51Ω"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -21973,7 +21973,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "125mW Thick Film Resistors 150V ±100ppm/℃ ±1% 51Ω 0805 Chip Resistor - Surface Mount ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -22069,7 +22069,7 @@
 				)
 			)
 		)
-		(property "Value" "0805W8F510KT5E"
+		(property "Value" "5.1Ω"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -22095,7 +22095,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "125mW Thick Film Resistors 150V ±1% ±400ppm/℃ 5.1Ω 0805 Chip Resistor - Surface Mount ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -22191,7 +22191,7 @@
 				)
 			)
 		)
-		(property "Value" "0805W8F5600T5E"
+		(property "Value" "560Ω"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -22217,7 +22217,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "125mW Thick Film Resistors 150V ±100ppm/℃ ±1% 560Ω 0805 Chip Resistor - Surface Mount ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -22313,7 +22313,7 @@
 				)
 			)
 		)
-		(property "Value" "0805W8F6800T5E"
+		(property "Value" "680Ω"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -22339,7 +22339,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "125mW Thick Film Resistors 150V ±100ppm/℃ ±1% 680Ω 0805 Chip Resistor - Surface Mount ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -22435,7 +22435,7 @@
 				)
 			)
 		)
-		(property "Value" "0805W8F6801T5E"
+		(property "Value" "6.8kΩ"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -22461,7 +22461,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "125mW Thick Film Resistors 150V ±100ppm/℃ ±1% 6.8kΩ 0805 Chip Resistor - Surface Mount ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -22557,7 +22557,7 @@
 				)
 			)
 		)
-		(property "Value" "0805W8F6802T5E"
+		(property "Value" "68kΩ"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -22583,7 +22583,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "125mW Thick Film Resistors 150V ±100ppm/℃ ±1% 68kΩ 0805 Chip Resistor - Surface Mount ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -22679,7 +22679,7 @@
 				)
 			)
 		)
-		(property "Value" "0805W8F8201T5E"
+		(property "Value" "8.2kΩ"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -22705,7 +22705,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "125mW Thick Film Resistors 150V ±100ppm/℃ ±1% 8.2kΩ 0805 Chip Resistor - Surface Mount ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -22801,7 +22801,7 @@
 				)
 			)
 		)
-		(property "Value" "1206B102K202NT"
+		(property "Value" "1nF"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -22827,7 +22827,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "2kV 1nF X7R ±10% 1206 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -22964,7 +22964,7 @@
 				)
 			)
 		)
-		(property "Value" "1206B103K500NT"
+		(property "Value" "10nF"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -22990,7 +22990,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "50V 10nF X7R ±10% 1206 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -23127,7 +23127,7 @@
 				)
 			)
 		)
-		(property "Value" "1206B475K500NT"
+		(property "Value" "4.7uF"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -23153,7 +23153,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "50V 4.7uF X7R ±10% 1206 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -23290,7 +23290,7 @@
 				)
 			)
 		)
-		(property "Value" "1206W4F0000T5E"
+		(property "Value" "0Ω"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -23316,7 +23316,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "250mW Thick Film Resistors 200V ±800ppm/℃ ±1% 0Ω 1206 Chip Resistor - Surface Mount ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -23412,7 +23412,7 @@
 				)
 			)
 		)
-		(property "Value" "1206W4F1000T5E"
+		(property "Value" "100Ω"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -23438,7 +23438,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "250mW Thick Film Resistors 200V ±100ppm/℃ ±1% 100Ω 1206 Chip Resistor - Surface Mount ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -23534,7 +23534,7 @@
 				)
 			)
 		)
-		(property "Value" "1206W4F1002T5E"
+		(property "Value" "10kΩ"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -23560,7 +23560,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "250mW Thick Film Resistors 200V ±100ppm/℃ ±1% 10kΩ 1206 Chip Resistor - Surface Mount ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -23656,7 +23656,7 @@
 				)
 			)
 		)
-		(property "Value" "1206W4F1003T5E"
+		(property "Value" "100kΩ"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -23682,7 +23682,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "250mW Thick Film Resistors 200V ±100ppm/℃ ±1% 100kΩ 1206 Chip Resistor - Surface Mount ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -23778,7 +23778,7 @@
 				)
 			)
 		)
-		(property "Value" "1206W4F1004T5E"
+		(property "Value" "1MΩ"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -23804,7 +23804,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "250mW Thick Film Resistors 200V ±100ppm/℃ ±1% 1MΩ 1206 Chip Resistor - Surface Mount ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -23900,7 +23900,7 @@
 				)
 			)
 		)
-		(property "Value" "1206W4F100JT5E"
+		(property "Value" "10Ω"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -23926,7 +23926,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "250mW Thick Film Resistors 200V ±1% ±400ppm/℃ 10Ω 1206 Chip Resistor - Surface Mount ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -24022,7 +24022,7 @@
 				)
 			)
 		)
-		(property "Value" "1206W4F100KT5E"
+		(property "Value" "1Ω"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -24048,7 +24048,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "250mW Thick Film Resistors 200V ±800ppm/℃ ±1% 1Ω 1206 Chip Resistor - Surface Mount ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -24144,7 +24144,7 @@
 				)
 			)
 		)
-		(property "Value" "1206W4F100LT5E"
+		(property "Value" "100mΩ"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -24170,7 +24170,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "250mW Thick Film Resistors 200V ±800ppm/℃ ±1% 100mΩ 1206 Chip Resistor - Surface Mount ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -24266,7 +24266,7 @@
 				)
 			)
 		)
-		(property "Value" "1206W4F1200T5E_C17909"
+		(property "Value" "120Ω"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -24292,7 +24292,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "250mW Thick Film Resistors 200V ±100ppm/℃ ±1% 120Ω 1206 Chip Resistor - Surface Mount ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -24388,7 +24388,7 @@
 				)
 			)
 		)
-		(property "Value" "1206W4F2001T5E"
+		(property "Value" "2kΩ"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -24414,7 +24414,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "250mW Thick Film Resistors 200V ±100ppm/℃ ±1% 2kΩ 1206 Chip Resistor - Surface Mount ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -24510,7 +24510,7 @@
 				)
 			)
 		)
-		(property "Value" "1206W4F200JT5E"
+		(property "Value" "20Ω"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -24536,7 +24536,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "250mW Thick Film Resistors 200V ±100ppm/℃ ±1% 20Ω 1206 Chip Resistor - Surface Mount ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -24632,7 +24632,7 @@
 				)
 			)
 		)
-		(property "Value" "1206W4F220JT5E"
+		(property "Value" "22Ω"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -24658,7 +24658,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "250mW Thick Film Resistors 200V ±100ppm/℃ ±1% 22Ω 1206 Chip Resistor - Surface Mount ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -24754,7 +24754,7 @@
 				)
 			)
 		)
-		(property "Value" "1206W4F3000T5E"
+		(property "Value" "300Ω"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -24780,7 +24780,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "250mW Thick Film Resistors 200V ±100ppm/℃ ±1% 300Ω 1206 Chip Resistor - Surface Mount ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -24876,7 +24876,7 @@
 				)
 			)
 		)
-		(property "Value" "1206W4F4701T5E"
+		(property "Value" "4.7kΩ"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -24902,7 +24902,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "250mW Thick Film Resistors 200V ±100ppm/℃ ±1% 4.7kΩ 1206 Chip Resistor - Surface Mount ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -25293,7 +25293,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "40V 600mV@1A 1A SOD-323 Schottky Diodes ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -25446,7 +25446,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "60V 115mA 200mW 7.5Ω@10V,500mA 2.5V@250uA 1 N-Channel SOT-23 MOSFETs ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -25724,7 +25724,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "4 ±5% 1kΩ 62.5mW ±200ppm/℃ 0603x4 Resistor Networks, Arrays ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -26205,7 +26205,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "4 ±5% 10kΩ 62.5mW ±200ppm/℃ 0603x4 Resistor Networks, Arrays ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -26686,7 +26686,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "4 ±5% 4.7kΩ 62.5mW ±200ppm/℃ 0603x4 Resistor Networks, Arrays ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -27167,7 +27167,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "8 2V~6V 1 Serial to serial or parallel SOIC-16 Shift Registers ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -27549,7 +27549,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "100mA Fixed 5V Positive electrode 30V SOT-89-3 Voltage Regulators - Linear, Low Drop Out (LDO) Regulators ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -27683,7 +27683,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "72dB@(120Hz) 1A Fixed 3.3V Positive electrode SOT-223 Voltage Regulators - Linear, Low Drop Out (LDO) Regulators ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -27846,7 +27846,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "68dB@(120Hz) 1A Fixed 5V Positive electrode 12V SOT-223 Voltage Regulators - Linear, Low Drop Out (LDO) Regulators ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -28012,7 +28012,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "30V 5.7A 26.5mΩ@10V,5.7A 1.4W 1.5V@250uA 1 N-Channel SOT-23-3L MOSFETs ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -28293,7 +28293,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "30V 4A 44mΩ@10V,4.3A 1.4W 1.3V@250uA 1 Piece P-Channel SOT-23 MOSFETs ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -28914,7 +28914,7 @@
 				)
 			)
 		)
-		(property "Value" "CC0603KRX7R9BB104"
+		(property "Value" "100nF"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -28940,7 +28940,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "50V 100nF X7R ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -29077,7 +29077,7 @@
 				)
 			)
 		)
-		(property "Value" "CC0805KRX7R9BB104"
+		(property "Value" "100nF"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -29103,7 +29103,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "50V 100nF X7R ±10% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -29240,7 +29240,7 @@
 				)
 			)
 		)
-		(property "Value" "CC0805KRX7R9BB221"
+		(property "Value" "220pF"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -29266,7 +29266,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "50V 220pF X7R ±10% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -29403,7 +29403,7 @@
 				)
 			)
 		)
-		(property "Value" "CL05A105KA5NQNC"
+		(property "Value" "1uF"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -29429,7 +29429,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "25V 1uF X5R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -29566,7 +29566,7 @@
 				)
 			)
 		)
-		(property "Value" "CL05A106MQ5NUNC"
+		(property "Value" "10uF"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -29592,7 +29592,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "6.3V 10uF X5R ±20% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -29729,7 +29729,7 @@
 				)
 			)
 		)
-		(property "Value" "CL05A225MQ5NSNC"
+		(property "Value" "2.2uF"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -29755,7 +29755,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "6.3V 2.2uF X5R ±20% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -29892,7 +29892,7 @@
 				)
 			)
 		)
-		(property "Value" "CL05A475MP5NRNC"
+		(property "Value" "4.7uF"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -29918,7 +29918,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "10V 4.7uF X5R ±20% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -30055,7 +30055,7 @@
 				)
 			)
 		)
-		(property "Value" "CL05B103KB5NNNC"
+		(property "Value" "10nF"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -30081,7 +30081,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "50V 10nF X7R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -30218,7 +30218,7 @@
 				)
 			)
 		)
-		(property "Value" "CL05B104KB54PNC"
+		(property "Value" "100nF"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -30244,7 +30244,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "50V 100nF X7R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -30381,7 +30381,7 @@
 				)
 			)
 		)
-		(property "Value" "CL05B104KO5NNNC"
+		(property "Value" "100nF"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -30407,7 +30407,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "16V 100nF X7R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -30544,7 +30544,7 @@
 				)
 			)
 		)
-		(property "Value" "CL05B224KO5NNNC"
+		(property "Value" "220nF"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -30570,7 +30570,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "16V 220nF X7R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -30707,7 +30707,7 @@
 				)
 			)
 		)
-		(property "Value" "CL05C100JB5NNNC"
+		(property "Value" "10pF"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -30733,7 +30733,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "50V 10pF C0G ±5% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -30870,7 +30870,7 @@
 				)
 			)
 		)
-		(property "Value" "CL10A105KB8NNNC"
+		(property "Value" "1uF"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -30896,7 +30896,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "50V 1uF X5R ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -31033,7 +31033,7 @@
 				)
 			)
 		)
-		(property "Value" "CL10A106KP8NNNC"
+		(property "Value" "10uF"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -31059,7 +31059,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "10V 10uF X5R ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -31196,7 +31196,7 @@
 				)
 			)
 		)
-		(property "Value" "CL10A106MA8NRNC"
+		(property "Value" "10uF"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -31222,7 +31222,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "25V 10uF X5R ±20% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -31359,7 +31359,7 @@
 				)
 			)
 		)
-		(property "Value" "CL10A225KO8NNNC"
+		(property "Value" "2.2uF"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -31385,7 +31385,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "16V 2.2uF X5R ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -31522,7 +31522,7 @@
 				)
 			)
 		)
-		(property "Value" "CL10A226MQ8NRNC"
+		(property "Value" "22uF"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -31548,7 +31548,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "6.3V 22uF X5R ±20% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -31685,7 +31685,7 @@
 				)
 			)
 		)
-		(property "Value" "CL10A475KO8NNNC"
+		(property "Value" "4.7uF"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -31711,7 +31711,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "16V 4.7uF X5R ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -31848,7 +31848,7 @@
 				)
 			)
 		)
-		(property "Value" "CL10B102KB8NNNC"
+		(property "Value" "1nF"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -31874,7 +31874,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "50V 1nF X7R ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -32011,7 +32011,7 @@
 				)
 			)
 		)
-		(property "Value" "CL10B221KB8NNNC"
+		(property "Value" "220pF"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -32037,7 +32037,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "50V 220pF X7R ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -32174,7 +32174,7 @@
 				)
 			)
 		)
-		(property "Value" "CL10B223KB8NNNC"
+		(property "Value" "22nF"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -32200,7 +32200,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "50V 22nF X7R ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -32337,7 +32337,7 @@
 				)
 			)
 		)
-		(property "Value" "CL10B224KA8NNNC"
+		(property "Value" "220nF"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -32363,7 +32363,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "25V 220nF X7R ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -32500,7 +32500,7 @@
 				)
 			)
 		)
-		(property "Value" "CL10B332KB8NNNC"
+		(property "Value" "3.3nF"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -32526,7 +32526,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "50V 3.3nF X7R ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -32663,7 +32663,7 @@
 				)
 			)
 		)
-		(property "Value" "CL10B333KB8NNNC"
+		(property "Value" "33nF"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -32689,7 +32689,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "50V 33nF X7R ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -32826,7 +32826,7 @@
 				)
 			)
 		)
-		(property "Value" "CL10B473KB8NNNC"
+		(property "Value" "47nF"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -32852,7 +32852,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "50V 47nF X7R ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -32989,7 +32989,7 @@
 				)
 			)
 		)
-		(property "Value" "CL10B474KA8NNNC"
+		(property "Value" "470nF"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -33015,7 +33015,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "25V 470nF X7R ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -33152,7 +33152,7 @@
 				)
 			)
 		)
-		(property "Value" "CL10C100JB8NNNC"
+		(property "Value" "10pF"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -33178,7 +33178,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "50V 10pF C0G ±5% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -33315,7 +33315,7 @@
 				)
 			)
 		)
-		(property "Value" "CL10C101JB8NNNC"
+		(property "Value" "100pF"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -33341,7 +33341,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "50V 100pF C0G ±5% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -33478,7 +33478,7 @@
 				)
 			)
 		)
-		(property "Value" "CL10C120JB8NNNC"
+		(property "Value" "12pF"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -33504,7 +33504,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "50V 12pF C0G ±5% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -33641,7 +33641,7 @@
 				)
 			)
 		)
-		(property "Value" "CL10C150JB8NNNC"
+		(property "Value" "15pF"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -33667,7 +33667,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "50V 15pF C0G ±5% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -33804,7 +33804,7 @@
 				)
 			)
 		)
-		(property "Value" "CL10C180JB8NNNC"
+		(property "Value" "18pF"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -33830,7 +33830,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "50V 18pF C0G ±5% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -33967,7 +33967,7 @@
 				)
 			)
 		)
-		(property "Value" "CL10C200JB8NNNC"
+		(property "Value" "20pF"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -33993,7 +33993,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "50V 20pF C0G ±5% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -34130,7 +34130,7 @@
 				)
 			)
 		)
-		(property "Value" "CL10C220JB8NNNC"
+		(property "Value" "22pF"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -34156,7 +34156,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "50V 22pF C0G ±5% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -34293,7 +34293,7 @@
 				)
 			)
 		)
-		(property "Value" "CL10C330JB8NNNC"
+		(property "Value" "33pF"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -34319,7 +34319,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "50V 33pF C0G ±5% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -34456,7 +34456,7 @@
 				)
 			)
 		)
-		(property "Value" "CL10C331JB8NNNC"
+		(property "Value" "330pF"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -34482,7 +34482,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "50V 330pF C0G ±5% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -34619,7 +34619,7 @@
 				)
 			)
 		)
-		(property "Value" "CL10C470JB8NNNC"
+		(property "Value" "47pF"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -34645,7 +34645,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "50V 47pF C0G ±5% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -34782,7 +34782,7 @@
 				)
 			)
 		)
-		(property "Value" "CL21A106KAYNNNE"
+		(property "Value" "10uF"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -34808,7 +34808,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "25V 10uF X5R ±10% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -34945,7 +34945,7 @@
 				)
 			)
 		)
-		(property "Value" "CL21A225KBQNNNE"
+		(property "Value" "2.2uF"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -34971,7 +34971,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "50V 2.2uF X5R ±10% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -35108,7 +35108,7 @@
 				)
 			)
 		)
-		(property "Value" "CL21A226MAQNNNE"
+		(property "Value" "22uF"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -35134,7 +35134,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "25V 22uF X5R ±20% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -35271,7 +35271,7 @@
 				)
 			)
 		)
-		(property "Value" "CL21A475KAQNNNE"
+		(property "Value" "4.7uF"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -35297,7 +35297,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "25V 4.7uF X5R ±10% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -35434,7 +35434,7 @@
 				)
 			)
 		)
-		(property "Value" "CL21A476MQYNNNE"
+		(property "Value" "47uF"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -35460,7 +35460,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "6.3V 47uF X5R ±20% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -35597,7 +35597,7 @@
 				)
 			)
 		)
-		(property "Value" "CL21B102KBCNNNC"
+		(property "Value" "1nF"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -35623,7 +35623,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "50V 1nF X7R ±10% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -35760,7 +35760,7 @@
 				)
 			)
 		)
-		(property "Value" "CL21B103KBANNNC"
+		(property "Value" "10nF"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -35786,7 +35786,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "50V 10nF X7R ±10% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -35923,7 +35923,7 @@
 				)
 			)
 		)
-		(property "Value" "CL21B104KCFNNNE"
+		(property "Value" "100nF"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -35949,7 +35949,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "100V 100nF X7R ±10% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -36086,7 +36086,7 @@
 				)
 			)
 		)
-		(property "Value" "CL21B105KBFNNNE"
+		(property "Value" "1uF"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -36112,7 +36112,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "50V 1uF X7R ±10% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -36249,7 +36249,7 @@
 				)
 			)
 		)
-		(property "Value" "CL21B223KBANNNC"
+		(property "Value" "22nF"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -36275,7 +36275,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "50V 22nF X7R ±10% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -36412,7 +36412,7 @@
 				)
 			)
 		)
-		(property "Value" "CL21B473KBCNNNC"
+		(property "Value" "47nF"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -36438,7 +36438,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "50V 47nF X7R ±10% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -36575,7 +36575,7 @@
 				)
 			)
 		)
-		(property "Value" "CL21B474KBFNNNE"
+		(property "Value" "470nF"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -36601,7 +36601,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "50V 470nF X7R ±10% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -36738,7 +36738,7 @@
 				)
 			)
 		)
-		(property "Value" "CL21C101JBANNNC"
+		(property "Value" "100pF"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -36764,7 +36764,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "50V 100pF C0G ±5% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -36901,7 +36901,7 @@
 				)
 			)
 		)
-		(property "Value" "CL21C200JBANNNC"
+		(property "Value" "20pF"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -36927,7 +36927,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "50V 20pF C0G ±5% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -37064,7 +37064,7 @@
 				)
 			)
 		)
-		(property "Value" "CL21C220JBANNNC"
+		(property "Value" "22pF"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -37090,7 +37090,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "50V 22pF C0G ±5% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -37227,7 +37227,7 @@
 				)
 			)
 		)
-		(property "Value" "CL21C222JBFNNNE"
+		(property "Value" "2.2nF"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -37253,7 +37253,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "50V 2.2nF C0G ±5% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -37390,7 +37390,7 @@
 				)
 			)
 		)
-		(property "Value" "CL21C470JBANNNC"
+		(property "Value" "47pF"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -37416,7 +37416,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "50V 47pF C0G ±5% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -37553,7 +37553,7 @@
 				)
 			)
 		)
-		(property "Value" "CL31A106KBHNNNE"
+		(property "Value" "10uF"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -37579,7 +37579,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "50V 10uF X5R ±10% 1206 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -37716,7 +37716,7 @@
 				)
 			)
 		)
-		(property "Value" "CL31A107MQHNNNE"
+		(property "Value" "100uF"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -37742,7 +37742,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "6.3V 100uF X5R ±20% 1206 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -37879,7 +37879,7 @@
 				)
 			)
 		)
-		(property "Value" "CL31A226KAHNNNE"
+		(property "Value" "22uF"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -37905,7 +37905,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "25V 22uF X5R ±10% 1206 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -38042,7 +38042,7 @@
 				)
 			)
 		)
-		(property "Value" "CL31A476MPHNNNE"
+		(property "Value" "47uF"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -38068,7 +38068,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "10V 47uF X5R ±20% 1206 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -38205,7 +38205,7 @@
 				)
 			)
 		)
-		(property "Value" "CL31B104KBCNNNC"
+		(property "Value" "100nF"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -38231,7 +38231,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "50V 100nF X7R ±10% 1206 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -38368,7 +38368,7 @@
 				)
 			)
 		)
-		(property "Value" "CL31B105KBHNNNE"
+		(property "Value" "1uF"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -38394,7 +38394,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "50V 1uF X7R ±10% 1206 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -38531,7 +38531,7 @@
 				)
 			)
 		)
-		(property "Value" "CL31B225KBHNNNE"
+		(property "Value" "2.2uF"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -38557,7 +38557,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "50V 2.2uF X7R ±10% 1206 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -39066,7 +39066,7 @@
 				)
 			)
 		)
-		(property "Value" "GRM21BR61H106KE43L"
+		(property "Value" "10uF"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -39092,7 +39092,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "50V 10uF X5R ±10% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -39229,7 +39229,7 @@
 				)
 			)
 		)
-		(property "Value" "GZ1608D601TF"
+		(property "Value" "450mΩ"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -39255,7 +39255,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "450mΩ ±25% 600Ω@100MHz 0603 Ferrite Beads ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -39388,7 +39388,7 @@
 				)
 			)
 		)
-		(property "Value" "GZ2012D101TF"
+		(property "Value" "100Ω@100MHz"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -39414,7 +39414,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "±25% 100Ω@100MHz 0805 Ferrite Beads ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -39547,7 +39547,7 @@
 				)
 			)
 		)
-		(property "Value" "GZ2012D601TF"
+		(property "Value" "300mΩ"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -39573,7 +39573,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "300mΩ ±25% 600Ω@100MHz 0805 Ferrite Beads ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -39866,7 +39866,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "62dB@(120Hz) 500mA Fixed 5V Positive electrode 35V TO-252-2(DPAK) Voltage Regulators - Linear, Low Drop Out (LDO) Regulators ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -40000,7 +40000,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Quad 20nA 0.4V/us 1.3MHz SOIC-14 Operational Amplifier ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -40343,7 +40343,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Dual 45nA 1MHz SOIC-8 Operational Amplifier ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -40589,7 +40589,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "5mV 250nA SOIC-8 Comparators ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -41694,7 +41694,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Dual 200nA 9V/us 10MHz SOIC-8 Operational Amplifier ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -41761,7 +41761,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "600kHz 1.8nA Single Channel SOIC-8 Precision Op Amps ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -42251,7 +42251,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "19V 13.3V 12V SOT-23 ESD and Surge Protection (TVS/ESD) ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -43226,7 +43226,7 @@
 				)
 			)
 		)
-		(property "Value" "SDFL1608S100KTF"
+		(property "Value" "10uH"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -43252,7 +43252,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "3mA 10uH ±10% 1.85Ω 0603 Inductors (SMD) ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -43385,7 +43385,7 @@
 				)
 			)
 		)
-		(property "Value" "SDFL2012S100KTF"
+		(property "Value" "10uH"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -43411,7 +43411,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "15mA 10uH ±10% 1.15Ω 0805 Inductors (SMD) ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -43567,7 +43567,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "20V 3.1A 112mΩ@4.5V,2.8A 1V@250uA 1 Piece P-Channel SOT-23 MOSFETs ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -43859,7 +43859,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "1A Independent Type 1kV 1.1V@1A SOD-123FL Diodes - General Purpose ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -43992,7 +43992,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "235Kbps Transceiver 2/2 TSSOP-16 RS232 ICs ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -44360,7 +44360,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Transceiver 10Mbps 1/1 SOIC-8 RS-485 / RS-422 ICs ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -44595,7 +44595,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Transceiver 10Mbps 1/1 SOIC-8 RS-485 / RS-422 ICs ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -44822,7 +44822,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "100V 850mV@2A 2A SMA(DO-214AC) Schottky Diodes ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -45412,7 +45412,7 @@
 				)
 			)
 		)
-		(property "Value" "TAJA106K016RNJ"
+		(property "Value" "10uF"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -45438,7 +45438,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "10uF 16V 3Ω@100kHz ±10% CASE-A-3216-18(mm) Tantalum Capacitors ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -45601,7 +45601,7 @@
 				)
 			)
 		)
-		(property "Value" "TAJB107K006RNJ"
+		(property "Value" "100uF"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -45627,7 +45627,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "100uF 6.3V 1.7Ω@100kHz ±10% CASE-B-3528-21(mm) Tantalum Capacitors ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -45813,7 +45813,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "3mV 4MHz 20pA Dual channel SOIC-8 FET Input Amplifiers ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -45880,7 +45880,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Step-down type Adjustable 1.221V~32.04V 3A 5.5V~36V SOIC-8-EP DC-DC Converters ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -46122,7 +46122,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "None Without 50mA 5.1mm 100000 Times 160gf 12V 5.1mm 1.5mm Round Button Standing paste SPST SMD Tactile Switches ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -46350,7 +46350,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Seven channels 50V 500mA SOIC-16 Darlington Transistor Arrays ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -47096,7 +47096,7 @@
 				)
 			)
 		)
-		(property "Value" "X322512MSB4SI"
+		(property "Value" "12MHz"
 			(at 0 -7.62 0)
 			(effects
 				(font
@@ -47122,7 +47122,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "12MHz Surface Mount Crystal 20pF ±10ppm ±20ppm SMD3225-4P Crystals ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -47374,7 +47374,7 @@
 				)
 			)
 		)
-		(property "Value" "X322516MLB4SI"
+		(property "Value" "16MHz"
 			(at 0 -7.62 0)
 			(effects
 				(font
@@ -47400,7 +47400,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "16MHz Surface Mount Crystal 9pF ±10ppm ±20ppm SMD3225-4P Crystals ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -47652,7 +47652,7 @@
 				)
 			)
 		)
-		(property "Value" "X322525MOB4SI"
+		(property "Value" "25MHz"
 			(at 0 -7.62 0)
 			(effects
 				(font
@@ -47678,7 +47678,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "25MHz Surface Mount Crystal 12pF ±10ppm ±20ppm SMD3225-4P Crystals ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -47933,7 +47933,7 @@
 				)
 			)
 		)
-		(property "Value" "X49SM8MSD2SC"
+		(property "Value" "8MHz"
 			(at 0 -5.08 0)
 			(effects
 				(font
@@ -47959,7 +47959,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "8MHz Surface Mount Crystal 20pF ±20ppm ±30ppm HC-49S-SMD Crystals ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -48163,7 +48163,7 @@
 				)
 			)
 		)
-		(property "Value" "X50328MSB2GI"
+		(property "Value" "8MHz"
 			(at 0 -5.08 0)
 			(effects
 				(font
@@ -48189,7 +48189,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "8MHz Surface Mount Crystal 20pF ±10ppm ±20ppm SMD5032 Crystals ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -48416,7 +48416,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Step-down type 2A 4.5V~40V SOIC-8 DC-DC Converters ROHS"
 			(at 0 0 0)
 			(effects
 				(font

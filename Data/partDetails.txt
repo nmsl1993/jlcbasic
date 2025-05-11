@@ -1,1459 +1,1754 @@
-0603WAF1201T5E
-C22765
-100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 1.2kΩ 0603 Chip Resistor - Surface Mount ROHS
-uni-royal(uniroyal elec)
---
-0603WAF1000T5E
-C22775
-100mW Thick Film Resistors 75V ±1% ±200ppm/℃ 100Ω 0603 Chip Resistor - Surface Mount ROHS
-uni-royal(uniroyal elec)
---
 0603WAF1200T5E
-C22787
 100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 120Ω 0603 Chip Resistor - Surface Mount ROHS
 uni-royal(uniroyal elec)
+JLCJLCJLCJLC
 --
-0603WAF1202T5E
-C22790
-100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 12kΩ 0603 Chip Resistor - Surface Mount ROHS
-uni-royal(uniroyal elec)
+GZ1608D601TF
+450mΩ ±25% 600Ω@100MHz 0603 Ferrite Beads ROHS
+Sunlord
+558319
 --
-0603WAF1302T5E
-C22797
-100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 13kΩ 0603 Chip Resistor - Surface Mount ROHS
-uni-royal(uniroyal elec)
+GZ2012D101TF
+±25% 100Ω@100MHz 0805 Ferrite Beads ROHS
+Sunlord
+121016
 --
-0603WAF1503T5E
-C22807
-100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 150kΩ 0603 Chip Resistor - Surface Mount ROHS
-uni-royal(uniroyal elec)
+GZ2012D601TF
+300mΩ ±25% 600Ω@100MHz 0805 Ferrite Beads ROHS
+Sunlord
+363250
 --
-0603WAF1500T5E
-C22808
-100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 150Ω 0603 Chip Resistor - Surface Mount ROHS
-uni-royal(uniroyal elec)
+SDFL1608S100KTF
+3mA 10uH ±10% 1.85Ω 0603 Inductors (SMD) ROHS
+Sunlord
+254799
 --
-0603WAF1502T5E
-C22809
-100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 15kΩ 0603 Chip Resistor - Surface Mount ROHS
+SDFL2012S100KTF
+15mA 10uH ±10% 1.15Ω 0805 Inductors (SMD) ROHS
+Sunlord
+81325
+--
+0402B102K500NT
+50V 1nF X7R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+Fh (guangdong Fenghua Advanced tech)
+1724288
+--
+CL05B104KO5NNNC
+16V 100nF X7R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+Samsung electro-mechanics
+20561455
+--
+0402B221K500NT
+50V 220pF X7R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+Fh (guangdong Fenghua Advanced tech)
+368770
+--
+0402B223K500NT
+50V 22nF X7R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+Fh (guangdong Fenghua Advanced tech)
+504488
+--
+0402B472K500NT
+50V 4.7nF X7R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+Fh (guangdong Fenghua Advanced tech)
+665271
+--
+0402CG101J500NT
+50V 100pF C0G ±5% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+Fh (guangdong Fenghua Advanced tech)
+1208544
+--
+0402CG120J500NT
+50V 12pF C0G ±5% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+Fh (guangdong Fenghua Advanced tech)
+417449
+--
+0402CG150J500NT
+50V 15pF C0G ±5% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+Fh (guangdong Fenghua Advanced tech)
+617087
+--
+0402CG180J500NT
+50V 18pF C0G ±5% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+Fh (guangdong Fenghua Advanced tech)
+662567
+--
+0402CG200J500NT
+50V 20pF C0G ±5% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+Fh (guangdong Fenghua Advanced tech)
+848322
+--
+0402CG220J500NT
+50V 22pF C0G ±5% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+Fh (guangdong Fenghua Advanced tech)
+439267
+--
+0402CG330J500NT
+50V 33pF C0G ±5% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+Fh (guangdong Fenghua Advanced tech)
+899566
+--
+0402CG470J500NT
+50V 47pF C0G ±5% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+Fh (guangdong Fenghua Advanced tech)
+392585
+--
+CL10B102KB8NNNC
+50V 1nF X7R ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+Samsung electro-mechanics
+6076656
+--
+0603B151K500NT
+50V 150pF X7R ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+Fh (guangdong Fenghua Advanced tech)
+271073
+--
+CL10B221KB8NNNC
+50V 220pF X7R ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+Samsung electro-mechanics
+618899
+--
+0603B222K500NT
+50V 2.2nF X7R ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+Fh (guangdong Fenghua Advanced tech)
+411999
+--
+CL10B332KB8NNNC
+50V 3.3nF X7R ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+Samsung electro-mechanics
+219022
+--
+0603B471K500NT
+50V 470pF X7R ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+Fh (guangdong Fenghua Advanced tech)
+578782
+--
+CL10B473KB8NNNC
+50V 47nF X7R ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+Samsung electro-mechanics
+532105
+--
+CL10B474KA8NNNC
+25V 470nF X7R ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+Samsung electro-mechanics
+867132
+--
+0603B682K500NT
+50V 6.8nF X7R ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+Fh (guangdong Fenghua Advanced tech)
+176011
+--
+CL10C100JB8NNNC
+50V 10pF C0G ±5% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+Samsung electro-mechanics
+826092
+--
+CL10C150JB8NNNC
+50V 15pF C0G ±5% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+Samsung electro-mechanics
+1422901
+--
+CL10C180JB8NNNC
+50V 18pF C0G ±5% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+Samsung electro-mechanics
+363447
+--
+CL10C200JB8NNNC
+50V 20pF C0G ±5% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+Samsung electro-mechanics
+1473113
+--
+CL10C220JB8NNNC
+50V 22pF C0G ±5% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+Samsung electro-mechanics
+2104921
+--
+0603CG300J500NT
+50V 30pF C0G ±5% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+Fh (guangdong Fenghua Advanced tech)
+354834
+--
+CL10C330JB8NNNC
+50V 33pF C0G ±5% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+Samsung electro-mechanics
+341212
+--
+CL10C331JB8NNNC
+50V 330pF C0G ±5% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+Samsung electro-mechanics
+929294
+--
+CL10C470JB8NNNC
+50V 47pF C0G ±5% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+Samsung electro-mechanics
+1026169
+--
+CL21B103KBANNNC
+50V 10nF X7R ±10% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+Samsung electro-mechanics
+2751291
+--
+CL21B223KBANNNC
+50V 22nF X7R ±10% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+Samsung electro-mechanics
+115903
+--
+0805B333K500NT
+50V 33nF X7R ±10% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+Fh (guangdong Fenghua Advanced tech)
+70635
+--
+0805B471K500NT
+50V 470pF X7R ±10% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+Fh (guangdong Fenghua Advanced tech)
+243418
+--
+0805B472K500NT
+50V 4.7nF X7R ±10% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+Fh (guangdong Fenghua Advanced tech)
+304774
+--
+CL21A475KAQNNNE
+25V 4.7uF X5R ±10% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+Samsung electro-mechanics
+3548858
+--
+CL21C101JBANNNC
+50V 100pF C0G ±5% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+Samsung electro-mechanics
+1035083
+--
+CL21C200JBANNNC
+50V 20pF C0G ±5% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+Samsung electro-mechanics
+347560
+--
+CL21C220JBANNNC
+50V 22pF C0G ±5% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+Samsung electro-mechanics
+468559
+--
+1206B103K500NT
+50V 10nF X7R ±10% 1206 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+Fh (guangdong Fenghua Advanced tech)
+489086
+--
+CL31B105KBHNNNE
+50V 1uF X7R ±10% 1206 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+Samsung electro-mechanics
+337916
+--
+4D03WGJ0472T5E
+4 ±5% 4.7kΩ 62.5mW ±200ppm/℃ 0603x4 Resistor Networks, Arrays ROHS
 uni-royal(uniroyal elec)
+319583
+--
+1N4148WS
+100V Independent Type 1.25V@150mA 4ns 150mA SOD-323 Switching Diodes ROHS
+Jiangsu Changjing Electronics Technology co., ltd.
+2645946
+--
+MMBT5551(RANGE:200-300)
+160V 300mW 200@10mA,5V 600mA NPN SOT-23 Bipolar (BJT) ROHS
+Jiangsu Changjing Electronics Technology co., ltd.
+1806578
+--
+S8050 J3Y(RANGE:200-350)
+25V 300mW 200@50mA,1V 500mA NPN SOT-23 Bipolar (BJT) ROHS
+Jiangsu Changjing Electronics Technology co., ltd.
+438339
+--
+SS8050(RANGE:200-350)
+25V 300mW 200@100mA,1V 1.5A NPN SOT-23 Bipolar (BJT) ROHS
+Jiangsu Changjing Electronics Technology co., ltd.
+1305955
+--
+KT-0603R
+-40℃~+85℃ Red 0603 LED Indication - Discrete ROHS
+Hubei Kento Elec
+2987919
+--
+KT-0603W
+White 0603 LED Indication - Discrete ROHS
+Hubei Kento Elec
+967670
+--
+KT-0805Y
+Yellow 0805 LED Indication - Discrete ROHS
+Hubei Kento Elec
+270791
+--
+KT-0805G
+Emerald 0805 LED Indication - Discrete ROHS
+Hubei Kento Elec
+617491
+--
+SS14
+40V Independent Type 1A 550mV@1A SMA(DO-214AC) Schottky Diodes ROHS
+mdd(microdiode semiconductor)
+766782
+--
+MB10S-50MIL
+35A 1.1V@400mA 1A 1kV MBS Bridge Rectifiers ROHS
+mdd(microdiode semiconductor)
+184874
+--
+BAV99,215
+100V 1 pair in series 1.25V@150mA 4ns 215mA SOT-23 Switching Diodes ROHS
+Nexperia
+879386
+--
+CJ431
+2.5V~36V ±0.5% 100mA Adjustable SOT-23 Voltage Reference ROHS
+Jiangsu Changjing Electronics Technology co., ltd.
+199185
+--
+0402WGF2001TCE
+62.5mW Thick Film Resistors 50V ±100ppm/℃ ±1% 2kΩ 0402 Chip Resistor - Surface Mount ROHS
+uni-royal(uniroyal elec)
+2490973
+--
+0603WAF1801T5E
+100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 1.8kΩ 0603 Chip Resistor - Surface Mount ROHS
+uni-royal(uniroyal elec)
+327704
+--
+0603WAF2002T5E
+100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 20kΩ 0603 Chip Resistor - Surface Mount ROHS
+uni-royal(uniroyal elec)
+3046628
+--
+0603WAF2201T5E
+100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 2.2kΩ 0603 Chip Resistor - Surface Mount ROHS
+uni-royal(uniroyal elec)
+2329417
+--
+0603WAF3001T5E
+100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 3kΩ 0603 Chip Resistor - Surface Mount ROHS
+uni-royal(uniroyal elec)
+1524748
+--
+0603WAF3302T5E
+100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 33kΩ 0603 Chip Resistor - Surface Mount ROHS
+uni-royal(uniroyal elec)
+689479
+--
+0603WAF6201T5E
+100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 6.2kΩ 0603 Chip Resistor - Surface Mount ROHS
+uni-royal(uniroyal elec)
+367002
+--
+0603WAF750JT5E
+100mW Thick Film Resistors 75V ±1% ±200ppm/℃ 75Ω 0603 Chip Resistor - Surface Mount ROHS
+uni-royal(uniroyal elec)
+1136338
+--
+0805W8F1501T5E
+125mW Thick Film Resistors 150V ±100ppm/℃ ±1% 1.5kΩ 0805 Chip Resistor - Surface Mount ROHS
+uni-royal(uniroyal elec)
+335719
+--
+0805W8F2002T5E
+125mW Thick Film Resistors 150V ±100ppm/℃ ±1% 20kΩ 0805 Chip Resistor - Surface Mount ROHS
+uni-royal(uniroyal elec)
+1032727
+--
+0805W8F5601T5E
+125mW Thick Film Resistors 150V ±100ppm/℃ ±1% 5.6kΩ 0805 Chip Resistor - Surface Mount ROHS
+uni-royal(uniroyal elec)
+246393
+--
+1206W4F1001T5E
+250mW Thick Film Resistors 200V ±1% 1kΩ 1206 Chip Resistor - Surface Mount ROHS
+uni-royal(uniroyal elec)
+1098378
+--
+CL21B224KBFNNNE
+50V 220nF X7R ±10% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+Samsung electro-mechanics
+747675
+--
+XC6206P332MR-G
+200mA Fixed 3.3V Positive electrode 6V SOT-23-3L Voltage Regulators - Linear, Low Drop Out (LDO) Regulators ROHS
+Torex Semicon
+409450
+--
+74HC14D,653
+Schmitt Trigger 6 21ns@6V,50pF 2uA 2V~6V SOIC-14 Inverters ROHS
+Nexperia
+61310
+--
+74HC595D,118
+8 2V~6V 1 Serial to serial or parallel SOIC-16 Shift Registers ROHS
+Nexperia
+96320
+--
+AMS1117-3.3
+72dB@(120Hz) 1A Fixed 3.3V Positive electrode SOT-223 Voltage Regulators - Linear, Low Drop Out (LDO) Regulators ROHS
+Advanced Monolithic Systems
+564036
+--
+AMS1117-5.0
+68dB@(120Hz) 1A Fixed 5V Positive electrode 12V SOT-223 Voltage Regulators - Linear, Low Drop Out (LDO) Regulators ROHS
+Advanced Monolithic Systems
+51761
+--
+S9013 J3(RANGE:200-350)
+25V 300mW 200@50mA,1V 500mA NPN SOT-23 Bipolar (BJT) ROHS
+Jiangsu Changjing Electronics Technology co., ltd.
+360793
+--
+SP485EEN-L/TR
+Transceiver 10Mbps 1/1 SOIC-8 RS-485 / RS-422 ICs ROHS
+Maxlinear
+102036
+--
+TL072CDT
+3mV 4MHz 20pA Dual channel SOIC-8 FET Input Amplifiers ROHS
+Stmicroelectronics
+82294
+--
+TAJA106K016RNJ
+10uF 16V 3Ω@100kHz ±10% CASE-A-3216-18(mm) Tantalum Capacitors ROHS
+--
+651611
+--
+0603WAF1005T5E
+100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 10MΩ 0603 Chip Resistor - Surface Mount ROHS
+uni-royal(uniroyal elec)
+276663
+--
+NE5532DR
+Dual 200nA 9V/us 10MHz SOIC-8 Operational Amplifier ROHS
+Texas Instruments
+23802
+--
+OP07CDR
+600kHz 1.8nA Single Channel SOIC-8 Precision Op Amps ROHS
+Texas Instruments
+180344
+--
+ULN2003ADR
+Seven channels 50V 500mA SOIC-16 Darlington Transistor Arrays ROHS
+Texas Instruments
+460627
+--
+LM358DR2G
+Dual 45nA 1MHz SOIC-8 Operational Amplifier ROHS
+Onsemi
+209124
+--
+LM393DR2G
+5mV 250nA SOIC-8 Comparators ROHS
+Onsemi
+229881
+--
+0603WAF2000T5E
+100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 200Ω 0603 Chip Resistor - Surface Mount ROHS
+uni-royal(uniroyal elec)
+649972
+--
+MMBT5401(RANGE:200-300)
+150V 300mW 200@10mA,5V 600mA PNP SOT-23 Bipolar (BJT) ROHS
+Jiangsu Changjing Electronics Technology co., ltd.
+412276
+--
+MMBT2222A 1P
+40V 300mW 600mA NPN SOT-23 Bipolar (BJT) ROHS
+Jiangsu Changjing Electronics Technology co., ltd.
+169514
+--
+SS8550 Y2(RANGE:200-350)
+25V 300mW 200@100mA,1V 1.5A PNP SOT-23 Bipolar (BJT) ROHS
+Jiangsu Changjing Electronics Technology co., ltd.
+520196
+--
+S9012 2T1(RANGE:200-350)
+25V 300mW 200@50mA,1V 500mA PNP SOT-23 Bipolar (BJT) ROHS
+Jiangsu Changjing Electronics Technology co., ltd.
+103596
+--
+2N7002
+60V 115mA 200mW 7.5Ω@10V,500mA 2.5V@250uA 1 N-Channel SOT-23 MOSFETs ROHS
+Jiangsu Changjing Electronics Technology co., ltd.
+697189
+--
+B5819W SL
+40V 600mV@1A 1A SOD-123 Schottky Diodes ROHS
+Jiangsu Changjing Electronics Technology co., ltd.
+524505
+--
+SS34
+40V Independent Type 3A 550mV@3A SMA(DO-214AC) Schottky Diodes ROHS
+mdd(microdiode semiconductor)
+827782
+--
+SP3485EN-L/TR
+Transceiver 10Mbps 1/1 SOIC-8 RS-485 / RS-422 ICs ROHS
+Maxlinear
+172964
+--
+X322512MSB4SI
+12MHz Surface Mount Crystal 20pF ±10ppm ±20ppm SMD3225-4P Crystals ROHS
+Yxc Crystal Oscillators
+155020
+--
+X322525MOB4SI
+25MHz Surface Mount Crystal 12pF ±10ppm ±20ppm SMD3225-4P Crystals ROHS
+Yxc Crystal Oscillators
+79240
+--
+1206B102K202NT
+2kV 1nF X7R ±10% 1206 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+Fh (guangdong Fenghua Advanced tech)
+3563506
+--
+D882(RANGE:160-320)
+30V 500mW 3A NPN SOT-89-3 Bipolar (BJT) ROHS
+Jiangsu Changjing Electronics Technology co., ltd.
+129220
+--
+TPS5430DDAR
+Step-down type Adjustable 1.221V~32.04V 3A 5.5V~36V SOIC-8-EP DC-DC Converters ROHS
+Texas Instruments
+191606
+--
+SI2301CDS-T1-GE3
+20V 3.1A 112mΩ@4.5V,2.8A 1V@250uA 1 Piece P-Channel SOT-23 MOSFETs ROHS
+Vishay Intertech
+177352
+--
+0402WGF1001TCE
+62.5mW Thick Film Resistors 50V ±100ppm/℃ ±1% 1kΩ 0402 Chip Resistor - Surface Mount ROHS
+uni-royal(uniroyal elec)
+9683165
+--
+CL05A225MQ5NSNC
+6.3V 2.2uF X5R ±20% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+Samsung electro-mechanics
+4455801
+--
+X49SM8MSD2SC
+8MHz Surface Mount Crystal 20pF ±20ppm ±30ppm HC-49S-SMD Crystals ROHS
+Yxc Crystal Oscillators
+66179
+--
+CL31A226KAHNNNE
+25V 22uF X5R ±10% 1206 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+Samsung electro-mechanics
+736974
+--
+0603WAF2701T5E
+100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 2.7kΩ 0603 Chip Resistor - Surface Mount ROHS
+uni-royal(uniroyal elec)
+581184
+--
+SP3232EEY-L/TR
+235Kbps Transceiver 2/2 TSSOP-16 RS232 ICs ROHS
+Maxlinear
+49009
+--
+CL31A106KBHNNNE
+50V 10uF X5R ±10% 1206 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+Samsung electro-mechanics
+3825474
+--
+X322516MLB4SI
+16MHz Surface Mount Crystal 9pF ±10ppm ±20ppm SMD3225-4P Crystals ROHS
+Yxc Crystal Oscillators
+100337
+--
+CL21B474KBFNNNE
+50V 470nF X7R ±10% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+Samsung electro-mechanics
+331328
+--
+HT7533-1
+100mA Fixed 3.3V Positive electrode 30V SOT-89-3 Voltage Regulators - Linear, Low Drop Out (LDO) Regulators ROHS
+Holtek Semicon
+95663
+--
+CC0603KRX7R9BB104
+50V 100nF X7R ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+Yageo
+41880692
+--
+CL21C470JBANNNC
+50V 47pF C0G ±5% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+Samsung electro-mechanics
+331107
+--
+CL10C101JB8NNNC
+50V 100pF C0G ±5% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+Samsung electro-mechanics
+3971351
+--
+SS210
+100V 850mV@2A 2A SMA(DO-214AC) Schottky Diodes ROHS
+mdd(microdiode semiconductor)
+449652
+--
+CL31A107MQHNNNE
+6.3V 100uF X5R ±20% 1206 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+Samsung electro-mechanics
+1797537
+--
+AO3401A
+30V 4A 44mΩ@10V,4.3A 1.4W 1.3V@250uA 1 Piece P-Channel SOT-23 MOSFETs ROHS
+Alpha & Omega Semicon
+1442110
+--
+CL05B103KB5NNNC
+50V 10nF X7R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+Samsung electro-mechanics
+3545348
+--
+CL05A106MQ5NUNC
+6.3V 10uF X5R ±20% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+Samsung electro-mechanics
+2176695
+--
+CL10A105KB8NNNC
+50V 1uF X5R ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+Samsung electro-mechanics
+9995263
+--
+CL21A106KAYNNNE
+25V 10uF X5R ±10% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+Samsung electro-mechanics
+10942914
+--
+TAJB107K006RNJ
+100uF 6.3V 1.7Ω@100kHz ±10% CASE-B-3528-21(mm) Tantalum Capacitors ROHS
+--
+443068
+--
+CL05B224KO5NNNC
+16V 220nF X7R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+Samsung electro-mechanics
+646491
+--
+CL21A476MQYNNNE
+6.3V 47uF X5R ±20% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+Samsung electro-mechanics
+2087789
+--
+0402WGF0000TCE
+62.5mW Thick Film Resistors 50V ±800ppm/℃ ±1% 0Ω 0402 Chip Resistor - Surface Mount ROHS
+uni-royal(uniroyal elec)
+4690559
+--
+0805W8F1201T5E
+125mW Thick Film Resistors 150V ±100ppm/℃ ±1% 1.2kΩ 0805 Chip Resistor - Surface Mount ROHS
+uni-royal(uniroyal elec)
+307309
+--
+0805W8F1000T5E
+125mW Thick Film Resistors 150V ±100ppm/℃ ±1% 100Ω 0805 Chip Resistor - Surface Mount ROHS
+uni-royal(uniroyal elec)
+2919109
+--
+0805W8F1002T5E
+125mW Thick Film Resistors 150V ±100ppm/℃ ±1% 10kΩ 0805 Chip Resistor - Surface Mount ROHS
+uni-royal(uniroyal elec)
+11525709
+--
+0805W8F100JT5E
+125mW Thick Film Resistors 150V ±1% ±200ppm/℃ 10Ω 0805 Chip Resistor - Surface Mount ROHS
+uni-royal(uniroyal elec)
+5516216
+--
+0805W8F1200T5E
+125mW Thick Film Resistors 150V ±100ppm/℃ ±1% 120Ω 0805 Chip Resistor - Surface Mount ROHS
+uni-royal(uniroyal elec)
+563735
+--
+0805W8F1202T5E
+125mW Thick Film Resistors 150V ±100ppm/℃ ±1% 12kΩ 0805 Chip Resistor - Surface Mount ROHS
+uni-royal(uniroyal elec)
+101208
+--
+0805W8F1503T5E
+125mW Thick Film Resistors 150V ±100ppm/℃ ±1% 150kΩ 0805 Chip Resistor - Surface Mount ROHS
+uni-royal(uniroyal elec)
+178649
+--
+0805W8F1500T5E
+125mW Thick Film Resistors 150V ±100ppm/℃ ±1% 150Ω 0805 Chip Resistor - Surface Mount ROHS
+uni-royal(uniroyal elec)
+188840
+--
+0805W8F1502T5E
+125mW Thick Film Resistors 150V ±100ppm/℃ ±1% 15kΩ 0805 Chip Resistor - Surface Mount ROHS
+uni-royal(uniroyal elec)
+414531
+--
+0805W8F0000T5E
+125mW Thick Film Resistors 150V ±800ppm/℃ ±1% 0Ω 0805 Chip Resistor - Surface Mount ROHS
+uni-royal(uniroyal elec)
+2958756
+--
+0805W8F1001T5E
+125mW Thick Film Resistors 150V ±100ppm/℃ ±1% 1kΩ 0805 Chip Resistor - Surface Mount ROHS
+uni-royal(uniroyal elec)
+7843301
+--
+0805W8F1004T5E
+125mW Thick Film Resistors 150V ±100ppm/℃ ±1% 1MΩ 0805 Chip Resistor - Surface Mount ROHS
+uni-royal(uniroyal elec)
+824152
+--
+0805W8F2201T5E
+125mW Thick Film Resistors 150V ±100ppm/℃ ±1% 2.2kΩ 0805 Chip Resistor - Surface Mount ROHS
+uni-royal(uniroyal elec)
+559605
+--
+0805W8F220KT5E
+125mW Thick Film Resistors 150V ±1% ±400ppm/℃ 2.2Ω 0805 Chip Resistor - Surface Mount ROHS
+uni-royal(uniroyal elec)
+384858
+--
+0805W8F2401T5E
+125mW Thick Film Resistors 150V ±100ppm/℃ ±1% 2.4kΩ 0805 Chip Resistor - Surface Mount ROHS
+uni-royal(uniroyal elec)
+156459
+--
+0805W8F2701T5E
+125mW Thick Film Resistors 150V ±100ppm/℃ ±1% 2.7kΩ 0805 Chip Resistor - Surface Mount ROHS
+uni-royal(uniroyal elec)
+190289
+--
+0805W8F2003T5E
+125mW Thick Film Resistors 150V ±100ppm/℃ ±1% 200kΩ 0805 Chip Resistor - Surface Mount ROHS
+uni-royal(uniroyal elec)
+230817
+--
+0805W8F2000T5E
+125mW Thick Film Resistors 150V ±100ppm/℃ ±1% 200Ω 0805 Chip Resistor - Surface Mount ROHS
+uni-royal(uniroyal elec)
+648596
+--
+0805W8F200JT5E
+125mW Thick Film Resistors 150V ±1% ±200ppm/℃ 20Ω 0805 Chip Resistor - Surface Mount ROHS
+uni-royal(uniroyal elec)
+505074
+--
+0805W8F2203T5E
+125mW Thick Film Resistors 150V ±100ppm/℃ ±1% 220kΩ 0805 Chip Resistor - Surface Mount ROHS
+uni-royal(uniroyal elec)
+179544
+--
+0805W8F2200T5E
+125mW Thick Film Resistors 150V ±100ppm/℃ ±1% 220Ω 0805 Chip Resistor - Surface Mount ROHS
+uni-royal(uniroyal elec)
+406655
+--
+0805W8F2202T5E
+125mW Thick Film Resistors 150V ±100ppm/℃ ±1% 22kΩ 0805 Chip Resistor - Surface Mount ROHS
+uni-royal(uniroyal elec)
+162050
+--
+0805W8F220JT5E
+125mW Thick Film Resistors 150V ±100ppm/℃ ±1% 22Ω 0805 Chip Resistor - Surface Mount ROHS
+uni-royal(uniroyal elec)
+574760
+--
+0805W8F2402T5E
+125mW Thick Film Resistors 150V ±100ppm/℃ ±1% 24kΩ 0805 Chip Resistor - Surface Mount ROHS
+uni-royal(uniroyal elec)
+71817
+--
+0805W8F2702T5E
+125mW Thick Film Resistors 150V ±100ppm/℃ ±1% 27kΩ 0805 Chip Resistor - Surface Mount ROHS
+uni-royal(uniroyal elec)
+171819
+--
+0805W8F2001T5E
+125mW Thick Film Resistors 150V ±100ppm/℃ ±1% 2kΩ 0805 Chip Resistor - Surface Mount ROHS
+uni-royal(uniroyal elec)
+2444123
+--
+0805W8F3901T5E
+125mW Thick Film Resistors 150V ±100ppm/℃ ±1% 3.9kΩ 0805 Chip Resistor - Surface Mount ROHS
+uni-royal(uniroyal elec)
+343980
+--
+0805W8F3000T5E
+125mW Thick Film Resistors 150V ±100ppm/℃ ±1% 300Ω 0805 Chip Resistor - Surface Mount ROHS
+uni-royal(uniroyal elec)
+382591
+--
+0805W8F3002T5E
+125mW Thick Film Resistors 150V ±100ppm/℃ ±1% 30kΩ 0805 Chip Resistor - Surface Mount ROHS
+uni-royal(uniroyal elec)
+480724
+--
+0805W8F3300T5E
+125mW Thick Film Resistors 150V ±100ppm/℃ ±1% 330Ω 0805 Chip Resistor - Surface Mount ROHS
+uni-royal(uniroyal elec)
+509862
+--
+0805W8F3302T5E
+125mW Thick Film Resistors 150V ±100ppm/℃ ±1% 33kΩ 0805 Chip Resistor - Surface Mount ROHS
+uni-royal(uniroyal elec)
+421127
+--
+0805W8F330JT5E
+125mW Thick Film Resistors 150V ±1% ±200ppm/℃ 33Ω 0805 Chip Resistor - Surface Mount ROHS
+uni-royal(uniroyal elec)
+147741
+--
+0805W8F3900T5E
+125mW Thick Film Resistors 150V ±100ppm/℃ ±1% 390Ω 0805 Chip Resistor - Surface Mount ROHS
+uni-royal(uniroyal elec)
+160678
+--
+0805W8F3001T5E
+125mW Thick Film Resistors 150V ±100ppm/℃ ±1% 3kΩ 0805 Chip Resistor - Surface Mount ROHS
+uni-royal(uniroyal elec)
+543136
+--
+0805W8F4701T5E
+125mW Thick Film Resistors 150V ±100ppm/℃ ±1% 4.7kΩ 0805 Chip Resistor - Surface Mount ROHS
+uni-royal(uniroyal elec)
+2274779
+--
+0805W8F470KT5E
+125mW Thick Film Resistors 150V ±1% ±200ppm/℃ 4.7Ω 0805 Chip Resistor - Surface Mount ROHS
+uni-royal(uniroyal elec)
+406980
+--
+0805W8F4703T5E
+125mW Thick Film Resistors 150V ±100ppm/℃ ±1% 470kΩ 0805 Chip Resistor - Surface Mount ROHS
+uni-royal(uniroyal elec)
+331182
+--
+0805W8F4700T5E
+125mW Thick Film Resistors 150V ±100ppm/℃ ±1% 470Ω 0805 Chip Resistor - Surface Mount ROHS
+uni-royal(uniroyal elec)
+1048248
+--
+0805W8F4702T5E
+125mW Thick Film Resistors 150V ±100ppm/℃ ±1% 47kΩ 0805 Chip Resistor - Surface Mount ROHS
+uni-royal(uniroyal elec)
+660162
+--
+0805W8F470JT5E
+125mW Thick Film Resistors 150V ±1% ±200ppm/℃ 47Ω 0805 Chip Resistor - Surface Mount ROHS
+uni-royal(uniroyal elec)
+296607
+--
+0805W8F499JT5E
+125mW Thick Film Resistors 150V ±100ppm/℃ ±1% 49.9Ω 0805 Chip Resistor - Surface Mount ROHS
+uni-royal(uniroyal elec)
+169305
+--
+0805W8F510KT5E
+125mW Thick Film Resistors 150V ±1% ±400ppm/℃ 5.1Ω 0805 Chip Resistor - Surface Mount ROHS
+uni-royal(uniroyal elec)
+257480
+--
+0805W8F5100T5E
+125mW Thick Film Resistors 150V ±100ppm/℃ ±1% 510Ω 0805 Chip Resistor - Surface Mount ROHS
+uni-royal(uniroyal elec)
+855651
+--
+0805W8F5102T5E
+125mW Thick Film Resistors 150V ±100ppm/℃ ±1% 51kΩ 0805 Chip Resistor - Surface Mount ROHS
+uni-royal(uniroyal elec)
+380063
+--
+0805W8F510JT5E
+125mW Thick Film Resistors 150V ±100ppm/℃ ±1% 51Ω 0805 Chip Resistor - Surface Mount ROHS
+uni-royal(uniroyal elec)
+596541
+--
+0805W8F6801T5E
+125mW Thick Film Resistors 150V ±100ppm/℃ ±1% 6.8kΩ 0805 Chip Resistor - Surface Mount ROHS
+uni-royal(uniroyal elec)
+201615
+--
+0805W8F6800T5E
+125mW Thick Film Resistors 150V ±100ppm/℃ ±1% 680Ω 0805 Chip Resistor - Surface Mount ROHS
+uni-royal(uniroyal elec)
+235947
+--
+0805W8F6802T5E
+125mW Thick Film Resistors 150V ±100ppm/℃ ±1% 68kΩ 0805 Chip Resistor - Surface Mount ROHS
+uni-royal(uniroyal elec)
+156123
+--
+0805W8F8201T5E
+125mW Thick Film Resistors 150V ±100ppm/℃ ±1% 8.2kΩ 0805 Chip Resistor - Surface Mount ROHS
+uni-royal(uniroyal elec)
+172374
+--
+1206W4F3000T5E
+250mW Thick Film Resistors 200V ±100ppm/℃ ±1% 300Ω 1206 Chip Resistor - Surface Mount ROHS
+uni-royal(uniroyal elec)
+248500
+--
+1206W4F0000T5E
+250mW Thick Film Resistors 200V ±800ppm/℃ ±1% 0Ω 1206 Chip Resistor - Surface Mount ROHS
+uni-royal(uniroyal elec)
+705728
+--
+1206W4F1003T5E
+250mW Thick Film Resistors 200V ±100ppm/℃ ±1% 100kΩ 1206 Chip Resistor - Surface Mount ROHS
+uni-royal(uniroyal elec)
+551731
+--
+1206W4F1000T5E
+250mW Thick Film Resistors 200V ±100ppm/℃ ±1% 100Ω 1206 Chip Resistor - Surface Mount ROHS
+uni-royal(uniroyal elec)
+1352059
+--
+1206W4F1002T5E
+250mW Thick Film Resistors 200V ±100ppm/℃ ±1% 10kΩ 1206 Chip Resistor - Surface Mount ROHS
+uni-royal(uniroyal elec)
+1365939
+--
+1206W4F100JT5E
+250mW Thick Film Resistors 200V ±1% ±400ppm/℃ 10Ω 1206 Chip Resistor - Surface Mount ROHS
+uni-royal(uniroyal elec)
+623179
+--
+1206W4F1200T5E
+250mW Thick Film Resistors 200V ±100ppm/℃ ±1% 120Ω 1206 Chip Resistor - Surface Mount ROHS
+uni-royal(uniroyal elec)
+323531
+--
+1206W4F1004T5E
+250mW Thick Film Resistors 200V ±100ppm/℃ ±1% 1MΩ 1206 Chip Resistor - Surface Mount ROHS
+uni-royal(uniroyal elec)
+997581
+--
+1206W4F100KT5E
+250mW Thick Film Resistors 200V ±800ppm/℃ ±1% 1Ω 1206 Chip Resistor - Surface Mount ROHS
+uni-royal(uniroyal elec)
+452897
+--
+1206W4F4701T5E
+250mW Thick Film Resistors 200V ±100ppm/℃ ±1% 4.7kΩ 1206 Chip Resistor - Surface Mount ROHS
+uni-royal(uniroyal elec)
+1208790
+--
+1206W4F2001T5E
+250mW Thick Film Resistors 200V ±100ppm/℃ ±1% 2kΩ 1206 Chip Resistor - Surface Mount ROHS
+uni-royal(uniroyal elec)
+357540
+--
+1206W4F200JT5E
+250mW Thick Film Resistors 200V ±100ppm/℃ ±1% 20Ω 1206 Chip Resistor - Surface Mount ROHS
+uni-royal(uniroyal elec)
+360725
+--
+1206W4F220JT5E
+250mW Thick Film Resistors 200V ±100ppm/℃ ±1% 22Ω 1206 Chip Resistor - Surface Mount ROHS
+uni-royal(uniroyal elec)
+243866
+--
+CL10A475KO8NNNC
+16V 4.7uF X5R ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+Samsung electro-mechanics
+3967849
+--
+CL10A106KP8NNNC
+10V 10uF X5R ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+Samsung electro-mechanics
+11336327
+--
+4D03WGJ0102T5E
+4 ±5% 1kΩ 62.5mW ±200ppm/℃ 0603x4 Resistor Networks, Arrays ROHS
+uni-royal(uniroyal elec)
+270451
+--
+MMBT3904(RANGE:100-300)
+40V 200mW 100@10mA,1V 200mA NPN SOT-23 Bipolar (BJT) ROHS
+Jiangsu Changjing Electronics Technology co., ltd.
+504794
+--
+AO3400A
+30V 5.7A 26.5mΩ@10V,5.7A 1.4W 1.5V@250uA 1 N-Channel SOT-23-3L MOSFETs ROHS
+Alpha & Omega Semicon
+842242
+--
+CL10B333KB8NNNC
+50V 33nF X7R ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+Samsung electro-mechanics
+568375
+--
+CL10B224KA8NNNC
+25V 220nF X7R ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+Samsung electro-mechanics
+871065
+--
+CL10B223KB8NNNC
+50V 22nF X7R ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+Samsung electro-mechanics
+886932
+--
+0603WAF0000T5E
+100mW Thick Film Resistors 75V ±1% 0Ω 0603 Chip Resistor - Surface Mount ROHS
+uni-royal(uniroyal elec)
+7625393
+--
+0603WAF1001T5E
+100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 1kΩ 0603 Chip Resistor - Surface Mount ROHS
+uni-royal(uniroyal elec)
+16405306
+--
+SS54
+40V Independent Type 550mV@5A 5A SMA(DO-214AC) Schottky Diodes ROHS
+mdd(microdiode semiconductor)
+533609
 --
 0603WAF1501T5E
-C22843
 100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 1.5kΩ 0603 Chip Resistor - Surface Mount ROHS
 uni-royal(uniroyal elec)
+1087713
 --
 0603WAF100JT5E
-C22859
 100mW Thick Film Resistors 75V ±1% ±400ppm/℃ 10Ω 0603 Chip Resistor - Surface Mount ROHS
 uni-royal(uniroyal elec)
+6825045
 --
 0603WAF1004T5E
-C22935
 100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 1MΩ 0603 Chip Resistor - Surface Mount ROHS
 uni-royal(uniroyal elec)
+3855974
 --
 0603WAF100KT5E
-C22936
 100mW Thick Film Resistors 75V ±1% ±400ppm/℃ 1Ω 0603 Chip Resistor - Surface Mount ROHS
 uni-royal(uniroyal elec)
+175504
 --
 0603WAF220KT5E
-C22939
 100mW Thick Film Resistors 75V ±1% ±400ppm/℃ 2.2Ω 0603 Chip Resistor - Surface Mount ROHS
 uni-royal(uniroyal elec)
+643578
 --
 0603WAF2401T5E
-C22940
 100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 2.4kΩ 0603 Chip Resistor - Surface Mount ROHS
 uni-royal(uniroyal elec)
+468642
 --
 0603WAF200JT5E
-C22950
 100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 20Ω 0603 Chip Resistor - Surface Mount ROHS
 uni-royal(uniroyal elec)
+779119
 --
 0603WAF2203T5E
-C22961
 100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 220kΩ 0603 Chip Resistor - Surface Mount ROHS
 uni-royal(uniroyal elec)
+214991
 --
 0603WAF2200T5E
-C22962
 100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 220Ω 0603 Chip Resistor - Surface Mount ROHS
 uni-royal(uniroyal elec)
+2118227
 --
 0603WAF2700T5E
-C22966
 100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 270Ω 0603 Chip Resistor - Surface Mount ROHS
 uni-royal(uniroyal elec)
+570751
 --
 0603WAF2702T5E
-C22967
 100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 27kΩ 0603 Chip Resistor - Surface Mount ROHS
 uni-royal(uniroyal elec)
+246755
 --
 0603WAF2001T5E
-C22975
 100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 2kΩ 0603 Chip Resistor - Surface Mount ROHS
 uni-royal(uniroyal elec)
+3412707
 --
 0603WAF2004T5E
-C22976
 100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 2MΩ 0603 Chip Resistor - Surface Mount ROHS
 uni-royal(uniroyal elec)
+787446
 --
 0603WAF200KT5E
-C22977
 100mW Thick Film Resistors 75V ±1% ±200ppm/℃ 2Ω 0603 Chip Resistor - Surface Mount ROHS
 uni-royal(uniroyal elec)
+256770
 --
 0603WAF3301T5E
-C22978
 100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 3.3kΩ 0603 Chip Resistor - Surface Mount ROHS
 uni-royal(uniroyal elec)
+2244866
 --
 0603WAF3601T5E
-C22980
 100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 3.6kΩ 0603 Chip Resistor - Surface Mount ROHS
 uni-royal(uniroyal elec)
+310720
 --
 0603WAF3002T5E
-C22984
 100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 30kΩ 0603 Chip Resistor - Surface Mount ROHS
 uni-royal(uniroyal elec)
+882930
 --
 0603WAF3901T5E
-C23018
 100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 3.9kΩ 0603 Chip Resistor - Surface Mount ROHS
 uni-royal(uniroyal elec)
+389503
 --
 0603WAF3003T5E
-C23024
 100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 300kΩ 0603 Chip Resistor - Surface Mount ROHS
 uni-royal(uniroyal elec)
+435313
 --
 0603WAF3000T5E
-C23025
 100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 300Ω 0603 Chip Resistor - Surface Mount ROHS
 uni-royal(uniroyal elec)
+580415
 --
 0603WAF4991T5E
-C23046
 100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 4.99kΩ 0603 Chip Resistor - Surface Mount ROHS
 uni-royal(uniroyal elec)
+325909
 --
 0603WAF3303T5E
-C23137
 100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 330kΩ 0603 Chip Resistor - Surface Mount ROHS
 uni-royal(uniroyal elec)
+601480
 --
 0603WAF3300T5E
-C23138
 100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 330Ω 0603 Chip Resistor - Surface Mount ROHS
 uni-royal(uniroyal elec)
+2619038
 --
 0603WAF330JT5E
-C23140
 100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 33Ω 0603 Chip Resistor - Surface Mount ROHS
 uni-royal(uniroyal elec)
+1850066
 --
 0603WAF3900T5E
-C23151
 100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 390Ω 0603 Chip Resistor - Surface Mount ROHS
 uni-royal(uniroyal elec)
+183218
 --
 0603WAF3902T5E
-C23153
 100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 39kΩ 0603 Chip Resistor - Surface Mount ROHS
 uni-royal(uniroyal elec)
+448356
 --
 0603WAF4701T5E
-C23162
 100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 4.7kΩ 0603 Chip Resistor - Surface Mount ROHS
 uni-royal(uniroyal elec)
+5243318
 --
 0603WAF470KT5E
-C23164
 100mW Thick Film Resistors 75V ±1% ±400ppm/℃ 4.7Ω 0603 Chip Resistor - Surface Mount ROHS
 uni-royal(uniroyal elec)
+441575
 --
 0603WAF4703T5E
-C23178
 100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 470kΩ 0603 Chip Resistor - Surface Mount ROHS
 uni-royal(uniroyal elec)
+521705
 --
 0603WAF4700T5E
-C23179
 100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 470Ω 0603 Chip Resistor - Surface Mount ROHS
 uni-royal(uniroyal elec)
+2540762
 --
 0603WAF470JT5E
-C23182
 100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 47Ω 0603 Chip Resistor - Surface Mount ROHS
 uni-royal(uniroyal elec)
+764145
 --
 0603WAF4992T5E
-C23184
 100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 49.9kΩ 0603 Chip Resistor - Surface Mount ROHS
 uni-royal(uniroyal elec)
+127142
 --
 0603WAF499JT5E
-C23185
 100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 49.9Ω 0603 Chip Resistor - Surface Mount ROHS
 uni-royal(uniroyal elec)
+1800221
 --
 0603WAF5101T5E
-C23186
 100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 5.1kΩ 0603 Chip Resistor - Surface Mount ROHS
 uni-royal(uniroyal elec)
+3931502
 --
 0603WAF5601T5E
-C23189
 100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 5.6kΩ 0603 Chip Resistor - Surface Mount ROHS
 uni-royal(uniroyal elec)
+604934
 --
 0603WAF5103T5E
-C23192
 100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 510kΩ 0603 Chip Resistor - Surface Mount ROHS
 uni-royal(uniroyal elec)
+559305
 --
 0603WAF5100T5E
-C23193
 100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 510Ω 0603 Chip Resistor - Surface Mount ROHS
 uni-royal(uniroyal elec)
+1406478
 --
 0603WAF5102T5E
-C23196
 100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 51kΩ 0603 Chip Resistor - Surface Mount ROHS
 uni-royal(uniroyal elec)
+1364089
 --
 0603WAF510JT5E
-C23197
 100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 51Ω 0603 Chip Resistor - Surface Mount ROHS
 uni-royal(uniroyal elec)
+1049547
 --
 0603WAF5600T5E
-C23204
 100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 560Ω 0603 Chip Resistor - Surface Mount ROHS
 uni-royal(uniroyal elec)
+297133
 --
 0603WAF5602T5E
-C23206
 100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 56kΩ 0603 Chip Resistor - Surface Mount ROHS
 uni-royal(uniroyal elec)
+273603
 --
 0603WAF6801T5E
-C23212
 100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 6.8kΩ 0603 Chip Resistor - Surface Mount ROHS
 uni-royal(uniroyal elec)
+787577
 --
 0603WAF6800T5E
-C23228
 100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 680Ω 0603 Chip Resistor - Surface Mount ROHS
 uni-royal(uniroyal elec)
+550158
 --
 0603WAF6802T5E
-C23231
 100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 68kΩ 0603 Chip Resistor - Surface Mount ROHS
 uni-royal(uniroyal elec)
+242385
 --
 0603WAF7501T5E
-C23234
 100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 7.5kΩ 0603 Chip Resistor - Surface Mount ROHS
 uni-royal(uniroyal elec)
+423033
 --
 0603WAF7502T5E
-C23242
 100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 75kΩ 0603 Chip Resistor - Surface Mount ROHS
 uni-royal(uniroyal elec)
+69782
 --
 0603WAF8200T5E
-C23253
 100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 820Ω 0603 Chip Resistor - Surface Mount ROHS
 uni-royal(uniroyal elec)
+109574
 --
 0603WAF8202T5E
-C23254
 100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 82kΩ 0603 Chip Resistor - Surface Mount ROHS
 uni-royal(uniroyal elec)
+410562
 --
 0603WAF9101T5E
-C23260
 100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 9.1kΩ 0603 Chip Resistor - Surface Mount ROHS
 uni-royal(uniroyal elec)
+166010
 --
 0603WAF220JT5E
-C23345
 100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 22Ω 0603 Chip Resistor - Surface Mount ROHS
 uni-royal(uniroyal elec)
+3824216
 --
 0603WAF2402T5E
-C23352
 100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 24kΩ 0603 Chip Resistor - Surface Mount ROHS
 uni-royal(uniroyal elec)
+355202
 --
 CL10A225KO8NNNC
-C23630
 16V 2.2uF X5R ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
 Samsung electro-mechanics
+2915719
 --
 CL05A475MP5NRNC
-C23733
 10V 4.7uF X5R ±20% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
 Samsung electro-mechanics
+1292635
 --
 CL31B104KBCNNNC
-C24497
 50V 100nF X7R ±10% 1206 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
 Samsung electro-mechanics
+1775574
 --
 0402WGF1000TCE
-C25076
 62.5mW Thick Film Resistors 50V ±1% ±200ppm/℃ 100Ω 0402 Chip Resistor - Surface Mount ROHS
 uni-royal(uniroyal elec)
+1984408
 --
 0402WGF100JTCE
-C25077
 62.5mW Thick Film Resistors 50V ±1% ±200ppm/℃ 10Ω 0402 Chip Resistor - Surface Mount ROHS
 uni-royal(uniroyal elec)
+1169839
 --
 0402WGF1200TCE
-C25079
 62.5mW Thick Film Resistors 50V ±100ppm/℃ ±1% 120Ω 0402 Chip Resistor - Surface Mount ROHS
 uni-royal(uniroyal elec)
+471773
 --
 0402WGF2000TCE
-C25087
 62.5mW Thick Film Resistors 50V ±100ppm/℃ ±1% 200Ω 0402 Chip Resistor - Surface Mount ROHS
 uni-royal(uniroyal elec)
+531156
 --
 0402WGF2200TCE
-C25091
 62.5mW Thick Film Resistors 50V ±100ppm/℃ ±1% 220Ω 0402 Chip Resistor - Surface Mount ROHS
 uni-royal(uniroyal elec)
+744446
 --
 0402WGF220JTCE
-C25092
 62.5mW Thick Film Resistors 50V ±1% ±100ppm/℃ 22Ω 0402 Chip Resistor - Surface Mount ROHS
 uni-royal(uniroyal elec)
+925533
 --
 0402WGF3300TCE
-C25104
 62.5mW Thick Film Resistors 50V ±100ppm/℃ ±1% 330Ω 0402 Chip Resistor - Surface Mount ROHS
 uni-royal(uniroyal elec)
+586824
 --
 0402WGF330JTCE
-C25105
 62.5mW Thick Film Resistors 50V ±100ppm/℃ ±1% 33Ω 0402 Chip Resistor - Surface Mount ROHS
 uni-royal(uniroyal elec)
+2235972
 --
 0402WGF4700TCE
-C25117
 62.5mW Thick Film Resistors 50V ±100ppm/℃ ±1% 470Ω 0402 Chip Resistor - Surface Mount ROHS
 uni-royal(uniroyal elec)
+2634644
 --
 0402WGF499JTCE
-C25120
 62.5mW Thick Film Resistors 50V ±100ppm/℃ ±1% 49.9Ω 0402 Chip Resistor - Surface Mount ROHS
 uni-royal(uniroyal elec)
+485936
 --
 0402WGF5100TCE
-C25123
 62.5mW Thick Film Resistors 50V ±100ppm/℃ ±1% 510Ω 0402 Chip Resistor - Surface Mount ROHS
 uni-royal(uniroyal elec)
+550676
 --
 0603WAF510KT5E
-C25197
 100mW Thick Film Resistors 75V ±1% ±200ppm/℃ 5.1Ω 0603 Chip Resistor - Surface Mount ROHS
 uni-royal(uniroyal elec)
+313855
 --
 0805W8F100KT5E
-C25271
 125mW Thick Film Resistors 150V ±1% ±400ppm/℃ 1Ω 0805 Chip Resistor - Surface Mount ROHS
 uni-royal(uniroyal elec)
+438001
 --
 1206W4F100LT5E
-C25334
 250mW Thick Film Resistors 200V ±800ppm/℃ ±1% 100mΩ 1206 Chip Resistor - Surface Mount ROHS
 uni-royal(uniroyal elec)
+252090
 --
 0402WGF1003TCE
-C25741
 62.5mW Thick Film Resistors 50V ±100ppm/℃ ±1% 100kΩ 0402 Chip Resistor - Surface Mount ROHS
 uni-royal(uniroyal elec)
+6536239
 --
 0402WGF1002TCE
-C25744
 62.5mW Thick Film Resistors 50V ±100ppm/℃ ±1% 10kΩ 0402 Chip Resistor - Surface Mount ROHS
 uni-royal(uniroyal elec)
+20778636
 --
 0402WGF1202TCE
-C25752
 62.5mW Thick Film Resistors 50V ±100ppm/℃ ±1% 12kΩ 0402 Chip Resistor - Surface Mount ROHS
 uni-royal(uniroyal elec)
+552546
 --
 0402WGF1502TCE
-C25756
 62.5mW Thick Film Resistors 50V ±100ppm/℃ ±1% 15kΩ 0402 Chip Resistor - Surface Mount ROHS
 uni-royal(uniroyal elec)
+436052
 --
 0402WGF2003TCE
-C25764
 62.5mW Thick Film Resistors 50V ±100ppm/℃ ±1% 200kΩ 0402 Chip Resistor - Surface Mount ROHS
 uni-royal(uniroyal elec)
+439577
 --
 0402WGF2002TCE
-C25765
 62.5mW Thick Film Resistors 50V ±100ppm/℃ ±1% 20kΩ 0402 Chip Resistor - Surface Mount ROHS
 uni-royal(uniroyal elec)
+1759340
 --
 0402WGF2202TCE
-C25768
 62.5mW Thick Film Resistors 50V ±100ppm/℃ ±1% 22kΩ 0402 Chip Resistor - Surface Mount ROHS
 uni-royal(uniroyal elec)
+597939
 --
 0402WGF3302TCE
-C25779
 62.5mW Thick Film Resistors 50V ±100ppm/℃ ±1% 33kΩ 0402 Chip Resistor - Surface Mount ROHS
 uni-royal(uniroyal elec)
+621135
 --
 0402WGF4702TCE
-C25792
 62.5mW Thick Film Resistors 50V ±100ppm/℃ ±1% 47kΩ 0402 Chip Resistor - Surface Mount ROHS
 uni-royal(uniroyal elec)
+2877520
 --
 0402WGF5102TCE
-C25794
 62.5mW Thick Film Resistors 50V ±100ppm/℃ ±1% 51kΩ 0402 Chip Resistor - Surface Mount ROHS
 uni-royal(uniroyal elec)
+1601501
 --
 0603WAF1003T5E
-C25803
 100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 100kΩ 0603 Chip Resistor - Surface Mount ROHS
 uni-royal(uniroyal elec)
+5499672
 --
 0603WAF1002T5E
-C25804
 100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 10kΩ 0603 Chip Resistor - Surface Mount ROHS
 uni-royal(uniroyal elec)
+24774151
 --
 0603WAF1203T5E
-C25808
 100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 120kΩ 0603 Chip Resistor - Surface Mount ROHS
 uni-royal(uniroyal elec)
+337272
 --
 0603WAF1802T5E
-C25810
 100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 18kΩ 0603 Chip Resistor - Surface Mount ROHS
 uni-royal(uniroyal elec)
+665607
 --
 0603WAF2003T5E
-C25811
 100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 200kΩ 0603 Chip Resistor - Surface Mount ROHS
 uni-royal(uniroyal elec)
+734386
 --
 0603WAF4702T5E
-C25819
 100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 47kΩ 0603 Chip Resistor - Surface Mount ROHS
 uni-royal(uniroyal elec)
+1149475
 --
 0402WGF1501TCE
-C25867
 62.5mW Thick Film Resistors 50V ±100ppm/℃ ±1% 1.5kΩ 0402 Chip Resistor - Surface Mount ROHS
 uni-royal(uniroyal elec)
+811428
 --
 0402WGF2201TCE
-C25879
 62.5mW Thick Film Resistors 50V ±100ppm/℃ ±1% 2.2kΩ 0402 Chip Resistor - Surface Mount ROHS
 uni-royal(uniroyal elec)
+1820111
 --
 0402WGF3301TCE
-C25890
 62.5mW Thick Film Resistors 50V ±100ppm/℃ ±1% 3.3kΩ 0402 Chip Resistor - Surface Mount ROHS
 uni-royal(uniroyal elec)
+940533
 --
 0402WGF4701TCE
-C25900
 62.5mW Thick Film Resistors 50V ±100ppm/℃ ±1% 4.7kΩ 0402 Chip Resistor - Surface Mount ROHS
 uni-royal(uniroyal elec)
+5689957
 --
 0402WGF5101TCE
-C25905
 62.5mW Thick Film Resistors 50V ±100ppm/℃ ±1% 5.1kΩ 0402 Chip Resistor - Surface Mount ROHS
 uni-royal(uniroyal elec)
+3495819
 --
 0603WAF8201T5E
-C25981
 100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 8.2kΩ 0603 Chip Resistor - Surface Mount ROHS
 uni-royal(uniroyal elec)
+243118
 --
 0805W8F3301T5E
-C26010
 125mW Thick Film Resistors 150V ±100ppm/℃ ±1% 3.3kΩ 0805 Chip Resistor - Surface Mount ROHS
 uni-royal(uniroyal elec)
+445028
 --
 0402WGF1004TCE
-C26083
 62.5mW Thick Film Resistors 50V ±100ppm/℃ ±1% 1MΩ 0402 Chip Resistor - Surface Mount ROHS
 uni-royal(uniroyal elec)
+1140389
 --
 0805W8F5101T5E
-C27834
 125mW Thick Film Resistors 150V ±100ppm/℃ ±1% 5.1kΩ 0805 Chip Resistor - Surface Mount ROHS
 uni-royal(uniroyal elec)
+1383938
 --
 CL21B104KCFNNNE
-C28233
 100V 100nF X7R ±10% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
 Samsung electro-mechanics
+1806548
 --
 CL21C222JBFNNNE
-C28260
 50V 2.2nF C0G ±5% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
 Samsung electro-mechanics
+133193
 --
 CL21B105KBFNNNE
-C28323
 50V 1uF X7R ±10% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
 Samsung electro-mechanics
+5533424
 --
 0805W8F5600T5E
-C28636
 125mW Thick Film Resistors 150V ±100ppm/℃ ±1% 560Ω 0805 Chip Resistor - Surface Mount ROHS
 uni-royal(uniroyal elec)
+128892
 --
 4D03WGJ0103T5E
-C29718
 4 ±5% 10kΩ 62.5mW ±200ppm/℃ 0603x4 Resistor Networks, Arrays ROHS
 uni-royal(uniroyal elec)
+533775
 --
 1206B475K500NT
-C29823
 50V 4.7uF X7R ±10% 1206 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
 Fh (guangdong Fenghua Advanced tech)
+584988
 --
 0603WAF2202T5E
-C31850
 100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 22kΩ 0603 Chip Resistor - Surface Mount ROHS
 uni-royal(uniroyal elec)
+1421207
 --
 Q13FC13500004
-C32346
 32.768kHz Surface Mount Crystal 12.5pF ±20ppm SMD3215-2P Crystals ROHS
 Seiko Epson
+406273
 --
 PSM712-LF-T7
-C32677
 19V 13.3V 12V SOT-23 ESD and Surge Protection (TVS/ESD) ROHS
 Protek Devices
+128710
 --
 CL05C100JB5NNNC
-C32949
 50V 10pF C0G ±5% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
 Samsung electro-mechanics
+1124700
 --
 KT-0805W
-C34499
 0805 LED Indication - Discrete ROHS
 Hubei Kento Elec
+412243
 --
 CL10C120JB8NNNC
-C38523
 50V 12pF C0G ±5% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
 Samsung electro-mechanics
+369960
 --
 CL21A226MAQNNNE
-C45783
 25V 22uF X5R ±20% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
 Samsung electro-mechanics
+2311527
 --
 CL21B102KBCNNNC
-C46653
 50V 1nF X7R ±10% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
 Samsung electro-mechanics
+963296
 --
 CC0805KRX7R9BB104
-C49678
 50V 100nF X7R ±10% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
 Yageo
+11625124
 --
 CL31B225KBHNNNE
-C50254
 50V 2.2uF X7R ±10% 1206 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
 Samsung electro-mechanics
+345899
 --
 CL05A105KA5NQNC
-C52923
 25V 1uF X5R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
 Samsung electro-mechanics
+6873999
 --
 CL21B473KBCNNNC
-C53134
 50V 47nF X7R ±10% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
 Samsung electro-mechanics
+47896
 --
 0603B472K500NT
-C53987
 50V 4.7nF X7R ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
 Fh (guangdong Fenghua Advanced tech)
+448872
 --
 0603B103K500NT
-C57112
 50V 10nF X7R ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
 Fh (guangdong Fenghua Advanced tech)
+5701690
 --
 L78M05ABDT-TR
-C58069
 62dB@(120Hz) 500mA Fixed 5V Positive electrode 35V TO-252-2(DPAK) Voltage Regulators - Linear, Low Drop Out (LDO) Regulators ROHS
 Stmicroelectronics
+262957
 --
 CL10A226MQ8NRNC
-C59461
 6.3V 22uF X5R ±20% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
 Samsung electro-mechanics
+5627332
 --
 XL1509-5.0E1
-C61063
 Step-down type 2A 4.5V~40V SOIC-8 DC-DC Converters ROHS
 Xlsemi
+60472
 --
 SM4007PL
-C64898
 1A Independent Type 1kV 1.1V@1A SOD-123FL Diodes - General Purpose ROHS
 mdd(microdiode semiconductor)
+1511651
 --
 BAV70
-C68978
 70V 1 pair of common cathodes 1.25V@150mA 6ns 200mA SOT-23 Switching Diodes ROHS
 Jiangsu Changjing Electronics Technology co., ltd.
+98012
 --
 LM324DT
-C71035
 Quad 20nA 0.4V/us 1.3MHz SOIC-14 Operational Amplifier ROHS
 Stmicroelectronics
+266938
 --
 78L05G-AB3-R
-C71136
 100mA Fixed 5V Positive electrode 30V SOT-89-3 Voltage Regulators - Linear, Low Drop Out (LDO) Regulators ROHS
 utc(unisonic tech)
+55023
 --
 P6SMB6.8CA/TR13
-C78395
 58.1A 600W 10.5V 6.45V 5.8V SMB(DO-214AA) ESD and Surge Protection (TVS/ESD) ROHS
 Brightking
+177147
 --
 1N4148W
-C81598
 75V Independent Type 1V@50mA 4ns 150mA SOD-123 Switching Diodes ROHS
 st(semtech)
+1619125
 --
 NCD0805R1
-C84256
 25mA Colorless transparent lens 67mcd~195mcd -30℃~+85℃ 615nm~630nm Individual diode Red 130° 65mW 1.6V~2.6V 0805 LED Indication - Discrete ROHS
 Foshan Nationstar Optoelectronics
+2059766
 --
 M7
-C95872
 1A Independent Type 1kV 1.1V@1A SMA(DO-214AC) Diodes - General Purpose ROHS
 mdd(microdiode semiconductor)
+3117781
 --
 CL31A476MPHNNNE
-C96123
 10V 47uF X5R ±20% 1206 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
 Samsung electro-mechanics
+651711
 --
 CL10A106MA8NRNC
-C96446
 25V 10uF X5R ±20% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
 Samsung electro-mechanics
+3531108
 --
 W25Q128JVSIQ
-C97521
 128Mbit SOIC-8-208mil NOR FLASH ROHS
 Winbond Elec
+255320
 --
 S8550(RANGE:120-200)
-C105432
 25V 300mW 120@50mA,1V 500mA PNP SOT-23 Bipolar (BJT) ROHS
 Jiangsu Changjing Electronics Technology co., ltd.
+199200
 --
 CC0805KRX7R9BB221
-C107145
 50V 220pF X7R ±10% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
 Yageo
+129851
 --
 X50328MSB2GI
-C115962
 8MHz Surface Mount Crystal 20pF ±10ppm ±20ppm SMD5032 Crystals ROHS
 Yxc Crystal Oscillators
+308406
 --
 0805W8F1003T5E
-C149504
 125mW Thick Film Resistors 150V ±100ppm/℃ ±1% 100kΩ 0805 Chip Resistor - Surface Mount ROHS
 uni-royal(uniroyal elec)
+1217083
 --
 1N5819WS
-C191023
 40V 600mV@1A 1A SOD-323 Schottky Diodes ROHS
 Guangdong Hottech
+788991
 --
 CL05B104KB54PNC
-C307331
 50V 100nF X7R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
 Samsung electro-mechanics
+8595919
 --
 TS-1187A-B-A-B
-C318884
 None Without 50mA 5.1mm 100000 Times 160gf 12V 5.1mm 1.5mm Round Button Standing paste SPST SMD Tactile Switches ROHS
 Xkb Connection
+329901
 --
 CL21A225KBQNNNE
-C377773
 50V 2.2uF X5R ±10% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
 Samsung electro-mechanics
+395328
 --
 US1M
-C412437
 1.65V@1A 75ns Independent Type 1A 1kV SMA Fast Recovery / High Efficiency Diodes ROHS
 mdd(microdiode semiconductor)
+809404
 --
 GRM21BR61H106KE43L
-C440198
 50V 10uF X5R ±10% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
 Murata Electronics
+804420
 --
 0603B822K500NT
-C1322360
 50V 8.2nF X7R ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
 Fh (guangdong Fenghua Advanced tech)
+24299
 --
-0603WAF1201T5E
-C22765
-100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 1.2kΩ 0603 Chip Resistor - Surface Mount ROHS
+1206W4F1200T5E_C17909
+250mW Thick Film Resistors 200V ±100ppm/℃ ±1% 120Ω 1206 Chip Resistor - Surface Mount ROHS
 uni-royal(uniroyal elec)
+323531
+--
+0805W8F1003T5E_C149504
+125mW Thick Film Resistors 150V ±100ppm/℃ ±1% 100kΩ 0805 Chip Resistor - Surface Mount ROHS
+uni-royal(uniroyal elec)
+1217083
 --
 0603WAF1000T5E
-C22775
 100mW Thick Film Resistors 75V ±1% ±200ppm/℃ 100Ω 0603 Chip Resistor - Surface Mount ROHS
 uni-royal(uniroyal elec)
+8538688
 --
-0603WAF1200T5E
-C22787
-100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 120Ω 0603 Chip Resistor - Surface Mount ROHS
+603WAF1201T5E
+100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 1.2kΩ 0603 Chip Resistor - Surface Mount ROHS
 uni-royal(uniroyal elec)
+1117769
 --
 0603WAF1202T5E
-C22790
 100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 12kΩ 0603 Chip Resistor - Surface Mount ROHS
 uni-royal(uniroyal elec)
+891635
 --
 0603WAF1302T5E
-C22797
 100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 13kΩ 0603 Chip Resistor - Surface Mount ROHS
 uni-royal(uniroyal elec)
---
-0603WAF1503T5E
-C22807
-100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 150kΩ 0603 Chip Resistor - Surface Mount ROHS
-uni-royal(uniroyal elec)
+300459
 --
 0603WAF1500T5E
-C22808
 100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 150Ω 0603 Chip Resistor - Surface Mount ROHS
 uni-royal(uniroyal elec)
+561660
 --
 0603WAF1502T5E
-C22809
 100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 15kΩ 0603 Chip Resistor - Surface Mount ROHS
 uni-royal(uniroyal elec)
+978265
 --
-0603WAF1501T5E
-C22843
-100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 1.5kΩ 0603 Chip Resistor - Surface Mount ROHS
+03WAF1503T5E
+100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 150kΩ 0603 Chip Resistor - Surface Mount ROHS
 uni-royal(uniroyal elec)
+567552
 --
-0603WAF100JT5E
-C22859
-100mW Thick Film Resistors 75V ±1% ±400ppm/℃ 10Ω 0603 Chip Resistor - Surface Mount ROHS
+03WAF1201T5E
+100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 1.2kΩ 0603 Chip Resistor - Surface Mount ROHS
 uni-royal(uniroyal elec)
+1117769
 --
-0603WAF1004T5E
-C22935
-100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 1MΩ 0603 Chip Resistor - Surface Mount ROHS
+0603WAF1503T5E
+100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 150kΩ 0603 Chip Resistor - Surface Mount ROHS
 uni-royal(uniroyal elec)
+567552
 --
-0603WAF100KT5E
-C22936
-100mW Thick Film Resistors 75V ±1% ±400ppm/℃ 1Ω 0603 Chip Resistor - Surface Mount ROHS
+0603WAF1201T5E
+100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 1.2kΩ 0603 Chip Resistor - Surface Mount ROHS
 uni-royal(uniroyal elec)
---
-0603WAF220KT5E
-C22939
-100mW Thick Film Resistors 75V ±1% ±400ppm/℃ 2.2Ω 0603 Chip Resistor - Surface Mount ROHS
-uni-royal(uniroyal elec)
---
-0603WAF2401T5E
-C22940
-100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 2.4kΩ 0603 Chip Resistor - Surface Mount ROHS
-uni-royal(uniroyal elec)
---
-0603WAF200JT5E
-C22950
-100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 20Ω 0603 Chip Resistor - Surface Mount ROHS
-uni-royal(uniroyal elec)
---
-0603WAF2203T5E
-C22961
-100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 220kΩ 0603 Chip Resistor - Surface Mount ROHS
-uni-royal(uniroyal elec)
---
-0603WAF2200T5E
-C22962
-100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 220Ω 0603 Chip Resistor - Surface Mount ROHS
-uni-royal(uniroyal elec)
---
-0603WAF2700T5E
-C22966
-100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 270Ω 0603 Chip Resistor - Surface Mount ROHS
-uni-royal(uniroyal elec)
---
-0603WAF2702T5E
-C22967
-100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 27kΩ 0603 Chip Resistor - Surface Mount ROHS
-uni-royal(uniroyal elec)
---
-0603WAF2001T5E
-C22975
-100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 2kΩ 0603 Chip Resistor - Surface Mount ROHS
-uni-royal(uniroyal elec)
---
-0603WAF2004T5E
-C22976
-100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 2MΩ 0603 Chip Resistor - Surface Mount ROHS
-uni-royal(uniroyal elec)
---
-0603WAF200KT5E
-C22977
-100mW Thick Film Resistors 75V ±1% ±200ppm/℃ 2Ω 0603 Chip Resistor - Surface Mount ROHS
-uni-royal(uniroyal elec)
---
-0603WAF3301T5E
-C22978
-100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 3.3kΩ 0603 Chip Resistor - Surface Mount ROHS
-uni-royal(uniroyal elec)
---
-0603WAF3601T5E
-C22980
-100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 3.6kΩ 0603 Chip Resistor - Surface Mount ROHS
-uni-royal(uniroyal elec)
---
-0603WAF3002T5E
-C22984
-100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 30kΩ 0603 Chip Resistor - Surface Mount ROHS
-uni-royal(uniroyal elec)
---
-0603WAF3901T5E
-C23018
-100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 3.9kΩ 0603 Chip Resistor - Surface Mount ROHS
-uni-royal(uniroyal elec)
---
-0603WAF3003T5E
-C23024
-100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 300kΩ 0603 Chip Resistor - Surface Mount ROHS
-uni-royal(uniroyal elec)
---
-0603WAF3000T5E
-C23025
-100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 300Ω 0603 Chip Resistor - Surface Mount ROHS
-uni-royal(uniroyal elec)
---
-0603WAF4991T5E
-C23046
-100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 4.99kΩ 0603 Chip Resistor - Surface Mount ROHS
-uni-royal(uniroyal elec)
---
-0603WAF3303T5E
-C23137
-100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 330kΩ 0603 Chip Resistor - Surface Mount ROHS
-uni-royal(uniroyal elec)
---
-0603WAF3300T5E
-C23138
-100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 330Ω 0603 Chip Resistor - Surface Mount ROHS
-uni-royal(uniroyal elec)
---
-0603WAF330JT5E
-C23140
-100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 33Ω 0603 Chip Resistor - Surface Mount ROHS
-uni-royal(uniroyal elec)
---
-0603WAF3900T5E
-C23151
-100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 390Ω 0603 Chip Resistor - Surface Mount ROHS
-uni-royal(uniroyal elec)
---
-0603WAF3902T5E
-C23153
-100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 39kΩ 0603 Chip Resistor - Surface Mount ROHS
-uni-royal(uniroyal elec)
---
-0603WAF4701T5E
-C23162
-100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 4.7kΩ 0603 Chip Resistor - Surface Mount ROHS
-uni-royal(uniroyal elec)
---
-0603WAF470KT5E
-C23164
-100mW Thick Film Resistors 75V ±1% ±400ppm/℃ 4.7Ω 0603 Chip Resistor - Surface Mount ROHS
-uni-royal(uniroyal elec)
---
-0603WAF4703T5E
-C23178
-100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 470kΩ 0603 Chip Resistor - Surface Mount ROHS
-uni-royal(uniroyal elec)
---
-0603WAF4700T5E
-C23179
-100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 470Ω 0603 Chip Resistor - Surface Mount ROHS
-uni-royal(uniroyal elec)
---
-0603WAF470JT5E
-C23182
-100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 47Ω 0603 Chip Resistor - Surface Mount ROHS
-uni-royal(uniroyal elec)
---
-0603WAF4992T5E
-C23184
-100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 49.9kΩ 0603 Chip Resistor - Surface Mount ROHS
-uni-royal(uniroyal elec)
---
-0603WAF499JT5E
-C23185
-100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 49.9Ω 0603 Chip Resistor - Surface Mount ROHS
-uni-royal(uniroyal elec)
---
-0603WAF5101T5E
-C23186
-100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 5.1kΩ 0603 Chip Resistor - Surface Mount ROHS
-uni-royal(uniroyal elec)
---
-0603WAF5601T5E
-C23189
-100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 5.6kΩ 0603 Chip Resistor - Surface Mount ROHS
-uni-royal(uniroyal elec)
---
-0603WAF5103T5E
-C23192
-100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 510kΩ 0603 Chip Resistor - Surface Mount ROHS
-uni-royal(uniroyal elec)
---
-0603WAF5100T5E
-C23193
-100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 510Ω 0603 Chip Resistor - Surface Mount ROHS
-uni-royal(uniroyal elec)
---
-0603WAF5102T5E
-C23196
-100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 51kΩ 0603 Chip Resistor - Surface Mount ROHS
-uni-royal(uniroyal elec)
---
-0603WAF510JT5E
-C23197
-100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 51Ω 0603 Chip Resistor - Surface Mount ROHS
-uni-royal(uniroyal elec)
---
-0603WAF5600T5E
-C23204
-100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 560Ω 0603 Chip Resistor - Surface Mount ROHS
-uni-royal(uniroyal elec)
---
-0603WAF5602T5E
-C23206
-100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 56kΩ 0603 Chip Resistor - Surface Mount ROHS
-uni-royal(uniroyal elec)
---
-0603WAF6801T5E
-C23212
-100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 6.8kΩ 0603 Chip Resistor - Surface Mount ROHS
-uni-royal(uniroyal elec)
---
-0603WAF6800T5E
-C23228
-100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 680Ω 0603 Chip Resistor - Surface Mount ROHS
-uni-royal(uniroyal elec)
---
-0603WAF6802T5E
-C23231
-100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 68kΩ 0603 Chip Resistor - Surface Mount ROHS
-uni-royal(uniroyal elec)
---
-0603WAF7501T5E
-C23234
-100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 7.5kΩ 0603 Chip Resistor - Surface Mount ROHS
-uni-royal(uniroyal elec)
---
-0603WAF7502T5E
-C23242
-100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 75kΩ 0603 Chip Resistor - Surface Mount ROHS
-uni-royal(uniroyal elec)
---
-0603WAF8200T5E
-C23253
-100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 820Ω 0603 Chip Resistor - Surface Mount ROHS
-uni-royal(uniroyal elec)
---
-0603WAF8202T5E
-C23254
-100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 82kΩ 0603 Chip Resistor - Surface Mount ROHS
-uni-royal(uniroyal elec)
---
-0603WAF9101T5E
-C23260
-100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 9.1kΩ 0603 Chip Resistor - Surface Mount ROHS
-uni-royal(uniroyal elec)
---
-0603WAF220JT5E
-C23345
-100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 22Ω 0603 Chip Resistor - Surface Mount ROHS
-uni-royal(uniroyal elec)
---
-0603WAF2402T5E
-C23352
-100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 24kΩ 0603 Chip Resistor - Surface Mount ROHS
-uni-royal(uniroyal elec)
---
-CL10A225KO8NNNC
-C23630
-16V 2.2uF X5R ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
-Samsung electro-mechanics
---
-CL05A475MP5NRNC
-C23733
-10V 4.7uF X5R ±20% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
-Samsung electro-mechanics
---
-CL31B104KBCNNNC
-C24497
-50V 100nF X7R ±10% 1206 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
-Samsung electro-mechanics
---
-0402WGF1000TCE
-C25076
-62.5mW Thick Film Resistors 50V ±1% ±200ppm/℃ 100Ω 0402 Chip Resistor - Surface Mount ROHS
-uni-royal(uniroyal elec)
---
-0402WGF100JTCE
-C25077
-62.5mW Thick Film Resistors 50V ±1% ±200ppm/℃ 10Ω 0402 Chip Resistor - Surface Mount ROHS
-uni-royal(uniroyal elec)
---
-0402WGF1200TCE
-C25079
-62.5mW Thick Film Resistors 50V ±100ppm/℃ ±1% 120Ω 0402 Chip Resistor - Surface Mount ROHS
-uni-royal(uniroyal elec)
---
-0402WGF2000TCE
-C25087
-62.5mW Thick Film Resistors 50V ±100ppm/℃ ±1% 200Ω 0402 Chip Resistor - Surface Mount ROHS
-uni-royal(uniroyal elec)
---
-0402WGF2200TCE
-C25091
-62.5mW Thick Film Resistors 50V ±100ppm/℃ ±1% 220Ω 0402 Chip Resistor - Surface Mount ROHS
-uni-royal(uniroyal elec)
---
-0402WGF220JTCE
-C25092
-62.5mW Thick Film Resistors 50V ±1% ±100ppm/℃ 22Ω 0402 Chip Resistor - Surface Mount ROHS
-uni-royal(uniroyal elec)
---
-0402WGF3300TCE
-C25104
-62.5mW Thick Film Resistors 50V ±100ppm/℃ ±1% 330Ω 0402 Chip Resistor - Surface Mount ROHS
-uni-royal(uniroyal elec)
---
-0402WGF330JTCE
-C25105
-62.5mW Thick Film Resistors 50V ±100ppm/℃ ±1% 33Ω 0402 Chip Resistor - Surface Mount ROHS
-uni-royal(uniroyal elec)
---
-0402WGF4700TCE
-C25117
-62.5mW Thick Film Resistors 50V ±100ppm/℃ ±1% 470Ω 0402 Chip Resistor - Surface Mount ROHS
-uni-royal(uniroyal elec)
---
-0402WGF499JTCE
-C25120
-62.5mW Thick Film Resistors 50V ±100ppm/℃ ±1% 49.9Ω 0402 Chip Resistor - Surface Mount ROHS
-uni-royal(uniroyal elec)
---
-0402WGF5100TCE
-C25123
-62.5mW Thick Film Resistors 50V ±100ppm/℃ ±1% 510Ω 0402 Chip Resistor - Surface Mount ROHS
-uni-royal(uniroyal elec)
---
-0603WAF510KT5E
-C25197
-100mW Thick Film Resistors 75V ±1% ±200ppm/℃ 5.1Ω 0603 Chip Resistor - Surface Mount ROHS
-uni-royal(uniroyal elec)
---
-0805W8F100KT5E
-C25271
-125mW Thick Film Resistors 150V ±1% ±400ppm/℃ 1Ω 0805 Chip Resistor - Surface Mount ROHS
-uni-royal(uniroyal elec)
---
-1206W4F100LT5E
-C25334
-250mW Thick Film Resistors 200V ±800ppm/℃ ±1% 100mΩ 1206 Chip Resistor - Surface Mount ROHS
-uni-royal(uniroyal elec)
---
-0402WGF1003TCE
-C25741
-62.5mW Thick Film Resistors 50V ±100ppm/℃ ±1% 100kΩ 0402 Chip Resistor - Surface Mount ROHS
-uni-royal(uniroyal elec)
---
-0402WGF1002TCE
-C25744
-62.5mW Thick Film Resistors 50V ±100ppm/℃ ±1% 10kΩ 0402 Chip Resistor - Surface Mount ROHS
-uni-royal(uniroyal elec)
---
-0402WGF1202TCE
-C25752
-62.5mW Thick Film Resistors 50V ±100ppm/℃ ±1% 12kΩ 0402 Chip Resistor - Surface Mount ROHS
-uni-royal(uniroyal elec)
---
-0402WGF1502TCE
-C25756
-62.5mW Thick Film Resistors 50V ±100ppm/℃ ±1% 15kΩ 0402 Chip Resistor - Surface Mount ROHS
-uni-royal(uniroyal elec)
---
-0402WGF2003TCE
-C25764
-62.5mW Thick Film Resistors 50V ±100ppm/℃ ±1% 200kΩ 0402 Chip Resistor - Surface Mount ROHS
-uni-royal(uniroyal elec)
---
-0402WGF2002TCE
-C25765
-62.5mW Thick Film Resistors 50V ±100ppm/℃ ±1% 20kΩ 0402 Chip Resistor - Surface Mount ROHS
-uni-royal(uniroyal elec)
---
-0402WGF2202TCE
-C25768
-62.5mW Thick Film Resistors 50V ±100ppm/℃ ±1% 22kΩ 0402 Chip Resistor - Surface Mount ROHS
-uni-royal(uniroyal elec)
---
-0402WGF3302TCE
-C25779
-62.5mW Thick Film Resistors 50V ±100ppm/℃ ±1% 33kΩ 0402 Chip Resistor - Surface Mount ROHS
-uni-royal(uniroyal elec)
---
-0402WGF4702TCE
-C25792
-62.5mW Thick Film Resistors 50V ±100ppm/℃ ±1% 47kΩ 0402 Chip Resistor - Surface Mount ROHS
-uni-royal(uniroyal elec)
---
-0402WGF5102TCE
-C25794
-62.5mW Thick Film Resistors 50V ±100ppm/℃ ±1% 51kΩ 0402 Chip Resistor - Surface Mount ROHS
-uni-royal(uniroyal elec)
---
-0603WAF1003T5E
-C25803
-100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 100kΩ 0603 Chip Resistor - Surface Mount ROHS
-uni-royal(uniroyal elec)
---
-0603WAF1002T5E
-C25804
-100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 10kΩ 0603 Chip Resistor - Surface Mount ROHS
-uni-royal(uniroyal elec)
---
-0603WAF1203T5E
-C25808
-100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 120kΩ 0603 Chip Resistor - Surface Mount ROHS
-uni-royal(uniroyal elec)
---
-0603WAF1802T5E
-C25810
-100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 18kΩ 0603 Chip Resistor - Surface Mount ROHS
-uni-royal(uniroyal elec)
---
-0603WAF2003T5E
-C25811
-100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 200kΩ 0603 Chip Resistor - Surface Mount ROHS
-uni-royal(uniroyal elec)
---
-0603WAF4702T5E
-C25819
-100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 47kΩ 0603 Chip Resistor - Surface Mount ROHS
-uni-royal(uniroyal elec)
---
-0402WGF1501TCE
-C25867
-62.5mW Thick Film Resistors 50V ±100ppm/℃ ±1% 1.5kΩ 0402 Chip Resistor - Surface Mount ROHS
-uni-royal(uniroyal elec)
---
-0402WGF2201TCE
-C25879
-62.5mW Thick Film Resistors 50V ±100ppm/℃ ±1% 2.2kΩ 0402 Chip Resistor - Surface Mount ROHS
-uni-royal(uniroyal elec)
---
-0402WGF3301TCE
-C25890
-62.5mW Thick Film Resistors 50V ±100ppm/℃ ±1% 3.3kΩ 0402 Chip Resistor - Surface Mount ROHS
-uni-royal(uniroyal elec)
---
-0402WGF4701TCE
-C25900
-62.5mW Thick Film Resistors 50V ±100ppm/℃ ±1% 4.7kΩ 0402 Chip Resistor - Surface Mount ROHS
-uni-royal(uniroyal elec)
---
-0402WGF5101TCE
-C25905
-62.5mW Thick Film Resistors 50V ±100ppm/℃ ±1% 5.1kΩ 0402 Chip Resistor - Surface Mount ROHS
-uni-royal(uniroyal elec)
---
-0603WAF8201T5E
-C25981
-100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 8.2kΩ 0603 Chip Resistor - Surface Mount ROHS
-uni-royal(uniroyal elec)
---
-0805W8F3301T5E
-C26010
-125mW Thick Film Resistors 150V ±100ppm/℃ ±1% 3.3kΩ 0805 Chip Resistor - Surface Mount ROHS
-uni-royal(uniroyal elec)
---
-0402WGF1004TCE
-C26083
-62.5mW Thick Film Resistors 50V ±100ppm/℃ ±1% 1MΩ 0402 Chip Resistor - Surface Mount ROHS
-uni-royal(uniroyal elec)
---
-0805W8F5101T5E
-C27834
-125mW Thick Film Resistors 150V ±100ppm/℃ ±1% 5.1kΩ 0805 Chip Resistor - Surface Mount ROHS
-uni-royal(uniroyal elec)
---
-CL21B104KCFNNNE
-C28233
-100V 100nF X7R ±10% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
-Samsung electro-mechanics
---
-CL21C222JBFNNNE
-C28260
-50V 2.2nF C0G ±5% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
-Samsung electro-mechanics
---
-CL21B105KBFNNNE
-C28323
-50V 1uF X7R ±10% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
-Samsung electro-mechanics
---
-0805W8F5600T5E
-C28636
-125mW Thick Film Resistors 150V ±100ppm/℃ ±1% 560Ω 0805 Chip Resistor - Surface Mount ROHS
-uni-royal(uniroyal elec)
---
-4D03WGJ0103T5E
-C29718
-4 ±5% 10kΩ 62.5mW ±200ppm/℃ 0603x4 Resistor Networks, Arrays ROHS
-uni-royal(uniroyal elec)
---
-1206B475K500NT
-C29823
-50V 4.7uF X7R ±10% 1206 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
-Fh (guangdong Fenghua Advanced tech)
---
-0603WAF2202T5E
-C31850
-100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 22kΩ 0603 Chip Resistor - Surface Mount ROHS
-uni-royal(uniroyal elec)
---
-Q13FC13500004
-C32346
-32.768kHz Surface Mount Crystal 12.5pF ±20ppm SMD3215-2P Crystals ROHS
-Seiko Epson
---
-PSM712-LF-T7
-C32677
-19V 13.3V 12V SOT-23 ESD and Surge Protection (TVS/ESD) ROHS
-Protek Devices
---
-CL05C100JB5NNNC
-C32949
-50V 10pF C0G ±5% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
-Samsung electro-mechanics
---
-KT-0805W
-C34499
-0805 LED Indication - Discrete ROHS
-Hubei Kento Elec
---
-CL10C120JB8NNNC
-C38523
-50V 12pF C0G ±5% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
-Samsung electro-mechanics
---
-CL21A226MAQNNNE
-C45783
-25V 22uF X5R ±20% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
-Samsung electro-mechanics
---
-CL21B102KBCNNNC
-C46653
-50V 1nF X7R ±10% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
-Samsung electro-mechanics
---
-CC0805KRX7R9BB104
-C49678
-50V 100nF X7R ±10% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
-Yageo
---
-CL31B225KBHNNNE
-C50254
-50V 2.2uF X7R ±10% 1206 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
-Samsung electro-mechanics
---
-CL05A105KA5NQNC
-C52923
-25V 1uF X5R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
-Samsung electro-mechanics
---
-CL21B473KBCNNNC
-C53134
-50V 47nF X7R ±10% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
-Samsung electro-mechanics
---
-0603B472K500NT
-C53987
-50V 4.7nF X7R ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
-Fh (guangdong Fenghua Advanced tech)
---
-0603B103K500NT
-C57112
-50V 10nF X7R ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
-Fh (guangdong Fenghua Advanced tech)
---
-L78M05ABDT-TR
-C58069
-62dB@(120Hz) 500mA Fixed 5V Positive electrode 35V TO-252-2(DPAK) Voltage Regulators - Linear, Low Drop Out (LDO) Regulators ROHS
-Stmicroelectronics
---
-CL10A226MQ8NRNC
-C59461
-6.3V 22uF X5R ±20% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
-Samsung electro-mechanics
---
-XL1509-5.0E1
-C61063
-Step-down type 2A 4.5V~40V SOIC-8 DC-DC Converters ROHS
-Xlsemi
---
-SM4007PL
-C64898
-1A Independent Type 1kV 1.1V@1A SOD-123FL Diodes - General Purpose ROHS
-mdd(microdiode semiconductor)
---
-BAV70
-C68978
-70V 1 pair of common cathodes 1.25V@150mA 6ns 200mA SOT-23 Switching Diodes ROHS
-Jiangsu Changjing Electronics Technology co., ltd.
---
-LM324DT
-C71035
-Quad 20nA 0.4V/us 1.3MHz SOIC-14 Operational Amplifier ROHS
-Stmicroelectronics
---
-78L05G-AB3-R
-C71136
-100mA Fixed 5V Positive electrode 30V SOT-89-3 Voltage Regulators - Linear, Low Drop Out (LDO) Regulators ROHS
-utc(unisonic tech)
---
-P6SMB6.8CA/TR13
-C78395
-58.1A 600W 10.5V 6.45V 5.8V SMB(DO-214AA) ESD and Surge Protection (TVS/ESD) ROHS
-Brightking
---
-1N4148W
-C81598
-75V Independent Type 1V@50mA 4ns 150mA SOD-123 Switching Diodes ROHS
-st(semtech)
---
-NCD0805R1
-C84256
-25mA Colorless transparent lens 67mcd~195mcd -30℃~+85℃ 615nm~630nm Individual diode Red 130° 65mW 1.6V~2.6V 0805 LED Indication - Discrete ROHS
-Foshan Nationstar Optoelectronics
---
-M7
-C95872
-1A Independent Type 1kV 1.1V@1A SMA(DO-214AC) Diodes - General Purpose ROHS
-mdd(microdiode semiconductor)
---
-CL31A476MPHNNNE
-C96123
-10V 47uF X5R ±20% 1206 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
-Samsung electro-mechanics
---
-CL10A106MA8NRNC
-C96446
-25V 10uF X5R ±20% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
-Samsung electro-mechanics
---
-W25Q128JVSIQ
-C97521
-128Mbit SOIC-8-208mil NOR FLASH ROHS
-Winbond Elec
---
-S8550(RANGE:120-200)
-C105432
-25V 300mW 120@50mA,1V 500mA PNP SOT-23 Bipolar (BJT) ROHS
-Jiangsu Changjing Electronics Technology co., ltd.
---
-CC0805KRX7R9BB221
-C107145
-50V 220pF X7R ±10% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
-Yageo
---
-X50328MSB2GI
-C115962
-8MHz Surface Mount Crystal 20pF ±10ppm ±20ppm SMD5032 Crystals ROHS
-Yxc Crystal Oscillators
---
-0805W8F1003T5E
-C149504
-125mW Thick Film Resistors 150V ±100ppm/℃ ±1% 100kΩ 0805 Chip Resistor - Surface Mount ROHS
-uni-royal(uniroyal elec)
---
-1N5819WS
-C191023
-40V 600mV@1A 1A SOD-323 Schottky Diodes ROHS
-Guangdong Hottech
---
-CL05B104KB54PNC
-C307331
-50V 100nF X7R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
-Samsung electro-mechanics
---
-TS-1187A-B-A-B
-C318884
-None Without 50mA 5.1mm 100000 Times 160gf 12V 5.1mm 1.5mm Round Button Standing paste SPST SMD Tactile Switches ROHS
-Xkb Connection
---
-CL21A225KBQNNNE
-C377773
-50V 2.2uF X5R ±10% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
-Samsung electro-mechanics
---
-US1M
-C412437
-1.65V@1A 75ns Independent Type 1A 1kV SMA Fast Recovery / High Efficiency Diodes ROHS
-mdd(microdiode semiconductor)
---
-GRM21BR61H106KE43L
-C440198
-50V 10uF X5R ±10% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
-Murata Electronics
---
-0603B822K500NT
-C1322360
-50V 8.2nF X7R ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
-Fh (guangdong Fenghua Advanced tech)
+1117769
