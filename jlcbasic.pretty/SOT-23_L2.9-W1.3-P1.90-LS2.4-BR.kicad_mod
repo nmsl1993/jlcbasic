@@ -1,27 +1,166 @@
-(module jlcbasic:SOT-23_L2.9-W1.3-P1.90-LS2.4-BR (layer F.Cu) (tedit 5DC5F6A4)
+(footprint "SOT-23_L2.9-W1.3-P1.90-LS2.4-BR"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 -2.5 0)
+		(layer "F.SilkS")
+		(uuid "9e0c96a4-ddeb-4402-a7da-619d3a013901")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "SOT-23_L2.9-W1.3-P1.90-LS2.4-BR"
+		(at 0 2.5 0)
+		(layer "F.Fab")
+		(uuid "1faaa81a-c3b9-4d9f-a42e-7acaa8c7f9cb")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "0e66602c-e1ba-403a-9524-8006a428f7ce")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "d31e210a-43d3-4300-9a02-ea91f0b5dea5")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
 	(attr smd)
-	(fp_text reference REF** (at 0 -4.95) (layer F.SilkS)
-		(effects (font (size 1 1) (thickness 0.15)))
+	(fp_line
+		(start -0.7 -1.5)
+		(end 0.3 -1.5)
+		(stroke
+			(width 0.25)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "3fc7011a-54fe-4516-8e3e-58d90ff8bf12")
 	)
-	(fp_text value SOT-23_L2.9-W1.3-P1.90-LS2.4-BR (at 0 4.95) (layer F.Fab)
-		(effects (font (size 1 1) (thickness 0.15)))
+	(fp_line
+		(start -0.7 -0.64)
+		(end -0.7 -1.5)
+		(stroke
+			(width 0.25)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "c82f3c92-c1db-42bf-a22f-7c8c3254359f")
 	)
-	(fp_text user %R (at 0 0) (layer F.Fab)
-		(effects (font (size 1 1) (thickness 0.15)))
+	(fp_line
+		(start -0.7 1.5)
+		(end -0.7 0.63)
+		(stroke
+			(width 0.25)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "a4185bbe-54f7-4f92-9cb3-a3e68b886224")
 	)
-	(fp_line (start -0.70 -0.64) (end -0.70 -1.50) (layer F.SilkS) (width 0.25))
-	(fp_line (start -0.70 -1.50) (end 0.30 -1.50) (layer F.SilkS) (width 0.25))
-	(fp_line (start 0.70 0.31) (end 0.70 -0.32) (layer F.SilkS) (width 0.25))
-	(fp_line (start -0.70 1.50) (end -0.70 0.63) (layer F.SilkS) (width 0.25))
-	(fp_line (start -0.70 1.50) (end 0.30 1.50) (layer F.SilkS) (width 0.25))
-	(pad 2 smd rect (at 1.15 -0.95 180.00) (size 1.00 0.80) (layers F.Cu F.Paste F.Mask))
-	(pad 3 smd rect (at -1.15 -0.00 180.00) (size 1.00 0.80) (layers F.Cu F.Paste F.Mask))
-	(pad 1 smd rect (at 1.15 0.95 180.00) (size 1.00 0.80) (layers F.Cu F.Paste F.Mask))
-	(fp_circle (center 1.20 1.45) (end 1.23 1.45) (layer F.Fab) (width 0.06))
-	(fp_circle (center 1.75 0.94) (end 1.90 0.94) (layer Cmts.User) (width 0.30))
+	(fp_line
+		(start -0.7 1.5)
+		(end 0.3 1.5)
+		(stroke
+			(width 0.25)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "a03220ec-4f80-4d28-a2b6-daf6dfd6aa89")
+	)
+	(fp_line
+		(start 0.7 0.31)
+		(end 0.7 -0.32)
+		(stroke
+			(width 0.25)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "3e20af7d-175e-42a6-a467-ea5fa338a506")
+	)
+	(fp_circle
+		(center 1.75 0.94)
+		(end 1.9 0.94)
+		(stroke
+			(width 0.3)
+			(type solid)
+		)
+		(fill no)
+		(layer "Cmts.User")
+		(uuid "ad0a8015-a062-4275-bc41-170b8b84d577")
+	)
+	(fp_circle
+		(center 1.2 1.45)
+		(end 1.23 1.45)
+		(stroke
+			(width 0.06)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "13955840-0468-4b70-890c-2a900c2bd0df")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(uuid "69fe41ab-2acc-4546-b646-f9b70882e411")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at 1.15 0.95 180)
+		(size 1 0.8)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "65762d53-8be5-4f02-ac41-a20c2965e03e")
+	)
+	(pad "2" smd rect
+		(at 1.15 -0.95 180)
+		(size 1 0.8)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "294de61e-3b27-4751-a03b-7d0129a80925")
+	)
+	(pad "3" smd rect
+		(at -1.15 0 180)
+		(size 1 0.8)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "246299f1-a9cc-4dbb-baf6-b898042e7bc0")
+	)
+	(embedded_fonts no)
 	(model "../jlcbasic.3dshapes/SOT-23-3P_L2.9-W1.3-H1.0-LS2.4-P0.95.wrl"
-		(offset (xyz 0.000 -0.000 -0.000))
-		(scale (xyz 1 1 1))
-		(rotate (xyz 0 0 180))
+		(offset
+			(xyz 0 -0 -0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 180)
+		)
 	)
 )

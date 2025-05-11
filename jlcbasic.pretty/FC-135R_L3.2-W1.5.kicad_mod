@@ -1,22 +1,119 @@
-(module jlcbasic:FC-135R_L3.2-W1.5 (layer F.Cu) (tedit 5DC5F6A4)
+(footprint "FC-135R_L3.2-W1.5"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 -2 0)
+		(layer "F.SilkS")
+		(uuid "4b480942-b9ca-4305-91e3-427af82ce54c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "FC-135R_L3.2-W1.5"
+		(at 0 2 0)
+		(layer "F.Fab")
+		(uuid "93bdee61-038f-434d-98b2-73f8ebfd5ce1")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "2ff412b1-e6a3-43ce-a7c8-d4ef0b4c5165")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "f0356b50-f0b7-4435-bce1-cd6437124d91")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
 	(attr smd)
-	(fp_text reference REF** (at 0 -4.0) (layer F.SilkS)
-		(effects (font (size 1 1) (thickness 0.15)))
+	(fp_line
+		(start -0.51 -0.76)
+		(end 0.51 -0.76)
+		(stroke
+			(width 0.25)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "248b1cbd-233e-44e0-9faf-ace04c6ccfbf")
 	)
-	(fp_text value FC-135R_L3.2-W1.5 (at 0 4.0) (layer F.Fab)
-		(effects (font (size 1 1) (thickness 0.15)))
+	(fp_line
+		(start 0.51 0.76)
+		(end -0.51 0.76)
+		(stroke
+			(width 0.25)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "9312b558-d0cd-41a9-ac0f-ddadb8220e11")
 	)
-	(fp_text user %R (at 0 0) (layer F.Fab)
-		(effects (font (size 1 1) (thickness 0.15)))
+	(fp_circle
+		(center -1.75 0.9)
+		(end -1.72 0.9)
+		(stroke
+			(width 0.06)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "c4aa12be-faea-481d-ba44-104b4bb2e168")
 	)
-	(fp_line (start -0.51 -0.76) (end 0.51 -0.76) (layer F.SilkS) (width 0.25))
-	(fp_line (start 0.51 0.76) (end -0.51 0.76) (layer F.SilkS) (width 0.25))
-	(pad 1 smd rect (at -1.25 0.00 90.00) (size 1.80 1.00) (layers F.Cu F.Paste F.Mask))
-	(pad 2 smd rect (at 1.25 0.00 90.00) (size 1.80 1.00) (layers F.Cu F.Paste F.Mask))
-	(fp_circle (center -1.75 0.90) (end -1.72 0.90) (layer F.Fab) (width 0.06))
+	(fp_text user "${REFERENCE}"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(uuid "a615737c-5419-4d40-88ce-8f66d26f7be9")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at -1.25 0 90)
+		(size 1.8 1)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "7d393011-d66f-4a0a-a5f9-ffa18e77560f")
+	)
+	(pad "2" smd rect
+		(at 1.25 0 90)
+		(size 1.8 1)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "e3c107b5-94f5-403a-945b-8683f5bd471a")
+	)
+	(embedded_fonts no)
 	(model "../jlcbasic.3dshapes/FC-135R_L3.2-W1.5.wrl"
-		(offset (xyz 0.000 -0.000 -0.000))
-		(scale (xyz 1 1 1))
-		(rotate (xyz 0 0 0))
+		(offset
+			(xyz 0 -0 -0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
 	)
 )

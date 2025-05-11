@@ -279,7 +279,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://lcsc.com/product-detail/SMD-Crystals_EPSON_Q13FC1350000400_32-768KHz-20ppm-12-5pF_C32346.html"
+		(property "Datasheet" ""
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -303,19 +303,6 @@
 				)
 			)
 		)
-		(property "LCSC Part" "C32346"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "13600512-368a-4a94-84b9-457acbb41c91")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/6317fad0-b706-4d07-99a4-c55995f1e0a7")
 		(sheetname "/")
 		(sheetfile "jlctest.kicad_sch")
@@ -328,7 +315,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "71358d5d-7946-4fa2-ad61-7ab021fc043c")
+			(uuid "4e508fec-5fe4-40cd-aa5c-343334d083f0")
 		)
 		(fp_line
 			(start 0.51 0.76)
@@ -338,7 +325,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "be17254a-ac76-4908-8a5b-4a1970525bce")
+			(uuid "b0ceb2e7-c25d-4b9d-bb03-d5cfc2bac416")
 		)
 		(fp_circle
 			(center -1.75 0.9)
@@ -349,7 +336,7 @@
 			)
 			(fill no)
 			(layer "F.Fab")
-			(uuid "bd8735f1-8ab4-40fd-b121-984951cc3535")
+			(uuid "7b980dd8-a605-4215-9728-00ab61cf8a36")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 0)
@@ -409,7 +396,7 @@
 			)
 		)
 		(property "Value" "1206B102K202NT"
-			(at -0.09 2 0)
+			(at 0 2 0)
 			(layer "F.Fab")
 			(uuid "1e60d102-347e-446f-b116-bb8bf2c2ca34")
 			(effects
@@ -419,7 +406,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_1nF-102-10-2kV_C9196.html"
+		(property "Datasheet" ""
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -443,19 +430,6 @@
 				)
 			)
 		)
-		(property "LCSC Part" "C9196"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "060dc417-cd7d-4675-a40b-6d20fe036f86")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/45a5e834-60d5-4947-8899-848db55ea534")
 		(sheetname "/")
 		(sheetfile "jlctest.kicad_sch")
@@ -468,7 +442,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "c1b6d65f-e50e-45ba-b364-b47ff09e0a52")
+			(uuid "53a3e5f4-e9ad-4636-a180-2a8126fa53a8")
 		)
 		(fp_line
 			(start -2.41 -1.09)
@@ -478,7 +452,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "e2427386-e59a-4d60-9c1b-564570ea8448")
+			(uuid "d7412454-3caf-4238-aacb-8a89187cd9a4")
 		)
 		(fp_line
 			(start -0.93 1.09)
@@ -488,7 +462,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "0fcff3d6-9a88-4c2f-9576-0b9b90292207")
+			(uuid "14fe5444-a6aa-47ca-bd7f-d6e60e35aebc")
 		)
 		(fp_line
 			(start 0.93 1.09)
@@ -498,7 +472,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "ecbf92a2-e49e-4a7c-8c62-8c52956ad160")
+			(uuid "5e8f5227-7a15-49e6-ba35-2cf5f50e9e14")
 		)
 		(fp_line
 			(start 2.41 -1.09)
@@ -508,7 +482,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "fcbc267c-8017-4237-a7b5-bd11e25f3b67")
+			(uuid "0f47f352-f85b-42a6-9a70-2f8ab24d7b97")
 		)
 		(fp_line
 			(start 2.56 0.94)
@@ -518,7 +492,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "fb82682c-3c60-4ed4-ad6c-7302738918f3")
+			(uuid "74ea4d64-795a-4b1e-be72-ae9a7e53ffd7")
 		)
 		(fp_arc
 			(start -2.56 -0.94)
@@ -529,7 +503,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "50391d7d-50f8-4af9-99a6-761dc562900a")
+			(uuid "e06e3c2c-8fa4-414f-a441-9054d320d7d3")
 		)
 		(fp_arc
 			(start -2.41 1.09)
@@ -540,7 +514,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "f6e40cac-b39d-4a0c-9142-bb7a669e66f0")
+			(uuid "8dc774dd-4a12-49db-96a2-942806898a75")
 		)
 		(fp_arc
 			(start 2.41 -1.09)
@@ -551,7 +525,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "1b4d27d5-ee03-45ec-ac42-805f79c6eb23")
+			(uuid "8f469b8a-e35f-474a-b8e0-2dbd73bc51ea")
 		)
 		(fp_arc
 			(start 2.56 0.94)
@@ -562,7 +536,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "9f21ce65-5cec-4546-85d0-e8642280606f")
+			(uuid "dc0da9ba-cc8c-48ca-8551-4086f76b7b91")
 		)
 		(fp_circle
 			(center -1.6 0.8)
@@ -573,7 +547,7 @@
 			)
 			(fill no)
 			(layer "F.Fab")
-			(uuid "d8977c55-bf8d-47f0-9f1e-c655d1c6b281")
+			(uuid "29d191f5-b8fa-423b-b816-1bf2585fd30d")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 0)
@@ -622,7 +596,7 @@
 		(uuid "209ef833-fbf6-473f-a989-d8d37f6d1a31")
 		(at 158 95.5)
 		(property "Reference" "D4"
-			(at 0 -3.25 0)
+			(at 0 -3 0)
 			(layer "F.SilkS")
 			(uuid "eed4a334-6291-4e58-877a-e27853a9e0e7")
 			(effects
@@ -633,7 +607,7 @@
 			)
 		)
 		(property "Value" "P6SMB6.8CA-C78395"
-			(at 0 2.75 0)
+			(at 0 3 0)
 			(layer "F.Fab")
 			(uuid "63ba2d4f-b40f-413b-95d8-401419c86f10")
 			(effects
@@ -643,7 +617,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://lcsc.com/product-detail/TVS_P6SMB6-8CA_C78395.html"
+		(property "Datasheet" ""
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -667,19 +641,6 @@
 				)
 			)
 		)
-		(property "LCSC Part" "C78395"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "afffcb14-faaa-4366-8e89-0144af6338ab")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/9a4e4354-8c48-4ec1-8b1c-29a6873ebc8a")
 		(sheetname "/")
 		(sheetfile "jlctest.kicad_sch")
@@ -692,7 +653,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "c6e29241-f798-4ba0-8670-6ca6ee8ea694")
+			(uuid "3c0b5f08-624e-4d82-a283-34fc5a13bb9e")
 		)
 		(fp_line
 			(start 2.67 1.9)
@@ -702,7 +663,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "528d2fbd-0349-42a2-99b3-afd248f0c181")
+			(uuid "fb138ed4-73c6-4f5c-9a50-7b5d2ff14c85")
 		)
 		(fp_circle
 			(center -2.7 1.81)
@@ -713,7 +674,7 @@
 			)
 			(fill no)
 			(layer "F.Fab")
-			(uuid "d784258a-11b3-4403-80c7-94887bceaa3c")
+			(uuid "ec8124f2-9f52-4b9e-92a3-1bce7d521eef")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 0)
@@ -783,7 +744,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://lcsc.com/product-detail/Switching-Diode_1N4148WS-T4_C2128.html"
+		(property "Datasheet" ""
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -807,19 +768,6 @@
 				)
 			)
 		)
-		(property "LCSC Part" "C2128"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "3a9d3be9-5616-450f-88d7-0fb2ffb491dc")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/07e3de02-3e4a-416c-9d43-1f06f58cc223")
 		(sheetname "/")
 		(sheetfile "jlctest.kicad_sch")
@@ -832,7 +780,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "e8083dfb-a1e6-416e-ad5c-2d29f2ef69c8")
+			(uuid "f072dd29-2bad-4f48-890a-08f1b36e9827")
 		)
 		(fp_line
 			(start -0.85 0.73)
@@ -842,7 +790,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "f14a6caf-0b69-490e-9d8f-80f715d6bc04")
+			(uuid "f69aeaaa-518a-41a0-8410-e0bc16e46847")
 		)
 		(fp_line
 			(start -0.44 -0.73)
@@ -852,7 +800,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "7146d7c0-c49d-4aeb-ab86-504a45383b0d")
+			(uuid "c7af397d-11ff-4438-966f-e34e4be707ae")
 		)
 		(fp_line
 			(start 0.91 -0.73)
@@ -862,7 +810,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "e5fdf320-6181-4cb1-aa01-edae1da6a914")
+			(uuid "5b33bf34-32b8-4716-8393-a6a01e72ebea")
 		)
 		(fp_line
 			(start 0.91 0.73)
@@ -872,7 +820,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "72a880a6-d38b-41f2-9093-e02d0be58aab")
+			(uuid "42eddb1b-798b-4aa8-86c5-35c88cfca827")
 		)
 		(fp_circle
 			(center -1.22 0.65)
@@ -883,7 +831,7 @@
 			)
 			(fill no)
 			(layer "F.Fab")
-			(uuid "79596fa9-4c92-4859-b4ea-e3fab72c1358")
+			(uuid "3b52fd6a-fa0b-435a-a861-f7f8e1df9e5a")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 0)
@@ -953,7 +901,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://lcsc.com/product-detail/Schottky-Barrier-Diodes-SBD_SS34_C8678.html"
+		(property "Datasheet" ""
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -977,19 +925,6 @@
 				)
 			)
 		)
-		(property "LCSC Part" "C8678"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "8e0cd176-28a1-4eb6-add2-f6a911d4c181")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/eeb0054b-292e-4632-b09f-29784340db37")
 		(sheetname "/")
 		(sheetfile "jlctest.kicad_sch")
@@ -1002,7 +937,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "d0d4bdbe-21a2-44a2-b1e4-8f213cd249aa")
+			(uuid "9bfb2700-417a-46c4-834f-0651c4a62eff")
 		)
 		(fp_line
 			(start -2.6 1.43)
@@ -1012,7 +947,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "a94dba3c-c11f-4bf7-837d-92e5c7c50db7")
+			(uuid "dbd5b336-d4ca-4ac5-9402-14de963a1074")
 		)
 		(fp_line
 			(start -0.88 -1.43)
@@ -1022,7 +957,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "51d35709-114f-43e6-878a-f092c21a6358")
+			(uuid "262812f5-1776-43db-8ad6-985e38fb1bd9")
 		)
 		(fp_line
 			(start 2.59 1.18)
@@ -1032,7 +967,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "0eed523b-399a-4c81-8eb4-25dfe197fe18")
+			(uuid "e9bcccb0-fc15-41e7-9bfb-8f2c6c27486c")
 		)
 		(fp_line
 			(start 2.6 -1.43)
@@ -1042,7 +977,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "9ce855cd-3512-46c8-b146-811c42e50e4d")
+			(uuid "ef845598-acb2-4177-896e-1fb5a1895c27")
 		)
 		(fp_circle
 			(center -2.61 1.3)
@@ -1053,7 +988,7 @@
 			)
 			(fill no)
 			(layer "F.Fab")
-			(uuid "239dbbf7-3524-4224-a86f-70867a286f06")
+			(uuid "3c1f6786-0f85-4904-bbb0-d3a404ab629e")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 0)
@@ -1102,7 +1037,7 @@
 		(uuid "26e64009-1b9b-4ed6-b5c0-65dfe4c38857")
 		(at 143 106.5)
 		(property "Reference" "X4"
-			(at 0 -4 0)
+			(at 0 -3.5 0)
 			(layer "F.SilkS")
 			(uuid "45996b0d-c568-44ff-8f1b-02cbea1dfd09")
 			(effects
@@ -1113,7 +1048,7 @@
 			)
 		)
 		(property "Value" "X49SM8MSD2SC"
-			(at 0 4 0)
+			(at 0 3.5 0)
 			(layer "F.Fab")
 			(uuid "e5eabd36-f2f8-4686-a808-80c715c6b38b")
 			(effects
@@ -1123,7 +1058,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://lcsc.com/product-detail/49SMD_HC-49SMD-8MHZ-20PF-20PPM_C12674.html"
+		(property "Datasheet" ""
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -1147,19 +1082,6 @@
 				)
 			)
 		)
-		(property "LCSC Part" "C12674"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "8be7057b-ffbc-4729-a67a-5a165cd61ed1")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/8659cf38-37cb-4f9d-aa22-4b2823b99935")
 		(sheetname "/")
 		(sheetfile "jlctest.kicad_sch")
@@ -1172,7 +1094,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "b6367e3a-21da-414e-9147-55f318f132a8")
+			(uuid "cc1a498f-4ea3-4a9b-85ef-d90b06e1e1f2")
 		)
 		(fp_line
 			(start -5.7 2.4)
@@ -1182,7 +1104,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "4204481f-2200-4020-a579-941da2d67638")
+			(uuid "9f1deb12-d539-4167-94fb-6997e92599a5")
 		)
 		(fp_line
 			(start 5.7 -2.4)
@@ -1192,7 +1114,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "4ef76d61-ee36-4db0-afcd-fd16598af67c")
+			(uuid "31ec1f78-9444-4fa6-8485-9f1f1f5efafb")
 		)
 		(fp_line
 			(start 5.7 -1.65)
@@ -1202,7 +1124,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "e2a292b6-febc-4380-9d28-8ac29a667e26")
+			(uuid "2f9e0bda-be15-4e17-8832-3886e3b51333")
 		)
 		(fp_line
 			(start 5.7 1.65)
@@ -1212,7 +1134,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "97131f2b-5417-489c-ba91-aced9749c18f")
+			(uuid "d3e21336-eaf5-4a20-850d-35d8fa30af1d")
 		)
 		(fp_line
 			(start 5.7 2.4)
@@ -1222,7 +1144,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "f695a3b0-1449-4ace-aa63-017aa9520645")
+			(uuid "46cef19f-3326-41ff-98b8-4ef39ef9cd05")
 		)
 		(fp_circle
 			(center -6.35 2.4)
@@ -1233,7 +1155,7 @@
 			)
 			(fill no)
 			(layer "F.Fab")
-			(uuid "ddcf8c68-7682-44be-a045-52cc815f6ebe")
+			(uuid "91b08eca-4ad6-4372-866d-548a25df6694")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 0)
@@ -1303,7 +1225,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://lcsc.com/product-detail/Ferrite-Beads-And-Chips_600R-25-100MHz_C1002.html"
+		(property "Datasheet" ""
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -1327,19 +1249,6 @@
 				)
 			)
 		)
-		(property "LCSC Part" "C1002"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "e830c612-9933-4421-8fc6-38056a2fcf30")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/7555b223-47ef-4439-ace8-a7797b92cd3a")
 		(sheetname "/")
 		(sheetfile "jlctest.kicad_sch")
@@ -1352,7 +1261,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "3eb1340a-042b-4ec1-9840-aee3fb331ccf")
+			(uuid "0b3a6127-d7c5-4b6a-9be1-796ec472cc69")
 		)
 		(fp_line
 			(start -1.43 0.5)
@@ -1362,7 +1271,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "4b6748f3-b3f9-4ef7-afe1-399fd0ace0da")
+			(uuid "e6c8b6d1-5eae-47bc-9585-16382dd77c43")
 		)
 		(fp_line
 			(start -1.28 -0.65)
@@ -1372,7 +1281,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "faf12400-22a1-479e-a652-97bfcd2512bd")
+			(uuid "8654e5e0-c97b-4c41-b562-65d2daaa977a")
 		)
 		(fp_line
 			(start -1.28 0.65)
@@ -1382,7 +1291,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "5a51940f-59b2-493b-b4d9-4f1f725f0fda")
+			(uuid "5675d04e-d26e-487e-a72d-51e7cf3a2298")
 		)
 		(fp_line
 			(start -1.27 0.65)
@@ -1392,7 +1301,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "5a99018f-35df-4f87-ab3e-56352c724c66")
+			(uuid "42dd8bc1-15d5-46de-9c54-966cbc442a97")
 		)
 		(fp_line
 			(start 1.27 -0.65)
@@ -1402,7 +1311,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "4dd4adf2-aed7-4675-b1ef-28a09c0d10bf")
+			(uuid "fc2a5cbe-9464-4e23-a9a4-273fd95ffd0e")
 		)
 		(fp_line
 			(start 1.27 -0.65)
@@ -1412,7 +1321,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "fdeadf19-7c77-47c4-8e59-2141fb9e43e9")
+			(uuid "5004941e-da6d-4095-af91-307fb32b6cf1")
 		)
 		(fp_line
 			(start 1.27 0.65)
@@ -1422,7 +1331,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "7019e37a-8970-481f-a27e-daf5bec5b7d5")
+			(uuid "170fb6bf-4e51-4d18-8311-6ec3dc08482f")
 		)
 		(fp_line
 			(start 1.42 -0.5)
@@ -1432,7 +1341,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "b92fda8a-3af8-4b0f-83fc-c8fe54a18f25")
+			(uuid "60798dad-f4ba-4e65-83a3-3fb57c337d03")
 		)
 		(fp_line
 			(start 1.42 0.52)
@@ -1442,7 +1351,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "2656c180-a38f-4e4d-a112-0612af6095b2")
+			(uuid "92bc6f12-1cfa-4aa4-92be-00dcb5886d22")
 		)
 		(fp_circle
 			(center -0.8 0.4)
@@ -1453,7 +1362,7 @@
 			)
 			(fill no)
 			(layer "F.Fab")
-			(uuid "441a5d93-0bac-429b-9ce5-aafc733b1028")
+			(uuid "3b019ba6-9a94-428d-a046-ec6deb289f8d")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 0)
@@ -1523,7 +1432,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_33nF-333-10-50V_C1739.html"
+		(property "Datasheet" ""
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -1547,19 +1456,6 @@
 				)
 			)
 		)
-		(property "LCSC Part" "C1739"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "61aabb1b-d84b-4f8c-b1b7-0168ec08e7bc")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/426aeef3-5d07-420b-ba1c-38b7683983c1")
 		(sheetname "/")
 		(sheetfile "jlctest.kicad_sch")
@@ -1572,7 +1468,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "3bf30a27-f7a7-416d-9660-50ba1fc53df8")
+			(uuid "97e545ab-b6e3-4896-a471-f658078da8a0")
 		)
 		(fp_line
 			(start -1.81 -0.9)
@@ -1582,7 +1478,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "99405105-f34c-4792-9fa2-02c6b4190fc8")
+			(uuid "a8bf89a7-089e-48a8-9674-d0ba5a2a3cb8")
 		)
 		(fp_line
 			(start -0.4 0.9)
@@ -1592,7 +1488,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "a9d8a0bd-ce5d-4a38-87c3-585d47f5889b")
+			(uuid "6622c1ba-7a63-4fb7-950b-4eddba77c5a9")
 		)
 		(fp_line
 			(start 0.4 0.9)
@@ -1602,7 +1498,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "885826e6-6041-4748-9a57-022094bf730c")
+			(uuid "90cc6ecd-723b-4e72-87a3-4f88a54bf661")
 		)
 		(fp_line
 			(start 1.81 -0.9)
@@ -1612,7 +1508,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "80ebfc0c-e7a9-4d87-a5ff-961091fc2509")
+			(uuid "e3663647-32fb-4c35-8c27-3b83126ee824")
 		)
 		(fp_line
 			(start 1.96 0.75)
@@ -1622,7 +1518,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "77747234-c0cc-4ace-8f2f-10f34df48951")
+			(uuid "c0d7b928-e833-4750-9fe1-4d0251232a1b")
 		)
 		(fp_arc
 			(start -1.96 -0.75)
@@ -1633,7 +1529,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "98371b01-5263-413d-baa9-207f03e79071")
+			(uuid "8abb7453-c88d-4b8f-b3db-25e323288e38")
 		)
 		(fp_arc
 			(start -1.81 0.9)
@@ -1644,7 +1540,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "c5042cb0-9222-48d3-b1a6-f19b7afea3c9")
+			(uuid "3c461493-2515-4dcd-99dc-f7ad14a7672f")
 		)
 		(fp_arc
 			(start 1.81 -0.9)
@@ -1655,7 +1551,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "bded4087-73d0-451c-bca6-320ee690bfae")
+			(uuid "602dfbe2-09e3-4f3e-8788-ca77a5279f70")
 		)
 		(fp_arc
 			(start 1.96 0.75)
@@ -1666,7 +1562,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "16e067f4-3816-4451-90f9-0481edfdf3d9")
+			(uuid "c3f35769-abcb-4f3b-aac5-9585691ea3f9")
 		)
 		(fp_circle
 			(center -1 0.63)
@@ -1677,7 +1573,7 @@
 			)
 			(fill no)
 			(layer "F.Fab")
-			(uuid "86db64ea-1dfb-4744-834f-f97edf8930c2")
+			(uuid "ac9a2e27-d9cc-42fc-bd73-b010eee19af0")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 0)
@@ -1726,7 +1622,7 @@
 		(uuid "2d7edf2f-a749-4772-87dc-072cfed88cc6")
 		(at 142.6 97.15)
 		(property "Reference" "X3"
-			(at 0 -2.65 0)
+			(at 0 -2.5 0)
 			(layer "F.SilkS")
 			(uuid "fabb59bc-def2-4980-8219-5d0c6e5aab3a")
 			(effects
@@ -1737,7 +1633,7 @@
 			)
 		)
 		(property "Value" "X322512MSB4SI"
-			(at 0 2.85 0)
+			(at 0 3 0)
 			(layer "F.Fab")
 			(uuid "bb45088e-fea8-4198-bc57-f7409dd0d585")
 			(effects
@@ -1747,7 +1643,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://lcsc.com/product-detail/SMD-Crystals_YSX321SL-12MHZ-20PF-10PPM-40-85_C9002.html"
+		(property "Datasheet" ""
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -1771,19 +1667,6 @@
 				)
 			)
 		)
-		(property "LCSC Part" "C9002"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "aaed8630-b07e-42ef-8111-fd2358984afb")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/b71c288b-afc3-4064-9e56-37a7342aa2a4")
 		(sheetname "/")
 		(sheetfile "jlctest.kicad_sch")
@@ -1796,7 +1679,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "99c8c0e3-e431-453f-bab2-d00931afe68c")
+			(uuid "60d385ab-9520-4270-9097-7b170fa1031f")
 		)
 		(fp_line
 			(start -2.26 1.91)
@@ -1806,7 +1689,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "2c14ca42-72e0-451f-ada7-f3b3da204033")
+			(uuid "c0ccf48c-acff-4e45-ac87-a23fd3e18869")
 		)
 		(fp_line
 			(start -2.03 -1.68)
@@ -1816,7 +1699,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "ba091f24-df15-4965-87e7-1232119f5a59")
+			(uuid "aa608c7f-198a-443e-a184-9d66131adbae")
 		)
 		(fp_line
 			(start -2.03 1.68)
@@ -1826,7 +1709,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "9c6aaabd-f4d3-435c-abd3-3c616df525dc")
+			(uuid "fcf7394a-ed83-4bf1-a024-90921dc34157")
 		)
 		(fp_line
 			(start 2.03 -1.68)
@@ -1836,7 +1719,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "366b4110-017c-4c0f-af4f-e7090f8b2a5b")
+			(uuid "a9f65360-7478-4a05-845d-d0cba58dfd5c")
 		)
 		(fp_line
 			(start 2.03 1.68)
@@ -1846,7 +1729,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "45d4efd4-fd9d-4e15-bf0f-88f67b50c5b0")
+			(uuid "7ed0cc0c-0327-477d-be10-277c6046a106")
 		)
 		(fp_circle
 			(center -1.27 0.89)
@@ -1857,7 +1740,7 @@
 			)
 			(fill no)
 			(layer "Cmts.User")
-			(uuid "28691c36-0676-4d2c-a1d6-5d82d32a0b29")
+			(uuid "25fbfeff-9c8c-4f15-8d83-2e3e3ddcc99f")
 		)
 		(fp_circle
 			(center -1.6 1.25)
@@ -1868,7 +1751,7 @@
 			)
 			(fill no)
 			(layer "F.Fab")
-			(uuid "a751ca55-f5f9-42e3-af0e-9ec0069559d9")
+			(uuid "84551eb4-d7d6-4138-b215-780d9da9a0f6")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 0)
@@ -1956,7 +1839,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://lcsc.com/product-detail/Diodes-General-Purpose_SM4007PL-A7_C64898.html"
+		(property "Datasheet" ""
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -1980,19 +1863,6 @@
 				)
 			)
 		)
-		(property "LCSC Part" "C64898"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "44458d93-b5e8-41b0-b17a-0a35a0e20ada")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/513b5cda-b33b-461a-b648-cd773ee530d7")
 		(sheetname "/")
 		(sheetfile "jlctest.kicad_sch")
@@ -2005,7 +1875,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "805fe0b4-7c1c-47db-83b4-d7b8b717c195")
+			(uuid "8307d226-5bc1-4c49-a986-ee6b14872606")
 		)
 		(fp_line
 			(start -1.51 0.94)
@@ -2015,7 +1885,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "6210a9da-32ac-4513-af2f-3806f7e1a2b4")
+			(uuid "defc9d1a-b368-4105-b233-88855485688e")
 		)
 		(fp_line
 			(start -0.76 0)
@@ -2025,7 +1895,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "0fbdf719-2e93-4226-84c8-233fe21daa6a")
+			(uuid "1af82928-755e-40cc-a836-989822630c9e")
 		)
 		(fp_line
 			(start -0.51 -0.5)
@@ -2035,7 +1905,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "52545494-dbfa-4d96-8c39-6b309c29b900")
+			(uuid "c5f1170f-8d59-42de-acb0-078cc64749af")
 		)
 		(fp_line
 			(start -0.51 0)
@@ -2045,7 +1915,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "76d2183e-a864-43f3-b2be-9f37c872bcdd")
+			(uuid "44a2691c-9a56-473a-99d0-7319ce9ab94c")
 		)
 		(fp_line
 			(start 0.51 -0.4)
@@ -2055,7 +1925,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "17512285-a7c1-4189-9f3e-6cdc44f107df")
+			(uuid "03a0908c-a07a-4213-970e-bf9c576f6e42")
 		)
 		(fp_line
 			(start 0.51 0.41)
@@ -2065,7 +1935,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "26ad206c-412b-4ea9-9702-a369504d6c6e")
+			(uuid "e27e8ee6-0322-4dca-9f41-a3764c90cb9f")
 		)
 		(fp_circle
 			(center -1.85 0.85)
@@ -2076,7 +1946,7 @@
 			)
 			(fill no)
 			(layer "F.Fab")
-			(uuid "11939136-30c0-4ba2-95df-1123301dcc7e")
+			(uuid "52c76b7e-597d-4584-bc78-6c2f7a985e17")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 0)
@@ -2125,7 +1995,7 @@
 		(uuid "4521a836-7555-4eba-8d25-4cbfcfe1cab4")
 		(at 186 108)
 		(property "Reference" "U4"
-			(at 0 -7.53 0)
+			(at 0 -5.5 0)
 			(layer "F.SilkS")
 			(uuid "bd5f842b-7073-4f7e-a42c-5c2cd9b853be")
 			(effects
@@ -2136,7 +2006,7 @@
 			)
 		)
 		(property "Value" "W25Q128JVSIQTR"
-			(at 0 7.53 0)
+			(at 0 5.5 0)
 			(layer "F.Fab")
 			(uuid "74c608eb-0c77-4f8e-b674-221e606038c9")
 			(effects
@@ -2146,7 +2016,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://lcsc.com/product-detail/FLASH_W25Q128JVSIQTR_C97521.html"
+		(property "Datasheet" ""
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -2170,19 +2040,6 @@
 				)
 			)
 		)
-		(property "LCSC Part" "C97521"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "e6d16ff8-0b74-44cd-9daf-53b562a687df")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/c87d47ce-4ccc-43a8-b837-35a2adc70ec5")
 		(sheetname "/")
 		(sheetfile "jlctest.kicad_sch")
@@ -2195,7 +2052,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "72ba1f3e-412d-4384-81c3-c048620fc8af")
+			(uuid "819ffc97-f206-4be6-8d45-7cc7e85fbfe8")
 		)
 		(fp_line
 			(start -2.64 2.18)
@@ -2205,7 +2062,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "080e14f8-311f-4425-b1de-7aceca097754")
+			(uuid "ee85e9bd-cf1f-459c-9e35-c5eaa1fec088")
 		)
 		(fp_line
 			(start 2.64 -2.18)
@@ -2215,7 +2072,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "317dde34-6bce-405b-ba60-04b91ca7a436")
+			(uuid "131f59f7-5d57-4392-bf84-3ceda201b5f6")
 		)
 		(fp_line
 			(start 2.64 2.18)
@@ -2225,7 +2082,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "995bc4e8-44e5-4ec6-b2ea-55a878fc035a")
+			(uuid "a246358d-cf35-4bb7-917e-f7ecff12426c")
 		)
 		(fp_circle
 			(center -2.67 3.53)
@@ -2236,7 +2093,7 @@
 			)
 			(fill no)
 			(layer "F.SilkS")
-			(uuid "58a5be9e-10ae-4c57-b3cc-32ed180e446a")
+			(uuid "e1ca0cca-8f11-4bb3-be0f-299314270231")
 		)
 		(fp_circle
 			(center -1.91 1.42)
@@ -2247,7 +2104,7 @@
 			)
 			(fill no)
 			(layer "F.SilkS")
-			(uuid "c1d583a9-b80d-46b5-b940-deb61753cf55")
+			(uuid "4ef267e9-c76a-464f-b1e9-9ca546ee1b09")
 		)
 		(fp_circle
 			(center -1.91 4.35)
@@ -2258,7 +2115,7 @@
 			)
 			(fill no)
 			(layer "Cmts.User")
-			(uuid "a4ff8c16-0c68-4599-8174-08c1705bd7de")
+			(uuid "c5a195e8-0a81-45f9-8641-b64e89514de1")
 		)
 		(fp_circle
 			(center -2.59 3.92)
@@ -2269,7 +2126,7 @@
 			)
 			(fill no)
 			(layer "F.Fab")
-			(uuid "281f8a09-f1df-44f5-b879-5e65fdd3b941")
+			(uuid "1559bba6-a2fc-46c4-86dd-7864f4f36d0d")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 0)
@@ -2383,7 +2240,7 @@
 			)
 		)
 		(property "Value" "X50328MSB2GI"
-			(at -0.05 3.5 0)
+			(at 0 3 0)
 			(layer "F.Fab")
 			(uuid "82141141-b6e7-46cf-bef1-c9645374dcf9")
 			(effects
@@ -2393,7 +2250,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://lcsc.com/product-detail/SMD-Crystals_YSX530GA-8MHZ-20PF-10PPM-40-85_C115962.html"
+		(property "Datasheet" ""
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -2417,19 +2274,6 @@
 				)
 			)
 		)
-		(property "LCSC Part" "C115962"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "d47764d9-98a8-4fb7-a177-2f9c57a9d027")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/8bea7d9a-907c-44c6-bd9c-6165660ae1a4")
 		(sheetname "/")
 		(sheetfile "jlctest.kicad_sch")
@@ -2442,7 +2286,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "3bcf9fab-dea8-427e-befd-10d63db0d728")
+			(uuid "ec515505-c88b-46df-9728-8da5da70da5e")
 		)
 		(fp_line
 			(start -3.33 -0.7)
@@ -2452,7 +2296,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "05959155-bdce-4d2d-be8b-d296c1f1e24f")
+			(uuid "82f8533e-8099-42ac-8072-ab5cf4c2a7ca")
 		)
 		(fp_line
 			(start -3.33 0.7)
@@ -2462,7 +2306,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "848b495c-f0c1-4b48-835b-2158bcf2b0f9")
+			(uuid "6deafe32-afc7-486f-a97c-620b56b67ba6")
 		)
 		(fp_line
 			(start -3.33 1.85)
@@ -2472,7 +2316,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "66a7cfec-5a99-48ba-9eea-15e27882c647")
+			(uuid "c1fa2a24-aad9-46ef-9975-37fe258a61ea")
 		)
 		(fp_line
 			(start -0.94 0)
@@ -2482,7 +2326,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "e697ab50-0e88-44cd-bdbf-f6d97376d84c")
+			(uuid "bbc5ea7f-0580-4d39-a2b9-b96fdf0b3ed3")
 		)
 		(fp_line
 			(start -0.48 -1)
@@ -2492,7 +2336,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "8e3cd8ee-7dc7-4af2-93de-ce500dbf58d0")
+			(uuid "96fc4529-0fe6-47c0-819d-62a364ed7629")
 		)
 		(fp_line
 			(start -0.18 -0.9)
@@ -2502,7 +2346,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "f7a59a1c-31cc-48cf-a7d0-d7154ba60d10")
+			(uuid "27135183-1c95-4a7c-99f8-9082a9d01da4")
 		)
 		(fp_line
 			(start -0.18 1)
@@ -2512,7 +2356,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "90cf97be-13a7-4da6-af0a-fe4873273a4f")
+			(uuid "ad517a94-4572-427b-9c57-9c7abc1929ab")
 		)
 		(fp_line
 			(start 0.22 -0.9)
@@ -2522,7 +2366,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "3228d128-b284-4802-b41e-f000b00aec08")
+			(uuid "7a6e9ced-20cc-4c62-b355-bcc874cdf61f")
 		)
 		(fp_line
 			(start 0.22 1)
@@ -2532,7 +2376,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "4b6b0d58-fc5e-44de-8606-141231af85ef")
+			(uuid "71d25ea8-2b08-4bb0-b07c-30bd8940d57b")
 		)
 		(fp_line
 			(start 0.52 -1)
@@ -2542,7 +2386,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "025279d9-cd14-419f-ba7c-de23a4045b87")
+			(uuid "6208572b-3eb9-4351-be71-7030e03cdc7b")
 		)
 		(fp_line
 			(start 0.62 0)
@@ -2552,7 +2396,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "6de2202d-209d-435c-b641-95b4b23e490d")
+			(uuid "69c0ed20-a8a0-4047-b276-1c2533ba104a")
 		)
 		(fp_line
 			(start 3.32 -1.85)
@@ -2562,7 +2406,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "79581e83-6e7b-4ba1-8f11-7ab8698ea52b")
+			(uuid "1ecb1ba2-235a-42cd-bf0e-29b8eb9659c3")
 		)
 		(fp_line
 			(start 3.32 -0.7)
@@ -2572,7 +2416,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "0234f541-39bb-4726-95b4-d31264e59e7b")
+			(uuid "69d6af0f-a856-40a9-aa4c-1694ebe5fe5d")
 		)
 		(fp_line
 			(start 3.32 0.7)
@@ -2582,7 +2426,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "6199033c-5cd3-4aaa-a5ac-98081610e468")
+			(uuid "7517ccc1-166a-4c99-92e2-34edb51cdc75")
 		)
 		(fp_line
 			(start 3.32 1.85)
@@ -2592,7 +2436,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "0dfee44d-ee84-47a3-9264-dea97540666a")
+			(uuid "61515f6c-ba2c-4ad9-a719-509df3d38457")
 		)
 		(fp_circle
 			(center -2.5 1.6)
@@ -2603,7 +2447,7 @@
 			)
 			(fill no)
 			(layer "F.Fab")
-			(uuid "3757e8b8-b933-4912-9a32-3e2ae15422ee")
+			(uuid "6e0cd09d-1679-47a9-aed0-dc6a19cfd849")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 0)
@@ -2673,7 +2517,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://lcsc.com/product-detail/Precision-OpAmps_TI_OP07CDR_OP07CDR_C7433.html"
+		(property "Datasheet" ""
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -2697,19 +2541,6 @@
 				)
 			)
 		)
-		(property "LCSC Part" "C7433"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "5460abdb-6cd9-4acc-ba58-26630b43cd8d")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/77efca16-188e-4660-9fc5-64bc8c8c4c65")
 		(sheetname "/")
 		(sheetfile "jlctest.kicad_sch")
@@ -2722,7 +2553,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "e687ed23-252c-4bb8-8f6a-590c757539af")
+			(uuid "025a0cc2-9c99-4464-a65e-894cbc4eae3a")
 		)
 		(fp_line
 			(start -2.53 1.52)
@@ -2732,7 +2563,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "da029e87-8b08-4abb-ac4b-acf8c15dba42")
+			(uuid "3c0c5ea6-8a58-4d30-a156-8686d7059230")
 		)
 		(fp_line
 			(start 2.53 -1.52)
@@ -2742,7 +2573,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "b54a4918-7e42-4d95-879a-ea9e7ab4fb8d")
+			(uuid "15ff01f6-42fb-40c9-8dee-28f86ffa3359")
 		)
 		(fp_line
 			(start 2.53 1.52)
@@ -2752,7 +2583,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "1fe5884f-316a-4aa8-9925-24e788341f52")
+			(uuid "1cdd64e4-ccb6-4545-a9fc-6b61db6c98ca")
 		)
 		(fp_circle
 			(center -2.65 2.77)
@@ -2763,7 +2594,7 @@
 			)
 			(fill no)
 			(layer "F.SilkS")
-			(uuid "cd512452-e04a-496b-b846-af012dd86da7")
+			(uuid "32a4b4d0-a144-4e95-8228-1cc3cb2b0ab7")
 		)
 		(fp_circle
 			(center -1.91 0.77)
@@ -2774,7 +2605,7 @@
 			)
 			(fill no)
 			(layer "F.SilkS")
-			(uuid "716f4c73-d1cb-4627-abd5-5707e568838f")
+			(uuid "38d3bcad-4403-4333-bbf3-734a7f1f24ed")
 		)
 		(fp_circle
 			(center -1.91 3.4)
@@ -2785,7 +2616,7 @@
 			)
 			(fill no)
 			(layer "Cmts.User")
-			(uuid "7ca37128-13b0-4b66-a54c-e9ef71fc3d68")
+			(uuid "6169457d-1589-4573-a588-3b6b4a41c516")
 		)
 		(fp_circle
 			(center -2.45 3)
@@ -2796,7 +2627,7 @@
 			)
 			(fill no)
 			(layer "F.Fab")
-			(uuid "ce372a70-2ca8-4828-8c9b-f8a334f4276e")
+			(uuid "036dbb2a-7b45-4ff4-a297-6ef0d1f87cc2")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 0)
@@ -2920,7 +2751,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount-UniOhm_0R-0R0-1_C17477.html"
+		(property "Datasheet" ""
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -2944,19 +2775,6 @@
 				)
 			)
 		)
-		(property "LCSC Part" "C17477"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "f230ab4d-7d22-4d6e-8318-b92cefd62df0")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/db83cdc2-9fc9-451c-b784-c51c854177a0")
 		(sheetname "/")
 		(sheetfile "jlctest.kicad_sch")
@@ -2969,7 +2787,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "ad867c94-6d90-415a-ba0b-e4a19c70a8c2")
+			(uuid "1fe23556-92c9-49c1-98d9-587a7ba884eb")
 		)
 		(fp_line
 			(start -1.76 0.92)
@@ -2979,7 +2797,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "1bb2f3c0-5112-43cd-808f-930e048f5e79")
+			(uuid "45ce54ea-2d41-45dd-a9be-5f2e0d4f435c")
 		)
 		(fp_line
 			(start -0.48 0.92)
@@ -2989,7 +2807,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "b4ae0411-53e2-4054-9209-f299dc3450c7")
+			(uuid "8593393f-4546-499a-a6c3-fce9f48fe22b")
 		)
 		(fp_line
 			(start 0.48 0.92)
@@ -2999,7 +2817,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "d030a47d-2179-443d-8561-3aa2d051efa6")
+			(uuid "6477b568-04c5-45c6-b508-b59ba5696426")
 		)
 		(fp_line
 			(start 1.76 -0.92)
@@ -3009,7 +2827,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "3b941f13-18c4-40f2-8a17-88ccdead7721")
+			(uuid "4ec7f93a-56c1-4280-9b9a-786ffa5035be")
 		)
 		(fp_line
 			(start 1.76 0.92)
@@ -3019,7 +2837,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "a0252ff9-2991-4370-a249-6d9d486a7e12")
+			(uuid "e6a0881b-1755-4b88-bfd3-bceb448e6368")
 		)
 		(fp_circle
 			(center -1 0.64)
@@ -3030,7 +2848,7 @@
 			)
 			(fill no)
 			(layer "F.Fab")
-			(uuid "7f8bf351-9dd3-4fb6-803a-978a57c64ff7")
+			(uuid "29ae1052-50d3-4ab9-937b-90c9502c252d")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 0)
@@ -3100,7 +2918,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount-UniOhm_0R-0R0-1_C21189.html"
+		(property "Datasheet" ""
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -3124,19 +2942,6 @@
 				)
 			)
 		)
-		(property "LCSC Part" "C21189"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "35318f21-a2b7-43b4-be29-730a38fa2639")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/9f5a5b29-4dee-485b-97e9-02141ea733ea")
 		(sheetname "/")
 		(sheetfile "jlctest.kicad_sch")
@@ -3149,7 +2954,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "d21cbf7c-05f1-496e-9189-d56f2571bd11")
+			(uuid "50089342-6e4f-4cc6-ac63-7aa497038841")
 		)
 		(fp_line
 			(start -1.39 0.66)
@@ -3159,7 +2964,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "8bdf9077-6c8e-4bf2-89d1-caba8120d9a0")
+			(uuid "63a69912-aaa0-421e-82bf-f8893733c7ae")
 		)
 		(fp_line
 			(start -0.43 0.66)
@@ -3169,7 +2974,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "26eb88a1-03ba-4b67-8287-58b6b0d49a40")
+			(uuid "e0a9e625-f877-4077-bbcc-e303507b9cb5")
 		)
 		(fp_line
 			(start 0.43 0.66)
@@ -3179,7 +2984,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "b322eaa5-c571-4935-a1d1-62f9e0ed464c")
+			(uuid "416dd3e1-54f1-40a0-ba98-d77a4d6a99b8")
 		)
 		(fp_line
 			(start 1.39 -0.66)
@@ -3189,7 +2994,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "e19d88e9-c68b-43a4-b03e-043a661e73c2")
+			(uuid "ce60568d-e056-4ffa-b00d-b22005d1faea")
 		)
 		(fp_line
 			(start 1.39 0.66)
@@ -3199,7 +3004,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "ce17746e-270d-4e98-8749-5d44c40d5354")
+			(uuid "9eec7f0e-506e-4e21-ac30-48050d6e1ae1")
 		)
 		(fp_circle
 			(center -0.8 0.4)
@@ -3210,7 +3015,7 @@
 			)
 			(fill no)
 			(layer "F.Fab")
-			(uuid "d1468747-0e90-4430-a016-f76d304e7c59")
+			(uuid "97cf376e-7e60-464e-960a-b3e354c2b985")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 0)
@@ -3259,7 +3064,7 @@
 		(uuid "5fcb576c-f9e0-4446-aa1e-a7f1b952689a")
 		(at 172.65 95)
 		(property "Reference" "Q4"
-			(at 0 -2.55 0)
+			(at 0 -2.5 0)
 			(layer "F.SilkS")
 			(uuid "43c2a58c-89cb-4ebc-afdd-efda52ef4620")
 			(effects
@@ -3270,7 +3075,7 @@
 			)
 		)
 		(property "Value" "AO3401A"
-			(at 0 2.95 0)
+			(at 0 2.5 0)
 			(layer "F.Fab")
 			(uuid "b751b0d9-12dd-4c97-8518-b343c2acd2e6")
 			(effects
@@ -3280,7 +3085,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://lcsc.com/product-detail/MOSFET_AOS_AO3401A_AO3401A_C15127.html"
+		(property "Datasheet" ""
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -3304,19 +3109,6 @@
 				)
 			)
 		)
-		(property "LCSC Part" "C15127"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "fa04e4d3-db63-46f3-8e93-0daf80f887bc")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/202e5862-0b28-4af6-9754-6d51f9d83e67")
 		(sheetname "/")
 		(sheetfile "jlctest.kicad_sch")
@@ -3329,7 +3121,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "cb50e8d9-82e2-4665-b306-e82019bcdc4a")
+			(uuid "fc7c21dc-abf4-47f8-9184-9202f32ad005")
 		)
 		(fp_line
 			(start -0.7 -0.64)
@@ -3339,7 +3131,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "78083897-69a3-45b8-8957-bc03866856c0")
+			(uuid "66fedb52-c379-44ec-a3b5-7e5651d4e0fe")
 		)
 		(fp_line
 			(start -0.7 1.5)
@@ -3349,7 +3141,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "7d4ae358-6bc2-4061-90d8-2de11495a87d")
+			(uuid "a20f2fdc-0fbf-4c33-8ac0-c9be04e4b2ee")
 		)
 		(fp_line
 			(start -0.7 1.5)
@@ -3359,7 +3151,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "58cddb74-dfd8-42f1-93ca-8e4b156cafce")
+			(uuid "84667d60-87a9-4c15-93b2-b43ddc7ef9d0")
 		)
 		(fp_line
 			(start 0.7 0.31)
@@ -3369,7 +3161,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "06ddf16d-8247-4387-a433-56fbf218b57e")
+			(uuid "c83f6165-2627-4215-9836-64d85c7d08b0")
 		)
 		(fp_circle
 			(center 1.75 0.94)
@@ -3380,7 +3172,7 @@
 			)
 			(fill no)
 			(layer "Cmts.User")
-			(uuid "cf5e6feb-2073-4079-b93c-8633011fa380")
+			(uuid "c6ee018b-0cbf-4a54-8191-ff86bbe3ddaf")
 		)
 		(fp_circle
 			(center 1.2 1.45)
@@ -3391,7 +3183,7 @@
 			)
 			(fill no)
 			(layer "F.Fab")
-			(uuid "4a132c8c-ddb4-4aeb-9cd9-b5f569734cb3")
+			(uuid "7a23950f-bc10-4d89-bd4a-0126f7adb479")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 0)
@@ -3470,7 +3262,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://lcsc.com/product-detail/Switching-Diode_1N4148W_C81598.html"
+		(property "Datasheet" ""
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -3494,19 +3286,6 @@
 				)
 			)
 		)
-		(property "LCSC Part" "C81598"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "8f06b0e7-e131-43d4-8997-c7a12798b53d")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/67590aa7-bc54-47a5-b92c-0c10c812e1ea")
 		(sheetname "/")
 		(sheetfile "jlctest.kicad_sch")
@@ -3519,7 +3298,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "0ba03af8-d7fc-41e0-b6c9-b72dd3e16168")
+			(uuid "2bf834fe-02c6-43ac-8bd6-98d170bb7e3a")
 		)
 		(fp_line
 			(start -1.38 0.92)
@@ -3529,7 +3308,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "5b66ad39-e608-45dc-8e3f-c8cbdccc090c")
+			(uuid "ff09887b-3f9e-4dc2-b175-eeb395cc99c6")
 		)
 		(fp_line
 			(start -0.92 -0.88)
@@ -3539,7 +3318,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "4d5c0db7-1e82-485d-b4fa-efc0dfb53abb")
+			(uuid "6cf0e1fc-3b44-4a45-8480-d0527fbcd0f2")
 		)
 		(fp_line
 			(start 1.37 -0.92)
@@ -3549,7 +3328,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "2f5c5ed5-f2da-467b-8eb2-0387f66a4345")
+			(uuid "f8475786-78d4-4ec9-b4fd-6b5fd60fcc38")
 		)
 		(fp_line
 			(start 1.37 0.92)
@@ -3559,7 +3338,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "aa0a21a5-bc14-45e6-be80-28c100f110db")
+			(uuid "6a559e83-a017-4d03-9ee3-4c3a42d81a13")
 		)
 		(fp_circle
 			(center -1.9 0.8)
@@ -3570,7 +3349,7 @@
 			)
 			(fill no)
 			(layer "F.Fab")
-			(uuid "01881d92-0ba6-4d83-8623-33bd55f587ba")
+			(uuid "b45d1d50-b83e-42a1-86fe-53aae43c4da7")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 0)
@@ -3619,7 +3398,7 @@
 		(uuid "6c1bd00c-03bb-4a1d-bb31-17e7088b3ada")
 		(at 173.1 86.5)
 		(property "Reference" "Q3"
-			(at 0 -2.55 0)
+			(at 0 -2.5 0)
 			(layer "F.SilkS")
 			(uuid "47ef63b4-6540-4d18-9301-f3fdd4faca3b")
 			(effects
@@ -3630,7 +3409,7 @@
 			)
 		)
 		(property "Value" "SI2301CDS-T1-GE3"
-			(at 0 2.45 0)
+			(at 0 2.5 0)
 			(layer "F.Fab")
 			(uuid "093398a7-c977-44fc-95bc-30fbd588b53a")
 			(effects
@@ -3640,7 +3419,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://lcsc.com/product-detail/MOSFET_VISHAY_SI2301CDS-T1-GE3_SI2301CDS-T1-GE3_C10487.html"
+		(property "Datasheet" ""
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -3664,19 +3443,6 @@
 				)
 			)
 		)
-		(property "LCSC Part" "C10487"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "c7740a1c-6111-4f69-9ca0-ffd46772af16")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/1f8a8da9-b075-4c3f-92bf-d1ad14baa4c5")
 		(sheetname "/")
 		(sheetfile "jlctest.kicad_sch")
@@ -3689,7 +3455,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "71438d06-e3d4-4206-995f-f170acef8718")
+			(uuid "7d60f407-40ff-4c70-b532-17b389f461f4")
 		)
 		(fp_line
 			(start -0.86 1.53)
@@ -3699,7 +3465,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "3ea297a9-4b58-454a-913d-065add74c02f")
+			(uuid "fd87d391-3a02-4e3a-87d6-b00d81d7c5b7")
 		)
 		(fp_line
 			(start 0.86 -1.53)
@@ -3709,7 +3475,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "400eb92d-b331-438e-94a2-97db87649d1b")
+			(uuid "73a8a9c0-9362-4c14-a758-69b0603de057")
 		)
 		(fp_line
 			(start 0.86 -0.46)
@@ -3719,7 +3485,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "437751e2-bcfc-4bb6-b3e3-a7824171d7e1")
+			(uuid "a83e573b-09ef-4118-8f6f-f75318f057bb")
 		)
 		(fp_line
 			(start 0.86 1.53)
@@ -3729,7 +3495,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "21c62390-3f68-4f4a-9075-b445c00bd0fd")
+			(uuid "08c9d440-1511-4bdd-9384-62404dc0aa4f")
 		)
 		(fp_circle
 			(center 1.65 0.95)
@@ -3740,7 +3506,7 @@
 			)
 			(fill no)
 			(layer "Cmts.User")
-			(uuid "b2f38481-5ba9-4e73-858b-df76b7ec4860")
+			(uuid "ecea2c0b-bc0a-455a-8e9d-6faa2247ca40")
 		)
 		(fp_circle
 			(center 1.42 1.5)
@@ -3751,7 +3517,7 @@
 			)
 			(fill no)
 			(layer "F.Fab")
-			(uuid "39944dd4-a0f3-4e16-8cce-257fa1a1a970")
+			(uuid "4fcbec80-eec5-409f-9df4-5246f50d8493")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 0)
@@ -3821,7 +3587,7 @@
 		)
 		(property "Value" "0805W8F100JT5E"
 			(at 0 2 0)
-			(layer "F.Fab")
+			(layer "F.SilkS")
 			(uuid "b1a6b9a8-63eb-455a-90f8-496058d09bb5")
 			(effects
 				(font
@@ -3830,7 +3596,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount-UniOhm_10R-10R0-1_C17415.html"
+		(property "Datasheet" ""
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -3854,19 +3620,6 @@
 				)
 			)
 		)
-		(property "LCSC Part" "C17415"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "59c0fd41-cf37-42dd-b7ae-34823b171cd2")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/904946d2-eca8-4fbf-85fa-18f064d0f52d")
 		(sheetname "/")
 		(sheetfile "jlctest.kicad_sch")
@@ -3879,7 +3632,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "9137e04f-5531-4104-aee4-25f9536b442a")
+			(uuid "c095ce9f-7a91-4cd7-af69-a4372f8365d6")
 		)
 		(fp_line
 			(start -1.76 0.92)
@@ -3889,7 +3642,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "b2255a08-4e6d-4046-9919-199f19bd247b")
+			(uuid "6990ac95-7c25-4720-9bd6-c7a8bbfdaf40")
 		)
 		(fp_line
 			(start -0.48 0.92)
@@ -3899,7 +3652,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "2653b3ea-f6e0-4e44-b227-9ea5086536b9")
+			(uuid "09e6152d-d917-4d7e-b5f6-dcf1e12d3254")
 		)
 		(fp_line
 			(start 0.48 0.92)
@@ -3909,7 +3662,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "4bc7d30b-6efa-4c1b-a66d-8e04939fc775")
+			(uuid "22902f2d-9a3e-4747-97aa-657c9e9aaf69")
 		)
 		(fp_line
 			(start 1.76 -0.92)
@@ -3919,7 +3672,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "c8f64d41-08cf-4931-9dd9-59d4d7773467")
+			(uuid "ee197e09-ba69-4a4a-8e04-86bc2a8fb0b2")
 		)
 		(fp_line
 			(start 1.76 0.92)
@@ -3929,7 +3682,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "4ba770a9-dc22-4620-8fc5-897e63951077")
+			(uuid "b200d7ae-9d5a-4eb4-93c8-d483b2c2565a")
 		)
 		(fp_circle
 			(center -1 0.64)
@@ -3940,7 +3693,7 @@
 			)
 			(fill no)
 			(layer "F.Fab")
-			(uuid "f2c5362f-525e-4883-8fbf-a0ac277461ef")
+			(uuid "2222976e-0a06-4996-a627-67164d82bd4c")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 0)
@@ -3989,7 +3742,7 @@
 		(uuid "738bf497-58e7-4bcb-b252-0e5d819612bd")
 		(at 217.5 114.5)
 		(property "Reference" "SW1"
-			(at 0 -4 0)
+			(at 0 -3.5 0)
 			(layer "F.SilkS")
 			(uuid "caeb7f2e-69bc-4d7f-9f23-6a464bcad3c2")
 			(effects
@@ -4000,7 +3753,7 @@
 			)
 		)
 		(property "Value" "TS-1187A-B-A-B"
-			(at 0 4 0)
+			(at 0 3.5 0)
 			(layer "F.Fab")
 			(uuid "a8473fee-cf7c-4471-a401-46934198e4eb")
 			(effects
@@ -4010,7 +3763,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://lcsc.com/product-detail/Tactile-Switches_XKB-Enterprise-TS-1187-B-A-A_C318884.html"
+		(property "Datasheet" ""
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -4034,19 +3787,6 @@
 				)
 			)
 		)
-		(property "LCSC Part" "C318884"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "b794646c-87ed-42c0-94e3-fa28317ff1fc")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/767734b1-b17a-4902-a1b3-301aedb8a11b")
 		(sheetname "/")
 		(sheetfile "jlctest.kicad_sch")
@@ -4059,7 +3799,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "1d80055c-90f3-407c-8b58-dfdd96afcc8e")
+			(uuid "b3071adf-4ef7-4320-bb0d-2e273b73de09")
 		)
 		(fp_line
 			(start -2.17 1.66)
@@ -4069,7 +3809,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "a12c57e7-83a3-4ba5-a190-175ea0cf590b")
+			(uuid "43f08adb-4e9d-4639-a56a-3767adb9503e")
 		)
 		(fp_line
 			(start -1.8 -1)
@@ -4079,7 +3819,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "abc679dc-556c-40e6-82c7-f082d957c159")
+			(uuid "93df8af4-1f2a-47ee-8bc0-29c0dfbd4f24")
 		)
 		(fp_line
 			(start -1.8 1)
@@ -4089,7 +3829,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "f7546d05-ce93-44d6-bee4-3ccd38b5641f")
+			(uuid "5ab042c7-0f32-407b-820b-02db51515ebc")
 		)
 		(fp_line
 			(start -1.28 -2.55)
@@ -4099,7 +3839,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "9edded16-7815-4ce8-b6e7-61e82222ca52")
+			(uuid "ef5f9a8b-ee8c-4566-8545-8c94188f3140")
 		)
 		(fp_line
 			(start -1.28 -2.55)
@@ -4109,7 +3849,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "4b67a9d0-3d02-40f9-94f8-4a463713525c")
+			(uuid "4b8f03bf-2b86-41ed-b4dd-f3b8987d895d")
 		)
 		(fp_line
 			(start -1.28 2.55)
@@ -4119,7 +3859,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "e083d5e7-1225-4c5d-8a57-56db4bd59028")
+			(uuid "226a7759-7397-4bcf-bb57-1dbadf0e4bcc")
 		)
 		(fp_line
 			(start -1 -1.8)
@@ -4129,7 +3869,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "3353f458-a21f-4559-ab70-d73bce81a77e")
+			(uuid "09c09752-8dfc-44ab-9bb2-1d84b27c9e81")
 		)
 		(fp_line
 			(start -0.9 1.9)
@@ -4139,7 +3879,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "09e7d6db-e93c-4d2c-8047-43d60cf4b2e2")
+			(uuid "d72359b9-1b2f-4e58-a485-d62ffd4bfd58")
 		)
 		(fp_line
 			(start 0.8 1.9)
@@ -4149,7 +3889,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "789cccac-4244-4ff8-ad29-6ebba55325a5")
+			(uuid "60d949bd-55c0-4000-8f46-84e0e0045634")
 		)
 		(fp_line
 			(start 0.9 -1.8)
@@ -4159,7 +3899,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "64f9d914-5e4b-458b-8e6b-64700815861e")
+			(uuid "318a5455-daa1-4a31-b333-4e6f48006746")
 		)
 		(fp_line
 			(start 1.28 -2.55)
@@ -4169,7 +3909,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "74ad7127-bf36-4d75-839d-89aaff5f2ddf")
+			(uuid "41bf70d8-5e87-4363-a9b4-127dbbeebdba")
 		)
 		(fp_line
 			(start 1.8 -0.9)
@@ -4179,7 +3919,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "abdd7621-8d9a-4988-9b2c-1c77ef1b40fb")
+			(uuid "6340eaa6-079e-4ad1-bff5-2d8d5ffe224b")
 		)
 		(fp_line
 			(start 1.8 0.9)
@@ -4189,7 +3929,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "2eb7b335-47ec-473c-8559-4aba7fb99d33")
+			(uuid "f5cb5c9c-e977-4007-9e44-548d2b16747a")
 		)
 		(fp_line
 			(start 2.17 1.66)
@@ -4199,7 +3939,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "2604746d-ff28-4eb9-b82d-946eee40fcdc")
+			(uuid "584e9d22-864a-4d01-b4f7-847506e29213")
 		)
 		(fp_line
 			(start 2.55 -1.17)
@@ -4209,7 +3949,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "04e35976-f1aa-4de5-9803-2d623907aff3")
+			(uuid "54c5356e-b4a9-4734-a099-b8cc6bed4511")
 		)
 		(fp_circle
 			(center 0 0)
@@ -4220,7 +3960,7 @@
 			)
 			(fill no)
 			(layer "F.SilkS")
-			(uuid "8406fdd5-fd5b-4d69-8bcb-53da0d88e4f0")
+			(uuid "f112a2c5-819a-4f7f-a2d9-be6dd147278d")
 		)
 		(fp_circle
 			(center -3.25 -2.55)
@@ -4231,7 +3971,7 @@
 			)
 			(fill no)
 			(layer "F.Fab")
-			(uuid "23e2a612-f1c4-4faa-a54b-7d7141853323")
+			(uuid "ffa17624-7fa1-4180-8b8e-e3aabe1f6ed5")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 0)
@@ -4319,7 +4059,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://lcsc.com/product-detail/Schottky-Barrier-Diodes-SBD_SS54_C22452.html"
+		(property "Datasheet" ""
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -4343,19 +4083,6 @@
 				)
 			)
 		)
-		(property "LCSC Part" "C22452"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "d3f29ce8-8bf4-4fe0-836f-26908727410f")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/6bd5b091-fbd6-4894-9d13-442dd8edef90")
 		(sheetname "/")
 		(sheetfile "jlctest.kicad_sch")
@@ -4368,7 +4095,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "fb7d8384-872a-499f-9990-e5ca3ceae222")
+			(uuid "f234574c-8070-4c80-9f06-e5f56f43f77c")
 		)
 		(fp_line
 			(start -2.65 1.36)
@@ -4378,7 +4105,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "9b5a501c-f61e-45e9-a04a-2b789c873f92")
+			(uuid "5e1550a8-057f-4e01-ab51-be42280d5c0e")
 		)
 		(fp_line
 			(start -1.27 -1.36)
@@ -4388,7 +4115,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "e51614fd-f074-4dc4-b987-2126f25637d9")
+			(uuid "d27f37a1-4cc5-45f0-8137-03574b375138")
 		)
 		(fp_line
 			(start 2.65 -1.36)
@@ -4398,7 +4125,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "46f5c2e9-9fc5-4f2e-86bf-fe30286fe90a")
+			(uuid "7439b0db-c6bf-4323-9e2f-2b193ad3346a")
 		)
 		(fp_line
 			(start 2.65 1.36)
@@ -4408,7 +4135,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "28ec21b1-5999-4f8f-9069-3edabbf78cca")
+			(uuid "044e7862-6bfd-44f2-bac4-699514eb6943")
 		)
 		(fp_circle
 			(center -2.8 1.28)
@@ -4419,7 +4146,7 @@
 			)
 			(fill no)
 			(layer "F.Fab")
-			(uuid "55330742-de94-4e7a-baba-c39329b01c33")
+			(uuid "d8b00efc-da8f-4406-a7d0-53e61338ddfb")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 0)
@@ -4468,7 +4195,7 @@
 		(uuid "7952a645-65ef-460c-b2db-7a841dd4beb1")
 		(at 201 74.5)
 		(property "Reference" "U5"
-			(at 0 -4.73 0)
+			(at 0 -4.5 0)
 			(layer "F.SilkS")
 			(uuid "2230e61d-fa91-46a4-9544-736867d2c67b")
 			(effects
@@ -4479,7 +4206,7 @@
 			)
 		)
 		(property "Value" "LM324DT"
-			(at 0 4.77 0)
+			(at 0 4.5 0)
 			(layer "F.Fab")
 			(uuid "ad25ecca-8c0e-47f1-9105-5fe8352bf533")
 			(effects
@@ -4489,7 +4216,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://lcsc.com/product-detail/General-Purpose-Amplifiers_STMicroelectronics_LM324DT_LM324DT_C71035.html"
+		(property "Datasheet" ""
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -4513,19 +4240,6 @@
 				)
 			)
 		)
-		(property "LCSC Part" "C71035"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "29b98e63-c33d-4fbd-9bd4-a42379880458")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/5a7b9ecc-2e89-4223-b1aa-c84c69bff6b2")
 		(sheetname "/")
 		(sheetfile "jlctest.kicad_sch")
@@ -4538,7 +4252,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "5b162bca-d05e-4422-b7cb-d667be889b7c")
+			(uuid "70e64fc7-0cec-45cc-9500-8da33415c24c")
 		)
 		(fp_line
 			(start -4.4 1.52)
@@ -4548,7 +4262,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "2e6285c9-9cff-44dd-9604-e578b876f6d9")
+			(uuid "4f24a66b-1238-4ab1-bbf6-42dbec478543")
 		)
 		(fp_line
 			(start 4.4 -1.52)
@@ -4558,7 +4272,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "55bc6ae9-ce62-49e8-993b-31a375746281")
+			(uuid "562494e9-a4be-43bf-9eaf-054b6da9174a")
 		)
 		(fp_line
 			(start 4.4 1.52)
@@ -4568,7 +4282,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "be1e61f3-9cbe-445c-ab66-34a0dd90ba9f")
+			(uuid "a01fd399-f047-46cf-8400-0986aaf9b929")
 		)
 		(fp_circle
 			(center -4.55 2.77)
@@ -4579,7 +4293,7 @@
 			)
 			(fill no)
 			(layer "F.SilkS")
-			(uuid "5c96e477-620e-4fec-bcfc-d0d5b94aa81d")
+			(uuid "6c91044b-dd5c-4ee9-b109-4befa801517a")
 		)
 		(fp_circle
 			(center -3.81 0.77)
@@ -4590,7 +4304,7 @@
 			)
 			(fill no)
 			(layer "F.SilkS")
-			(uuid "9dc9e6f9-4716-4a4e-81f6-40b76e4208ca")
+			(uuid "06d7ace3-aaac-4744-bb03-eaf8a9266692")
 		)
 		(fp_circle
 			(center -3.81 3.4)
@@ -4601,7 +4315,7 @@
 			)
 			(fill no)
 			(layer "Cmts.User")
-			(uuid "0693e101-29be-4713-b92b-ffa6742fa11e")
+			(uuid "2a47d24b-fcfe-4ab7-9800-cc28cd9bab8d")
 		)
 		(fp_circle
 			(center -4.33 3)
@@ -4612,7 +4326,7 @@
 			)
 			(fill no)
 			(layer "F.Fab")
-			(uuid "dcbcc809-e72a-4b9d-8041-779b2c116667")
+			(uuid "ff00dbd1-7872-4da6-a0e8-cba358706298")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 0)
@@ -4769,7 +4483,7 @@
 		(uuid "816a6bf8-4b41-4055-b7b9-a54a1b3cfed9")
 		(at 200.72 100.87)
 		(property "Reference" "U7"
-			(at 0 -5 0)
+			(at 0 -4.5 0)
 			(layer "F.SilkS")
 			(uuid "6cb0f717-833b-417c-8d12-3bedf9cf8ca4")
 			(effects
@@ -4780,7 +4494,7 @@
 			)
 		)
 		(property "Value" "SP3232EEY-L/TR"
-			(at 0 5 0)
+			(at 0 4.5 0)
 			(layer "F.Fab")
 			(uuid "a7cda102-191b-432a-9518-ff25f93dd78f")
 			(effects
@@ -4790,7 +4504,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://lcsc.com/product-detail/RS232_SIPEX_SP3232EEY-L-TR_SP3232EEY_C13482.html"
+		(property "Datasheet" ""
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -4814,19 +4528,6 @@
 				)
 			)
 		)
-		(property "LCSC Part" "C13482"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "6a3150e4-520c-445f-af83-40119524c8e4")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/139a7552-ca74-454b-a257-c2ff610149d7")
 		(sheetname "/")
 		(sheetfile "jlctest.kicad_sch")
@@ -4839,7 +4540,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "8fe83152-1c25-4ead-a012-248687099151")
+			(uuid "491b9665-08a2-4562-ab02-7449f17cb6c1")
 		)
 		(fp_line
 			(start -2.58 1.77)
@@ -4849,7 +4550,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "5f4a48ad-939b-409a-be24-6439ec5175dd")
+			(uuid "56b309fc-3698-4584-9783-f3f35b018e4a")
 		)
 		(fp_line
 			(start 2.58 -1.77)
@@ -4859,7 +4560,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "a1fe2281-79db-4cd9-89e0-2f0e6ccf4091")
+			(uuid "fa3abe71-be38-4845-b3eb-7b11e4d4e498")
 		)
 		(fp_line
 			(start 2.58 1.77)
@@ -4869,7 +4570,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "86bc9bcb-abb3-4708-8bc4-c2e337811baf")
+			(uuid "54d31449-c318-4f07-8d30-a53edd4f2437")
 		)
 		(fp_circle
 			(center -2.9 2.87)
@@ -4880,7 +4581,7 @@
 			)
 			(fill no)
 			(layer "F.SilkS")
-			(uuid "4292f526-1a21-4cc4-b743-b51f816cbf61")
+			(uuid "1f8d4904-40b1-44e6-83de-bad38a3e9a84")
 		)
 		(fp_circle
 			(center -2.03 1.27)
@@ -4891,7 +4592,7 @@
 			)
 			(fill no)
 			(layer "F.SilkS")
-			(uuid "f7f0131d-a92a-4594-9cea-ce6ffc3a0465")
+			(uuid "ebdb7cb0-7e8c-4a06-91e1-74104af33fa6")
 		)
 		(fp_circle
 			(center -2.28 3.6)
@@ -4902,7 +4603,7 @@
 			)
 			(fill no)
 			(layer "Cmts.User")
-			(uuid "e9a5883d-78c6-46f2-b9e7-86c53eff2b5f")
+			(uuid "afe22923-a5c7-4c42-a836-74695b760363")
 		)
 		(fp_circle
 			(center -2.5 3.2)
@@ -4913,7 +4614,7 @@
 			)
 			(fill no)
 			(layer "F.Fab")
-			(uuid "64d95c40-8993-4d47-8db1-2488d6878002")
+			(uuid "f73150a2-5059-431e-9213-af58bfae4cdd")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 0)
@@ -5099,7 +4800,7 @@
 			)
 		)
 		(property "Value" "0603B103K500NT"
-			(at 0 2 0)
+			(at 0 1.5 0)
 			(layer "F.Fab")
 			(uuid "00586b97-6ce2-4422-aa8c-ded1bb400ccd")
 			(effects
@@ -5109,7 +4810,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_10nF-103-10-50V_C57112.html"
+		(property "Datasheet" ""
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -5133,19 +4834,6 @@
 				)
 			)
 		)
-		(property "LCSC Part" "C57112"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "b44de46e-058b-4d2e-a741-6bf4de254ad8")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/ab8d8fcf-a823-43a6-bdce-34f66d62a7fc")
 		(sheetname "/")
 		(sheetfile "jlctest.kicad_sch")
@@ -5158,7 +4846,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "5147409a-a6d2-4f62-8e3e-0c6cdae94d5b")
+			(uuid "a754e7a0-1d1b-4f88-a06e-9d7318c5793c")
 		)
 		(fp_line
 			(start -0.28 -0.71)
@@ -5168,7 +4856,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "fab04d3d-5b1b-4398-9868-9f45b2edadfa")
+			(uuid "153f2aec-5465-450b-8512-db25efd6448b")
 		)
 		(fp_line
 			(start -0.28 0.71)
@@ -5178,7 +4866,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "73e8fc2b-a678-4c61-89fb-4cca0b0dfe7f")
+			(uuid "4f2ee6a8-cfb5-4744-8c2a-82c1adbf290f")
 		)
 		(fp_line
 			(start 0.28 -0.71)
@@ -5188,7 +4876,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "99fb0e54-03a2-4f1a-b772-86289170b89f")
+			(uuid "559673b1-820f-429e-a521-425e02912727")
 		)
 		(fp_line
 			(start 0.28 0.71)
@@ -5198,7 +4886,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "0ca69c00-c0d7-4bf0-90ea-424048eb13b1")
+			(uuid "44a9775f-03c3-4a9a-80a5-9dc5e155ea87")
 		)
 		(fp_line
 			(start 1.39 -0.4)
@@ -5208,7 +4896,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "52eb71be-8b66-4bdb-935c-7b6e146aa24d")
+			(uuid "a50be068-57f7-487f-8f3c-99b8ce9ac35b")
 		)
 		(fp_arc
 			(start -1.39 -0.4)
@@ -5219,7 +4907,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "191f16e6-9727-408c-a128-3e340fe7e0f2")
+			(uuid "9075bab1-17f5-4076-b73a-de0a3e4d8cbf")
 		)
 		(fp_arc
 			(start -1.08 0.71)
@@ -5230,7 +4918,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "fbdf74d3-c25b-4232-bcdc-41e7cee82742")
+			(uuid "356828a5-b408-4d77-8b60-c005cafa9859")
 		)
 		(fp_arc
 			(start 1.08 -0.71)
@@ -5241,7 +4929,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "0834fb18-fde5-4762-918a-d76c73e75fda")
+			(uuid "22c5362c-ad08-4b90-96ca-32d2229292c6")
 		)
 		(fp_arc
 			(start 1.39 0.4)
@@ -5252,7 +4940,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "a983d3f3-16a0-476c-a45e-534f0dacbc82")
+			(uuid "7f837b24-9b37-4acc-a572-b9b949a6a759")
 		)
 		(fp_circle
 			(center -0.8 0.4)
@@ -5263,7 +4951,7 @@
 			)
 			(fill no)
 			(layer "F.Fab")
-			(uuid "c1eb01d0-ce20-4bc8-a075-6d06f9758a41")
+			(uuid "d995b277-a9b7-4d28-bf28-cdd045c33f96")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 0)
@@ -5312,7 +5000,7 @@
 		(uuid "913c2846-c346-485d-9561-dbc36a50b07d")
 		(at 216.86 89)
 		(property "Reference" "U9"
-			(at 0 -4.555 0)
+			(at 0 -4.5 0)
 			(layer "F.SilkS")
 			(uuid "7abdd9e2-5aa5-4c09-8252-a64ac4b209c4")
 			(effects
@@ -5323,7 +5011,7 @@
 			)
 		)
 		(property "Value" "AMS1117-5.0"
-			(at 0 5 0)
+			(at 0 4.5 0)
 			(layer "F.Fab")
 			(uuid "7372b00b-046d-4741-9587-7faf10d2019f")
 			(effects
@@ -5333,7 +5021,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://lcsc.com/product-detail/Low-Dropout-Regulators-LDO_AMS_AMS1117-5-0_AMS1117-5-0_C6187.html"
+		(property "Datasheet" ""
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -5357,19 +5045,6 @@
 				)
 			)
 		)
-		(property "LCSC Part" "C6187"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "7690aeff-c978-4779-911a-e8277bd4c5c3")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/e9aeb9da-5529-489a-bfe3-0d1403e31d83")
 		(sheetname "/")
 		(sheetfile "jlctest.kicad_sch")
@@ -5382,7 +5057,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "4cea34ad-3fca-4884-8a83-6d12e43f4c4d")
+			(uuid "40ad60e7-ca3d-4763-b4fa-d0cbc3f6bebe")
 		)
 		(fp_line
 			(start -1.4 3.4)
@@ -5392,7 +5067,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "50419584-3f80-4a05-9979-38e963f3cb0e")
+			(uuid "626f1487-b211-4bcb-bff4-26280479ef10")
 		)
 		(fp_line
 			(start 1.4 -3.4)
@@ -5402,7 +5077,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "439cc04a-829b-4455-a618-0380d6ca8ff1")
+			(uuid "4b9abeef-52ef-4957-94bd-e7ade38a1fc6")
 		)
 		(fp_line
 			(start 1.4 3.4)
@@ -5412,7 +5087,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "aa851fb3-36cb-44ac-80de-afd0b61267fe")
+			(uuid "37bc3a24-d946-46b6-8d59-f14882da632f")
 		)
 		(fp_circle
 			(center 4.23 2.28)
@@ -5423,7 +5098,7 @@
 			)
 			(fill no)
 			(layer "Cmts.User")
-			(uuid "771aad6f-26be-4b3a-9bc2-3f504b52047c")
+			(uuid "79fa6c35-7ab0-42c8-8b4d-6ac89b1a5f3e")
 		)
 		(fp_circle
 			(center 3.5 3.25)
@@ -5434,7 +5109,7 @@
 			)
 			(fill no)
 			(layer "F.Fab")
-			(uuid "4934e4be-ad33-4845-ba65-603b869b7504")
+			(uuid "4ab0d178-cff3-441c-a941-aa81abab1703")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 0)
@@ -5501,7 +5176,7 @@
 		(uuid "a39e27da-a06b-47dc-832a-f9123e69fef8")
 		(at 173.36 104)
 		(property "Reference" "Q5"
-			(at 0 -3.5 0)
+			(at 0 -3 0)
 			(layer "F.SilkS")
 			(uuid "e42004a5-873f-4071-916c-b20af107e087")
 			(effects
@@ -5512,7 +5187,7 @@
 			)
 		)
 		(property "Value" "D882_C9634"
-			(at 0.14 3.5 0)
+			(at 0 3.5 0)
 			(layer "F.Fab")
 			(uuid "34aa8ec6-b207-4ed4-a852-1cecd4d7c616")
 			(effects
@@ -5522,7 +5197,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://lcsc.com/product-detail/Transistors-NPN-PNP_D882_C9634.html"
+		(property "Datasheet" ""
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -5546,19 +5221,6 @@
 				)
 			)
 		)
-		(property "LCSC Part" "C9634"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "6f2be8fa-5eb1-4d12-b582-8eaaf52bee29")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/23279009-83f0-4ae7-b97d-dbe754d9b344")
 		(sheetname "/")
 		(sheetfile "jlctest.kicad_sch")
@@ -5571,7 +5233,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "c506c86d-9ce0-40bd-9bf1-727c5c9fbd9e")
+			(uuid "11670565-d002-4dba-a109-3cfed68edf47")
 		)
 		(fp_line
 			(start -1.95 2.33)
@@ -5581,7 +5243,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "03ea3ee4-cad1-4442-8fdf-a2cd930355c6")
+			(uuid "96f9270f-7b5a-4b4e-a9a3-67d9c9b2fb3f")
 		)
 		(fp_line
 			(start 0.71 -2.33)
@@ -5591,7 +5253,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "ec6fa862-9b55-4298-8344-7bf5f9eddecc")
+			(uuid "9f748641-fc70-4de4-b80a-d0d5916a65b0")
 		)
 		(fp_line
 			(start 0.71 2.33)
@@ -5601,7 +5263,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "0b661e41-9d72-434f-bdd7-4e2efe2af0fb")
+			(uuid "051e993f-27bc-47fb-a1dc-8234c1152ddd")
 		)
 		(fp_circle
 			(center 1.72 1.5)
@@ -5612,7 +5274,7 @@
 			)
 			(fill no)
 			(layer "Cmts.User")
-			(uuid "bf99a8c5-abf4-4f59-bcbf-73231e462fc3")
+			(uuid "7f54f39a-4d91-40f0-9335-c65d5d0b4fc0")
 		)
 		(fp_circle
 			(center 1.72 2.25)
@@ -5623,7 +5285,7 @@
 			)
 			(fill no)
 			(layer "F.Fab")
-			(uuid "3178b985-3809-4d05-86a2-5fdba8eca599")
+			(uuid "82fd8b69-e732-4213-8260-bcfcc53113bb")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 0)
@@ -5714,7 +5376,7 @@
 		(uuid "a5d60e0f-179f-424e-96e1-fde174435473")
 		(at 172.5 72.05)
 		(property "Reference" "Q1"
-			(at 0 -2.53 0)
+			(at 0 -2.5 0)
 			(layer "F.SilkS")
 			(uuid "e01c67c8-0640-40eb-938d-c89f4073a3d3")
 			(effects
@@ -5725,7 +5387,7 @@
 			)
 		)
 		(property "Value" "MMBT5551_C2145"
-			(at 0 2.47 0)
+			(at 0 2.5 0)
 			(layer "F.Fab")
 			(uuid "a8d0302c-3ae0-459d-bede-752c7f348a7a")
 			(effects
@@ -5735,7 +5397,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://lcsc.com/product-detail/Transistors-NPN-PNP_MMBT5551-G1-H-200-300_C2145.html"
+		(property "Datasheet" ""
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -5759,19 +5421,6 @@
 				)
 			)
 		)
-		(property "LCSC Part" "C2145"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "47432730-9e3c-4040-b0f4-c0d8953c3e70")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/3618db58-6fae-49d7-9423-125278c38291")
 		(sheetname "/")
 		(sheetfile "jlctest.kicad_sch")
@@ -5784,7 +5433,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "90f47a36-88f1-4627-bb72-9e0aa07b5e45")
+			(uuid "6c12edb5-bbf5-4435-b482-7aeab71df41c")
 		)
 		(fp_line
 			(start -0.73 1.53)
@@ -5794,7 +5443,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "4f9dcf73-0c84-47ce-8e16-65fd9539dfc4")
+			(uuid "ad012623-3fdf-486d-a48e-687e1d10a9ae")
 		)
 		(fp_line
 			(start 0.73 -1.53)
@@ -5804,7 +5453,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "67fa8e5d-069c-43ec-bc03-ad184fa3c46c")
+			(uuid "fbed2216-f695-4e18-a8d7-dd325a62a5e6")
 		)
 		(fp_line
 			(start 0.73 -0.46)
@@ -5814,7 +5463,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "1c2e6da7-96fb-41e5-97c1-856bf1a5b9ca")
+			(uuid "ab619cbd-9257-484b-bd35-696f03a6545b")
 		)
 		(fp_line
 			(start 0.73 1.53)
@@ -5824,7 +5473,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "8739fef3-2bda-497b-b674-0d9dfddcc5fd")
+			(uuid "d7397633-3fd3-453e-a827-aea0a6b84336")
 		)
 		(fp_circle
 			(center 1.46 1.1)
@@ -5835,7 +5484,7 @@
 			)
 			(fill no)
 			(layer "Cmts.User")
-			(uuid "541108ad-4597-4825-a942-7dd5390489b0")
+			(uuid "b297c4ae-662c-4a05-8fb9-0348e98b18d8")
 		)
 		(fp_circle
 			(center 1.2 1.45)
@@ -5846,7 +5495,7 @@
 			)
 			(fill no)
 			(layer "F.Fab")
-			(uuid "bc6eb5e4-6366-460b-9b4d-1942307bb1d3")
+			(uuid "8d34c0ed-8bb8-4785-bbb9-03970b292127")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 0)
@@ -5915,7 +5564,7 @@
 			)
 		)
 		(property "Value" "SP485EEN-L/TR"
-			(at 0 5 0)
+			(at 0 4.5 0)
 			(layer "F.Fab")
 			(uuid "46949f94-2a4d-4a27-ae8c-8d7556c34ce4")
 			(effects
@@ -5925,7 +5574,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://lcsc.com/product-detail/RS-485-RS-422_SIPEX_SP485EEN-L-TR_SP485EEN-L-TR_C6855.html"
+		(property "Datasheet" ""
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -5949,19 +5598,6 @@
 				)
 			)
 		)
-		(property "LCSC Part" "C6855"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "7d311e21-d76a-40ad-83f5-c63a4ef7a6dc")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/72587a1d-1804-43c4-be2e-fa4ef326a98e")
 		(sheetname "/")
 		(sheetfile "jlctest.kicad_sch")
@@ -5974,7 +5610,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "b63fa916-9225-46a8-9891-9e9ca6140961")
+			(uuid "428f42c9-f81a-43b2-95e7-5b50b18d297c")
 		)
 		(fp_line
 			(start -2.5 -1.5)
@@ -5984,7 +5620,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "1ea76e0f-d566-4046-b0bb-c3e37e6b6ccc")
+			(uuid "3a9beae1-cdfe-4d7a-883e-b927d03ae9d5")
 		)
 		(fp_line
 			(start -2.5 1.5)
@@ -5994,7 +5630,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "20f56626-0ae6-44d9-924d-cc0ff986eda9")
+			(uuid "571ab59e-a715-4681-9b27-b5ac86645400")
 		)
 		(fp_line
 			(start -2.5 1.5)
@@ -6004,7 +5640,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "84ffdacd-0721-400f-99ab-2a60cedf2a9e")
+			(uuid "94b308e3-e084-4842-8017-100f520a7548")
 		)
 		(fp_line
 			(start 2.5 -1.5)
@@ -6014,7 +5650,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "e2b891c1-d6bd-4aff-923b-01b6d901580e")
+			(uuid "c760240c-28c2-4923-a389-8d6956fd4962")
 		)
 		(fp_arc
 			(start -2.48726 -0.729889)
@@ -6025,7 +5661,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "a80068e0-03d2-4ea0-bd21-d7898b5cb280")
+			(uuid "8ac79eea-1765-4310-82dc-5783e2c059e0")
 		)
 		(fp_circle
 			(center -1.78 1.02)
@@ -6036,7 +5672,7 @@
 			)
 			(fill no)
 			(layer "F.SilkS")
-			(uuid "0cb2f50f-c5b9-4542-9b19-c3feee8bcf12")
+			(uuid "b9c16055-80f0-4201-8777-5f2d625447e1")
 		)
 		(fp_circle
 			(center -1.91 3.4)
@@ -6047,7 +5683,7 @@
 			)
 			(fill no)
 			(layer "Cmts.User")
-			(uuid "da6340c7-a17e-46d3-a612-c6af4625b8a0")
+			(uuid "8670bc29-917d-4fb5-8834-860f9bf9ca4c")
 		)
 		(fp_circle
 			(center -2.41 2.54)
@@ -6058,7 +5694,7 @@
 			)
 			(fill no)
 			(layer "F.Fab")
-			(uuid "722ecccc-8f14-40a3-801e-bc7aad3157fa")
+			(uuid "f40c239d-534f-4ee9-afe4-824118aa07c8")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 0)
@@ -6182,7 +5818,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount-UniOhm_0R-0R0-1_C17168.html"
+		(property "Datasheet" ""
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -6206,19 +5842,6 @@
 				)
 			)
 		)
-		(property "LCSC Part" "C17168"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "1fa695ed-0dce-4683-87d9-b20455e2074c")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/4cc2811c-bb2b-4406-b96b-50296aeb5c50")
 		(sheetname "/")
 		(sheetfile "jlctest.kicad_sch")
@@ -6231,7 +5854,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "56f38fe4-5153-495d-87f2-de2c1c3a8a49")
+			(uuid "fff396fa-fcc4-408c-943e-ce2adbf9371a")
 		)
 		(fp_line
 			(start -0.94 0.5)
@@ -6241,7 +5864,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "d12302dc-1044-46d4-b26e-736dabd5a4fa")
+			(uuid "557a3857-084d-416c-be91-cd1b429c0d5c")
 		)
 		(fp_line
 			(start -0.23 0.5)
@@ -6251,7 +5874,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "2b4c431c-d3b4-4037-8196-295fb434e7f4")
+			(uuid "c8c40403-7fdb-49f7-ae9f-c1a2df9c0f7d")
 		)
 		(fp_line
 			(start 0.23 0.5)
@@ -6261,7 +5884,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "4d8722af-cb48-4af7-9bd2-1bfa11ae0b43")
+			(uuid "6751f829-09ac-4d5f-a233-2150841abc42")
 		)
 		(fp_line
 			(start 0.94 -0.5)
@@ -6271,7 +5894,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "976eca5d-0153-4eef-9851-941389bc52fe")
+			(uuid "e03b20f4-1122-4bef-b025-a64a4ae913ac")
 		)
 		(fp_line
 			(start 0.94 0.5)
@@ -6281,7 +5904,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "2fa506d2-a29a-4a28-a3c9-6892484f0cff")
+			(uuid "0b57735f-fdee-4079-88a9-33a4e8fb2b56")
 		)
 		(fp_circle
 			(center -0.5 0.25)
@@ -6292,7 +5915,7 @@
 			)
 			(fill no)
 			(layer "F.Fab")
-			(uuid "a88f7907-b706-467d-ad3a-381a8e3c59de")
+			(uuid "ed3e925a-9203-441e-93e6-62871faf8cf5")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 0)
@@ -6352,7 +5975,7 @@
 			)
 		)
 		(property "Value" "US1MG_C412437"
-			(at -0.07 2.5 0)
+			(at 0 2.5 0)
 			(layer "F.Fab")
 			(uuid "07591825-022b-4edb-a4bd-5c242965ad4d")
 			(effects
@@ -6362,7 +5985,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://lcsc.com/product-detail/Diodes-Rectifiers-Fast-Recovery_MDD-Microdiode-Electronics-US1MG_C412437.html"
+		(property "Datasheet" ""
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -6386,19 +6009,6 @@
 				)
 			)
 		)
-		(property "LCSC Part" "C412437"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "6880f435-5724-4e54-86a4-75b2444b4973")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/ee6f236a-5dcf-4c43-aeea-d78e63597421")
 		(sheetname "/")
 		(sheetfile "jlctest.kicad_sch")
@@ -6411,7 +6021,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "78fdbdb3-2f7e-4d66-9507-0ad9c799f970")
+			(uuid "9d7452fb-f52c-43e1-9ddd-7368b69c7303")
 		)
 		(fp_line
 			(start -2.7 1.36)
@@ -6421,7 +6031,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "d60eb91f-ca61-4de0-96e1-14d5ae9d349c")
+			(uuid "1a854b23-2e07-40cb-819f-24d2c1f91f22")
 		)
 		(fp_line
 			(start -1.34 -1.36)
@@ -6431,7 +6041,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "e7de40b4-bca4-452e-ba20-621a7ae148ac")
+			(uuid "332abb0b-4532-427b-a535-f7dc85673b7a")
 		)
 		(fp_line
 			(start 2.7 -1.36)
@@ -6441,7 +6051,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "e1dd77f7-8a62-41c4-b585-7661f8496b63")
+			(uuid "5f799a6d-174c-4ebd-a5f3-c2140a23787f")
 		)
 		(fp_line
 			(start 2.7 1.36)
@@ -6451,7 +6061,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "21b1601c-5415-441a-8657-79fc71680e5e")
+			(uuid "d4cb98fe-b033-4c84-a713-9e718222ab88")
 		)
 		(fp_circle
 			(center -2.8 1.37)
@@ -6462,7 +6072,7 @@
 			)
 			(fill no)
 			(layer "F.Fab")
-			(uuid "09e83c6e-2f27-4b97-8176-d406e1bb4a15")
+			(uuid "a47c807a-ca3f-4b5d-aab4-4de82112ec47")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 0)
@@ -6511,7 +6121,7 @@
 		(uuid "bd08c14a-0d36-4442-a077-4347a0e26834")
 		(at 172.74 79.5)
 		(property "Reference" "Q2"
-			(at 0 -2.55 0)
+			(at 0 -2.5 0)
 			(layer "F.SilkS")
 			(uuid "754ee585-5614-4f61-9b71-864d202018fc")
 			(effects
@@ -6522,7 +6132,7 @@
 			)
 		)
 		(property "Value" "S8550_C105432"
-			(at 0 2.45 0)
+			(at 0 2.5 0)
 			(layer "F.Fab")
 			(uuid "d00d7c5a-4738-467e-adbe-caa1206808c9")
 			(effects
@@ -6532,7 +6142,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://lcsc.com/product-detail/Transistors-NPN-PNP_S8550_C105432.html"
+		(property "Datasheet" ""
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -6556,19 +6166,6 @@
 				)
 			)
 		)
-		(property "LCSC Part" "C105432"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "7348c28d-1729-4790-9032-aa6fa6197488")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/84aa0439-525a-4e69-899a-cfbfc976ccb9")
 		(sheetname "/")
 		(sheetfile "jlctest.kicad_sch")
@@ -6581,7 +6178,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "3743f924-244e-41d8-9bfe-4099c10a9389")
+			(uuid "d0b21062-e0cf-425d-a237-4e0e808b09bf")
 		)
 		(fp_line
 			(start -0.88 1.54)
@@ -6591,7 +6188,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "3d03087b-0ad2-464c-b93b-6cce86a71e06")
+			(uuid "95ced712-857f-476e-b1cf-a716dac7477b")
 		)
 		(fp_line
 			(start 0.88 -1.54)
@@ -6601,7 +6198,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "12d285f9-fc30-48bb-82fc-c145a20d3c0f")
+			(uuid "4098afc2-4706-4b65-b91e-0cf4721a271d")
 		)
 		(fp_line
 			(start 0.88 -0.46)
@@ -6611,7 +6208,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "c7efe96d-b7d8-471a-8084-99d67773c975")
+			(uuid "b68730c9-524a-41d4-83c9-2483a4f3d7c6")
 		)
 		(fp_line
 			(start 0.88 1.54)
@@ -6621,7 +6218,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "4d5df612-7d82-407e-9eb8-1646b541a165")
+			(uuid "ca921434-69a7-4f81-8aab-bee867e2031a")
 		)
 		(fp_circle
 			(center 1.65 0.95)
@@ -6632,7 +6229,7 @@
 			)
 			(fill no)
 			(layer "Cmts.User")
-			(uuid "5cda135a-eb5c-44a5-8be4-83c3c5153f83")
+			(uuid "ab119826-e6d1-4363-a9ab-2fddd8faac43")
 		)
 		(fp_circle
 			(center 1.4 1.46)
@@ -6643,7 +6240,7 @@
 			)
 			(fill no)
 			(layer "F.Fab")
-			(uuid "1da5f258-4a5c-47d0-a5f2-8655b4c05d02")
+			(uuid "08df9de8-cc24-4391-8acd-08550101b36e")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 0)
@@ -6701,7 +6298,7 @@
 		(uuid "bdbaa088-c365-45ee-a9f6-8865c85c0cde")
 		(at 129 92.5)
 		(property "Reference" "C5"
-			(at 0 -2 0)
+			(at 0 -1.5 0)
 			(layer "F.SilkS")
 			(uuid "0592e2ea-918a-4542-bdc9-365676246bed")
 			(effects
@@ -6722,7 +6319,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://lcsc.com/product-detail/Tantalum-Capacitors_AVX_TAJA106K016RNJ_10uF-106-10-16V_C7171.html"
+		(property "Datasheet" ""
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -6746,19 +6343,6 @@
 				)
 			)
 		)
-		(property "LCSC Part" "C7171"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "aec8df9c-10eb-43d2-b8af-ccf36bd5335e")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/430a2984-907b-4887-81a4-2a890090d1a1")
 		(sheetname "/")
 		(sheetfile "jlctest.kicad_sch")
@@ -6771,7 +6355,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "ea348706-58b5-4389-bdd4-f3018fb7fd6d")
+			(uuid "2554123f-9ade-43f1-8a5c-5c97c6726b28")
 		)
 		(fp_line
 			(start -2.5 -2)
@@ -6781,7 +6365,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "0cfde8eb-cc76-4de7-8b25-e25bdd5e9a86")
+			(uuid "28ff69e1-4806-4808-9f3b-84e83c89913f")
 		)
 		(fp_line
 			(start -0.4 0.88)
@@ -6791,7 +6375,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "55877c98-7a03-444c-adb8-2b2a8cbaf561")
+			(uuid "4622bc7f-806d-42ad-bfc0-26ab3bbd5bcb")
 		)
 		(fp_line
 			(start 1.68 -0.88)
@@ -6801,7 +6385,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "b267b490-ff99-4ef1-b923-a37d4f7f9421")
+			(uuid "b155a2eb-64d9-46de-9728-e20db2d4be98")
 		)
 		(fp_line
 			(start 1.68 0.88)
@@ -6811,7 +6395,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "b7a491ec-2736-49bd-a1fa-2404fe58c0be")
+			(uuid "82f4b80d-dfde-4728-bcbb-7b4b91a31a5e")
 		)
 		(fp_circle
 			(center -1.78 -0.89)
@@ -6822,7 +6406,7 @@
 			)
 			(fill no)
 			(layer "F.Fab")
-			(uuid "d8e7d21d-d4f4-44e1-872a-060d54ec2998")
+			(uuid "b3f74fe2-fb1b-4c97-b23d-bb58cce8e3a5")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 0)
@@ -6871,7 +6455,7 @@
 		(uuid "bf3faebc-ebc9-4acd-bec3-2a0d4f6a5358")
 		(at 215.48 101.7125)
 		(property "Reference" "U10"
-			(at 0 -5 0)
+			(at 0.5 -4.5 0)
 			(layer "F.SilkS")
 			(uuid "c7df3c21-80f1-4157-b1da-c363c585f522")
 			(effects
@@ -6882,7 +6466,7 @@
 			)
 		)
 		(property "Value" "L78M05ABDT-TR"
-			(at 0 5.5 0)
+			(at 0 4.5 0)
 			(layer "F.Fab")
 			(uuid "69492a4c-efc0-49b5-918a-1ad42d520c65")
 			(effects
@@ -6892,7 +6476,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://lcsc.com/product-detail/Linear-Voltage-Regulators_STMicroelectronics_L78M05ABDT-TR_L78M05ABDT-TR_C58069.html"
+		(property "Datasheet" ""
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -6916,19 +6500,6 @@
 				)
 			)
 		)
-		(property "LCSC Part" "C58069"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "d4fdb3be-ebf4-45e1-8eb7-dab5e55f9861")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/ea0921bc-fa9e-437d-b093-acafbd46f814")
 		(sheetname "/")
 		(sheetfile "jlctest.kicad_sch")
@@ -6941,7 +6512,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "3030a0f9-e451-4878-bb06-d39b9c03cf12")
+			(uuid "17b30066-bebb-4947-a448-62ed398720fd")
 		)
 		(fp_line
 			(start -1.9 -1.9)
@@ -6951,7 +6522,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "fb7a2071-edbe-475c-a461-7c8637cff7b4")
+			(uuid "b1cc4c8a-b71d-4aa6-9e43-b31efee7aec1")
 		)
 		(fp_line
 			(start -1.9 1.91)
@@ -6961,7 +6532,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "4060ac9c-fda5-4907-a26a-e6d4fa248f6f")
+			(uuid "b95ca232-324a-464b-bc2d-4cccddf5d153")
 		)
 		(fp_line
 			(start -1.9 2.65)
@@ -6971,7 +6542,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "2f19c296-63e9-441e-987c-036d1f803827")
+			(uuid "58622c7d-d368-4de2-b06d-88c3fd5deaaf")
 		)
 		(fp_line
 			(start -1.35 -3.35)
@@ -6981,7 +6552,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "c90053f9-27af-4e31-adee-718cc6428e2f")
+			(uuid "eb4ce13b-8b4b-4062-b7a2-26b55fd1b8b8")
 		)
 		(fp_line
 			(start -1.35 -2.64)
@@ -6991,7 +6562,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "c9591b4c-3829-442f-90fa-43076d48fec2")
+			(uuid "cdb0162c-5855-4beb-86e2-e4d3677907c9")
 		)
 		(fp_line
 			(start -1.35 -1.9)
@@ -7001,7 +6572,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "1c65b410-189a-49b2-a2b6-d33f6d3ad601")
+			(uuid "3ae1ab7b-4edb-47bb-af07-48a9dcb89590")
 		)
 		(fp_line
 			(start -1.35 1.91)
@@ -7011,7 +6582,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "ac2a4864-be57-4b06-ae67-8e3ef4346a82")
+			(uuid "bc625c38-a2a8-41e0-b208-c3dce1348cec")
 		)
 		(fp_line
 			(start -1.35 2.65)
@@ -7021,7 +6592,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "0733bb93-3ef8-43cc-8715-130d4fa02dcb")
+			(uuid "c81fadee-2770-4b6f-aa92-1ac2b0d56f4e")
 		)
 		(fp_line
 			(start 4.9 -3.35)
@@ -7031,7 +6602,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "1551181e-0355-46d5-898d-f3d0f084e517")
+			(uuid "90e43379-74fc-454e-89ff-3fdf3e1be5de")
 		)
 		(fp_line
 			(start 4.9 3.4)
@@ -7041,7 +6612,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "ecd3441a-65f6-4baa-ad3c-3937e65a219d")
+			(uuid "0148c6b1-dd55-4796-8daf-4cf086cbf94a")
 		)
 		(fp_arc
 			(start -1.86 -3.3)
@@ -7052,7 +6623,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "5f8fc2b2-8d47-4ee5-8271-020cda02a2c4")
+			(uuid "75d19501-a7c1-4aba-984d-9b918b92754a")
 		)
 		(fp_circle
 			(center -4.17 -2.29)
@@ -7063,7 +6634,7 @@
 			)
 			(fill no)
 			(layer "Cmts.User")
-			(uuid "0708fa9e-6189-4b08-8c7f-fc756a85be59")
+			(uuid "d6c1a1e3-2723-463e-a1fa-cc284e2d1123")
 		)
 		(fp_circle
 			(center -4.19 -3.36)
@@ -7074,7 +6645,7 @@
 			)
 			(fill no)
 			(layer "F.Fab")
-			(uuid "6b3be0dd-2384-476d-8a2e-e47f5f203b35")
+			(uuid "3606f4e7-7c21-4b77-a5ad-ca76599bd4ad")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 0)
@@ -7153,7 +6724,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount-UniOhm_0R-0R0-1_C17888.html"
+		(property "Datasheet" ""
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -7177,19 +6748,6 @@
 				)
 			)
 		)
-		(property "LCSC Part" "C17888"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "7a42e1cd-a935-4ce2-bed9-c5f510b529bb")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/94051685-38d6-408d-8364-56b7eb754c67")
 		(sheetname "/")
 		(sheetfile "jlctest.kicad_sch")
@@ -7202,7 +6760,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "dd9b7b93-20a3-4c36-8bd5-8773e7b5088d")
+			(uuid "13c2e4c2-7070-4cc9-a5ae-8afb18ec81dc")
 		)
 		(fp_line
 			(start -2.31 1.08)
@@ -7212,7 +6770,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "9154b6df-d797-483c-b576-0231c1f2b6ef")
+			(uuid "0ca02926-b724-47f9-9f48-e7377a3c6e6b")
 		)
 		(fp_line
 			(start -0.95 1.08)
@@ -7222,7 +6780,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "3f548cb5-2c76-408e-973c-57c53bd33ff2")
+			(uuid "bfb23b46-e208-427b-8306-0d355f3e1ad2")
 		)
 		(fp_line
 			(start 0.95 1.08)
@@ -7232,7 +6790,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "0d5ee30e-4a8b-458f-895c-8c2b582f360c")
+			(uuid "a5fcb405-1e23-4d27-93a5-1a45981246d3")
 		)
 		(fp_line
 			(start 2.31 -1.08)
@@ -7242,7 +6800,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "168f8b77-20dd-4512-a3c8-267423907312")
+			(uuid "07231575-04ed-4e94-a3d3-054eb6a627da")
 		)
 		(fp_line
 			(start 2.31 1.08)
@@ -7252,7 +6810,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "14e6f044-f625-41e8-98c6-b016df593633")
+			(uuid "acd9e86c-ea95-49be-97a3-b276662b2ffa")
 		)
 		(fp_circle
 			(center -1.55 0.79)
@@ -7263,7 +6821,7 @@
 			)
 			(fill no)
 			(layer "F.Fab")
-			(uuid "0ba7c984-43f2-465c-933b-de9390e1c0b8")
+			(uuid "7b4fcc5d-4204-48f9-9e81-4ee3e61d9dd3")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 0)
@@ -7333,7 +6891,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://lcsc.com/product-detail/Resistor-Networks-Arrays_1KR-102-5_C20197.html"
+		(property "Datasheet" ""
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -7357,19 +6915,6 @@
 				)
 			)
 		)
-		(property "LCSC Part" "C20197"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "7ac7023e-8725-4d3c-84cc-c84930a7a170")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/a93218c5-041c-4709-9fed-7a8a85da7137")
 		(sheetname "/")
 		(sheetfile "jlctest.kicad_sch")
@@ -7382,7 +6927,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "854d281c-2be9-40db-9100-107b873c928b")
+			(uuid "c485a0ee-ec57-4dee-9e52-35ae4f52a701")
 		)
 		(fp_line
 			(start -1.87 -0.45)
@@ -7392,7 +6937,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "144eae46-e82b-4597-8da7-161dbbe8bc8f")
+			(uuid "2446ef0d-1432-4d43-8275-f09cdbdfcc2c")
 		)
 		(fp_line
 			(start -1.87 1.45)
@@ -7402,7 +6947,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "b68e3b41-c9e6-40ca-aa27-8415750bca96")
+			(uuid "5f7e4779-fa39-40f3-b8e4-46caae0a63c2")
 		)
 		(fp_line
 			(start 1.87 -1.47)
@@ -7412,7 +6957,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "48c53b5f-8734-43a3-9681-f89b808a42d2")
+			(uuid "ddc12323-e997-4d2a-b043-4d68db861c15")
 		)
 		(fp_line
 			(start 1.87 0.45)
@@ -7422,7 +6967,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "4ae78f21-9fc8-48fe-bf91-8e06899a3131")
+			(uuid "425b372a-e7ff-49a9-95e6-f1a12bad4f06")
 		)
 		(fp_line
 			(start 1.87 1.45)
@@ -7432,7 +6977,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "11654fe1-da02-48d0-b8b2-4c18d77efd32")
+			(uuid "101ff28a-4e59-4afd-a09d-314845290a92")
 		)
 		(fp_circle
 			(center -1.6 0.8)
@@ -7443,7 +6988,7 @@
 			)
 			(fill no)
 			(layer "F.Fab")
-			(uuid "41342260-e6fe-4a0a-91f9-e978deb984a2")
+			(uuid "76b63528-1516-4ab7-ab40-5f28f20d1a57")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 0)
@@ -7557,7 +7102,7 @@
 			)
 		)
 		(property "Value" "whiteLEDSMD"
-			(at 0 2.5 0)
+			(at 0 2 0)
 			(layer "F.Fab")
 			(uuid "f6c691aa-c2d7-4228-99f1-6ef964139fca")
 			(effects
@@ -7567,7 +7112,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://lcsc.com/product-detail/Light-Emitting-Diodes-LED_white-0805_C34499.html"
+		(property "Datasheet" ""
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -7591,19 +7136,6 @@
 				)
 			)
 		)
-		(property "LCSC Part" "C34499"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "b704d41b-bff6-42c3-b329-d2745497562d")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/526ec135-09e1-49e9-8f85-4d2992c7838f")
 		(sheetname "/")
 		(sheetfile "jlctest.kicad_sch")
@@ -7616,7 +7148,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "31b74127-c800-4e7d-b7fd-dc4fccbcc146")
+			(uuid "c95f8e24-3da8-4a0e-9f8a-0fa11ec37c8d")
 		)
 		(fp_line
 			(start -2.22 0.63)
@@ -7626,7 +7158,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "166f81ea-683b-4993-9a3d-148d0adbe3a1")
+			(uuid "f0b061a5-a51f-47b8-b4f4-b7fc456abc4e")
 		)
 		(fp_line
 			(start -1.84 -1.02)
@@ -7636,7 +7168,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "1587881f-041f-40de-b3fd-3735d2895098")
+			(uuid "56c68ca2-ba82-407e-9ab0-e8032b3775f3")
 		)
 		(fp_line
 			(start -1.81 1.04)
@@ -7646,7 +7178,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "ac4b3ff3-7302-4692-b466-d29c7e3d0f18")
+			(uuid "392549dc-45d7-4fe5-8173-be2fa73ad131")
 		)
 		(fp_line
 			(start -0.34 1.04)
@@ -7656,7 +7188,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "d78ece64-8726-41d2-97b9-371474e249e7")
+			(uuid "d2dfb89a-f8b8-42de-9820-cdc74c03eaf4")
 		)
 		(fp_line
 			(start -0.3 0)
@@ -7666,7 +7198,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "5a6728b6-4e42-4145-ab4e-711974ac2595")
+			(uuid "b1d5ceb2-b4c7-4795-a5de-5c0b49fc8d3b")
 		)
 		(fp_line
 			(start -0.2 -0.1)
@@ -7676,7 +7208,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "3256ac75-2807-4fce-abf1-adbd3dd739a3")
+			(uuid "1669f979-ed8e-4b2a-9004-52aed26684e2")
 		)
 		(fp_line
 			(start -0.2 0.1)
@@ -7686,7 +7218,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "5354cf92-4a23-4488-b336-ada7c10b6e27")
+			(uuid "9f26156f-cad8-4aa5-8b70-300f6fc19c03")
 		)
 		(fp_line
 			(start 0.2 -0.5)
@@ -7696,7 +7228,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "a4c3f249-992a-4391-ab41-6b805db78fe7")
+			(uuid "5804fbbf-2ff3-41be-858c-655c9938c935")
 		)
 		(fp_line
 			(start 0.2 -0.5)
@@ -7706,7 +7238,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "a1a76a65-5dc1-448c-b185-9e7423a0cf59")
+			(uuid "6f83cd81-165f-4d16-88d4-07075c994aa7")
 		)
 		(fp_line
 			(start 0.45 1.02)
@@ -7716,7 +7248,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "18173abd-e8f2-4711-97d4-945f09e058e6")
+			(uuid "24ad4a4d-25e3-4ee9-9d40-aa7e0f7d31d6")
 		)
 		(fp_line
 			(start 2 -1.02)
@@ -7726,7 +7258,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "3f15cc3d-5dd5-4477-b25e-2bb886b443eb")
+			(uuid "84708748-fa58-46ae-9d2c-4170ca10befa")
 		)
 		(fp_line
 			(start 2 1.02)
@@ -7736,7 +7268,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "9b3f2f25-d9b1-4135-86db-e1917c928ad1")
+			(uuid "cf27ca00-4d51-4b33-95f6-c73e4d1771cf")
 		)
 		(fp_circle
 			(center 1 -0.63)
@@ -7747,7 +7279,7 @@
 			)
 			(fill no)
 			(layer "F.Fab")
-			(uuid "245ac7fc-85c4-4664-8cd2-15fec1c2311e")
+			(uuid "f8b6c5b6-265e-45f6-80e9-fadce945b32d")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 0)
@@ -7796,7 +7328,7 @@
 		(uuid "dac28bfb-2485-4b8b-91bb-fb33d392122b")
 		(at 142.1 83.38)
 		(property "Reference" "X1"
-			(at 0 -2.88 0)
+			(at 0.02 -3 0)
 			(layer "F.SilkS")
 			(uuid "04675eb1-7742-4f48-ba9d-d8b5fa640bb8")
 			(effects
@@ -7807,7 +7339,7 @@
 			)
 		)
 		(property "Value" "X322516MLB4SI"
-			(at -0.1 3.12 0)
+			(at 0 3 0)
 			(layer "F.Fab")
 			(uuid "20d043d4-30e6-405d-aba5-f77a48ab98a6")
 			(effects
@@ -7817,7 +7349,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://lcsc.com/product-detail/SMD-Crystals_YSX321SL-16MHZ-9PF-10PPM-40-85_C13738.html"
+		(property "Datasheet" ""
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -7841,19 +7373,6 @@
 				)
 			)
 		)
-		(property "LCSC Part" "C13738"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "ddef51e7-1743-4c29-b2c3-407235b9fe4a")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/fe48d354-c2e7-49cb-8951-9524e438b9d7")
 		(sheetname "/")
 		(sheetfile "jlctest.kicad_sch")
@@ -7866,7 +7385,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "1f27db28-0628-452d-8bf4-232a6ee2550d")
+			(uuid "8e93811d-3b1d-4b46-b817-38aea3170161")
 		)
 		(fp_line
 			(start -2.29 1.91)
@@ -7876,7 +7395,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "1608c8c7-0cae-4be4-8f3e-8441c1a0c5d2")
+			(uuid "522891ec-15ff-43fe-8576-9c806bc8cfa5")
 		)
 		(fp_line
 			(start -2.03 -1.72)
@@ -7886,7 +7405,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "8edbbcf6-ef07-4a55-b674-788998085d7b")
+			(uuid "1981d11f-d341-49ac-bc22-aa71509e1ada")
 		)
 		(fp_line
 			(start -2.03 1.68)
@@ -7896,7 +7415,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "a6d2aba5-cfc0-46c0-b936-5d9c4b31b755")
+			(uuid "132dc2c0-caa7-420b-aeeb-05e706274087")
 		)
 		(fp_line
 			(start 2.07 -1.72)
@@ -7906,7 +7425,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "54bb83a9-7adb-4c31-90a1-56c20d053b6c")
+			(uuid "3667d1c7-287f-4fb7-a6f0-bc8225a8a304")
 		)
 		(fp_line
 			(start 2.07 1.68)
@@ -7916,7 +7435,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "287c22ef-c798-424d-83b2-11c976aeef78")
+			(uuid "7cdee3cc-9ff2-40ec-b39f-cc022cdca427")
 		)
 		(fp_circle
 			(center -1.09 1.57)
@@ -7927,7 +7446,7 @@
 			)
 			(fill no)
 			(layer "Cmts.User")
-			(uuid "4915caef-c3b4-4698-ab0b-adc2e67d0cfc")
+			(uuid "b268a9bd-3a5f-48a3-ae40-061898997a39")
 		)
 		(fp_circle
 			(center -1.6 1.25)
@@ -7938,7 +7457,7 @@
 			)
 			(fill no)
 			(layer "F.Fab")
-			(uuid "8265c550-9238-429b-81fc-f37c52cd81a7")
+			(uuid "f781c538-7ad8-4d5b-a51b-017102985fbe")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 0)
@@ -8005,7 +7524,7 @@
 		(uuid "db1c2009-b33a-4049-b96c-e427fc0da8ec")
 		(at 201 87)
 		(property "Reference" "U6"
-			(at 0 -4.76 0)
+			(at 0 -4.5 0)
 			(layer "F.SilkS")
 			(uuid "76daff43-c731-4ebc-bac4-b6a308b962ee")
 			(effects
@@ -8016,7 +7535,7 @@
 			)
 		)
 		(property "Value" "74HC595D,118"
-			(at -0.1 5.24 0)
+			(at 0 4.5 0)
 			(layer "F.Fab")
 			(uuid "5d25a601-26bc-4955-add6-585f4e041319")
 			(effects
@@ -8026,7 +7545,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://lcsc.com/product-detail/74-Series_NXP_74HC595D-118_74HC595D_C5947.html"
+		(property "Datasheet" ""
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -8050,19 +7569,6 @@
 				)
 			)
 		)
-		(property "LCSC Part" "C5947"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "0a442ff3-2b96-4170-9984-497f3a6dcf8d")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/47f76492-2ecc-41c0-9853-5657f9d9187b")
 		(sheetname "/")
 		(sheetfile "jlctest.kicad_sch")
@@ -8075,7 +7581,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "65475156-c378-49a1-9702-58ec832d48e8")
+			(uuid "70ca27d6-4f5b-471c-8ef9-9ee4305db535")
 		)
 		(fp_line
 			(start -5.03 1.52)
@@ -8085,7 +7591,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "277e6b41-7b9d-4669-8954-ec27eb086b38")
+			(uuid "5400ed94-ec3e-4a72-9618-02378b018069")
 		)
 		(fp_line
 			(start 5.03 -1.52)
@@ -8095,7 +7601,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "c061db24-578e-4523-8df1-20070462b9ed")
+			(uuid "d9102139-6caf-4357-abbc-b55900e42de9")
 		)
 		(fp_line
 			(start 5.03 1.52)
@@ -8105,7 +7611,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "85b11a40-1d13-4371-bfef-fb1357d358d7")
+			(uuid "efe4e32b-ac43-4207-9793-0a0cf8cba6df")
 		)
 		(fp_circle
 			(center -5.21 2.67)
@@ -8116,7 +7622,7 @@
 			)
 			(fill no)
 			(layer "F.SilkS")
-			(uuid "fc8d2a7a-38b2-4ac9-8b38-12c1ddcda810")
+			(uuid "eed546dc-aec2-4447-a7a4-bbf7d70d968c")
 		)
 		(fp_circle
 			(center -4.45 0.77)
@@ -8127,7 +7633,7 @@
 			)
 			(fill no)
 			(layer "F.SilkS")
-			(uuid "fb50e0ea-9d66-4786-8f06-c7e13f6f153b")
+			(uuid "1afade23-e8b9-4c40-9c7c-7e327ee60329")
 		)
 		(fp_circle
 			(center -4.45 3.4)
@@ -8138,7 +7644,7 @@
 			)
 			(fill no)
 			(layer "Cmts.User")
-			(uuid "019a7942-9e33-4885-9b9a-e3588d88f1a1")
+			(uuid "a94b7d60-6674-4c65-8a89-aadeaf5cd558")
 		)
 		(fp_circle
 			(center -4.95 3)
@@ -8149,7 +7655,7 @@
 			)
 			(fill no)
 			(layer "F.Fab")
-			(uuid "49fa0fe6-b0da-4624-8608-913d50ea27da")
+			(uuid "25890f4b-d979-4fca-a8ce-9b3e3313c004")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 0)
@@ -8345,7 +7851,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_1nF-102-10-50V_C1523.html"
+		(property "Datasheet" ""
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -8369,19 +7875,6 @@
 				)
 			)
 		)
-		(property "LCSC Part" "C1523"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "5b2c303a-d621-4158-8b97-3c8f1d652897")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/d352d708-32ad-4fe8-accf-32c94b80f12f")
 		(sheetname "/")
 		(sheetfile "jlctest.kicad_sch")
@@ -8394,7 +7887,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "14c625cc-61e4-4d1e-8daf-6320a7187771")
+			(uuid "d3a6e751-d9e0-4580-8e31-ef19106f3907")
 		)
 		(fp_line
 			(start -1.02 -0.5)
@@ -8404,7 +7897,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "20eb644c-0738-40a1-b25c-b7cf28557bf7")
+			(uuid "0c876833-5488-437f-8a5e-b2b704eaf421")
 		)
 		(fp_line
 			(start -0.23 0.5)
@@ -8414,7 +7907,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "6b0a8d14-c966-4d2e-8e65-030d9a7cd0f5")
+			(uuid "ac7e9303-40f1-4abf-a778-bedcb822c000")
 		)
 		(fp_line
 			(start 0.23 0.5)
@@ -8424,7 +7917,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "05756778-8272-49c9-8a65-814e0447c8ce")
+			(uuid "8e02a2f5-9d50-48df-9ff9-686c5c52b71c")
 		)
 		(fp_line
 			(start 1.02 -0.5)
@@ -8434,7 +7927,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "75f81a7a-ac6e-4001-b793-73e8cade1753")
+			(uuid "f1ebb225-9b40-41f5-919d-fa08258df2ff")
 		)
 		(fp_line
 			(start 1.17 0.35)
@@ -8444,7 +7937,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "77e6a68c-d838-4ea1-a580-4841de4cabe7")
+			(uuid "de1783b2-efc9-4cf4-91e7-cc34c701c11d")
 		)
 		(fp_arc
 			(start -1.17 -0.35)
@@ -8455,7 +7948,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "ff996927-78b4-42b6-8518-b65e94cca2b0")
+			(uuid "e2eb8a65-cf9c-4a48-8dee-6aa1d9dd5c8b")
 		)
 		(fp_arc
 			(start -1.02 0.5)
@@ -8466,7 +7959,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "321777c0-d1ae-4430-93c3-174b7ba8020a")
+			(uuid "2fb172d7-1c61-4352-a6c0-0efa55e27432")
 		)
 		(fp_arc
 			(start 1.02 -0.5)
@@ -8477,7 +7970,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "b4a4f5d0-eacc-442a-adbf-ed4c29ddc43a")
+			(uuid "37eb45e7-d931-4d79-bed7-4eea98a4c21a")
 		)
 		(fp_arc
 			(start 1.17 0.35)
@@ -8488,7 +7981,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "02e2f633-1d68-4053-8783-5050c4428a1f")
+			(uuid "f0b447f0-7dc9-4dee-a009-5513210e026f")
 		)
 		(fp_circle
 			(center -0.5 0.25)
@@ -8499,7 +7992,7 @@
 			)
 			(fill no)
 			(layer "F.Fab")
-			(uuid "7c36a5da-5c53-4335-b297-9c256753ca12")
+			(uuid "648e9868-9fb2-4b6c-b555-f378ef54477b")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 0)
@@ -8548,7 +8041,7 @@
 		(uuid "e264cd2f-5863-49b7-a727-3734e2c05a1f")
 		(at 186.2 84.59)
 		(property "Reference" "U2"
-			(at 0 -4 0)
+			(at 0 -3.5 0)
 			(layer "F.SilkS")
 			(uuid "0e9ce8f5-7cb3-4fa9-b9ed-447645e48808")
 			(effects
@@ -8559,7 +8052,7 @@
 			)
 		)
 		(property "Value" "TPS5430DDAR"
-			(at -0.13 4 0)
+			(at 0 3.5 0)
 			(layer "F.Fab")
 			(uuid "d2ed366b-7d6d-42e1-b9b1-3db663ee6cc1")
 			(effects
@@ -8569,7 +8062,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://lcsc.com/product-detail/DC-DC-Converters_TI_TPS5430DDAR_TPS5430DDAR_C9864.html"
+		(property "Datasheet" ""
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -8593,19 +8086,6 @@
 				)
 			)
 		)
-		(property "LCSC Part" "C9864"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "82600b46-00d6-4fff-9245-f4e466ca76f4")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/8b1c4e60-838e-49b7-9707-c84e5bc71bc0")
 		(sheetname "/")
 		(sheetfile "jlctest.kicad_sch")
@@ -8618,7 +8098,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "ec90e8d0-34b1-4584-98fb-a6e829a990d8")
+			(uuid "e763867a-235d-4284-92b5-5b11d162787f")
 		)
 		(fp_line
 			(start -2.06 -1.38)
@@ -8628,7 +8108,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "dc944eaa-2b32-4678-98a2-ff2fb54432b6")
+			(uuid "c25da394-5e1b-47a2-9067-9376f4ac744f")
 		)
 		(fp_line
 			(start -2.06 -0.11)
@@ -8638,7 +8118,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "3b656839-6653-49f5-ace4-0a4e88057c36")
+			(uuid "7dec2bd3-e638-4b12-a63f-5c680e5f4e14")
 		)
 		(fp_line
 			(start -2.06 1.16)
@@ -8648,7 +8128,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "a6aa30d5-a2f9-4a31-af7e-434e21e88410")
+			(uuid "74711ca2-7f16-4b1f-8e15-b8be895a16af")
 		)
 		(fp_line
 			(start -2.06 2.43)
@@ -8658,7 +8138,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "3bc52816-f0c1-4e4a-863f-b3f8487ab2bc")
+			(uuid "48e5bbcc-13ae-4f96-8b78-6384d0bcf806")
 		)
 		(fp_line
 			(start -0.81 -2.55)
@@ -8668,7 +8148,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "001d22ca-ca0c-45c2-8e96-dec3c461a9da")
+			(uuid "c5a55c29-83b7-441f-a39f-5bb0d6fc3ef7")
 		)
 		(fp_line
 			(start 0.8 -2.55)
@@ -8678,7 +8158,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "7d219fd6-0e74-4caa-b6c7-7b2c22cf7122")
+			(uuid "2cb62948-2c44-4a1d-96fd-b8c2a55ce87a")
 		)
 		(fp_line
 			(start 2.05 -2.55)
@@ -8688,7 +8168,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "109a462e-106d-43e1-9162-6704fdbc268d")
+			(uuid "ae9bc599-4bc5-4737-a7a3-7b569cedbda5")
 		)
 		(fp_line
 			(start 2.05 -1.38)
@@ -8698,7 +8178,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "f0e8b407-1b9f-4e64-b97e-0dd796e37836")
+			(uuid "c09c91f0-8a5e-4f00-aee9-f96cf8823125")
 		)
 		(fp_line
 			(start 2.05 -0.11)
@@ -8708,7 +8188,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "bd003ba8-ffdf-4dbc-8f65-6ae206a63a7d")
+			(uuid "56701c96-8d85-407d-a86b-5cd69abe290a")
 		)
 		(fp_line
 			(start 2.05 1.16)
@@ -8718,7 +8198,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "3814129d-ccdf-42ef-aa36-f890fc06474c")
+			(uuid "e33d181f-3ee2-4ab5-aa45-56a1472d38cc")
 		)
 		(fp_line
 			(start 2.05 2.43)
@@ -8728,7 +8208,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "a834c822-8374-4657-bd04-6aa7dce6ba79")
+			(uuid "4a9bbe71-4159-4d57-972a-57e3ce9bf19a")
 		)
 		(fp_line
 			(start 2.05 2.54)
@@ -8738,7 +8218,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "5d45ed28-5153-4e95-a34c-2af298665f82")
+			(uuid "47f6c45f-44f3-44a0-b170-c74b369e0475")
 		)
 		(fp_arc
 			(start 0.804328 -2.487155)
@@ -8749,7 +8229,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "8ac37354-c86f-41bc-aefe-c8709823673c")
+			(uuid "974bb59b-3c17-49f4-868a-060fa8c32dbc")
 		)
 		(fp_circle
 			(center -2.5 -3.03)
@@ -8760,7 +8240,7 @@
 			)
 			(fill no)
 			(layer "F.SilkS")
-			(uuid "d625d8b7-d63d-40e3-836e-3b8c4f1aa74f")
+			(uuid "9064d333-0562-4cd8-bade-12718033555d")
 		)
 		(fp_circle
 			(center -3.46 -1.91)
@@ -8771,7 +8251,7 @@
 			)
 			(fill no)
 			(layer "Cmts.User")
-			(uuid "eeec35e5-122b-48a3-b6b6-db3f3667cd2a")
+			(uuid "07bac546-72b6-4069-a7cb-e861d98d5ff0")
 		)
 		(fp_circle
 			(center -3 -2.45)
@@ -8782,7 +8262,7 @@
 			)
 			(fill no)
 			(layer "F.Fab")
-			(uuid "a34d6597-51c3-461f-850d-f3d4b39dd1f5")
+			(uuid "cb8d58f5-ea9e-487e-b4a8-576d57a63f96")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 0)
@@ -8894,7 +8374,7 @@
 		(uuid "e3877f8d-f171-4326-8075-ae6d1a54a60c")
 		(at 217.03 76.8)
 		(property "Reference" "U8"
-			(at -0.03 -4.8 0)
+			(at 0 -4.5 0)
 			(layer "F.SilkS")
 			(uuid "2c4a4c82-410d-4643-bb67-f91f85b1c35c")
 			(effects
@@ -8905,7 +8385,7 @@
 			)
 		)
 		(property "Value" "AMS1117-3.3"
-			(at 0 4.7 0)
+			(at 0 4.5 0)
 			(layer "F.Fab")
 			(uuid "40a69315-3503-4da0-b5f7-2434f9bea558")
 			(effects
@@ -8915,7 +8395,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://lcsc.com/product-detail/Low-Dropout-Regulators-LDO_AMS_AMS1117-3-3_AMS1117-3-3_C6186.html"
+		(property "Datasheet" ""
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -8939,19 +8419,6 @@
 				)
 			)
 		)
-		(property "LCSC Part" "C6186"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "9f5872c0-869d-4fb8-89ee-d2f63e0f3f77")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/afe534ab-73dc-484f-8e05-ebf189ccc903")
 		(sheetname "/")
 		(sheetfile "jlctest.kicad_sch")
@@ -8964,7 +8431,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "028b439a-4eec-414e-873d-7919740c956d")
+			(uuid "5d386938-9c71-4777-bd30-5844197050e6")
 		)
 		(fp_line
 			(start -1.57 3.33)
@@ -8974,7 +8441,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "ff0639a1-d533-48a3-8890-e92b0cb53f25")
+			(uuid "ecf4c245-097c-4276-8626-9858b83f3eb3")
 		)
 		(fp_line
 			(start 1.37 -3.33)
@@ -8984,7 +8451,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "bdabe743-d251-4978-b29e-356fc6787384")
+			(uuid "27406826-9869-40b2-89f3-dc224e4ff205")
 		)
 		(fp_line
 			(start 1.37 3.33)
@@ -8994,7 +8461,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "0d85b018-c560-4c07-9076-8ed63bb876c1")
+			(uuid "3c5b8530-3a5e-4d58-8ecb-92ef6fd9d2d8")
 		)
 		(fp_circle
 			(center 4.55 2.19)
@@ -9005,7 +8472,7 @@
 			)
 			(fill no)
 			(layer "Cmts.User")
-			(uuid "8b7a7a13-cdd2-420e-aab1-d1007462fb82")
+			(uuid "2dc6f154-fcc0-4a3a-8361-1a4a79abfc0d")
 		)
 		(fp_circle
 			(center 3.4 3.25)
@@ -9016,7 +8483,7 @@
 			)
 			(fill no)
 			(layer "F.Fab")
-			(uuid "c49fd993-cf63-4b85-b10b-4624961294ae")
+			(uuid "dc8555e7-1fda-471f-9546-8b49f4384ee1")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 0)
@@ -9094,7 +8561,7 @@
 			)
 		)
 		(property "Value" "TAJB107K006RNJ"
-			(at 0 3 0)
+			(at 0 2.5 0)
 			(layer "F.Fab")
 			(uuid "f961861a-2744-43d6-b902-04563e2c5c74")
 			(effects
@@ -9104,7 +8571,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://lcsc.com/product-detail/Tantalum-Capacitors_AVX_TAJB107K006RNJ_100uF-107-10-6-3V_C16133.html"
+		(property "Datasheet" ""
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -9128,19 +8595,6 @@
 				)
 			)
 		)
-		(property "LCSC Part" "C16133"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "8e296c69-fbef-44ee-8f1f-906d1ba0d24f")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/6e1664b5-457c-42b2-b991-14612414efc1")
 		(sheetname "/")
 		(sheetfile "jlctest.kicad_sch")
@@ -9153,7 +8607,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "977cbfb0-5287-401d-8639-1373bedeba83")
+			(uuid "af3aa9c9-cd20-4240-958f-2d7e52fd0e1b")
 		)
 		(fp_line
 			(start 1.83 -1.48)
@@ -9163,7 +8617,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "6e54df3b-c83c-4a9c-981b-e9eab079c250")
+			(uuid "6398d70e-6474-4be5-9644-b120781becb4")
 		)
 		(fp_line
 			(start 1.83 -1.48)
@@ -9173,7 +8627,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "3afddc37-cec6-4f20-9502-ffdedee245da")
+			(uuid "fd3fb2a4-cf85-4ea1-b168-800975fa6f17")
 		)
 		(fp_line
 			(start 1.83 1.48)
@@ -9183,7 +8637,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "66d8a8a0-63fe-4067-ac61-75c7a27af67b")
+			(uuid "bee13a5b-3373-4381-b4c2-a422d3ee650d")
 		)
 		(fp_line
 			(start 1.83 1.48)
@@ -9193,7 +8647,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "4c43ea97-018f-447f-aff7-691b0deb3584")
+			(uuid "5fed828e-718c-4553-9738-4097ac2cfbbe")
 		)
 		(fp_circle
 			(center -1.98 1.4)
@@ -9204,7 +8658,7 @@
 			)
 			(fill no)
 			(layer "F.Fab")
-			(uuid "3d18fd2e-1d2e-43f8-bd49-d656cc3cb093")
+			(uuid "19ceee92-f24f-40ce-815e-b1845458ae66")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 0)
@@ -9274,7 +8728,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://lcsc.com/product-detail/Ferrite-Beads-And-Chips_100R-25-100MHz_C1015.html"
+		(property "Datasheet" ""
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -9298,19 +8752,6 @@
 				)
 			)
 		)
-		(property "LCSC Part" "C1015"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "cb043de2-0af6-4a4f-82e8-613b860a7d71")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/b686994c-bac1-4b38-87e0-18da1e5cd8e6")
 		(sheetname "/")
 		(sheetfile "jlctest.kicad_sch")
@@ -9323,7 +8764,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "4722be3d-4a63-40c4-999e-1ec9303333ff")
+			(uuid "6e5dfc9c-1306-419a-8cfa-f21e4be42904")
 		)
 		(fp_line
 			(start -1.94 0.64)
@@ -9333,7 +8774,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "1e45087c-8b47-4eab-b21a-5ea65d9a4855")
+			(uuid "caad123c-0da8-4b06-a5ba-99ad546faf04")
 		)
 		(fp_line
 			(start -1.94 0.76)
@@ -9343,7 +8784,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "ade3d69f-25dd-42e6-8542-2c2b62a42509")
+			(uuid "adf6ab65-73d2-4dc8-8980-22cd044dd2d3")
 		)
 		(fp_line
 			(start -1.69 -1.02)
@@ -9353,7 +8794,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "2d897746-fef2-490f-9659-c50943c349b6")
+			(uuid "86c5ea78-f198-4daa-80d1-f014d4ba3a7b")
 		)
 		(fp_line
 			(start -1.69 1.02)
@@ -9363,7 +8804,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "172b7f39-1b79-40f7-ba46-3a663970b451")
+			(uuid "0f779fb8-7e03-4676-b153-a42fbb6b84b4")
 		)
 		(fp_line
 			(start -1.56 -1.02)
@@ -9373,7 +8814,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "3ceff30f-c983-472c-b401-813688d0fa21")
+			(uuid "3e8fbb52-c5c7-4cc8-a854-0a7cd8b344c8")
 		)
 		(fp_line
 			(start -0.42 -1.02)
@@ -9383,7 +8824,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "1e995356-8bfb-4e2f-8de6-a4f111eb584b")
+			(uuid "a365a46b-06d6-452d-a3e5-12fef1b363db")
 		)
 		(fp_line
 			(start 0.34 1.02)
@@ -9393,7 +8834,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "b22a3f43-7220-4df3-8eed-8193060690ce")
+			(uuid "a27c0bcb-9196-465f-b58a-7c31b4684f25")
 		)
 		(fp_line
 			(start 1.48 1.02)
@@ -9403,7 +8844,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "6f91c1ec-ef2a-4c14-a2c7-e7017383b5de")
+			(uuid "99d85dc0-61af-4baf-a732-df7a07d72c94")
 		)
 		(fp_line
 			(start 1.61 -1.02)
@@ -9413,7 +8854,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "d800a206-b2ef-4968-acce-92f88bb9b901")
+			(uuid "73614068-7cac-4cb5-9c89-98ab00d7a68b")
 		)
 		(fp_line
 			(start 1.61 1.02)
@@ -9423,7 +8864,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "5b7a4d35-0a7d-4cf9-8e0c-c5fdce45979a")
+			(uuid "ccf44758-e07c-4b43-a11e-4dcd73143a68")
 		)
 		(fp_line
 			(start 1.87 -0.76)
@@ -9433,7 +8874,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "7847c69e-3ac0-4d6f-a497-acb3fdc1a926")
+			(uuid "1d5e1a34-e7d9-4f2d-9a3e-a844026dbf2c")
 		)
 		(fp_line
 			(start 1.87 -0.63)
@@ -9443,7 +8884,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "d049e80a-ad5e-4eda-a3c8-edec05287637")
+			(uuid "a9546c78-dde3-404c-ba9a-d15fd4c1f2aa")
 		)
 		(fp_line
 			(start 1.87 0.76)
@@ -9453,7 +8894,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "42099b48-2076-47e3-a97c-595273b53871")
+			(uuid "c6edd760-5def-4fa9-a098-0a05f14bd3a5")
 		)
 		(fp_circle
 			(center -1 0.64)
@@ -9464,7 +8905,7 @@
 			)
 			(fill no)
 			(layer "F.Fab")
-			(uuid "c46e9e3f-ded9-4b16-bb01-261dfe4059ad")
+			(uuid "efa5f0ef-1eae-489c-9d04-bad48e27f899")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 0)
@@ -9534,7 +8975,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://lcsc.com/product-detail/Schottky-Barrier-Diodes-SBD_B5819W-SL_C8598.html"
+		(property "Datasheet" ""
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -9558,19 +8999,6 @@
 				)
 			)
 		)
-		(property "LCSC Part" "C8598"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "05cb2a75-9eeb-4bb0-b0e4-512c0824a7ff")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/c0afbaae-946c-4c39-ab43-3bfe275fd9ae")
 		(sheetname "/")
 		(sheetfile "jlctest.kicad_sch")
@@ -9583,7 +9011,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "0e7acde4-246e-4b9e-a52f-ec0c5cbda32c")
+			(uuid "80b3d284-6b3f-4168-b35f-52d4121a09d7")
 		)
 		(fp_line
 			(start -1.64 0.85)
@@ -9593,7 +9021,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "afb26c29-878f-4a5d-b345-cc5ba8cc9e93")
+			(uuid "82fca2b2-52b8-44a6-b186-6a4df79fc55b")
 		)
 		(fp_line
 			(start -1.35 -0.85)
@@ -9603,7 +9031,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "35611a26-19a9-4e8c-b881-2558f3bfaa68")
+			(uuid "fb8856cf-f5d7-44a9-b627-9ca8e3cb0637")
 		)
 		(fp_line
 			(start -1.35 -0.85)
@@ -9613,7 +9041,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "44980ee0-7bc3-432d-9d1c-8d3f52fa4626")
+			(uuid "67d4e5c2-96c4-4173-9396-e48cb08c34ba")
 		)
 		(fp_line
 			(start -1.35 0.85)
@@ -9623,7 +9051,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "8846d0db-a41c-4bbd-b3d8-8f0a4db2f98d")
+			(uuid "c91c65e0-f1f5-4029-9422-95e5746ea342")
 		)
 		(fp_line
 			(start -0.28 0)
@@ -9633,7 +9061,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "d53e44e4-96d7-455f-bb7f-8bc89da0643f")
+			(uuid "2c4c85aa-ab16-4b6e-918e-00c420db567d")
 		)
 		(fp_line
 			(start -0.25 -0.51)
@@ -9643,7 +9071,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "a13b705d-00e0-4267-9345-82ac5c9d6f1e")
+			(uuid "b697f71f-6349-4bd7-bad3-b9481877607d")
 		)
 		(fp_line
 			(start -0.18 0)
@@ -9653,7 +9081,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "634a1088-44e0-460f-9320-1fd77317911e")
+			(uuid "999890e1-4122-4f37-98bc-781537b9808e")
 		)
 		(fp_line
 			(start 0.41 -0.41)
@@ -9663,7 +9091,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "3c335432-697c-4579-bd4b-7f9fe5ba5402")
+			(uuid "fe8ade50-d989-49d0-92f9-7fcf8437a522")
 		)
 		(fp_line
 			(start 0.41 0)
@@ -9673,7 +9101,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "1bbe4c58-d43f-4692-ae45-1b21c8852d4b")
+			(uuid "fbe50990-c888-498d-aadd-d1e25a73628f")
 		)
 		(fp_line
 			(start 0.41 0.41)
@@ -9683,7 +9111,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "4f610729-b40a-4b6b-b276-ad3fcbf84f3a")
+			(uuid "9e388738-4659-4462-9646-7f4c33a7c68d")
 		)
 		(fp_line
 			(start 1.35 -0.85)
@@ -9693,7 +9121,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "d1ec3267-d1db-42f7-9eb2-b2bf7e5c56e2")
+			(uuid "7b8db237-fdb4-4c3c-80d5-763e1a119100")
 		)
 		(fp_line
 			(start 1.35 0.71)
@@ -9703,7 +9131,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "26f48770-4e18-4ae1-a78f-5f966adbd9c5")
+			(uuid "c531d374-7bc4-4b5f-bce8-caf9aae35147")
 		)
 		(fp_line
 			(start 1.35 0.85)
@@ -9713,7 +9141,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "855e1ad1-0ce1-447c-b65e-5a8021dcb0eb")
+			(uuid "94866580-026b-41ff-bbde-d2debabfbdaa")
 		)
 		(fp_circle
 			(center -1.85 0.8)
@@ -9724,7 +9152,7 @@
 			)
 			(fill no)
 			(layer "F.Fab")
-			(uuid "8592044f-9679-41ce-bf9f-2e434fb97577")
+			(uuid "3d29f2a0-8427-4b61-9257-dbd5175419b5")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 0)
