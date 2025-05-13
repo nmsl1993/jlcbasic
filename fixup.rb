@@ -58,7 +58,6 @@ k.all_symbol.
     if pins.size == 0 && s.all_symbol.size > 0
       pins = s.all_symbol[0].all_pin
     end
-    debugger if s.id =~ /LM324/
     if pins.size <= 3
       pin_number_node = s.pin_numbers
       if pin_number_node
