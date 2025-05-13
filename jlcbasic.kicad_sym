@@ -2,7 +2,7 @@
 	(version 20241209)
 	(generator "kicad_symbol_editor")
 	(generator_version "9.0")
-	(symbol "0402B102K500NT"
+	(symbol "1nF-0402"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -51,7 +51,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "0402B102K500NT_0_1"
+		(symbol "1nF-0402_0_1"
 			(polyline
 				(pts
 					(xy -1.27 0)
@@ -107,7 +107,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "0402B221K500NT"
+	(symbol "220pF-0402"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -156,7 +156,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "0402B221K500NT_0_1"
+		(symbol "220pF-0402_0_1"
 			(polyline
 				(pts
 					(xy -1.27 0)
@@ -212,7 +212,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "0402B223K500NT"
+	(symbol "22nF-0402"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -261,7 +261,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "0402B223K500NT_0_1"
+		(symbol "22nF-0402_0_1"
 			(polyline
 				(pts
 					(xy -1.27 0)
@@ -317,7 +317,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "0402B472K500NT"
+	(symbol "4.7nF-0402"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -366,7 +366,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "0402B472K500NT_0_1"
+		(symbol "4.7nF-0402_0_1"
 			(polyline
 				(pts
 					(xy -1.27 0)
@@ -422,7 +422,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "0402CG101J500NT"
+	(symbol "100pF-0402"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -471,7 +471,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "0402CG101J500NT_0_1"
+		(symbol "100pF-0402_0_1"
 			(polyline
 				(pts
 					(xy -1.27 0)
@@ -527,7 +527,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "0402CG120J500NT"
+	(symbol "12pF-0402"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -576,7 +576,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "0402CG120J500NT_0_1"
+		(symbol "12pF-0402_0_1"
 			(polyline
 				(pts
 					(xy -1.27 0)
@@ -632,7 +632,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "0402CG150J500NT"
+	(symbol "15pF-0402"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -681,7 +681,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "0402CG150J500NT_0_1"
+		(symbol "15pF-0402_0_1"
 			(polyline
 				(pts
 					(xy -1.27 0)
@@ -737,7 +737,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "0402CG180J500NT"
+	(symbol "18pF-0402"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -786,7 +786,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "0402CG180J500NT_0_1"
+		(symbol "18pF-0402_0_1"
 			(polyline
 				(pts
 					(xy -1.27 0)
@@ -842,7 +842,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "0402CG200J500NT"
+	(symbol "20pF-0402"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -891,7 +891,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "0402CG200J500NT_0_1"
+		(symbol "20pF-0402_0_1"
 			(polyline
 				(pts
 					(xy -1.27 0)
@@ -947,7 +947,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "0402CG220J500NT"
+	(symbol "22pF-0402"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -996,7 +996,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "0402CG220J500NT_0_1"
+		(symbol "22pF-0402_0_1"
 			(polyline
 				(pts
 					(xy -1.27 0)
@@ -1052,7 +1052,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "0402CG330J500NT"
+	(symbol "33pF-0402"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -1101,7 +1101,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "0402CG330J500NT_0_1"
+		(symbol "33pF-0402_0_1"
 			(polyline
 				(pts
 					(xy -1.27 0)
@@ -1157,7 +1157,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "0402CG470J500NT"
+	(symbol "47pF-0402"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -1206,7 +1206,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "0402CG470J500NT_0_1"
+		(symbol "47pF-0402_0_1"
 			(polyline
 				(pts
 					(xy -1.27 0)
@@ -1262,7 +1262,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "0402WGF0000TCE"
+	(symbol "0Ω-0402"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -1311,7 +1311,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "0402WGF0000TCE_0_1"
+		(symbol "0Ω-0402_0_1"
 			(rectangle
 				(start -2.54 1.02)
 				(end 2.54 -1.02)
@@ -1341,7 +1341,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "0402WGF1000TCE"
+	(symbol "100Ω-0402"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -1390,7 +1390,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "0402WGF1000TCE_0_1"
+		(symbol "100Ω-0402_0_1"
 			(rectangle
 				(start -2.54 1.02)
 				(end 2.54 -1.02)
@@ -1420,7 +1420,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "0402WGF1001TCE"
+	(symbol "1kΩ-0402"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -1469,7 +1469,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "0402WGF1001TCE_0_1"
+		(symbol "1kΩ-0402_0_1"
 			(rectangle
 				(start -2.54 1.02)
 				(end 2.54 -1.02)
@@ -1499,7 +1499,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "0402WGF1002TCE"
+	(symbol "10kΩ-0402"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -1548,7 +1548,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "0402WGF1002TCE_0_1"
+		(symbol "10kΩ-0402_0_1"
 			(rectangle
 				(start -2.54 1.02)
 				(end 2.54 -1.02)
@@ -1578,7 +1578,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "0402WGF1003TCE"
+	(symbol "100kΩ-0402"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -1627,7 +1627,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "0402WGF1003TCE_0_1"
+		(symbol "100kΩ-0402_0_1"
 			(rectangle
 				(start -2.54 1.02)
 				(end 2.54 -1.02)
@@ -1657,7 +1657,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "0402WGF1004TCE"
+	(symbol "1MΩ-0402"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -1706,7 +1706,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "0402WGF1004TCE_0_1"
+		(symbol "1MΩ-0402_0_1"
 			(rectangle
 				(start -2.54 1.02)
 				(end 2.54 -1.02)
@@ -1736,7 +1736,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "0402WGF100JTCE"
+	(symbol "10Ω-0402"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -1785,7 +1785,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "0402WGF100JTCE_0_1"
+		(symbol "10Ω-0402_0_1"
 			(rectangle
 				(start -2.54 1.02)
 				(end 2.54 -1.02)
@@ -1815,7 +1815,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "0402WGF1200TCE"
+	(symbol "120Ω-0402"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -1864,7 +1864,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "0402WGF1200TCE_0_1"
+		(symbol "120Ω-0402_0_1"
 			(rectangle
 				(start -2.54 1.02)
 				(end 2.54 -1.02)
@@ -1894,7 +1894,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "0402WGF1202TCE"
+	(symbol "12kΩ-0402"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -1943,7 +1943,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "0402WGF1202TCE_0_1"
+		(symbol "12kΩ-0402_0_1"
 			(rectangle
 				(start -2.54 1.02)
 				(end 2.54 -1.02)
@@ -1973,7 +1973,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "0402WGF1501TCE"
+	(symbol "1.5kΩ-0402"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -2022,7 +2022,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "0402WGF1501TCE_0_1"
+		(symbol "1.5kΩ-0402_0_1"
 			(rectangle
 				(start -2.54 1.02)
 				(end 2.54 -1.02)
@@ -2052,7 +2052,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "0402WGF1502TCE"
+	(symbol "15kΩ-0402"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -2101,7 +2101,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "0402WGF1502TCE_0_1"
+		(symbol "15kΩ-0402_0_1"
 			(rectangle
 				(start -2.54 1.02)
 				(end 2.54 -1.02)
@@ -2131,7 +2131,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "0402WGF2000TCE"
+	(symbol "200Ω-0402"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -2180,7 +2180,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "0402WGF2000TCE_0_1"
+		(symbol "200Ω-0402_0_1"
 			(rectangle
 				(start -2.54 1.02)
 				(end 2.54 -1.02)
@@ -2210,7 +2210,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "0402WGF2002TCE"
+	(symbol "20kΩ-0402"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -2259,7 +2259,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "0402WGF2002TCE_0_1"
+		(symbol "20kΩ-0402_0_1"
 			(rectangle
 				(start -2.54 1.02)
 				(end 2.54 -1.02)
@@ -2289,7 +2289,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "0402WGF2003TCE"
+	(symbol "200kΩ-0402"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -2338,7 +2338,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "0402WGF2003TCE_0_1"
+		(symbol "200kΩ-0402_0_1"
 			(rectangle
 				(start -2.54 1.02)
 				(end 2.54 -1.02)
@@ -2368,7 +2368,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "0402WGF2200TCE"
+	(symbol "220Ω-0402"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -2417,7 +2417,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "0402WGF2200TCE_0_1"
+		(symbol "220Ω-0402_0_1"
 			(rectangle
 				(start -2.54 1.02)
 				(end 2.54 -1.02)
@@ -2447,7 +2447,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "0402WGF2201TCE"
+	(symbol "2.2kΩ-0402"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -2496,7 +2496,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "0402WGF2201TCE_0_1"
+		(symbol "2.2kΩ-0402_0_1"
 			(rectangle
 				(start -2.54 1.02)
 				(end 2.54 -1.02)
@@ -2526,7 +2526,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "0402WGF2202TCE"
+	(symbol "22kΩ-0402"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -2575,7 +2575,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "0402WGF2202TCE_0_1"
+		(symbol "22kΩ-0402_0_1"
 			(rectangle
 				(start -2.54 1.02)
 				(end 2.54 -1.02)
@@ -2605,7 +2605,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "0402WGF220JTCE"
+	(symbol "22Ω-0402"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -2654,7 +2654,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "0402WGF220JTCE_0_1"
+		(symbol "22Ω-0402_0_1"
 			(rectangle
 				(start -2.54 1.02)
 				(end 2.54 -1.02)
@@ -2684,7 +2684,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "0402WGF3300TCE"
+	(symbol "330Ω-0402"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -2733,7 +2733,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "0402WGF3300TCE_0_1"
+		(symbol "330Ω-0402_0_1"
 			(rectangle
 				(start -2.54 1.02)
 				(end 2.54 -1.02)
@@ -2763,7 +2763,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "0402WGF3301TCE"
+	(symbol "3.3kΩ-0402"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -2812,7 +2812,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "0402WGF3301TCE_0_1"
+		(symbol "3.3kΩ-0402_0_1"
 			(rectangle
 				(start -2.54 1.02)
 				(end 2.54 -1.02)
@@ -2842,7 +2842,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "0402WGF3302TCE"
+	(symbol "33kΩ-0402"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -2891,7 +2891,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "0402WGF3302TCE_0_1"
+		(symbol "33kΩ-0402_0_1"
 			(rectangle
 				(start -2.54 1.02)
 				(end 2.54 -1.02)
@@ -2921,7 +2921,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "0402WGF330JTCE"
+	(symbol "33Ω-0402"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -2970,7 +2970,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "0402WGF330JTCE_0_1"
+		(symbol "33Ω-0402_0_1"
 			(rectangle
 				(start -2.54 1.02)
 				(end 2.54 -1.02)
@@ -3000,7 +3000,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "0402WGF4700TCE"
+	(symbol "470Ω-0402"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -3049,7 +3049,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "0402WGF4700TCE_0_1"
+		(symbol "470Ω-0402_0_1"
 			(rectangle
 				(start -2.54 1.02)
 				(end 2.54 -1.02)
@@ -3079,7 +3079,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "0402WGF4701TCE"
+	(symbol "4.7kΩ-0402"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -3128,7 +3128,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "0402WGF4701TCE_0_1"
+		(symbol "4.7kΩ-0402_0_1"
 			(rectangle
 				(start -2.54 1.02)
 				(end 2.54 -1.02)
@@ -3158,7 +3158,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "0402WGF4702TCE"
+	(symbol "47kΩ-0402"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -3207,7 +3207,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "0402WGF4702TCE_0_1"
+		(symbol "47kΩ-0402_0_1"
 			(rectangle
 				(start -2.54 1.02)
 				(end 2.54 -1.02)
@@ -3237,7 +3237,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "0402WGF499JTCE"
+	(symbol "49.9Ω-0402"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -3286,7 +3286,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "0402WGF499JTCE_0_1"
+		(symbol "49.9Ω-0402_0_1"
 			(rectangle
 				(start -2.54 1.02)
 				(end 2.54 -1.02)
@@ -3316,7 +3316,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "0402WGF5100TCE"
+	(symbol "510Ω-0402"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -3365,7 +3365,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "0402WGF5100TCE_0_1"
+		(symbol "510Ω-0402_0_1"
 			(rectangle
 				(start -2.54 1.02)
 				(end 2.54 -1.02)
@@ -3395,7 +3395,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "0402WGF5101TCE"
+	(symbol "5.1kΩ-0402"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -3444,7 +3444,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "0402WGF5101TCE_0_1"
+		(symbol "5.1kΩ-0402_0_1"
 			(rectangle
 				(start -2.54 1.02)
 				(end 2.54 -1.02)
@@ -3474,7 +3474,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "0402WGF5102TCE"
+	(symbol "51kΩ-0402"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -3523,7 +3523,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "0402WGF5102TCE_0_1"
+		(symbol "51kΩ-0402_0_1"
 			(rectangle
 				(start -2.54 1.02)
 				(end 2.54 -1.02)
@@ -3553,7 +3553,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "0603B103K500NT"
+	(symbol "10nF-0603"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -3602,7 +3602,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "0603B103K500NT_0_1"
+		(symbol "10nF-0603_0_1"
 			(polyline
 				(pts
 					(xy -1.27 0)
@@ -3658,7 +3658,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "0603B151K500NT"
+	(symbol "150pF-0603"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -3707,7 +3707,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "0603B151K500NT_0_1"
+		(symbol "150pF-0603_0_1"
 			(polyline
 				(pts
 					(xy -1.27 0)
@@ -3763,7 +3763,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "0603B222K500NT"
+	(symbol "2.2nF-0603"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -3812,7 +3812,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "0603B222K500NT_0_1"
+		(symbol "2.2nF-0603_0_1"
 			(polyline
 				(pts
 					(xy -1.27 0)
@@ -3868,7 +3868,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "0603B471K500NT"
+	(symbol "470pF-0603"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -3917,7 +3917,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "0603B471K500NT_0_1"
+		(symbol "470pF-0603_0_1"
 			(polyline
 				(pts
 					(xy -1.27 0)
@@ -3973,7 +3973,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "0603B472K500NT"
+	(symbol "4.7nF-0603"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -4022,7 +4022,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "0603B472K500NT_0_1"
+		(symbol "4.7nF-0603_0_1"
 			(polyline
 				(pts
 					(xy -1.27 0)
@@ -4078,7 +4078,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "0603B682K500NT"
+	(symbol "6.8nF-0603"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -4127,7 +4127,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "0603B682K500NT_0_1"
+		(symbol "6.8nF-0603_0_1"
 			(polyline
 				(pts
 					(xy -1.27 0)
@@ -4183,7 +4183,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "0603B822K500NT"
+	(symbol "8.2nF-0603"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -4232,7 +4232,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "0603B822K500NT_0_1"
+		(symbol "8.2nF-0603_0_1"
 			(polyline
 				(pts
 					(xy -0.51 0)
@@ -4288,7 +4288,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "0603CG300J500NT"
+	(symbol "30pF-0603"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -4337,7 +4337,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "0603CG300J500NT_0_1"
+		(symbol "30pF-0603_0_1"
 			(polyline
 				(pts
 					(xy -1.27 0)
@@ -4393,7 +4393,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "0603WAF0000T5E"
+	(symbol "0Ω-0603"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -4442,7 +4442,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "0603WAF0000T5E_0_1"
+		(symbol "0Ω-0603_0_1"
 			(rectangle
 				(start -2.54 1.02)
 				(end 2.54 -1.02)
@@ -4472,7 +4472,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "0603WAF1000T5E"
+	(symbol "100Ω-0603"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -4521,7 +4521,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "0603WAF1000T5E_0_1"
+		(symbol "100Ω-0603_0_1"
 			(rectangle
 				(start -2.54 1.02)
 				(end 2.54 -1.02)
@@ -4551,7 +4551,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "0603WAF1001T5E"
+	(symbol "1kΩ-0603"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -4600,7 +4600,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "0603WAF1001T5E_0_1"
+		(symbol "1kΩ-0603_0_1"
 			(rectangle
 				(start -2.54 1.02)
 				(end 2.54 -1.02)
@@ -4630,7 +4630,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "0603WAF1002T5E"
+	(symbol "10kΩ-0603"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -4679,7 +4679,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "0603WAF1002T5E_0_1"
+		(symbol "10kΩ-0603_0_1"
 			(rectangle
 				(start -2.54 1.02)
 				(end 2.54 -1.02)
@@ -4709,7 +4709,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "0603WAF1003T5E"
+	(symbol "100kΩ-0603"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -4758,7 +4758,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "0603WAF1003T5E_0_1"
+		(symbol "100kΩ-0603_0_1"
 			(rectangle
 				(start -2.54 1.02)
 				(end 2.54 -1.02)
@@ -4788,7 +4788,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "0603WAF1004T5E"
+	(symbol "1MΩ-0603"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -4837,7 +4837,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "0603WAF1004T5E_0_1"
+		(symbol "1MΩ-0603_0_1"
 			(rectangle
 				(start -2.54 1.02)
 				(end 2.54 -1.02)
@@ -4867,7 +4867,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "0603WAF1005T5E"
+	(symbol "10MΩ-0603"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -4916,7 +4916,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "0603WAF1005T5E_0_1"
+		(symbol "10MΩ-0603_0_1"
 			(rectangle
 				(start -2.54 1.02)
 				(end 2.54 -1.02)
@@ -4946,7 +4946,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "0603WAF100JT5E"
+	(symbol "10Ω-0603"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -4995,7 +4995,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "0603WAF100JT5E_0_1"
+		(symbol "10Ω-0603_0_1"
 			(rectangle
 				(start -2.54 1.02)
 				(end 2.54 -1.02)
@@ -5025,7 +5025,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "0603WAF100KT5E"
+	(symbol "1Ω-0603"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -5074,7 +5074,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "0603WAF100KT5E_0_1"
+		(symbol "1Ω-0603_0_1"
 			(rectangle
 				(start -2.54 1.02)
 				(end 2.54 -1.02)
@@ -5104,7 +5104,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "0603WAF1200T5E"
+	(symbol "120Ω-0603"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -5153,7 +5153,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "0603WAF1200T5E_0_1"
+		(symbol "120Ω-0603_0_1"
 			(rectangle
 				(start -2.54 1.02)
 				(end 2.54 -1.02)
@@ -5183,7 +5183,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "0603WAF1201T5E"
+	(symbol "1.2kΩ-0603"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -5232,7 +5232,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "0603WAF1201T5E_0_1"
+		(symbol "1.2kΩ-0603_0_1"
 			(rectangle
 				(start -2.54 1.02)
 				(end 2.54 -1.02)
@@ -5262,7 +5262,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "0603WAF1202T5E"
+	(symbol "12kΩ-0603"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -5311,7 +5311,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "0603WAF1202T5E_0_1"
+		(symbol "12kΩ-0603_0_1"
 			(rectangle
 				(start -2.54 1.02)
 				(end 2.54 -1.02)
@@ -5341,7 +5341,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "0603WAF1203T5E"
+	(symbol "120kΩ-0603"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -5390,7 +5390,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "0603WAF1203T5E_0_1"
+		(symbol "120kΩ-0603_0_1"
 			(rectangle
 				(start -2.54 1.02)
 				(end 2.54 -1.02)
@@ -5420,7 +5420,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "0603WAF1302T5E"
+	(symbol "13kΩ-0603"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -5469,7 +5469,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "0603WAF1302T5E_0_1"
+		(symbol "13kΩ-0603_0_1"
 			(rectangle
 				(start -2.54 1.02)
 				(end 2.54 -1.02)
@@ -5499,7 +5499,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "0603WAF1500T5E"
+	(symbol "150Ω-0603"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -5548,7 +5548,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "0603WAF1500T5E_0_1"
+		(symbol "150Ω-0603_0_1"
 			(rectangle
 				(start -2.54 1.02)
 				(end 2.54 -1.02)
@@ -5578,7 +5578,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "0603WAF1501T5E"
+	(symbol "1.5kΩ-0603"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -5627,7 +5627,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "0603WAF1501T5E_0_1"
+		(symbol "1.5kΩ-0603_0_1"
 			(rectangle
 				(start -2.54 1.02)
 				(end 2.54 -1.02)
@@ -5657,7 +5657,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "0603WAF1502T5E"
+	(symbol "15kΩ-0603"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -5706,7 +5706,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "0603WAF1502T5E_0_1"
+		(symbol "15kΩ-0603_0_1"
 			(rectangle
 				(start -2.54 1.02)
 				(end 2.54 -1.02)
@@ -5736,7 +5736,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "0603WAF1503T5E"
+	(symbol "150kΩ-0603"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -5785,7 +5785,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "0603WAF1503T5E_0_1"
+		(symbol "150kΩ-0603_0_1"
 			(rectangle
 				(start -2.54 1.02)
 				(end 2.54 -1.02)
@@ -5815,7 +5815,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "0603WAF1802T5E"
+	(symbol "18kΩ-0603"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -5864,7 +5864,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "0603WAF1802T5E_0_1"
+		(symbol "18kΩ-0603_0_1"
 			(rectangle
 				(start -2.54 1.02)
 				(end 2.54 -1.02)
@@ -5894,7 +5894,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "0603WAF2000T5E"
+	(symbol "200Ω-0603"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -5943,7 +5943,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "0603WAF2000T5E_0_1"
+		(symbol "200Ω-0603_0_1"
 			(rectangle
 				(start -2.54 1.02)
 				(end 2.54 -1.02)
@@ -5973,7 +5973,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "0603WAF2001T5E"
+	(symbol "2kΩ-0603"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -6022,7 +6022,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "0603WAF2001T5E_0_1"
+		(symbol "2kΩ-0603_0_1"
 			(rectangle
 				(start -2.54 1.02)
 				(end 2.54 -1.02)
@@ -6052,7 +6052,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "0603WAF2003T5E"
+	(symbol "200kΩ-0603"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -6101,7 +6101,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "0603WAF2003T5E_0_1"
+		(symbol "200kΩ-0603_0_1"
 			(rectangle
 				(start -2.54 1.02)
 				(end 2.54 -1.02)
@@ -6131,7 +6131,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "0603WAF2004T5E"
+	(symbol "2MΩ-0603"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -6180,7 +6180,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "0603WAF2004T5E_0_1"
+		(symbol "2MΩ-0603_0_1"
 			(rectangle
 				(start -2.54 1.02)
 				(end 2.54 -1.02)
@@ -6210,7 +6210,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "0603WAF200JT5E"
+	(symbol "20Ω-0603"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -6259,7 +6259,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "0603WAF200JT5E_0_1"
+		(symbol "20Ω-0603_0_1"
 			(rectangle
 				(start -2.54 1.02)
 				(end 2.54 -1.02)
@@ -6289,7 +6289,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "0603WAF200KT5E"
+	(symbol "2Ω-0603"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -6338,7 +6338,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "0603WAF200KT5E_0_1"
+		(symbol "2Ω-0603_0_1"
 			(rectangle
 				(start -2.54 1.02)
 				(end 2.54 -1.02)
@@ -6368,7 +6368,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "0603WAF2200T5E"
+	(symbol "220Ω-0603"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -6417,7 +6417,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "0603WAF2200T5E_0_1"
+		(symbol "220Ω-0603_0_1"
 			(rectangle
 				(start -2.54 1.02)
 				(end 2.54 -1.02)
@@ -6447,7 +6447,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "0603WAF2202T5E"
+	(symbol "22kΩ-0603"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -6496,7 +6496,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "0603WAF2202T5E_0_1"
+		(symbol "22kΩ-0603_0_1"
 			(rectangle
 				(start -2.54 1.02)
 				(end 2.54 -1.02)
@@ -6526,7 +6526,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "0603WAF2203T5E"
+	(symbol "220kΩ-0603"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -6575,7 +6575,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "0603WAF2203T5E_0_1"
+		(symbol "220kΩ-0603_0_1"
 			(rectangle
 				(start -2.54 1.02)
 				(end 2.54 -1.02)
@@ -6605,7 +6605,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "0603WAF220JT5E"
+	(symbol "22Ω-0603"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -6654,7 +6654,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "0603WAF220JT5E_0_1"
+		(symbol "22Ω-0603_0_1"
 			(rectangle
 				(start -2.54 1.02)
 				(end 2.54 -1.02)
@@ -6684,7 +6684,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "0603WAF220KT5E"
+	(symbol "2.2Ω-0603"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -6733,7 +6733,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "0603WAF220KT5E_0_1"
+		(symbol "2.2Ω-0603_0_1"
 			(rectangle
 				(start -2.54 1.02)
 				(end 2.54 -1.02)
@@ -6763,7 +6763,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "0603WAF2401T5E"
+	(symbol "2.4kΩ-0603"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -6812,7 +6812,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "0603WAF2401T5E_0_1"
+		(symbol "2.4kΩ-0603_0_1"
 			(rectangle
 				(start -2.54 1.02)
 				(end 2.54 -1.02)
@@ -6842,7 +6842,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "0603WAF2402T5E"
+	(symbol "24kΩ-0603"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -6891,7 +6891,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "0603WAF2402T5E_0_1"
+		(symbol "24kΩ-0603_0_1"
 			(rectangle
 				(start -2.54 1.02)
 				(end 2.54 -1.02)
@@ -6921,7 +6921,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "0603WAF2700T5E"
+	(symbol "270Ω-0603"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -6970,7 +6970,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "0603WAF2700T5E_0_1"
+		(symbol "270Ω-0603_0_1"
 			(rectangle
 				(start -2.54 1.02)
 				(end 2.54 -1.02)
@@ -7000,7 +7000,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "0603WAF2701T5E"
+	(symbol "2.7kΩ-0603"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -7049,7 +7049,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "0603WAF2701T5E_0_1"
+		(symbol "2.7kΩ-0603_0_1"
 			(rectangle
 				(start -2.54 1.02)
 				(end 2.54 -1.02)
@@ -7079,7 +7079,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "0603WAF2702T5E"
+	(symbol "27kΩ-0603"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -7128,7 +7128,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "0603WAF2702T5E_0_1"
+		(symbol "27kΩ-0603_0_1"
 			(rectangle
 				(start -2.54 1.02)
 				(end 2.54 -1.02)
@@ -7158,7 +7158,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "0603WAF3000T5E"
+	(symbol "300Ω-0603"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -7207,7 +7207,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "0603WAF3000T5E_0_1"
+		(symbol "300Ω-0603_0_1"
 			(rectangle
 				(start -2.54 1.02)
 				(end 2.54 -1.02)
@@ -7237,7 +7237,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "0603WAF3002T5E"
+	(symbol "30kΩ-0603"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -7286,7 +7286,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "0603WAF3002T5E_0_1"
+		(symbol "30kΩ-0603_0_1"
 			(rectangle
 				(start -2.54 1.02)
 				(end 2.54 -1.02)
@@ -7316,7 +7316,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "0603WAF3003T5E"
+	(symbol "300kΩ-0603"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -7365,7 +7365,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "0603WAF3003T5E_0_1"
+		(symbol "300kΩ-0603_0_1"
 			(rectangle
 				(start -2.54 1.02)
 				(end 2.54 -1.02)
@@ -7395,7 +7395,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "0603WAF3300T5E"
+	(symbol "330Ω-0603"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -7444,7 +7444,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "0603WAF3300T5E_0_1"
+		(symbol "330Ω-0603_0_1"
 			(rectangle
 				(start -2.54 1.02)
 				(end 2.54 -1.02)
@@ -7474,7 +7474,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "0603WAF3301T5E"
+	(symbol "3.3kΩ-0603"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -7523,7 +7523,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "0603WAF3301T5E_0_1"
+		(symbol "3.3kΩ-0603_0_1"
 			(rectangle
 				(start -2.54 1.02)
 				(end 2.54 -1.02)
@@ -7553,7 +7553,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "0603WAF3303T5E"
+	(symbol "330kΩ-0603"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -7602,7 +7602,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "0603WAF3303T5E_0_1"
+		(symbol "330kΩ-0603_0_1"
 			(rectangle
 				(start -2.54 1.02)
 				(end 2.54 -1.02)
@@ -7632,7 +7632,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "0603WAF330JT5E"
+	(symbol "33Ω-0603"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -7681,7 +7681,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "0603WAF330JT5E_0_1"
+		(symbol "33Ω-0603_0_1"
 			(rectangle
 				(start -2.54 1.02)
 				(end 2.54 -1.02)
@@ -7711,7 +7711,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "0603WAF3601T5E"
+	(symbol "3.6kΩ-0603"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -7760,7 +7760,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "0603WAF3601T5E_0_1"
+		(symbol "3.6kΩ-0603_0_1"
 			(rectangle
 				(start -2.54 1.02)
 				(end 2.54 -1.02)
@@ -7790,7 +7790,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "0603WAF3900T5E"
+	(symbol "390Ω-0603"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -7839,7 +7839,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "0603WAF3900T5E_0_1"
+		(symbol "390Ω-0603_0_1"
 			(rectangle
 				(start -2.54 1.02)
 				(end 2.54 -1.02)
@@ -7869,7 +7869,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "0603WAF3901T5E"
+	(symbol "3.9kΩ-0603"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -7918,7 +7918,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "0603WAF3901T5E_0_1"
+		(symbol "3.9kΩ-0603_0_1"
 			(rectangle
 				(start -2.54 1.02)
 				(end 2.54 -1.02)
@@ -7948,7 +7948,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "0603WAF3902T5E"
+	(symbol "39kΩ-0603"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -7997,7 +7997,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "0603WAF3902T5E_0_1"
+		(symbol "39kΩ-0603_0_1"
 			(rectangle
 				(start -2.54 1.02)
 				(end 2.54 -1.02)
@@ -8027,7 +8027,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "0603WAF4700T5E"
+	(symbol "470Ω-0603"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -8076,7 +8076,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "0603WAF4700T5E_0_1"
+		(symbol "470Ω-0603_0_1"
 			(rectangle
 				(start -2.54 1.02)
 				(end 2.54 -1.02)
@@ -8106,7 +8106,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "0603WAF4701T5E"
+	(symbol "4.7kΩ-0603"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -8155,7 +8155,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "0603WAF4701T5E_0_1"
+		(symbol "4.7kΩ-0603_0_1"
 			(rectangle
 				(start -2.54 1.02)
 				(end 2.54 -1.02)
@@ -8185,7 +8185,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "0603WAF4702T5E"
+	(symbol "47kΩ-0603"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -8234,7 +8234,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "0603WAF4702T5E_0_1"
+		(symbol "47kΩ-0603_0_1"
 			(rectangle
 				(start -2.54 1.02)
 				(end 2.54 -1.02)
@@ -8264,7 +8264,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "0603WAF4703T5E"
+	(symbol "470kΩ-0603"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -8313,7 +8313,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "0603WAF4703T5E_0_1"
+		(symbol "470kΩ-0603_0_1"
 			(rectangle
 				(start -2.54 1.02)
 				(end 2.54 -1.02)
@@ -8343,7 +8343,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "0603WAF470JT5E"
+	(symbol "47Ω-0603"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -8392,7 +8392,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "0603WAF470JT5E_0_1"
+		(symbol "47Ω-0603_0_1"
 			(rectangle
 				(start -2.54 1.02)
 				(end 2.54 -1.02)
@@ -8422,7 +8422,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "0603WAF470KT5E"
+	(symbol "4.7Ω-0603"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -8471,7 +8471,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "0603WAF470KT5E_0_1"
+		(symbol "4.7Ω-0603_0_1"
 			(rectangle
 				(start -2.54 1.02)
 				(end 2.54 -1.02)
@@ -8501,7 +8501,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "0603WAF4991T5E"
+	(symbol "4.99kΩ-0603"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -8550,7 +8550,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "0603WAF4991T5E_0_1"
+		(symbol "4.99kΩ-0603_0_1"
 			(rectangle
 				(start -2.54 1.02)
 				(end 2.54 -1.02)
@@ -8580,7 +8580,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "0603WAF4992T5E"
+	(symbol "49.9kΩ-0603"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -8629,7 +8629,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "0603WAF4992T5E_0_1"
+		(symbol "49.9kΩ-0603_0_1"
 			(rectangle
 				(start -2.54 1.02)
 				(end 2.54 -1.02)
@@ -8659,7 +8659,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "0603WAF499JT5E"
+	(symbol "49.9Ω-0603"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -8708,7 +8708,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "0603WAF499JT5E_0_1"
+		(symbol "49.9Ω-0603_0_1"
 			(rectangle
 				(start -2.54 1.02)
 				(end 2.54 -1.02)
@@ -8738,7 +8738,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "0603WAF5100T5E"
+	(symbol "510Ω-0603"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -8787,7 +8787,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "0603WAF5100T5E_0_1"
+		(symbol "510Ω-0603_0_1"
 			(rectangle
 				(start -2.54 1.02)
 				(end 2.54 -1.02)
@@ -8817,7 +8817,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "0603WAF5101T5E"
+	(symbol "5.1kΩ-0603"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -8866,7 +8866,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "0603WAF5101T5E_0_1"
+		(symbol "5.1kΩ-0603_0_1"
 			(rectangle
 				(start -2.54 1.02)
 				(end 2.54 -1.02)
@@ -8896,7 +8896,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "0603WAF5102T5E"
+	(symbol "51kΩ-0603"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -8945,7 +8945,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "0603WAF5102T5E_0_1"
+		(symbol "51kΩ-0603_0_1"
 			(rectangle
 				(start -2.54 1.02)
 				(end 2.54 -1.02)
@@ -8975,7 +8975,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "0603WAF5103T5E"
+	(symbol "510kΩ-0603"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -9024,7 +9024,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "0603WAF5103T5E_0_1"
+		(symbol "510kΩ-0603_0_1"
 			(rectangle
 				(start -2.54 1.02)
 				(end 2.54 -1.02)
@@ -9054,7 +9054,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "0603WAF510JT5E"
+	(symbol "51Ω-0603"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -9103,7 +9103,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "0603WAF510JT5E_0_1"
+		(symbol "51Ω-0603_0_1"
 			(rectangle
 				(start -2.54 1.02)
 				(end 2.54 -1.02)
@@ -9133,7 +9133,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "0603WAF510KT5E"
+	(symbol "5.1Ω-0603"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -9182,7 +9182,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "0603WAF510KT5E_0_1"
+		(symbol "5.1Ω-0603_0_1"
 			(rectangle
 				(start -2.54 1.02)
 				(end 2.54 -1.02)
@@ -9212,7 +9212,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "0603WAF5600T5E"
+	(symbol "560Ω-0603"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -9261,7 +9261,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "0603WAF5600T5E_0_1"
+		(symbol "560Ω-0603_0_1"
 			(rectangle
 				(start -2.54 1.02)
 				(end 2.54 -1.02)
@@ -9291,7 +9291,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "0603WAF5601T5E"
+	(symbol "5.6kΩ-0603"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -9340,7 +9340,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "0603WAF5601T5E_0_1"
+		(symbol "5.6kΩ-0603_0_1"
 			(rectangle
 				(start -2.54 1.02)
 				(end 2.54 -1.02)
@@ -9370,7 +9370,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "0603WAF5602T5E"
+	(symbol "56kΩ-0603"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -9419,7 +9419,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "0603WAF5602T5E_0_1"
+		(symbol "56kΩ-0603_0_1"
 			(rectangle
 				(start -2.54 1.02)
 				(end 2.54 -1.02)
@@ -9449,7 +9449,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "0603WAF6800T5E"
+	(symbol "680Ω-0603"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -9498,7 +9498,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "0603WAF6800T5E_0_1"
+		(symbol "680Ω-0603_0_1"
 			(rectangle
 				(start -2.54 1.02)
 				(end 2.54 -1.02)
@@ -9528,7 +9528,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "0603WAF6801T5E"
+	(symbol "6.8kΩ-0603"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -9577,7 +9577,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "0603WAF6801T5E_0_1"
+		(symbol "6.8kΩ-0603_0_1"
 			(rectangle
 				(start -2.54 1.02)
 				(end 2.54 -1.02)
@@ -9607,7 +9607,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "0603WAF6802T5E"
+	(symbol "68kΩ-0603"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -9656,7 +9656,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "0603WAF6802T5E_0_1"
+		(symbol "68kΩ-0603_0_1"
 			(rectangle
 				(start -2.54 1.02)
 				(end 2.54 -1.02)
@@ -9686,7 +9686,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "0603WAF7501T5E"
+	(symbol "7.5kΩ-0603"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -9735,7 +9735,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "0603WAF7501T5E_0_1"
+		(symbol "7.5kΩ-0603_0_1"
 			(rectangle
 				(start -2.54 1.02)
 				(end 2.54 -1.02)
@@ -9765,7 +9765,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "0603WAF7502T5E"
+	(symbol "75kΩ-0603"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -9814,7 +9814,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "0603WAF7502T5E_0_1"
+		(symbol "75kΩ-0603_0_1"
 			(rectangle
 				(start -2.54 1.02)
 				(end 2.54 -1.02)
@@ -9844,7 +9844,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "0603WAF8200T5E"
+	(symbol "820Ω-0603"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -9893,7 +9893,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "0603WAF8200T5E_0_1"
+		(symbol "820Ω-0603_0_1"
 			(rectangle
 				(start -2.54 1.02)
 				(end 2.54 -1.02)
@@ -9923,7 +9923,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "0603WAF8201T5E"
+	(symbol "8.2kΩ-0603"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -9972,7 +9972,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "0603WAF8201T5E_0_1"
+		(symbol "8.2kΩ-0603_0_1"
 			(rectangle
 				(start -2.54 1.02)
 				(end 2.54 -1.02)
@@ -10002,7 +10002,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "0603WAF8202T5E"
+	(symbol "82kΩ-0603"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -10051,7 +10051,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "0603WAF8202T5E_0_1"
+		(symbol "82kΩ-0603_0_1"
 			(rectangle
 				(start -2.54 1.02)
 				(end 2.54 -1.02)
@@ -10081,7 +10081,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "0603WAF9101T5E"
+	(symbol "9.1kΩ-0603"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -10130,7 +10130,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "0603WAF9101T5E_0_1"
+		(symbol "9.1kΩ-0603_0_1"
 			(rectangle
 				(start -2.54 1.02)
 				(end 2.54 -1.02)
@@ -10160,7 +10160,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "0805B333K500NT"
+	(symbol "33nF-0805"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -10209,7 +10209,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "0805B333K500NT_0_1"
+		(symbol "33nF-0805_0_1"
 			(polyline
 				(pts
 					(xy -1.27 0)
@@ -10265,7 +10265,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "0805B471K500NT"
+	(symbol "470pF-0805"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -10314,7 +10314,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "0805B471K500NT_0_1"
+		(symbol "470pF-0805_0_1"
 			(polyline
 				(pts
 					(xy -1.27 0)
@@ -10370,7 +10370,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "0805B472K500NT"
+	(symbol "4.7nF-0805"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -10419,7 +10419,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "0805B472K500NT_0_1"
+		(symbol "4.7nF-0805_0_1"
 			(polyline
 				(pts
 					(xy -1.27 0)
@@ -10475,7 +10475,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "0805W8F0000T5E"
+	(symbol "0Ω-0805"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -10524,7 +10524,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "0805W8F0000T5E_0_1"
+		(symbol "0Ω-0805_0_1"
 			(rectangle
 				(start -2.54 1.02)
 				(end 2.54 -1.02)
@@ -10554,7 +10554,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "0805W8F1000T5E"
+	(symbol "100Ω-0805"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -10603,7 +10603,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "0805W8F1000T5E_0_1"
+		(symbol "100Ω-0805_0_1"
 			(rectangle
 				(start -2.54 1.02)
 				(end 2.54 -1.02)
@@ -10633,7 +10633,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "0805W8F1001T5E"
+	(symbol "1kΩ-0805"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -10682,7 +10682,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "0805W8F1001T5E_0_1"
+		(symbol "1kΩ-0805_0_1"
 			(rectangle
 				(start -2.54 1.02)
 				(end 2.54 -1.02)
@@ -10712,7 +10712,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "0805W8F1002T5E"
+	(symbol "10kΩ-0805"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -10761,7 +10761,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "0805W8F1002T5E_0_1"
+		(symbol "10kΩ-0805_0_1"
 			(rectangle
 				(start -2.54 1.02)
 				(end 2.54 -1.02)
@@ -10791,7 +10791,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "0805W8F1003T5E_C149504"
+	(symbol "100kΩ-0805"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -10840,7 +10840,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "0805W8F1003T5E_C149504_0_1"
+		(symbol "100kΩ-0805_0_1"
 			(rectangle
 				(start -2.54 1.02)
 				(end 2.54 -1.02)
@@ -10870,7 +10870,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "0805W8F1004T5E"
+	(symbol "1MΩ-0805"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -10919,7 +10919,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "0805W8F1004T5E_0_1"
+		(symbol "1MΩ-0805_0_1"
 			(rectangle
 				(start -2.54 1.02)
 				(end 2.54 -1.02)
@@ -10949,7 +10949,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "0805W8F100JT5E"
+	(symbol "10Ω-0805"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -10998,7 +10998,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "0805W8F100JT5E_0_1"
+		(symbol "10Ω-0805_0_1"
 			(rectangle
 				(start -2.54 1.02)
 				(end 2.54 -1.02)
@@ -11028,7 +11028,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "0805W8F100KT5E"
+	(symbol "1Ω-0805"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -11077,7 +11077,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "0805W8F100KT5E_0_1"
+		(symbol "1Ω-0805_0_1"
 			(rectangle
 				(start -2.54 1.02)
 				(end 2.54 -1.02)
@@ -11107,7 +11107,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "0805W8F1200T5E"
+	(symbol "120Ω-0805"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -11156,7 +11156,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "0805W8F1200T5E_0_1"
+		(symbol "120Ω-0805_0_1"
 			(rectangle
 				(start -2.54 1.02)
 				(end 2.54 -1.02)
@@ -11186,7 +11186,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "0805W8F1201T5E"
+	(symbol "1.2kΩ-0805"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -11235,7 +11235,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "0805W8F1201T5E_0_1"
+		(symbol "1.2kΩ-0805_0_1"
 			(rectangle
 				(start -2.54 1.02)
 				(end 2.54 -1.02)
@@ -11265,7 +11265,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "0805W8F1202T5E"
+	(symbol "12kΩ-0805"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -11314,7 +11314,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "0805W8F1202T5E_0_1"
+		(symbol "12kΩ-0805_0_1"
 			(rectangle
 				(start -2.54 1.02)
 				(end 2.54 -1.02)
@@ -11344,7 +11344,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "0805W8F1500T5E"
+	(symbol "150Ω-0805"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -11393,7 +11393,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "0805W8F1500T5E_0_1"
+		(symbol "150Ω-0805_0_1"
 			(rectangle
 				(start -2.54 1.02)
 				(end 2.54 -1.02)
@@ -11423,7 +11423,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "0805W8F1502T5E"
+	(symbol "15kΩ-0805"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -11472,7 +11472,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "0805W8F1502T5E_0_1"
+		(symbol "15kΩ-0805_0_1"
 			(rectangle
 				(start -2.54 1.02)
 				(end 2.54 -1.02)
@@ -11502,7 +11502,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "0805W8F1503T5E"
+	(symbol "150kΩ-0805"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -11551,7 +11551,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "0805W8F1503T5E_0_1"
+		(symbol "150kΩ-0805_0_1"
 			(rectangle
 				(start -2.54 1.02)
 				(end 2.54 -1.02)
@@ -11581,7 +11581,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "0805W8F2000T5E"
+	(symbol "200Ω-0805"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -11630,7 +11630,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "0805W8F2000T5E_0_1"
+		(symbol "200Ω-0805_0_1"
 			(rectangle
 				(start -2.54 1.02)
 				(end 2.54 -1.02)
@@ -11660,7 +11660,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "0805W8F2001T5E"
+	(symbol "2kΩ-0805"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -11709,7 +11709,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "0805W8F2001T5E_0_1"
+		(symbol "2kΩ-0805_0_1"
 			(rectangle
 				(start -2.54 1.02)
 				(end 2.54 -1.02)
@@ -11739,7 +11739,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "0805W8F2003T5E"
+	(symbol "200kΩ-0805"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -11788,7 +11788,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "0805W8F2003T5E_0_1"
+		(symbol "200kΩ-0805_0_1"
 			(rectangle
 				(start -2.54 1.02)
 				(end 2.54 -1.02)
@@ -11818,7 +11818,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "0805W8F200JT5E"
+	(symbol "20Ω-0805"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -11867,7 +11867,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "0805W8F200JT5E_0_1"
+		(symbol "20Ω-0805_0_1"
 			(rectangle
 				(start -2.54 1.02)
 				(end 2.54 -1.02)
@@ -11897,7 +11897,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "0805W8F2200T5E"
+	(symbol "220Ω-0805"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -11946,7 +11946,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "0805W8F2200T5E_0_1"
+		(symbol "220Ω-0805_0_1"
 			(rectangle
 				(start -2.54 1.02)
 				(end 2.54 -1.02)
@@ -11976,7 +11976,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "0805W8F2201T5E"
+	(symbol "2.2kΩ-0805"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -12025,7 +12025,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "0805W8F2201T5E_0_1"
+		(symbol "2.2kΩ-0805_0_1"
 			(rectangle
 				(start -2.54 1.02)
 				(end 2.54 -1.02)
@@ -12055,7 +12055,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "0805W8F2202T5E"
+	(symbol "22kΩ-0805"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -12104,7 +12104,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "0805W8F2202T5E_0_1"
+		(symbol "22kΩ-0805_0_1"
 			(rectangle
 				(start -2.54 1.02)
 				(end 2.54 -1.02)
@@ -12134,7 +12134,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "0805W8F2203T5E"
+	(symbol "220kΩ-0805"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -12183,7 +12183,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "0805W8F2203T5E_0_1"
+		(symbol "220kΩ-0805_0_1"
 			(rectangle
 				(start -2.54 1.02)
 				(end 2.54 -1.02)
@@ -12213,7 +12213,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "0805W8F220JT5E"
+	(symbol "22Ω-0805"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -12262,7 +12262,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "0805W8F220JT5E_0_1"
+		(symbol "22Ω-0805_0_1"
 			(rectangle
 				(start -2.54 1.02)
 				(end 2.54 -1.02)
@@ -12292,7 +12292,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "0805W8F220KT5E"
+	(symbol "2.2Ω-0805"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -12341,7 +12341,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "0805W8F220KT5E_0_1"
+		(symbol "2.2Ω-0805_0_1"
 			(rectangle
 				(start -2.54 1.02)
 				(end 2.54 -1.02)
@@ -12371,7 +12371,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "0805W8F2401T5E"
+	(symbol "2.4kΩ-0805"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -12420,7 +12420,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "0805W8F2401T5E_0_1"
+		(symbol "2.4kΩ-0805_0_1"
 			(rectangle
 				(start -2.54 1.02)
 				(end 2.54 -1.02)
@@ -12450,7 +12450,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "0805W8F2402T5E"
+	(symbol "24kΩ-0805"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -12499,7 +12499,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "0805W8F2402T5E_0_1"
+		(symbol "24kΩ-0805_0_1"
 			(rectangle
 				(start -2.54 1.02)
 				(end 2.54 -1.02)
@@ -12529,7 +12529,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "0805W8F2701T5E"
+	(symbol "2.7kΩ-0805"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -12578,7 +12578,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "0805W8F2701T5E_0_1"
+		(symbol "2.7kΩ-0805_0_1"
 			(rectangle
 				(start -2.54 1.02)
 				(end 2.54 -1.02)
@@ -12608,7 +12608,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "0805W8F2702T5E"
+	(symbol "27kΩ-0805"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -12657,7 +12657,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "0805W8F2702T5E_0_1"
+		(symbol "27kΩ-0805_0_1"
 			(rectangle
 				(start -2.54 1.02)
 				(end 2.54 -1.02)
@@ -12687,7 +12687,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "0805W8F3000T5E"
+	(symbol "300Ω-0805"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -12736,7 +12736,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "0805W8F3000T5E_0_1"
+		(symbol "300Ω-0805_0_1"
 			(rectangle
 				(start -2.54 1.02)
 				(end 2.54 -1.02)
@@ -12766,7 +12766,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "0805W8F3001T5E"
+	(symbol "3kΩ-0805"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -12815,7 +12815,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "0805W8F3001T5E_0_1"
+		(symbol "3kΩ-0805_0_1"
 			(rectangle
 				(start -2.54 1.02)
 				(end 2.54 -1.02)
@@ -12845,7 +12845,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "0805W8F3002T5E"
+	(symbol "30kΩ-0805"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -12894,7 +12894,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "0805W8F3002T5E_0_1"
+		(symbol "30kΩ-0805_0_1"
 			(rectangle
 				(start -2.54 1.02)
 				(end 2.54 -1.02)
@@ -12924,7 +12924,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "0805W8F3300T5E"
+	(symbol "330Ω-0805"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -12973,7 +12973,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "0805W8F3300T5E_0_1"
+		(symbol "330Ω-0805_0_1"
 			(rectangle
 				(start -2.54 1.02)
 				(end 2.54 -1.02)
@@ -13003,7 +13003,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "0805W8F3301T5E"
+	(symbol "3.3kΩ-0805"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -13052,7 +13052,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "0805W8F3301T5E_0_1"
+		(symbol "3.3kΩ-0805_0_1"
 			(rectangle
 				(start -2.54 1.02)
 				(end 2.54 -1.02)
@@ -13082,7 +13082,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "0805W8F3302T5E"
+	(symbol "33kΩ-0805"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -13131,7 +13131,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "0805W8F3302T5E_0_1"
+		(symbol "33kΩ-0805_0_1"
 			(rectangle
 				(start -2.54 1.02)
 				(end 2.54 -1.02)
@@ -13161,7 +13161,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "0805W8F330JT5E"
+	(symbol "33Ω-0805"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -13210,7 +13210,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "0805W8F330JT5E_0_1"
+		(symbol "33Ω-0805_0_1"
 			(rectangle
 				(start -2.54 1.02)
 				(end 2.54 -1.02)
@@ -13240,7 +13240,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "0805W8F3900T5E"
+	(symbol "390Ω-0805"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -13289,7 +13289,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "0805W8F3900T5E_0_1"
+		(symbol "390Ω-0805_0_1"
 			(rectangle
 				(start -2.54 1.02)
 				(end 2.54 -1.02)
@@ -13319,7 +13319,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "0805W8F3901T5E"
+	(symbol "3.9kΩ-0805"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -13368,7 +13368,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "0805W8F3901T5E_0_1"
+		(symbol "3.9kΩ-0805_0_1"
 			(rectangle
 				(start -2.54 1.02)
 				(end 2.54 -1.02)
@@ -13398,7 +13398,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "0805W8F4700T5E"
+	(symbol "470Ω-0805"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -13447,7 +13447,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "0805W8F4700T5E_0_1"
+		(symbol "470Ω-0805_0_1"
 			(rectangle
 				(start -2.54 1.02)
 				(end 2.54 -1.02)
@@ -13477,7 +13477,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "0805W8F4701T5E"
+	(symbol "4.7kΩ-0805"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -13526,7 +13526,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "0805W8F4701T5E_0_1"
+		(symbol "4.7kΩ-0805_0_1"
 			(rectangle
 				(start -2.54 1.02)
 				(end 2.54 -1.02)
@@ -13556,7 +13556,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "0805W8F4702T5E"
+	(symbol "47kΩ-0805"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -13605,7 +13605,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "0805W8F4702T5E_0_1"
+		(symbol "47kΩ-0805_0_1"
 			(rectangle
 				(start -2.54 1.02)
 				(end 2.54 -1.02)
@@ -13635,7 +13635,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "0805W8F4703T5E"
+	(symbol "470kΩ-0805"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -13684,7 +13684,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "0805W8F4703T5E_0_1"
+		(symbol "470kΩ-0805_0_1"
 			(rectangle
 				(start -2.54 1.02)
 				(end 2.54 -1.02)
@@ -13714,7 +13714,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "0805W8F470JT5E"
+	(symbol "47Ω-0805"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -13763,7 +13763,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "0805W8F470JT5E_0_1"
+		(symbol "47Ω-0805_0_1"
 			(rectangle
 				(start -2.54 1.02)
 				(end 2.54 -1.02)
@@ -13793,7 +13793,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "0805W8F470KT5E"
+	(symbol "4.7Ω-0805"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -13842,7 +13842,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "0805W8F470KT5E_0_1"
+		(symbol "4.7Ω-0805_0_1"
 			(rectangle
 				(start -2.54 1.02)
 				(end 2.54 -1.02)
@@ -13872,7 +13872,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "0805W8F499JT5E"
+	(symbol "49.9Ω-0805"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -13921,7 +13921,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "0805W8F499JT5E_0_1"
+		(symbol "49.9Ω-0805_0_1"
 			(rectangle
 				(start -2.54 1.02)
 				(end 2.54 -1.02)
@@ -13951,7 +13951,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "0805W8F5100T5E"
+	(symbol "510Ω-0805"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -14000,7 +14000,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "0805W8F5100T5E_0_1"
+		(symbol "510Ω-0805_0_1"
 			(rectangle
 				(start -2.54 1.02)
 				(end 2.54 -1.02)
@@ -14030,7 +14030,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "0805W8F5101T5E"
+	(symbol "5.1kΩ-0805"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -14079,7 +14079,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "0805W8F5101T5E_0_1"
+		(symbol "5.1kΩ-0805_0_1"
 			(rectangle
 				(start -2.54 1.02)
 				(end 2.54 -1.02)
@@ -14109,7 +14109,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "0805W8F5102T5E"
+	(symbol "51kΩ-0805"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -14158,7 +14158,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "0805W8F5102T5E_0_1"
+		(symbol "51kΩ-0805_0_1"
 			(rectangle
 				(start -2.54 1.02)
 				(end 2.54 -1.02)
@@ -14188,7 +14188,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "0805W8F510JT5E"
+	(symbol "51Ω-0805"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -14237,7 +14237,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "0805W8F510JT5E_0_1"
+		(symbol "51Ω-0805_0_1"
 			(rectangle
 				(start -2.54 1.02)
 				(end 2.54 -1.02)
@@ -14267,7 +14267,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "0805W8F510KT5E"
+	(symbol "5.1Ω-0805"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -14316,7 +14316,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "0805W8F510KT5E_0_1"
+		(symbol "5.1Ω-0805_0_1"
 			(rectangle
 				(start -2.54 1.02)
 				(end 2.54 -1.02)
@@ -14346,7 +14346,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "0805W8F5600T5E"
+	(symbol "560Ω-0805"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -14395,7 +14395,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "0805W8F5600T5E_0_1"
+		(symbol "560Ω-0805_0_1"
 			(rectangle
 				(start -2.54 1.02)
 				(end 2.54 -1.02)
@@ -14425,7 +14425,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "0805W8F6800T5E"
+	(symbol "680Ω-0805"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -14474,7 +14474,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "0805W8F6800T5E_0_1"
+		(symbol "680Ω-0805_0_1"
 			(rectangle
 				(start -2.54 1.02)
 				(end 2.54 -1.02)
@@ -14504,7 +14504,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "0805W8F6801T5E"
+	(symbol "6.8kΩ-0805"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -14553,7 +14553,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "0805W8F6801T5E_0_1"
+		(symbol "6.8kΩ-0805_0_1"
 			(rectangle
 				(start -2.54 1.02)
 				(end 2.54 -1.02)
@@ -14583,7 +14583,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "0805W8F6802T5E"
+	(symbol "68kΩ-0805"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -14632,7 +14632,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "0805W8F6802T5E_0_1"
+		(symbol "68kΩ-0805_0_1"
 			(rectangle
 				(start -2.54 1.02)
 				(end 2.54 -1.02)
@@ -14662,7 +14662,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "0805W8F8201T5E"
+	(symbol "8.2kΩ-0805"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -14711,7 +14711,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "0805W8F8201T5E_0_1"
+		(symbol "8.2kΩ-0805_0_1"
 			(rectangle
 				(start -2.54 1.02)
 				(end 2.54 -1.02)
@@ -14741,7 +14741,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "1206B102K202NT"
+	(symbol "1nF-1206"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -14790,7 +14790,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "1206B102K202NT_0_1"
+		(symbol "1nF-1206_0_1"
 			(polyline
 				(pts
 					(xy -1.27 0)
@@ -14846,7 +14846,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "1206B103K500NT"
+	(symbol "10nF-1206"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -14895,7 +14895,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "1206B103K500NT_0_1"
+		(symbol "10nF-1206_0_1"
 			(polyline
 				(pts
 					(xy -1.27 0)
@@ -14951,7 +14951,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "1206B475K500NT"
+	(symbol "4.7uF-1206"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -15000,7 +15000,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "1206B475K500NT_0_1"
+		(symbol "4.7uF-1206_0_1"
 			(polyline
 				(pts
 					(xy -1.27 0)
@@ -15056,7 +15056,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "1206W4F0000T5E"
+	(symbol "0Ω-1206"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -15105,7 +15105,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "1206W4F0000T5E_0_1"
+		(symbol "0Ω-1206_0_1"
 			(rectangle
 				(start -2.54 1.02)
 				(end 2.54 -1.02)
@@ -15135,7 +15135,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "1206W4F1000T5E"
+	(symbol "100Ω-1206"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -15184,7 +15184,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "1206W4F1000T5E_0_1"
+		(symbol "100Ω-1206_0_1"
 			(rectangle
 				(start -2.54 1.02)
 				(end 2.54 -1.02)
@@ -15214,7 +15214,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "1206W4F1002T5E"
+	(symbol "10kΩ-1206"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -15263,7 +15263,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "1206W4F1002T5E_0_1"
+		(symbol "10kΩ-1206_0_1"
 			(rectangle
 				(start -2.54 1.02)
 				(end 2.54 -1.02)
@@ -15293,7 +15293,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "1206W4F1003T5E"
+	(symbol "100kΩ-1206"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -15342,7 +15342,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "1206W4F1003T5E_0_1"
+		(symbol "100kΩ-1206_0_1"
 			(rectangle
 				(start -2.54 1.02)
 				(end 2.54 -1.02)
@@ -15372,7 +15372,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "1206W4F1004T5E"
+	(symbol "1MΩ-1206"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -15421,7 +15421,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "1206W4F1004T5E_0_1"
+		(symbol "1MΩ-1206_0_1"
 			(rectangle
 				(start -2.54 1.02)
 				(end 2.54 -1.02)
@@ -15451,7 +15451,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "1206W4F100JT5E"
+	(symbol "10Ω-1206"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -15500,7 +15500,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "1206W4F100JT5E_0_1"
+		(symbol "10Ω-1206_0_1"
 			(rectangle
 				(start -2.54 1.02)
 				(end 2.54 -1.02)
@@ -15530,7 +15530,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "1206W4F100KT5E"
+	(symbol "1Ω-1206"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -15579,7 +15579,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "1206W4F100KT5E_0_1"
+		(symbol "1Ω-1206_0_1"
 			(rectangle
 				(start -2.54 1.02)
 				(end 2.54 -1.02)
@@ -15609,7 +15609,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "1206W4F100LT5E"
+	(symbol "100mΩ-1206"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -15658,7 +15658,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "1206W4F100LT5E_0_1"
+		(symbol "100mΩ-1206_0_1"
 			(rectangle
 				(start -2.54 1.02)
 				(end 2.54 -1.02)
@@ -15688,7 +15688,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "1206W4F1200T5E_C17909"
+	(symbol "120Ω-1206"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -15737,7 +15737,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "1206W4F1200T5E_C17909_0_1"
+		(symbol "120Ω-1206_0_1"
 			(rectangle
 				(start -2.54 1.02)
 				(end 2.54 -1.02)
@@ -15767,7 +15767,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "1206W4F2001T5E"
+	(symbol "2kΩ-1206"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -15816,7 +15816,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "1206W4F2001T5E_0_1"
+		(symbol "2kΩ-1206_0_1"
 			(rectangle
 				(start -2.54 1.02)
 				(end 2.54 -1.02)
@@ -15846,7 +15846,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "1206W4F200JT5E"
+	(symbol "20Ω-1206"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -15895,7 +15895,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "1206W4F200JT5E_0_1"
+		(symbol "20Ω-1206_0_1"
 			(rectangle
 				(start -2.54 1.02)
 				(end 2.54 -1.02)
@@ -15925,7 +15925,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "1206W4F220JT5E"
+	(symbol "22Ω-1206"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -15974,7 +15974,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "1206W4F220JT5E_0_1"
+		(symbol "22Ω-1206_0_1"
 			(rectangle
 				(start -2.54 1.02)
 				(end 2.54 -1.02)
@@ -16004,7 +16004,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "1206W4F3000T5E"
+	(symbol "300Ω-1206"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -16053,7 +16053,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "1206W4F3000T5E_0_1"
+		(symbol "300Ω-1206_0_1"
 			(rectangle
 				(start -2.54 1.02)
 				(end 2.54 -1.02)
@@ -16083,7 +16083,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "1206W4F4701T5E"
+	(symbol "4.7kΩ-1206"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -16132,7 +16132,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "1206W4F4701T5E_0_1"
+		(symbol "4.7kΩ-1206_0_1"
 			(rectangle
 				(start -2.54 1.02)
 				(end 2.54 -1.02)
@@ -18656,7 +18656,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "CC0603KRX7R9BB104"
+	(symbol "100nF-0603"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -18705,7 +18705,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "CC0603KRX7R9BB104_0_1"
+		(symbol "100nF-0603_0_1"
 			(polyline
 				(pts
 					(xy -0.51 0)
@@ -18761,7 +18761,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "CC0805KRX7R9BB104"
+	(symbol "100nF-0805"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -18810,7 +18810,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "CC0805KRX7R9BB104_0_1"
+		(symbol "100nF-0805_0_1"
 			(polyline
 				(pts
 					(xy -0.51 0)
@@ -18866,7 +18866,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "CC0805KRX7R9BB221"
+	(symbol "220pF-0805"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -18915,7 +18915,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "CC0805KRX7R9BB221_0_1"
+		(symbol "220pF-0805_0_1"
 			(polyline
 				(pts
 					(xy -1.27 0)
@@ -18971,7 +18971,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "CL05A105KA5NQNC"
+	(symbol "1uF-0402"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -19020,7 +19020,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "CL05A105KA5NQNC_0_1"
+		(symbol "1uF-0402_0_1"
 			(polyline
 				(pts
 					(xy -0.51 0)
@@ -19076,7 +19076,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "CL05A106MQ5NUNC"
+	(symbol "10uF-0402"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -19125,7 +19125,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "CL05A106MQ5NUNC_0_1"
+		(symbol "10uF-0402_0_1"
 			(polyline
 				(pts
 					(xy -1.27 0)
@@ -19181,7 +19181,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "CL05A225MQ5NSNC"
+	(symbol "2.2uF-0402"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -19230,7 +19230,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "CL05A225MQ5NSNC_0_1"
+		(symbol "2.2uF-0402_0_1"
 			(polyline
 				(pts
 					(xy -1.27 0)
@@ -19286,7 +19286,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "CL05A475MP5NRNC"
+	(symbol "4.7uF-0402"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -19335,7 +19335,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "CL05A475MP5NRNC_0_1"
+		(symbol "4.7uF-0402_0_1"
 			(polyline
 				(pts
 					(xy -1.27 0)
@@ -19391,7 +19391,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "CL05B103KB5NNNC"
+	(symbol "10nF-0402"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -19440,7 +19440,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "CL05B103KB5NNNC_0_1"
+		(symbol "10nF-0402_0_1"
 			(polyline
 				(pts
 					(xy -1.27 0)
@@ -19496,7 +19496,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "CL05B104KB54PNC"
+	(symbol "100nF-0402"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -19545,7 +19545,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "CL05B104KB54PNC_0_1"
+		(symbol "100nF-0402_0_1"
 			(polyline
 				(pts
 					(xy -0.51 2.03)
@@ -19601,7 +19601,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "CL05B104KO5NNNC"
+	(symbol "100nF-0402"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -19650,7 +19650,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "CL05B104KO5NNNC_0_1"
+		(symbol "100nF-0402_0_1"
 			(polyline
 				(pts
 					(xy -0.51 0)
@@ -19706,7 +19706,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "CL05B224KO5NNNC"
+	(symbol "220nF-0402"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -19755,7 +19755,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "CL05B224KO5NNNC_0_1"
+		(symbol "220nF-0402_0_1"
 			(polyline
 				(pts
 					(xy -1.27 0)
@@ -19811,7 +19811,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "CL05C100JB5NNNC"
+	(symbol "10pF-0402"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -19860,7 +19860,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "CL05C100JB5NNNC_0_1"
+		(symbol "10pF-0402_0_1"
 			(polyline
 				(pts
 					(xy -0.51 0)
@@ -19916,7 +19916,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "CL10A105KB8NNNC"
+	(symbol "1uF-0603"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -19965,7 +19965,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "CL10A105KB8NNNC_0_1"
+		(symbol "1uF-0603_0_1"
 			(polyline
 				(pts
 					(xy -0.51 0)
@@ -20021,7 +20021,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "CL10A106KP8NNNC"
+	(symbol "10uF-0603"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -20070,7 +20070,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "CL10A106KP8NNNC_0_1"
+		(symbol "10uF-0603_0_1"
 			(polyline
 				(pts
 					(xy -0.51 0)
@@ -20126,7 +20126,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "CL10A106MA8NRNC"
+	(symbol "10uF-0603"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -20175,7 +20175,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "CL10A106MA8NRNC_0_1"
+		(symbol "10uF-0603_0_1"
 			(polyline
 				(pts
 					(xy -0.51 0)
@@ -20231,7 +20231,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "CL10A225KO8NNNC"
+	(symbol "2.2uF-0603"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -20280,7 +20280,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "CL10A225KO8NNNC_0_1"
+		(symbol "2.2uF-0603_0_1"
 			(polyline
 				(pts
 					(xy -1.27 0)
@@ -20336,7 +20336,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "CL10A226MQ8NRNC"
+	(symbol "22uF-0603"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -20385,7 +20385,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "CL10A226MQ8NRNC_0_1"
+		(symbol "22uF-0603_0_1"
 			(polyline
 				(pts
 					(xy -0.51 0)
@@ -20441,7 +20441,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "CL10A475KO8NNNC"
+	(symbol "4.7uF-0603"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -20490,7 +20490,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "CL10A475KO8NNNC_0_1"
+		(symbol "4.7uF-0603_0_1"
 			(polyline
 				(pts
 					(xy -0.51 0)
@@ -20546,7 +20546,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "CL10B102KB8NNNC"
+	(symbol "1nF-0603"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -20595,7 +20595,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "CL10B102KB8NNNC_0_1"
+		(symbol "1nF-0603_0_1"
 			(polyline
 				(pts
 					(xy -1.27 0)
@@ -20651,7 +20651,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "CL10B221KB8NNNC"
+	(symbol "220pF-0603"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -20700,7 +20700,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "CL10B221KB8NNNC_0_1"
+		(symbol "220pF-0603_0_1"
 			(polyline
 				(pts
 					(xy -1.27 0)
@@ -20756,7 +20756,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "CL10B223KB8NNNC"
+	(symbol "22nF-0603"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -20805,7 +20805,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "CL10B223KB8NNNC_0_1"
+		(symbol "22nF-0603_0_1"
 			(polyline
 				(pts
 					(xy -1.27 0)
@@ -20861,7 +20861,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "CL10B224KA8NNNC"
+	(symbol "220nF-0603"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -20910,7 +20910,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "CL10B224KA8NNNC_0_1"
+		(symbol "220nF-0603_0_1"
 			(polyline
 				(pts
 					(xy -1.27 0)
@@ -20966,7 +20966,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "CL10B332KB8NNNC"
+	(symbol "3.3nF-0603"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -21015,7 +21015,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "CL10B332KB8NNNC_0_1"
+		(symbol "3.3nF-0603_0_1"
 			(polyline
 				(pts
 					(xy -1.27 0)
@@ -21071,7 +21071,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "CL10B333KB8NNNC"
+	(symbol "33nF-0603"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -21120,7 +21120,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "CL10B333KB8NNNC_0_1"
+		(symbol "33nF-0603_0_1"
 			(polyline
 				(pts
 					(xy -1.27 0)
@@ -21176,7 +21176,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "CL10B473KB8NNNC"
+	(symbol "47nF-0603"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -21225,7 +21225,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "CL10B473KB8NNNC_0_1"
+		(symbol "47nF-0603_0_1"
 			(polyline
 				(pts
 					(xy -1.27 0)
@@ -21281,7 +21281,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "CL10B474KA8NNNC"
+	(symbol "470nF-0603"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -21330,7 +21330,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "CL10B474KA8NNNC_0_1"
+		(symbol "470nF-0603_0_1"
 			(polyline
 				(pts
 					(xy -1.27 0)
@@ -21386,7 +21386,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "CL10C100JB8NNNC"
+	(symbol "10pF-0603"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -21435,7 +21435,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "CL10C100JB8NNNC_0_1"
+		(symbol "10pF-0603_0_1"
 			(polyline
 				(pts
 					(xy -1.27 0)
@@ -21491,7 +21491,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "CL10C101JB8NNNC"
+	(symbol "100pF-0603"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -21540,7 +21540,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "CL10C101JB8NNNC_0_1"
+		(symbol "100pF-0603_0_1"
 			(polyline
 				(pts
 					(xy -1.27 0)
@@ -21596,7 +21596,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "CL10C120JB8NNNC"
+	(symbol "12pF-0603"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -21645,7 +21645,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "CL10C120JB8NNNC_0_1"
+		(symbol "12pF-0603_0_1"
 			(polyline
 				(pts
 					(xy -1.27 0)
@@ -21701,7 +21701,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "CL10C150JB8NNNC"
+	(symbol "15pF-0603"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -21750,7 +21750,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "CL10C150JB8NNNC_0_1"
+		(symbol "15pF-0603_0_1"
 			(polyline
 				(pts
 					(xy -1.27 0)
@@ -21806,7 +21806,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "CL10C180JB8NNNC"
+	(symbol "18pF-0603"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -21855,7 +21855,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "CL10C180JB8NNNC_0_1"
+		(symbol "18pF-0603_0_1"
 			(polyline
 				(pts
 					(xy -1.27 0)
@@ -21911,7 +21911,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "CL10C200JB8NNNC"
+	(symbol "20pF-0603"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -21960,7 +21960,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "CL10C200JB8NNNC_0_1"
+		(symbol "20pF-0603_0_1"
 			(polyline
 				(pts
 					(xy -1.27 0)
@@ -22016,7 +22016,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "CL10C220JB8NNNC"
+	(symbol "22pF-0603"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -22065,7 +22065,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "CL10C220JB8NNNC_0_1"
+		(symbol "22pF-0603_0_1"
 			(polyline
 				(pts
 					(xy -1.27 0)
@@ -22121,7 +22121,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "CL10C330JB8NNNC"
+	(symbol "33pF-0603"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -22170,7 +22170,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "CL10C330JB8NNNC_0_1"
+		(symbol "33pF-0603_0_1"
 			(polyline
 				(pts
 					(xy -1.27 0)
@@ -22226,7 +22226,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "CL10C331JB8NNNC"
+	(symbol "330pF-0603"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -22275,7 +22275,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "CL10C331JB8NNNC_0_1"
+		(symbol "330pF-0603_0_1"
 			(polyline
 				(pts
 					(xy -1.27 0)
@@ -22331,7 +22331,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "CL10C470JB8NNNC"
+	(symbol "47pF-0603"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -22380,7 +22380,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "CL10C470JB8NNNC_0_1"
+		(symbol "47pF-0603_0_1"
 			(polyline
 				(pts
 					(xy -1.27 0)
@@ -22436,7 +22436,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "CL21A106KAYNNNE"
+	(symbol "10uF-0805"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -22485,7 +22485,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "CL21A106KAYNNNE_0_1"
+		(symbol "10uF-0805_0_1"
 			(polyline
 				(pts
 					(xy -0.51 0)
@@ -22541,7 +22541,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "CL21A225KBQNNNE"
+	(symbol "2.2uF-0805"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -22590,7 +22590,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "CL21A225KBQNNNE_0_1"
+		(symbol "2.2uF-0805_0_1"
 			(polyline
 				(pts
 					(xy -2.03 0.51)
@@ -22646,7 +22646,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "CL21A226MAQNNNE"
+	(symbol "22uF-0805"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -22695,7 +22695,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "CL21A226MAQNNNE_0_1"
+		(symbol "22uF-0805_0_1"
 			(polyline
 				(pts
 					(xy -0.51 0)
@@ -22751,7 +22751,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "CL21A475KAQNNNE"
+	(symbol "4.7uF-0805"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -22800,7 +22800,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "CL21A475KAQNNNE_0_1"
+		(symbol "4.7uF-0805_0_1"
 			(polyline
 				(pts
 					(xy -1.27 0)
@@ -22856,7 +22856,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "CL21A476MQYNNNE"
+	(symbol "47uF-0805"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -22905,7 +22905,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "CL21A476MQYNNNE_0_1"
+		(symbol "47uF-0805_0_1"
 			(polyline
 				(pts
 					(xy -1.27 0)
@@ -22961,7 +22961,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "CL21B102KBCNNNC"
+	(symbol "1nF-0805"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -23010,7 +23010,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "CL21B102KBCNNNC_0_1"
+		(symbol "1nF-0805_0_1"
 			(polyline
 				(pts
 					(xy -1.27 0)
@@ -23066,7 +23066,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "CL21B103KBANNNC"
+	(symbol "10nF-0805"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -23115,7 +23115,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "CL21B103KBANNNC_0_1"
+		(symbol "10nF-0805_0_1"
 			(polyline
 				(pts
 					(xy -1.27 0)
@@ -23171,7 +23171,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "CL21B104KCFNNNE"
+	(symbol "100nF-0805"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -23220,7 +23220,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "CL21B104KCFNNNE_0_1"
+		(symbol "100nF-0805_0_1"
 			(polyline
 				(pts
 					(xy -1.27 0)
@@ -23276,7 +23276,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "CL21B105KBFNNNE"
+	(symbol "1uF-0805"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -23325,7 +23325,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "CL21B105KBFNNNE_0_1"
+		(symbol "1uF-0805_0_1"
 			(polyline
 				(pts
 					(xy -1.27 0)
@@ -23381,7 +23381,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "CL21B223KBANNNC"
+	(symbol "22nF-0805"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -23430,7 +23430,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "CL21B223KBANNNC_0_1"
+		(symbol "22nF-0805_0_1"
 			(polyline
 				(pts
 					(xy -1.27 0)
@@ -23486,7 +23486,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "CL21B473KBCNNNC"
+	(symbol "47nF-0805"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -23535,7 +23535,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "CL21B473KBCNNNC_0_1"
+		(symbol "47nF-0805_0_1"
 			(polyline
 				(pts
 					(xy -1.27 0)
@@ -23591,7 +23591,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "CL21B474KBFNNNE"
+	(symbol "470nF-0805"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -23640,7 +23640,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "CL21B474KBFNNNE_0_1"
+		(symbol "470nF-0805_0_1"
 			(polyline
 				(pts
 					(xy -1.27 0)
@@ -23696,7 +23696,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "CL21C101JBANNNC"
+	(symbol "100pF-0805"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -23745,7 +23745,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "CL21C101JBANNNC_0_1"
+		(symbol "100pF-0805_0_1"
 			(polyline
 				(pts
 					(xy -1.27 0)
@@ -23801,7 +23801,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "CL21C200JBANNNC"
+	(symbol "20pF-0805"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -23850,7 +23850,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "CL21C200JBANNNC_0_1"
+		(symbol "20pF-0805_0_1"
 			(polyline
 				(pts
 					(xy -1.27 0)
@@ -23906,7 +23906,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "CL21C220JBANNNC"
+	(symbol "22pF-0805"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -23955,7 +23955,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "CL21C220JBANNNC_0_1"
+		(symbol "22pF-0805_0_1"
 			(polyline
 				(pts
 					(xy -1.27 0)
@@ -24011,7 +24011,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "CL21C222JBFNNNE"
+	(symbol "2.2nF-0805"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -24060,7 +24060,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "CL21C222JBFNNNE_0_1"
+		(symbol "2.2nF-0805_0_1"
 			(polyline
 				(pts
 					(xy -1.27 0)
@@ -24116,7 +24116,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "CL21C470JBANNNC"
+	(symbol "47pF-0805"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -24165,7 +24165,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "CL21C470JBANNNC_0_1"
+		(symbol "47pF-0805_0_1"
 			(polyline
 				(pts
 					(xy -1.27 0)
@@ -24221,7 +24221,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "CL31A106KBHNNNE"
+	(symbol "10uF-1206"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -24270,7 +24270,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "CL31A106KBHNNNE_0_1"
+		(symbol "10uF-1206_0_1"
 			(polyline
 				(pts
 					(xy -1.27 0)
@@ -24326,7 +24326,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "CL31A107MQHNNNE"
+	(symbol "100uF-1206"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -24375,7 +24375,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "CL31A107MQHNNNE_0_1"
+		(symbol "100uF-1206_0_1"
 			(polyline
 				(pts
 					(xy -1.27 0)
@@ -24431,7 +24431,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "CL31A226KAHNNNE"
+	(symbol "22uF-1206"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -24480,7 +24480,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "CL31A226KAHNNNE_0_1"
+		(symbol "22uF-1206_0_1"
 			(polyline
 				(pts
 					(xy -1.27 0)
@@ -24536,7 +24536,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "CL31A476MPHNNNE"
+	(symbol "47uF-1206"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -24585,7 +24585,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "CL31A476MPHNNNE_0_1"
+		(symbol "47uF-1206_0_1"
 			(polyline
 				(pts
 					(xy -0.51 0)
@@ -24641,7 +24641,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "CL31B104KBCNNNC"
+	(symbol "100nF-1206"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -24690,7 +24690,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "CL31B104KBCNNNC_0_1"
+		(symbol "100nF-1206_0_1"
 			(polyline
 				(pts
 					(xy -1.27 0)
@@ -24746,7 +24746,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "CL31B105KBHNNNE"
+	(symbol "1uF-1206"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -24795,7 +24795,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "CL31B105KBHNNNE_0_1"
+		(symbol "1uF-1206_0_1"
 			(polyline
 				(pts
 					(xy -0.51 0)
@@ -24851,7 +24851,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "CL31B225KBHNNNE"
+	(symbol "2.2uF-1206"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -24900,7 +24900,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "CL31B225KBHNNNE_0_1"
+		(symbol "2.2uF-1206_0_1"
 			(polyline
 				(pts
 					(xy -1.27 0)
@@ -25200,7 +25200,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "GRM21BR61H106KE43L"
+	(symbol "10uF-0805"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -25249,7 +25249,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "GRM21BR61H106KE43L_0_1"
+		(symbol "10uF-0805_0_1"
 			(polyline
 				(pts
 					(xy -0.51 0)
@@ -25305,7 +25305,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "GZ1608D601TF"
+	(symbol "600Ω@100MHz-0603"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -25354,7 +25354,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "GZ1608D601TF_0_1"
+		(symbol "600Ω@100MHz-0603_0_1"
 			(arc
 				(start -2.27 -0.02)
 				(mid -3.28 -0.937)
@@ -25406,7 +25406,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "GZ2012D101TF"
+	(symbol "100Ω@100MHz-0805"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -25455,7 +25455,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "GZ2012D101TF_0_1"
+		(symbol "100Ω@100MHz-0805_0_1"
 			(arc
 				(start -2.27 -0.02)
 				(mid -3.28 -0.937)
@@ -25507,7 +25507,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "GZ2012D601TF"
+	(symbol "600Ω@100MHz-0805"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -25556,7 +25556,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "GZ2012D601TF_0_1"
+		(symbol "600Ω@100MHz-0805_0_1"
 			(arc
 				(start -2.27 -0.02)
 				(mid -3.28 -0.937)
@@ -27855,7 +27855,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "SDFL1608S100KTF"
+	(symbol "1.85Ω-0603"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -27865,7 +27865,7 @@
 			(at 0 2.54 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "10uH"
+		(property "Value" "1.85Ω"
 			(at 0 -2.54 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -27904,7 +27904,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "SDFL1608S100KTF_0_1"
+		(symbol "1.85Ω-0603_0_1"
 			(arc
 				(start -2.27 -0.02)
 				(mid -3.28 -0.937)
@@ -27956,7 +27956,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "SDFL2012S100KTF"
+	(symbol "1.15Ω-0805"
 		(pin_numbers (hide yes))
 		(pin_names (hide yes))
 		(exclude_from_sim no)
@@ -27966,7 +27966,7 @@
 			(at 0 2.54 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "10uH"
+		(property "Value" "1.15Ω"
 			(at 0 -2.54 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -28005,7 +28005,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "SDFL2012S100KTF_0_1"
+		(symbol "1.15Ω-0805_0_1"
 			(arc
 				(start -2.27 -0.02)
 				(mid -3.28 -0.937)
