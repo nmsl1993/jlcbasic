@@ -78,14 +78,14 @@
 		)
 	)
 	(net 0 "")
-	(net 1 "unconnected-(U1-OFFSETN1-Pad1)")
-	(net 2 "unconnected-(U1-OUT-Pad6)")
-	(net 3 "unconnected-(U1-IN+-Pad3)")
-	(net 4 "unconnected-(U1-OFFSETN2-Pad8)")
-	(net 5 "unconnected-(U1-VCC--Pad4)")
-	(net 6 "unconnected-(U1-VCC+-Pad7)")
-	(net 7 "unconnected-(U1-IN--Pad2)")
-	(net 8 "unconnected-(U1-NC-Pad5)")
+	(net 1 "unconnected-(D2-K-Pad1)")
+	(net 2 "unconnected-(D2-A-Pad2)")
+	(net 3 "unconnected-(D3-K-Pad1)")
+	(net 4 "unconnected-(D4-K-Pad1)")
+	(net 5 "unconnected-(D4-A-Pad2)")
+	(net 6 "unconnected-(D6-K-Pad1)")
+	(net 7 "unconnected-(D7-K-Pad1)")
+	(net 8 "unconnected-(D7-A-Pad2)")
 	(net 9 "unconnected-(C1-Pad2)")
 	(net 10 "unconnected-(C1-Pad1)")
 	(net 11 "unconnected-(C2-Pad1)")
@@ -100,159 +100,161 @@
 	(net 20 "unconnected-(C6-Pad1)")
 	(net 21 "unconnected-(D1-K-Pad1)")
 	(net 22 "unconnected-(D1-A-Pad2)")
-	(net 23 "unconnected-(D2-A-Pad1)")
-	(net 24 "unconnected-(D2-K-Pad2)")
-	(net 25 "unconnected-(D3-C-Pad1)")
-	(net 26 "unconnected-(D3-A-Pad2)")
-	(net 27 "unconnected-(D4-Pad1)")
-	(net 28 "unconnected-(D4-Pad2)")
-	(net 29 "unconnected-(D5-K-Pad1)")
-	(net 30 "unconnected-(D5-A-Pad2)")
-	(net 31 "unconnected-(D6-C-Pad1)")
-	(net 32 "unconnected-(D6-A-Pad2)")
-	(net 33 "unconnected-(D7---Pad1)")
-	(net 34 "unconnected-(D7-+-Pad2)")
-	(net 35 "unconnected-(D8-K-Pad1)")
-	(net 36 "unconnected-(D8-A-Pad2)")
-	(net 37 "unconnected-(L1-Pad2)")
-	(net 38 "unconnected-(L1-Pad1)")
-	(net 39 "unconnected-(L2-Pad1)")
-	(net 40 "unconnected-(L2-Pad2)")
-	(net 41 "unconnected-(LED1-K-Pad2)")
-	(net 42 "unconnected-(LED1-A-Pad1)")
-	(net 43 "unconnected-(Q1-B-Pad1)")
-	(net 44 "unconnected-(Q1-C-Pad3)")
-	(net 45 "unconnected-(Q1-E-Pad2)")
-	(net 46 "unconnected-(Q2-Pad2)")
-	(net 47 "unconnected-(Q2-Pad3)")
-	(net 48 "unconnected-(Q2-Pad1)")
-	(net 49 "unconnected-(Q3-G-Pad1)")
-	(net 50 "unconnected-(Q3-D-Pad3)")
-	(net 51 "unconnected-(Q3-S-Pad2)")
-	(net 52 "unconnected-(Q4-S-Pad2)")
-	(net 53 "unconnected-(Q4-G-Pad1)")
-	(net 54 "unconnected-(Q4-D-Pad3)")
-	(net 55 "unconnected-(Q5-C-Pad2)")
-	(net 56 "unconnected-(Q5-B-Pad1)")
-	(net 57 "unconnected-(Q5-E-Pad3)")
-	(net 58 "unconnected-(R1-Pad2)")
-	(net 59 "unconnected-(R1-Pad1)")
-	(net 60 "unconnected-(R2-Pad2)")
-	(net 61 "unconnected-(R2-Pad1)")
-	(net 62 "unconnected-(R3-Pad1)")
-	(net 63 "unconnected-(R3-Pad2)")
-	(net 64 "unconnected-(R4-Pad2)")
-	(net 65 "unconnected-(R4-Pad1)")
-	(net 66 "unconnected-(R5-Pad2)")
-	(net 67 "unconnected-(R5-Pad1)")
-	(net 68 "unconnected-(RN1-Pad2)")
-	(net 69 "unconnected-(RN1-Pad3)")
-	(net 70 "unconnected-(RN1-Pad6)")
-	(net 71 "unconnected-(RN1-Pad7)")
-	(net 72 "unconnected-(RN1-Pad4)")
-	(net 73 "unconnected-(RN1-Pad8)")
-	(net 74 "unconnected-(RN1-Pad1)")
-	(net 75 "unconnected-(RN1-Pad5)")
-	(net 76 "unconnected-(SW1-A-Pad1)")
-	(net 77 "unconnected-(SW1-D-Pad4)")
-	(net 78 "unconnected-(SW1-C-Pad3)")
-	(net 79 "unconnected-(SW1-B-Pad2)")
-	(net 80 "unconnected-(U2-PH-Pad8)")
-	(net 81 "unconnected-(U2-VIN-Pad7)")
-	(net 82 "unconnected-(U2-ENA-Pad5)")
-	(net 83 "unconnected-(U2-VSENSE-Pad4)")
-	(net 84 "unconnected-(U2-NC-Pad2)")
-	(net 85 "unconnected-(U2-PowerPAD-Pad9)")
-	(net 86 "unconnected-(U2-GND-Pad6)")
-	(net 87 "unconnected-(U2-NC-Pad3)")
-	(net 88 "unconnected-(U2-BOOT-Pad1)")
-	(net 89 "unconnected-(U3-DI-Pad4)")
-	(net 90 "unconnected-(U3-RO-Pad1)")
-	(net 91 "unconnected-(U3-~{RE}-Pad2)")
-	(net 92 "unconnected-(U3-DE-Pad3)")
-	(net 93 "unconnected-(U3-B-Pad7)")
-	(net 94 "unconnected-(U3-VCC-Pad8)")
-	(net 95 "unconnected-(U3-GND-Pad5)")
-	(net 96 "unconnected-(U3-A-Pad6)")
-	(net 97 "unconnected-(U4-DO-Pad2)")
-	(net 98 "unconnected-(U4-~{CS}-Pad1)")
-	(net 99 "unconnected-(U4-VCC-Pad8)")
-	(net 100 "unconnected-(U4-IO3-Pad7)")
-	(net 101 "unconnected-(U4-GND-Pad4)")
-	(net 102 "unconnected-(U4-CLK-Pad6)")
-	(net 103 "unconnected-(U4-DI-Pad5)")
-	(net 104 "unconnected-(U4-IO2-Pad3)")
-	(net 105 "unconnected-(U5-OUT4-Pad14)")
-	(net 106 "unconnected-(U5-OUT2-Pad7)")
-	(net 107 "unconnected-(U5-OUT3-Pad8)")
-	(net 108 "unconnected-(U5-IN3+-Pad10)")
-	(net 109 "unconnected-(U5-IN1+-Pad3)")
-	(net 110 "unconnected-(U5-IN4--Pad13)")
-	(net 111 "unconnected-(U5-IN2+-Pad5)")
-	(net 112 "unconnected-(U5-IN3--Pad9)")
-	(net 113 "unconnected-(U5-VCC-Pad4)")
-	(net 114 "unconnected-(U5-IN1--Pad2)")
-	(net 115 "unconnected-(U5-OUT1-Pad1)")
-	(net 116 "unconnected-(U5-IN2--Pad6)")
-	(net 117 "unconnected-(U5-GND-Pad11)")
-	(net 118 "unconnected-(U5-IN4+-Pad12)")
-	(net 119 "unconnected-(U6-Q7S-Pad9)")
-	(net 120 "unconnected-(U6-Q3-Pad3)")
-	(net 121 "unconnected-(U6-DS-Pad14)")
-	(net 122 "unconnected-(U6-STCP-Pad12)")
-	(net 123 "unconnected-(U6-Q7-Pad7)")
-	(net 124 "unconnected-(U6-SHCP-Pad11)")
-	(net 125 "unconnected-(U6-~{MR}-Pad10)")
-	(net 126 "unconnected-(U6-Q1-Pad1)")
-	(net 127 "unconnected-(U6-Q5-Pad5)")
-	(net 128 "unconnected-(U6-VCC-Pad16)")
-	(net 129 "unconnected-(U6-~{OE}-Pad13)")
-	(net 130 "unconnected-(U6-Q0-Pad15)")
-	(net 131 "unconnected-(U6-Q6-Pad6)")
-	(net 132 "unconnected-(U6-Q2-Pad2)")
-	(net 133 "unconnected-(U6-GND-Pad8)")
-	(net 134 "unconnected-(U6-Q4-Pad4)")
-	(net 135 "unconnected-(U7-R1IN-Pad13)")
-	(net 136 "unconnected-(U7-T1IN-Pad11)")
-	(net 137 "unconnected-(U7-C1--Pad3)")
-	(net 138 "unconnected-(U7-R1OUT-Pad12)")
-	(net 139 "unconnected-(U7-T2OUT-Pad7)")
-	(net 140 "unconnected-(U7-R2OUT-Pad9)")
-	(net 141 "unconnected-(U7-T2IN-Pad10)")
-	(net 142 "unconnected-(U7-C1+-Pad1)")
-	(net 143 "unconnected-(U7-VCC-Pad16)")
-	(net 144 "unconnected-(U7-V--Pad6)")
-	(net 145 "unconnected-(U7-GND-Pad15)")
-	(net 146 "unconnected-(U7-C2+-Pad4)")
-	(net 147 "unconnected-(U7-T1OUT-Pad14)")
-	(net 148 "unconnected-(U7-V+-Pad2)")
-	(net 149 "unconnected-(U7-C2--Pad5)")
-	(net 150 "unconnected-(U7-R2IN-Pad8)")
-	(net 151 "unconnected-(U8-GND-Pad1)")
-	(net 152 "unconnected-(U8-VOUT-Pad2)")
-	(net 153 "unconnected-(U8-VIN-Pad3)")
-	(net 154 "unconnected-(U8-VOUT-Pad4)")
-	(net 155 "unconnected-(U9-VIN-Pad3)")
-	(net 156 "unconnected-(U9-GND-Pad1)")
-	(net 157 "unconnected-(U9-VOUT-Pad2)")
-	(net 158 "unconnected-(U9-VOUT-Pad4)")
-	(net 159 "unconnected-(U10-OUT-Pad3)")
-	(net 160 "unconnected-(U10-IN-Pad1)")
-	(net 161 "unconnected-(U10-GND-Pad4)")
-	(net 162 "unconnected-(X1-GND-Pad4)")
-	(net 163 "unconnected-(X1-OSC2-Pad3)")
-	(net 164 "unconnected-(X1-OSC1-Pad1)")
-	(net 165 "unconnected-(X1-GND-Pad2)")
-	(net 166 "unconnected-(X2-Pad1)")
-	(net 167 "unconnected-(X2-Pad2)")
-	(net 168 "unconnected-(X3-OSC1-Pad1)")
-	(net 169 "unconnected-(X3-GND-Pad2)")
-	(net 170 "unconnected-(X3-GND-Pad4)")
-	(net 171 "unconnected-(X3-OSC2-Pad3)")
-	(net 172 "unconnected-(X4-OSC1-Pad1)")
-	(net 173 "unconnected-(X4-OSC2-Pad2)")
-	(net 174 "unconnected-(X5-OSC1-Pad1)")
-	(net 175 "unconnected-(X5-OSC2-Pad2)")
+	(net 23 "unconnected-(D3-A-Pad2)")
+	(net 24 "unconnected-(D5-K-Pad1)")
+	(net 25 "unconnected-(D5-A-Pad2)")
+	(net 26 "unconnected-(D6-A-Pad2)")
+	(net 27 "unconnected-(LED1---Pad2)")
+	(net 28 "unconnected-(LED1-+-Pad1)")
+	(net 29 "unconnected-(D8-K-Pad1)")
+	(net 30 "unconnected-(D8-A-Pad2)")
+	(net 31 "unconnected-(L1-Pad2)")
+	(net 32 "unconnected-(L1-Pad1)")
+	(net 33 "unconnected-(L2-Pad1)")
+	(net 34 "unconnected-(L2-Pad2)")
+	(net 35 "unconnected-(Q1-G-Pad1)")
+	(net 36 "unconnected-(Q1-D-Pad3)")
+	(net 37 "unconnected-(Q1-S-Pad2)")
+	(net 38 "unconnected-(Q2-S-Pad2)")
+	(net 39 "unconnected-(Q3-G-Pad1)")
+	(net 40 "unconnected-(Q3-D-Pad3)")
+	(net 41 "unconnected-(Q3-S-Pad2)")
+	(net 42 "unconnected-(Q4-S-Pad2)")
+	(net 43 "unconnected-(Q4-G-Pad1)")
+	(net 44 "unconnected-(Q4-D-Pad3)")
+	(net 45 "unconnected-(Q2-D-Pad3)")
+	(net 46 "unconnected-(Q2-G-Pad1)")
+	(net 47 "unconnected-(Q5-S-Pad2)")
+	(net 48 "unconnected-(R1-Pad2)")
+	(net 49 "unconnected-(R1-Pad1)")
+	(net 50 "unconnected-(R2-Pad2)")
+	(net 51 "unconnected-(R2-Pad1)")
+	(net 52 "unconnected-(R3-Pad1)")
+	(net 53 "unconnected-(R3-Pad2)")
+	(net 54 "unconnected-(R4-Pad2)")
+	(net 55 "unconnected-(R4-Pad1)")
+	(net 56 "unconnected-(R5-Pad2)")
+	(net 57 "unconnected-(R5-Pad1)")
+	(net 58 "unconnected-(RN1-Pad2)")
+	(net 59 "unconnected-(RN1-Pad3)")
+	(net 60 "unconnected-(RN1-Pad6)")
+	(net 61 "unconnected-(RN1-Pad7)")
+	(net 62 "unconnected-(RN1-Pad4)")
+	(net 63 "unconnected-(RN1-Pad8)")
+	(net 64 "unconnected-(RN1-Pad1)")
+	(net 65 "unconnected-(RN1-Pad5)")
+	(net 66 "unconnected-(SW1-A-Pad1)")
+	(net 67 "unconnected-(SW1-D-Pad4)")
+	(net 68 "unconnected-(SW1-C-Pad3)")
+	(net 69 "unconnected-(SW1-B-Pad2)")
+	(net 70 "unconnected-(Q5-G-Pad1)")
+	(net 71 "unconnected-(Q5-D-Pad3)")
+	(net 72 "unconnected-(U1-Q1-Pad1)")
+	(net 73 "unconnected-(U1-Q6-Pad6)")
+	(net 74 "unconnected-(U1-Q3-Pad3)")
+	(net 75 "unconnected-(U1-GND-Pad8)")
+	(net 76 "unconnected-(U1-Q4-Pad4)")
+	(net 77 "unconnected-(U1-Q7-Pad7)")
+	(net 78 "unconnected-(U1-Q2-Pad2)")
+	(net 79 "unconnected-(U1-Q5-Pad5)")
+	(net 80 "unconnected-(U2-GND-Pad8)")
+	(net 81 "unconnected-(U2-Q7-Pad7)")
+	(net 82 "unconnected-(U2-Q5-Pad5)")
+	(net 83 "unconnected-(U2-Q4-Pad4)")
+	(net 84 "unconnected-(U2-Q2-Pad2)")
+	(net 85 "unconnected-(U2-Q7S-Pad9)")
+	(net 86 "unconnected-(U2-Q6-Pad6)")
+	(net 87 "unconnected-(U2-Q3-Pad3)")
+	(net 88 "unconnected-(U2-Q1-Pad1)")
+	(net 89 "unconnected-(U3-Q4-Pad4)")
+	(net 90 "unconnected-(U3-Q1-Pad1)")
+	(net 91 "unconnected-(U3-Q2-Pad2)")
+	(net 92 "unconnected-(U3-Q3-Pad3)")
+	(net 93 "unconnected-(U3-Q7-Pad7)")
+	(net 94 "unconnected-(U3-GND-Pad8)")
+	(net 95 "unconnected-(U3-Q5-Pad5)")
+	(net 96 "unconnected-(U3-Q6-Pad6)")
+	(net 97 "unconnected-(U4-Q2-Pad2)")
+	(net 98 "unconnected-(U4-Q1-Pad1)")
+	(net 99 "unconnected-(U4-GND-Pad8)")
+	(net 100 "unconnected-(U4-Q7-Pad7)")
+	(net 101 "unconnected-(U4-Q4-Pad4)")
+	(net 102 "unconnected-(U4-Q6-Pad6)")
+	(net 103 "unconnected-(U6-Q7S-Pad9)")
+	(net 104 "unconnected-(U6-Q3-Pad3)")
+	(net 105 "unconnected-(U6-DS-Pad14)")
+	(net 106 "unconnected-(U6-STCP-Pad12)")
+	(net 107 "unconnected-(U6-Q7-Pad7)")
+	(net 108 "unconnected-(U6-SHCP-Pad11)")
+	(net 109 "unconnected-(U6-~{MR}-Pad10)")
+	(net 110 "unconnected-(U6-Q1-Pad1)")
+	(net 111 "unconnected-(U6-Q5-Pad5)")
+	(net 112 "unconnected-(U6-VCC-Pad16)")
+	(net 113 "unconnected-(U6-~{OE}-Pad13)")
+	(net 114 "unconnected-(U6-Q0-Pad15)")
+	(net 115 "unconnected-(U6-Q6-Pad6)")
+	(net 116 "unconnected-(U6-Q2-Pad2)")
+	(net 117 "unconnected-(U6-GND-Pad8)")
+	(net 118 "unconnected-(U6-Q4-Pad4)")
+	(net 119 "unconnected-(U4-Q5-Pad5)")
+	(net 120 "unconnected-(U4-Q3-Pad3)")
+	(net 121 "unconnected-(U5-DS-Pad14)")
+	(net 122 "unconnected-(U5-Q7-Pad7)")
+	(net 123 "unconnected-(U5-GND-Pad8)")
+	(net 124 "unconnected-(U5-~{MR}-Pad10)")
+	(net 125 "unconnected-(U5-Q3-Pad3)")
+	(net 126 "unconnected-(U5-~{OE}-Pad13)")
+	(net 127 "unconnected-(U7-VCC-Pad16)")
+	(net 128 "unconnected-(U5-Q5-Pad5)")
+	(net 129 "unconnected-(U5-Q7S-Pad9)")
+	(net 130 "unconnected-(U5-Q4-Pad4)")
+	(net 131 "unconnected-(U5-Q2-Pad2)")
+	(net 132 "unconnected-(U5-Q1-Pad1)")
+	(net 133 "unconnected-(U5-Q6-Pad6)")
+	(net 134 "unconnected-(U5-SHCP-Pad11)")
+	(net 135 "unconnected-(U5-STCP-Pad12)")
+	(net 136 "unconnected-(U7-~{OE}-Pad13)")
+	(net 137 "unconnected-(U7-SHCP-Pad11)")
+	(net 138 "unconnected-(U7-Q3-Pad3)")
+	(net 139 "unconnected-(U7-STCP-Pad12)")
+	(net 140 "unconnected-(U7-Q7-Pad7)")
+	(net 141 "unconnected-(U7-Q7S-Pad9)")
+	(net 142 "unconnected-(U7-~{MR}-Pad10)")
+	(net 143 "unconnected-(U7-Q1-Pad1)")
+	(net 144 "unconnected-(U7-Q6-Pad6)")
+	(net 145 "unconnected-(U7-Q0-Pad15)")
+	(net 146 "unconnected-(U7-Q4-Pad4)")
+	(net 147 "unconnected-(U7-DS-Pad14)")
+	(net 148 "unconnected-(U7-Q2-Pad2)")
+	(net 149 "unconnected-(U7-Q5-Pad5)")
+	(net 150 "unconnected-(X2-Pad1)")
+	(net 151 "unconnected-(X2-Pad2)")
+	(net 152 "unconnected-(U7-GND-Pad8)")
+	(net 153 "unconnected-(U8-Q1-Pad1)")
+	(net 154 "unconnected-(U8-Q2-Pad2)")
+	(net 155 "unconnected-(U8-Q3-Pad3)")
+	(net 156 "unconnected-(U8-Q4-Pad4)")
+	(net 157 "unconnected-(U9-Q3-Pad3)")
+	(net 158 "unconnected-(U9-Q1-Pad1)")
+	(net 159 "unconnected-(U9-Q2-Pad2)")
+	(net 160 "unconnected-(U9-Q4-Pad4)")
+	(net 161 "unconnected-(U10-Q3-Pad3)")
+	(net 162 "unconnected-(U10-Q1-Pad1)")
+	(net 163 "unconnected-(U10-Q4-Pad4)")
+	(net 164 "unconnected-(U11-Pad1)")
+	(net 165 "unconnected-(U11A-+-Pad3)")
+	(net 166 "unconnected-(U11A---Pad2)")
+	(net 167 "unconnected-(U12-Pad1)")
+	(net 168 "unconnected-(U12A-+-Pad3)")
+	(net 169 "unconnected-(U12A---Pad2)")
+	(net 170 "unconnected-(X1-Pad1)")
+	(net 171 "unconnected-(X1-Pad2)")
+	(net 172 "unconnected-(X3-Pad1)")
+	(net 173 "unconnected-(X3-Pad2)")
+	(net 174 "unconnected-(X4-Pad1)")
+	(net 175 "unconnected-(X4-Pad2)")
+	(net 176 "unconnected-(X5-Pad1)")
+	(net 177 "unconnected-(X5-Pad2)")
 	(footprint "jlcbasic:FC-135R_L3.2-W1.5"
 		(layer "F.Cu")
 		(uuid "0132dec4-3f77-4cb0-9546-b4255aa17d02")
@@ -268,7 +270,7 @@
 				)
 			)
 		)
-		(property "Value" "Q13FC1350000400"
+		(property "Value" "32.768kHz"
 			(at 0 2 0)
 			(layer "F.Fab")
 			(uuid "099862c3-8507-419f-815c-ad83c90785a2")
@@ -279,7 +281,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://lcsc.com/product-detail/SMD-Crystals_EPSON_Q13FC1350000400_32-768KHz-20ppm-12-5pF_C32346.html"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -291,7 +293,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "32.768kHz Surface Mount Crystal 12.5pF ±20ppm SMD3215-2P Crystals ROHS"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -299,6 +301,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part" "C32346"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c6480e73-6ef5-4513-b316-85e2d941223d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "PartNumber" "Q13FC1350000400"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e5ccc914-eacf-4c46-bfad-8bcdb93fc75b")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -353,7 +381,7 @@
 			(at -1.25 0 90)
 			(size 1.8 1)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net 166 "unconnected-(X2-Pad1)")
+			(net 150 "unconnected-(X2-Pad1)")
 			(pinfunction "1")
 			(pintype "unspecified")
 			(uuid "3d000e74-3bd7-452f-b885-44e35fe6719e")
@@ -362,7 +390,7 @@
 			(at 1.25 0 90)
 			(size 1.8 1)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net 167 "unconnected-(X2-Pad2)")
+			(net 151 "unconnected-(X2-Pad2)")
 			(pinfunction "2")
 			(pintype "unspecified")
 			(uuid "489bf599-2378-4360-a138-1b97977b2bb6")
@@ -395,7 +423,7 @@
 				)
 			)
 		)
-		(property "Value" "1206B102K202NT"
+		(property "Value" "1nF"
 			(at 0 2 0)
 			(layer "F.Fab")
 			(uuid "1e60d102-347e-446f-b116-bb8bf2c2ca34")
@@ -406,7 +434,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_1nF-102-10-2kV_C9196.html"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -418,7 +446,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "2kV 1nF X7R ±10% 1206 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -426,6 +454,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part" "C9196"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c2bad47d-a8e4-4237-8df2-30709882c101")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "PartNumber" "1206B102K202NT"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3f7d3f87-03d1-46dd-abb5-f50fa05ee3a4")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -566,7 +620,7 @@
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(net 16 "unconnected-(C4-Pad1)")
 			(pinfunction "1")
-			(pintype "input")
+			(pintype "unspecified")
 			(uuid "b54bfd11-ec72-4115-933b-f307e5688022")
 		)
 		(pad "2" smd rect
@@ -575,7 +629,7 @@
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(net 15 "unconnected-(C4-Pad2)")
 			(pinfunction "2")
-			(pintype "input")
+			(pintype "unspecified")
 			(uuid "1552beaf-5191-44c6-bec8-0686fdc8f392")
 		)
 		(embedded_fonts no)
@@ -606,7 +660,7 @@
 				)
 			)
 		)
-		(property "Value" "P6SMB6.8CA-C78395"
+		(property "Value" "P6SMB6.8CA"
 			(at 0 3 0)
 			(layer "F.Fab")
 			(uuid "63ba2d4f-b40f-413b-95d8-401419c86f10")
@@ -617,7 +671,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://lcsc.com/product-detail/TVS_P6SMB6-8CA_C78395.html"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -637,6 +691,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part" "C78395"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "cd3f3ac2-41f3-4ff6-8c27-d9bc96b06ec9")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "PartNumber" "P6SMB6.8CA-C78395"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "2d81a29c-adf6-43d5-aa39-d22a09e609ac")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -691,8 +771,8 @@
 			(at -2.59 0)
 			(size 2.05 2.24)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net 27 "unconnected-(D4-Pad1)")
-			(pinfunction "1")
+			(net 4 "unconnected-(D4-K-Pad1)")
+			(pinfunction "K")
 			(pintype "unspecified")
 			(uuid "8a3004a1-688c-42a1-9508-889056c07f17")
 		)
@@ -700,8 +780,8 @@
 			(at 2.59 0)
 			(size 2.05 2.24)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net 28 "unconnected-(D4-Pad2)")
-			(pinfunction "2")
+			(net 5 "unconnected-(D4-A-Pad2)")
+			(pinfunction "A")
 			(pintype "unspecified")
 			(uuid "a56e70bd-5297-4ce3-a57d-0ea1bec34c94")
 		)
@@ -733,7 +813,7 @@
 				)
 			)
 		)
-		(property "Value" "1N4148WS T4"
+		(property "Value" "1N4148ST4"
 			(at 0 2 0)
 			(layer "F.Fab")
 			(uuid "87e7919c-af51-4844-b82a-dd39ab26480b")
@@ -744,7 +824,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://lcsc.com/product-detail/Switching-Diode_1N4148WS-T4_C2128.html"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -764,6 +844,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part" "C2128"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "2b24ad7d-6e57-4d36-a211-9536761eafda")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "PartNumber" "1N4148WS T4"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a6c3d989-069f-4980-b0ef-16c02d22884c")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -848,7 +954,7 @@
 			(at -1.17 0)
 			(size 1 0.75)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net 35 "unconnected-(D8-K-Pad1)")
+			(net 29 "unconnected-(D8-K-Pad1)")
 			(pinfunction "K")
 			(pintype "unspecified")
 			(uuid "4bcaf2f8-62fe-4269-94c5-b613b0fabc3c")
@@ -857,7 +963,7 @@
 			(at 1.17 0)
 			(size 1 0.75)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net 36 "unconnected-(D8-A-Pad2)")
+			(net 30 "unconnected-(D8-A-Pad2)")
 			(pinfunction "A")
 			(pintype "unspecified")
 			(uuid "fe211d58-df3d-4433-a1a9-879cf9d3ea7a")
@@ -890,7 +996,7 @@
 				)
 			)
 		)
-		(property "Value" "SS34_C8678"
+		(property "Value" "SS34"
 			(at 0 2.5 0)
 			(layer "F.Fab")
 			(uuid "e77206ab-dac3-4e81-8618-2fa32ac7a185")
@@ -901,7 +1007,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://lcsc.com/product-detail/Schottky-Barrier-Diodes-SBD_SS34_C8678.html"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -921,6 +1027,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part" "C8678"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "35985362-e36f-4930-a3dd-8204404911ed")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "PartNumber" "SS34_C8678"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c99393a1-5769-43fb-b1cb-b56514701979")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -1047,7 +1179,7 @@
 				)
 			)
 		)
-		(property "Value" "X49SM8MSD2SC"
+		(property "Value" "8MHz"
 			(at 0 3.5 0)
 			(layer "F.Fab")
 			(uuid "e5eabd36-f2f8-4686-a808-80c715c6b38b")
@@ -1058,7 +1190,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://lcsc.com/product-detail/49SMD_HC-49SMD-8MHZ-20PF-20PPM_C12674.html"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -1070,7 +1202,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "8MHz Surface Mount Crystal 20pF ±20ppm ±30ppm HC-49S-SMD Crystals ROHS"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -1078,6 +1210,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part" "C12674"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ed1943db-ea01-45aa-9ffe-e7bab2e669c0")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "PartNumber" "X49SM8MSD2SC"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "2de6d3da-d5bf-4dab-a222-a8fea5fa2fc8")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -1172,18 +1330,18 @@
 			(at -4.45 0)
 			(size 5.5 2)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net 172 "unconnected-(X4-OSC1-Pad1)")
-			(pinfunction "OSC1")
-			(pintype "input")
+			(net 174 "unconnected-(X4-Pad1)")
+			(pinfunction "1")
+			(pintype "unspecified")
 			(uuid "3990e7c3-482c-41fb-9003-5ee0c300ae1e")
 		)
 		(pad "2" smd rect
 			(at 4.45 0)
 			(size 5.5 2)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net 173 "unconnected-(X4-OSC2-Pad2)")
-			(pinfunction "OSC2")
-			(pintype "input")
+			(net 175 "unconnected-(X4-Pad2)")
+			(pinfunction "2")
+			(pintype "unspecified")
 			(uuid "9bd1355a-7a08-4a45-b8f6-6bfb9eec9c49")
 		)
 		(embedded_fonts no)
@@ -1214,7 +1372,7 @@
 				)
 			)
 		)
-		(property "Value" "GZ1608D601TF"
+		(property "Value" "600Ω@100MHz"
 			(at 0 1.5 0)
 			(layer "F.Fab")
 			(uuid "aa0b7e09-2495-4d44-a561-e03bf3de4dbe")
@@ -1225,7 +1383,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://lcsc.com/product-detail/Ferrite-Beads-And-Chips_600R-25-100MHz_C1002.html"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -1237,7 +1395,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "450mΩ ±25% 600Ω@100MHz 0603 Ferrite Beads ROHS"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -1245,6 +1403,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part" "C1002"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "74634c71-e235-4818-b7e7-1bd70fd97b6b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "PartNumber" "GZ1608D601TF"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "2684913d-c01e-478b-b86f-c2aefaf95a26")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -1379,7 +1563,7 @@
 			(at -0.7 0 180)
 			(size 0.8 0.86)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net 38 "unconnected-(L1-Pad1)")
+			(net 32 "unconnected-(L1-Pad1)")
 			(pinfunction "1")
 			(pintype "unspecified")
 			(uuid "47110252-dcac-45a8-bf42-6d0fe467b8f9")
@@ -1388,7 +1572,7 @@
 			(at 0.7 0 180)
 			(size 0.8 0.86)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net 37 "unconnected-(L1-Pad2)")
+			(net 31 "unconnected-(L1-Pad2)")
 			(pinfunction "2")
 			(pintype "unspecified")
 			(uuid "38a70657-5d6b-4a87-88df-1c1880df3eaf")
@@ -1421,7 +1605,7 @@
 				)
 			)
 		)
-		(property "Value" "0805B333K500NT"
+		(property "Value" "33nF"
 			(at 0 2 0)
 			(layer "F.Fab")
 			(uuid "3561ac14-07b1-4f20-905a-69b82e8302d7")
@@ -1432,7 +1616,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_33nF-333-10-50V_C1739.html"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -1444,7 +1628,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "50V 33nF X7R ±10% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -1452,6 +1636,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part" "C1739"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "7ad8cb42-6d2a-4d3c-837b-20caae15add2")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "PartNumber" "0805B333K500NT"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "94142820-213b-4ec5-8cb2-9b44721a4c44")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -1592,7 +1802,7 @@
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(net 13 "unconnected-(C3-Pad1)")
 			(pinfunction "1")
-			(pintype "input")
+			(pintype "unspecified")
 			(uuid "237a8baa-347a-4317-896f-b25b4d298ec4")
 		)
 		(pad "2" smd rect
@@ -1601,7 +1811,7 @@
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(net 14 "unconnected-(C3-Pad2)")
 			(pinfunction "2")
-			(pintype "input")
+			(pintype "unspecified")
 			(uuid "4acdaa47-a999-4b52-ad02-e47e6b929d0e")
 		)
 		(embedded_fonts no)
@@ -1632,7 +1842,7 @@
 				)
 			)
 		)
-		(property "Value" "X322512MSB4SI"
+		(property "Value" "12MHz"
 			(at 0 3 0)
 			(layer "F.Fab")
 			(uuid "bb45088e-fea8-4198-bc57-f7409dd0d585")
@@ -1643,7 +1853,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://lcsc.com/product-detail/SMD-Crystals_YSX321SL-12MHZ-20PF-10PPM-40-85_C9002.html"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -1655,7 +1865,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "12MHz Surface Mount Crystal 20pF ±10ppm ±20ppm SMD3225-4P Crystals ROHS"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -1663,6 +1873,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part" "C9002"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "2432f887-c615-4f39-b7a6-c8ea6d7ce0ab")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "PartNumber" "X322512MSB4SI"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "08df3b9d-2407-4833-ba8b-0aaee6e483c1")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -1768,8 +2004,8 @@
 			(at -1.1 0.85)
 			(size 1.4 1.2)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net 168 "unconnected-(X3-OSC1-Pad1)")
-			(pinfunction "OSC1")
+			(net 172 "unconnected-(X3-Pad1)")
+			(pinfunction "1")
 			(pintype "unspecified")
 			(uuid "665eddfb-ea64-429a-ad5b-c38e3b558f0b")
 		)
@@ -1777,8 +2013,8 @@
 			(at 1.1 0.85)
 			(size 1.4 1.2)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net 169 "unconnected-(X3-GND-Pad2)")
-			(pinfunction "GND")
+			(net 173 "unconnected-(X3-Pad2)")
+			(pinfunction "2")
 			(pintype "unspecified")
 			(uuid "86e40f45-8e42-43e2-8bba-3dfe083ceb49")
 		)
@@ -1786,18 +2022,12 @@
 			(at 1.1 -0.85)
 			(size 1.4 1.2)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net 171 "unconnected-(X3-OSC2-Pad3)")
-			(pinfunction "OSC2")
-			(pintype "unspecified")
 			(uuid "d3a06fa1-e344-417c-b2ae-d495467a30f7")
 		)
 		(pad "4" smd rect
 			(at -1.1 -0.85)
 			(size 1.4 1.2)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net 170 "unconnected-(X3-GND-Pad4)")
-			(pinfunction "GND")
-			(pintype "unspecified")
 			(uuid "8f48aca7-a21e-4615-8dbc-b6f89914dfc4")
 		)
 		(embedded_fonts no)
@@ -1810,6 +2040,504 @@
 			)
 			(rotate
 				(xyz 0 0 0)
+			)
+		)
+	)
+	(footprint "jlcbasic:SOIC-8_L5.0-W4.0-P1.27-LS6.0-BL"
+		(layer "F.Cu")
+		(uuid "345a96e5-65f4-4bbf-8c79-4b8161f1e47f")
+		(at 200.6 125.21)
+		(property "Reference" "U12"
+			(at 0 -4.5 0)
+			(layer "F.SilkS")
+			(uuid "9f41efea-43d6-418e-9de2-da31d4436dfb")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Value" "TL072CDT"
+			(at 0 4.5 0)
+			(layer "F.Fab")
+			(uuid "26d8b2a9-5b34-4de0-b959-e4cb2a90746d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Datasheet" "https://lcsc.com/product-detail/FET-InputAmplifiers_STMicroelectronics_TL072CDT_TL072CDT_C6961.html"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ef8543bb-b2c6-40b3-ba6d-5810ee688c05")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Description" "3mV 4MHz 20pA Dual channel SOIC-8 FET Input Amplifiers ROHS"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f5dc3a37-1ba8-49b0-9a12-6fb1834d1045")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part" "C6961"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "68eca3ee-4000-48ab-839e-229141bd1516")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "PartNumber" "TL072CDT"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6c611833-c9d7-4366-b533-6a204160cf04")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(path "/f4fb533e-a7b8-4e9e-a9b1-47657a1e5f89")
+		(sheetname "/")
+		(sheetfile "jlctest.kicad_sch")
+		(attr smd)
+		(fp_line
+			(start -2.5 -1.5)
+			(end -2.5 -0.73)
+			(stroke
+				(width 0.25)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "0d52b59d-e3ba-428d-8e6e-d1d3abb2bbf9")
+		)
+		(fp_line
+			(start -2.5 -1.5)
+			(end 2.5 -1.5)
+			(stroke
+				(width 0.25)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "028743df-bd0b-4ade-bd99-6f82a4af763d")
+		)
+		(fp_line
+			(start -2.5 1.5)
+			(end -2.5 0.73)
+			(stroke
+				(width 0.25)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "29869a12-3aa8-4218-b815-8485e51242f8")
+		)
+		(fp_line
+			(start -2.5 1.5)
+			(end 2.5 1.5)
+			(stroke
+				(width 0.25)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "7f7e50fc-8046-45b8-9640-74dea4805bfd")
+		)
+		(fp_line
+			(start 2.5 -1.5)
+			(end 2.5 1.5)
+			(stroke
+				(width 0.25)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "2b37bb9c-6d45-4784-94e8-7128951ed41a")
+		)
+		(fp_arc
+			(start -2.48726 -0.729889)
+			(mid -2.50637 0.729972)
+			(end -2.5 -0.73)
+			(stroke
+				(width 0.25)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "de76e0ac-bb9b-4557-8c4d-b78d9480c5da")
+		)
+		(fp_circle
+			(center -1.78 1.02)
+			(end -1.63 1.02)
+			(stroke
+				(width 0.3)
+				(type solid)
+			)
+			(fill no)
+			(layer "F.SilkS")
+			(uuid "b144e14c-81fa-4353-a170-bbdc28c2643b")
+		)
+		(fp_circle
+			(center -1.91 3.4)
+			(end -1.76 3.4)
+			(stroke
+				(width 0.3)
+				(type solid)
+			)
+			(fill no)
+			(layer "Cmts.User")
+			(uuid "a45bc30d-7f43-4e63-b2b5-536ff31fcaf5")
+		)
+		(fp_circle
+			(center -2.41 2.54)
+			(end -2.38 2.54)
+			(stroke
+				(width 0.06)
+				(type solid)
+			)
+			(fill no)
+			(layer "F.Fab")
+			(uuid "c87cbf80-e0e8-463f-af23-8d68da4fc0c1")
+		)
+		(fp_text user "${REFERENCE}"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(uuid "2840a693-112f-491f-bd40-3f8b04a1d340")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(pad "1" smd oval
+			(at -1.91 2.71)
+			(size 0.57 1.95)
+			(layers "F.Cu" "F.Mask" "F.Paste")
+			(net 167 "unconnected-(U12-Pad1)")
+			(pintype "output")
+			(uuid "43a171b3-b05b-4026-b6ce-f24e9ad2d24d")
+		)
+		(pad "2" smd oval
+			(at -0.63 2.71)
+			(size 0.57 1.95)
+			(layers "F.Cu" "F.Mask" "F.Paste")
+			(net 169 "unconnected-(U12A---Pad2)")
+			(pinfunction "-")
+			(pintype "input")
+			(uuid "a147c946-520b-4235-9844-4e10a1f9e236")
+		)
+		(pad "3" smd oval
+			(at 0.63 2.71)
+			(size 0.57 1.95)
+			(layers "F.Cu" "F.Mask" "F.Paste")
+			(net 168 "unconnected-(U12A-+-Pad3)")
+			(pinfunction "+")
+			(pintype "input")
+			(uuid "6271c56e-293b-43f6-a50c-bb88311237f2")
+		)
+		(pad "4" smd oval
+			(at 1.9 2.71)
+			(size 0.57 1.95)
+			(layers "F.Cu" "F.Mask" "F.Paste")
+			(uuid "b952ff64-22f1-4e35-87f6-bf59b7670369")
+		)
+		(pad "5" smd oval
+			(at 1.9 -2.71)
+			(size 0.57 1.95)
+			(layers "F.Cu" "F.Mask" "F.Paste")
+			(uuid "b0b7fb22-772a-4c24-88c5-860e8a2899e4")
+		)
+		(pad "6" smd oval
+			(at 0.63 -2.71)
+			(size 0.57 1.95)
+			(layers "F.Cu" "F.Mask" "F.Paste")
+			(uuid "ff3847a3-d092-4a7e-8ea9-2d33b4d3391f")
+		)
+		(pad "7" smd oval
+			(at -0.63 -2.71)
+			(size 0.57 1.95)
+			(layers "F.Cu" "F.Mask" "F.Paste")
+			(uuid "1c43b6f4-7d3b-47b7-b266-2afad4a7fe09")
+		)
+		(pad "8" smd oval
+			(at -1.91 -2.71)
+			(size 0.57 1.95)
+			(layers "F.Cu" "F.Mask" "F.Paste")
+			(uuid "f373f63c-bdaf-48fa-89b0-2fdb75ce2dc8")
+		)
+		(embedded_fonts no)
+		(model "../jlcbasic.3dshapes/SOIC-8_L4.9-W3.9-H1.7-LS6.0-P1.27.wrl"
+			(offset
+				(xyz 0 0 -0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -0)
+			)
+		)
+	)
+	(footprint "jlcbasic:SOIC-8_L4.9-W3.9-P1.27-LS6.0-BL"
+		(layer "F.Cu")
+		(uuid "37da896b-4f46-4f53-935e-8d3e408083f8")
+		(at 200.6 112.73)
+		(property "Reference" "U11"
+			(at 0 -4.5 0)
+			(layer "F.SilkS")
+			(uuid "a19d6730-ea10-42eb-be8e-c940dc122939")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Value" "NE5532DR"
+			(at 0 4.5 0)
+			(layer "F.Fab")
+			(uuid "62734db1-b06e-4652-9205-7c7dc46902c6")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Datasheet" "https://lcsc.com/product-detail/Audio-OpAmps_TI_NE5532DR_NE5532DR_C7426.html"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "71a036a4-dc60-45de-aa5c-dc60e4364abe")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Description" "Dual 200nA 9V/us 10MHz SOIC-8 Operational Amplifier ROHS"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "7a3c5285-53b3-4993-943a-c2d7566eaa1a")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part" "C7426"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4ae378dc-a20c-48a3-80f8-afe9c752b0c0")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "PartNumber" "NE5532DR"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "863b7dd9-db7d-44b8-b99b-6b6f41e0fb21")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(path "/b531c5e7-13e7-4db6-83f6-1eeefa69ecb2")
+		(sheetname "/")
+		(sheetfile "jlctest.kicad_sch")
+		(attr smd)
+		(fp_line
+			(start -2.53 -1.52)
+			(end 2.53 -1.52)
+			(stroke
+				(width 0.15)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "d2d36ccc-79b4-4560-b114-40c7111e8f9b")
+		)
+		(fp_line
+			(start -2.53 1.52)
+			(end -2.53 -1.52)
+			(stroke
+				(width 0.15)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "6ab7dd16-f794-4ab1-804b-2dfe6b91e866")
+		)
+		(fp_line
+			(start 2.53 -1.52)
+			(end 2.53 1.52)
+			(stroke
+				(width 0.15)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "e9b40c5e-da33-43e3-a2d0-0797b4bc6d01")
+		)
+		(fp_line
+			(start 2.53 1.52)
+			(end -2.53 1.52)
+			(stroke
+				(width 0.15)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "66d336e1-5409-4e44-90f3-701a102b26e8")
+		)
+		(fp_circle
+			(center -2.65 2.77)
+			(end -2.5 2.77)
+			(stroke
+				(width 0.3)
+				(type solid)
+			)
+			(fill no)
+			(layer "F.SilkS")
+			(uuid "33935330-8b9d-41bd-bb9c-fa242969280f")
+		)
+		(fp_circle
+			(center -1.91 0.77)
+			(end -1.76 0.77)
+			(stroke
+				(width 0.3)
+				(type solid)
+			)
+			(fill no)
+			(layer "F.SilkS")
+			(uuid "ebb99483-8bb6-4a81-8c04-86410b9bf567")
+		)
+		(fp_circle
+			(center -1.91 3.4)
+			(end -1.76 3.4)
+			(stroke
+				(width 0.3)
+				(type solid)
+			)
+			(fill no)
+			(layer "Cmts.User")
+			(uuid "e3cb2d88-29db-411e-8f89-4ad862118be3")
+		)
+		(fp_circle
+			(center -2.45 3)
+			(end -2.42 3)
+			(stroke
+				(width 0.06)
+				(type solid)
+			)
+			(fill no)
+			(layer "F.Fab")
+			(uuid "f9293a5e-97d5-4b41-9da5-ce9777cf9b70")
+		)
+		(fp_text user "${REFERENCE}"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(uuid "68e97542-9e39-4a07-a89f-0678e8e71036")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(pad "1" smd oval
+			(at -1.91 2.77)
+			(size 0.59 2.05)
+			(layers "F.Cu" "F.Mask" "F.Paste")
+			(net 164 "unconnected-(U11-Pad1)")
+			(pintype "output")
+			(uuid "2d18ffec-eda7-4510-a449-918d81720878")
+		)
+		(pad "2" smd oval
+			(at -0.63 2.77)
+			(size 0.59 2.05)
+			(layers "F.Cu" "F.Mask" "F.Paste")
+			(net 166 "unconnected-(U11A---Pad2)")
+			(pinfunction "-")
+			(pintype "input")
+			(uuid "b7c5c989-a66e-4cfa-b25e-240d11ff1609")
+		)
+		(pad "3" smd oval
+			(at 0.63 2.77)
+			(size 0.59 2.05)
+			(layers "F.Cu" "F.Mask" "F.Paste")
+			(net 165 "unconnected-(U11A-+-Pad3)")
+			(pinfunction "+")
+			(pintype "input")
+			(uuid "6504c5e8-ff4c-4ae7-b97b-0402f775b757")
+		)
+		(pad "4" smd oval
+			(at 1.9 2.77)
+			(size 0.59 2.05)
+			(layers "F.Cu" "F.Mask" "F.Paste")
+			(uuid "da5fd39e-f8ae-419d-9258-6b1845f93360")
+		)
+		(pad "5" smd oval
+			(at 1.9 -2.77)
+			(size 0.59 2.05)
+			(layers "F.Cu" "F.Mask" "F.Paste")
+			(uuid "da08f639-fbae-4112-b432-0bb21e42e609")
+		)
+		(pad "6" smd oval
+			(at 0.63 -2.77)
+			(size 0.59 2.05)
+			(layers "F.Cu" "F.Mask" "F.Paste")
+			(uuid "90576982-1e5a-4726-a170-07b095fd2015")
+		)
+		(pad "7" smd oval
+			(at -0.63 -2.77)
+			(size 0.59 2.05)
+			(layers "F.Cu" "F.Mask" "F.Paste")
+			(uuid "a41553ee-25c9-47ab-ad53-6d17bdbce5c7")
+		)
+		(pad "8" smd oval
+			(at -1.91 -2.77)
+			(size 0.59 2.05)
+			(layers "F.Cu" "F.Mask" "F.Paste")
+			(uuid "ab391ac9-8567-4e83-b484-f51ca4f6544a")
+		)
+		(embedded_fonts no)
+		(model "../jlcbasic.3dshapes/SOIC-8_L4.9-W3.9-H1.7-LS6.0-P1.27.wrl"
+			(offset
+				(xyz 0 0 -0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -0)
 			)
 		)
 	)
@@ -1839,7 +2567,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://lcsc.com/product-detail/Diodes-General-Purpose_SM4007PL-A7_C64898.html"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -1851,7 +2579,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "1A Independent Type 1kV 1.1V@1A SOD-123FL Diodes - General Purpose ROHS"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -1859,6 +2587,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part" "C64898"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "fdbb2fe3-71b8-4ef1-b35d-9f2200e92aaa")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "PartNumber" "SM4007PL"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "41ac123a-f54e-415a-9e53-9301ea40d524")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -1963,8 +2717,8 @@
 			(at -1.55 0)
 			(size 1 1.2)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net 31 "unconnected-(D6-C-Pad1)")
-			(pinfunction "C")
+			(net 6 "unconnected-(D6-K-Pad1)")
+			(pinfunction "K")
 			(pintype "unspecified")
 			(uuid "83c89a21-df0d-40c5-a8f4-d1dad00bce54")
 		)
@@ -1972,7 +2726,7 @@
 			(at 1.55 0)
 			(size 1 1.2)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net 32 "unconnected-(D6-A-Pad2)")
+			(net 26 "unconnected-(D6-A-Pad2)")
 			(pinfunction "A")
 			(pintype "unspecified")
 			(uuid "a07f57d1-3493-4ba6-af36-915a51d29bc9")
@@ -2016,7 +2770,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://lcsc.com/product-detail/FLASH_W25Q128JVSIQTR_C97521.html"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -2028,7 +2782,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "8 2V~6V 1 Serial to serial or parallel SOIC-16 Shift Registers ROHS"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -2036,6 +2790,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part" "C97521"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "bddbc89d-43f0-4ff3-a828-28e4cb1b044b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "PartNumber" "W25Q128JVSIQTR"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6cad4a5f-d291-4591-9caa-01759db10bba")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -2143,8 +2923,8 @@
 			(at -1.91 3.53)
 			(size 0.63 2.25)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net 98 "unconnected-(U4-~{CS}-Pad1)")
-			(pinfunction "~{CS}")
+			(net 98 "unconnected-(U4-Q1-Pad1)")
+			(pinfunction "Q1")
 			(pintype "unspecified")
 			(uuid "697706e6-3f15-46b8-a07c-ee5afbb8d7e0")
 		)
@@ -2152,8 +2932,8 @@
 			(at -0.63 3.53)
 			(size 0.63 2.25)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net 97 "unconnected-(U4-DO-Pad2)")
-			(pinfunction "DO")
+			(net 97 "unconnected-(U4-Q2-Pad2)")
+			(pinfunction "Q2")
 			(pintype "unspecified")
 			(uuid "2c94d130-7bc6-4998-b95a-e43727ad2109")
 		)
@@ -2161,8 +2941,8 @@
 			(at 0.63 3.53)
 			(size 0.63 2.25)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net 104 "unconnected-(U4-IO2-Pad3)")
-			(pinfunction "IO2")
+			(net 120 "unconnected-(U4-Q3-Pad3)")
+			(pinfunction "Q3")
 			(pintype "unspecified")
 			(uuid "f5f9e869-8d8b-4c0e-bee0-619df433d288")
 		)
@@ -2170,8 +2950,8 @@
 			(at 1.9 3.53)
 			(size 0.63 2.25)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net 101 "unconnected-(U4-GND-Pad4)")
-			(pinfunction "GND")
+			(net 101 "unconnected-(U4-Q4-Pad4)")
+			(pinfunction "Q4")
 			(pintype "unspecified")
 			(uuid "cc785592-027c-4cad-a17c-82e97d6f9bbe")
 		)
@@ -2179,8 +2959,8 @@
 			(at 1.9 -3.53)
 			(size 0.63 2.25)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net 103 "unconnected-(U4-DI-Pad5)")
-			(pinfunction "DI")
+			(net 119 "unconnected-(U4-Q5-Pad5)")
+			(pinfunction "Q5")
 			(pintype "unspecified")
 			(uuid "ec996277-84ef-4a5f-a208-f9b1d29a418b")
 		)
@@ -2188,8 +2968,8 @@
 			(at 0.63 -3.53)
 			(size 0.63 2.25)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net 102 "unconnected-(U4-CLK-Pad6)")
-			(pinfunction "CLK")
+			(net 102 "unconnected-(U4-Q6-Pad6)")
+			(pinfunction "Q6")
 			(pintype "unspecified")
 			(uuid "e63103f8-d0a3-4a08-a0a3-8167a35f15b8")
 		)
@@ -2197,8 +2977,8 @@
 			(at -0.63 -3.53)
 			(size 0.63 2.25)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net 100 "unconnected-(U4-IO3-Pad7)")
-			(pinfunction "IO3")
+			(net 100 "unconnected-(U4-Q7-Pad7)")
+			(pinfunction "Q7")
 			(pintype "unspecified")
 			(uuid "a71a3070-ee80-4967-a833-7bd290625ad8")
 		)
@@ -2206,8 +2986,8 @@
 			(at -1.91 -3.53)
 			(size 0.63 2.25)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net 99 "unconnected-(U4-VCC-Pad8)")
-			(pinfunction "VCC")
+			(net 99 "unconnected-(U4-GND-Pad8)")
+			(pinfunction "GND")
 			(pintype "unspecified")
 			(uuid "951b536c-f69c-4d27-a3bb-c5014640fe20")
 		)
@@ -2239,7 +3019,7 @@
 				)
 			)
 		)
-		(property "Value" "X50328MSB2GI"
+		(property "Value" "8MHz"
 			(at 0 3 0)
 			(layer "F.Fab")
 			(uuid "82141141-b6e7-46cf-bef1-c9645374dcf9")
@@ -2250,7 +3030,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://lcsc.com/product-detail/SMD-Crystals_YSX530GA-8MHZ-20PF-10PPM-40-85_C115962.html"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -2262,7 +3042,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "8MHz Surface Mount Crystal 20pF ±10ppm ±20ppm SMD5032 Crystals ROHS"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -2270,6 +3050,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part" "C115962"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1f03f298-f4c2-45e8-99f4-49f05c6b2df2")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "PartNumber" "X50328MSB2GI"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d6d16876-dd99-41dc-93aa-6caef588fdf2")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -2464,18 +3270,18 @@
 			(at -2.05 0)
 			(size 1.9 2.4)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net 174 "unconnected-(X5-OSC1-Pad1)")
-			(pinfunction "OSC1")
-			(pintype "input")
+			(net 176 "unconnected-(X5-Pad1)")
+			(pinfunction "1")
+			(pintype "unspecified")
 			(uuid "0ce389b2-afe7-45dc-ab94-b3fc9e3edbaf")
 		)
 		(pad "2" smd rect
 			(at 2.05 0)
 			(size 1.9 2.4)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net 175 "unconnected-(X5-OSC2-Pad2)")
-			(pinfunction "OSC2")
-			(pintype "input")
+			(net 177 "unconnected-(X5-Pad2)")
+			(pinfunction "2")
+			(pintype "unspecified")
 			(uuid "18c99016-301e-47ce-9dd8-31a737ec7847")
 		)
 		(embedded_fonts no)
@@ -2517,7 +3323,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://lcsc.com/product-detail/Precision-OpAmps_TI_OP07CDR_OP07CDR_C7433.html"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -2529,7 +3335,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "600kHz 1.8nA Single Channel SOIC-8 Precision Op Amps ROHS"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -2537,6 +3343,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part" "C7433"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9ed1e804-66d3-43b4-bccd-589d6e1611bb")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "PartNumber" "OP07CDR"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "bd9b0678-1e18-4c43-a534-efa593663cb6")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -2644,8 +3476,8 @@
 			(at -1.91 2.77)
 			(size 0.59 2.05)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net 1 "unconnected-(U1-OFFSETN1-Pad1)")
-			(pinfunction "OFFSETN1")
+			(net 72 "unconnected-(U1-Q1-Pad1)")
+			(pinfunction "Q1")
 			(pintype "unspecified")
 			(uuid "0749ffa2-9922-4a3d-bdc9-72eabe2a6022")
 		)
@@ -2653,8 +3485,8 @@
 			(at -0.63 2.77)
 			(size 0.59 2.05)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net 7 "unconnected-(U1-IN--Pad2)")
-			(pinfunction "IN-")
+			(net 78 "unconnected-(U1-Q2-Pad2)")
+			(pinfunction "Q2")
 			(pintype "unspecified")
 			(uuid "d1489bd7-41a6-435e-8542-f3a5c8db2dca")
 		)
@@ -2662,8 +3494,8 @@
 			(at 0.63 2.77)
 			(size 0.59 2.05)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net 3 "unconnected-(U1-IN+-Pad3)")
-			(pinfunction "IN+")
+			(net 74 "unconnected-(U1-Q3-Pad3)")
+			(pinfunction "Q3")
 			(pintype "unspecified")
 			(uuid "6de36bd6-dead-4040-9a46-ca4a77bb4eb7")
 		)
@@ -2671,17 +3503,17 @@
 			(at 1.9 2.77)
 			(size 0.59 2.05)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net 5 "unconnected-(U1-VCC--Pad4)")
-			(pinfunction "VCC-")
-			(pintype "power_in")
+			(net 76 "unconnected-(U1-Q4-Pad4)")
+			(pinfunction "Q4")
+			(pintype "unspecified")
 			(uuid "9446cc1a-5959-45df-9212-1004f9e4fc04")
 		)
 		(pad "5" smd oval
 			(at 1.9 -2.77)
 			(size 0.59 2.05)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net 8 "unconnected-(U1-NC-Pad5)")
-			(pinfunction "NC")
+			(net 79 "unconnected-(U1-Q5-Pad5)")
+			(pinfunction "Q5")
 			(pintype "unspecified")
 			(uuid "ff9b59bb-16ca-4eff-a583-72c9d5ff70b5")
 		)
@@ -2689,26 +3521,26 @@
 			(at 0.63 -2.77)
 			(size 0.59 2.05)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net 2 "unconnected-(U1-OUT-Pad6)")
-			(pinfunction "OUT")
-			(pintype "output")
+			(net 73 "unconnected-(U1-Q6-Pad6)")
+			(pinfunction "Q6")
+			(pintype "unspecified")
 			(uuid "1e96783a-4bf8-46e9-ae27-cdb846717f97")
 		)
 		(pad "7" smd oval
 			(at -0.63 -2.77)
 			(size 0.59 2.05)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net 6 "unconnected-(U1-VCC+-Pad7)")
-			(pinfunction "VCC+")
-			(pintype "power_in")
+			(net 77 "unconnected-(U1-Q7-Pad7)")
+			(pinfunction "Q7")
+			(pintype "unspecified")
 			(uuid "c5c1dd8f-53ef-4b17-9127-08a9b242f323")
 		)
 		(pad "8" smd oval
 			(at -1.91 -2.77)
 			(size 0.59 2.05)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net 4 "unconnected-(U1-OFFSETN2-Pad8)")
-			(pinfunction "OFFSETN2")
+			(net 75 "unconnected-(U1-GND-Pad8)")
+			(pinfunction "GND")
 			(pintype "unspecified")
 			(uuid "7aec30ab-e461-49d4-b676-b5a69fb7a595")
 		)
@@ -2740,7 +3572,7 @@
 				)
 			)
 		)
-		(property "Value" "0805W8F0000T5E"
+		(property "Value" "0Ω"
 			(at 0 2 0)
 			(layer "F.Fab")
 			(uuid "b5778acd-c614-4d5d-af03-805e8b63a7e1")
@@ -2751,7 +3583,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount-UniOhm_0R-0R0-1_C17477.html"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -2763,7 +3595,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "125mW Thick Film Resistors 150V ±800ppm/℃ ±1% 0Ω 0805 Chip Resistor - Surface Mount ROHS"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -2771,6 +3603,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part" "C17477"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "11154f59-6cf2-4a7f-b297-b320fc3d7632")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "PartNumber" "0805W8F0000T5E"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e1a4e5dd-6272-4615-a299-273412ca60b5")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -2865,7 +3723,7 @@
 			(at -1 0)
 			(size 1.13 1.38)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net 62 "unconnected-(R3-Pad1)")
+			(net 52 "unconnected-(R3-Pad1)")
 			(pinfunction "1")
 			(pintype "input")
 			(uuid "6a0ab03a-2abf-4067-a5e2-e891249415a2")
@@ -2874,7 +3732,7 @@
 			(at 1 0)
 			(size 1.13 1.38)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net 63 "unconnected-(R3-Pad2)")
+			(net 53 "unconnected-(R3-Pad2)")
 			(pinfunction "2")
 			(pintype "input")
 			(uuid "6bb83f3b-df43-4a79-904e-4a5c3ab0765a")
@@ -2907,7 +3765,7 @@
 				)
 			)
 		)
-		(property "Value" "0603WAF0000T5E"
+		(property "Value" "0Ω"
 			(at 0 1.5 0)
 			(layer "F.Fab")
 			(uuid "878f1f4f-b659-4bc6-8d7b-bc4669773804")
@@ -2918,7 +3776,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount-UniOhm_0R-0R0-1_C21189.html"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -2930,7 +3788,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "100mW Thick Film Resistors 75V ±1% 0Ω 0603 Chip Resistor - Surface Mount ROHS"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -2938,6 +3796,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part" "C21189"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d3322d01-2a5c-475b-9892-11a1c293ecf2")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "PartNumber" "0603WAF0000T5E"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6d7be90f-84c3-4bd9-931e-9d02bd3f21b7")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -3032,7 +3916,7 @@
 			(at -0.75 0)
 			(size 0.81 0.86)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net 61 "unconnected-(R2-Pad1)")
+			(net 51 "unconnected-(R2-Pad1)")
 			(pinfunction "1")
 			(pintype "input")
 			(uuid "df4dd8a5-3744-48ac-b996-9d06a592525c")
@@ -3041,7 +3925,7 @@
 			(at 0.75 0)
 			(size 0.81 0.86)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net 60 "unconnected-(R2-Pad2)")
+			(net 50 "unconnected-(R2-Pad2)")
 			(pinfunction "2")
 			(pintype "input")
 			(uuid "4afda40b-6258-40a2-8bd5-8a0187f909b2")
@@ -3085,7 +3969,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://lcsc.com/product-detail/MOSFET_AOS_AO3401A_AO3401A_C15127.html"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -3097,7 +3981,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "30V 4A 44mΩ@10V,4.3A 1.4W 1.3V@250uA 1 Piece P-Channel SOT-23 MOSFETs ROHS"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -3105,6 +3989,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part" "C15127"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "885d1c37-b1c0-47f1-9c67-0c3929d42da6")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "PartNumber" "AO3401A"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1ca2aed0-3f8c-4501-b492-f3fcbf4542af")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -3200,7 +4110,7 @@
 			(at 1.15 0.95 180)
 			(size 1 0.8)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net 53 "unconnected-(Q4-G-Pad1)")
+			(net 43 "unconnected-(Q4-G-Pad1)")
 			(pinfunction "G")
 			(pintype "unspecified")
 			(uuid "5e215ea6-efce-40a8-a7cb-727b95eca973")
@@ -3209,7 +4119,7 @@
 			(at 1.15 -0.95 180)
 			(size 1 0.8)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net 52 "unconnected-(Q4-S-Pad2)")
+			(net 42 "unconnected-(Q4-S-Pad2)")
 			(pinfunction "S")
 			(pintype "unspecified")
 			(uuid "2249d0b3-651b-4626-b0b2-b16c35ea9430")
@@ -3218,7 +4128,7 @@
 			(at -1.15 0 180)
 			(size 1 0.8)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net 54 "unconnected-(Q4-D-Pad3)")
+			(net 44 "unconnected-(Q4-D-Pad3)")
 			(pinfunction "D")
 			(pintype "unspecified")
 			(uuid "d7320a2c-8314-4ec1-8f5a-aee45e7a20ec")
@@ -3251,7 +4161,7 @@
 				)
 			)
 		)
-		(property "Value" "1N4148W_C81598"
+		(property "Value" "1N4148W"
 			(at 0 2 0)
 			(layer "F.Fab")
 			(uuid "d8605400-1e5c-4837-8435-d6fafe339914")
@@ -3262,7 +4172,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://lcsc.com/product-detail/Switching-Diode_1N4148W_C81598.html"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -3282,6 +4192,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part" "C81598"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "51a61d91-ab1d-417f-a7a1-6d443b810ac8")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "PartNumber" "1N4148W_C81598"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "983aae6c-052f-441d-a233-b384850d3c5c")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -3366,7 +4302,7 @@
 			(at -1.73 0)
 			(size 1.1 1)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net 29 "unconnected-(D5-K-Pad1)")
+			(net 24 "unconnected-(D5-K-Pad1)")
 			(pinfunction "K")
 			(pintype "unspecified")
 			(uuid "5539eaa3-42e0-4d46-a5e0-0262befe6b92")
@@ -3375,7 +4311,7 @@
 			(at 1.73 0)
 			(size 1.1 1)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net 30 "unconnected-(D5-A-Pad2)")
+			(net 25 "unconnected-(D5-A-Pad2)")
 			(pinfunction "A")
 			(pintype "unspecified")
 			(uuid "7b447e4f-9c88-48b6-b9f7-902a5e91664b")
@@ -3408,7 +4344,7 @@
 				)
 			)
 		)
-		(property "Value" "SI2301CDS-T1-GE3"
+		(property "Value" "SI2301CDS"
 			(at 0 2.5 0)
 			(layer "F.Fab")
 			(uuid "093398a7-c977-44fc-95bc-30fbd588b53a")
@@ -3419,7 +4355,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://lcsc.com/product-detail/MOSFET_VISHAY_SI2301CDS-T1-GE3_SI2301CDS-T1-GE3_C10487.html"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -3431,7 +4367,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "20V 3.1A 112mΩ@4.5V,2.8A 1V@250uA 1 Piece P-Channel SOT-23 MOSFETs ROHS"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -3439,6 +4375,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part" "C10487"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0377570d-8b92-4402-b2ce-be3300d7cd9b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "PartNumber" "SI2301CDS-T1-GE3"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c222d2b7-108f-47f6-836e-e97f27b001d7")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -3534,7 +4496,7 @@
 			(at 1.1 0.95)
 			(size 1.04 0.53)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net 49 "unconnected-(Q3-G-Pad1)")
+			(net 39 "unconnected-(Q3-G-Pad1)")
 			(pinfunction "G")
 			(pintype "unspecified")
 			(uuid "1f3b8cf7-32da-4157-8473-7d65e9460d12")
@@ -3543,7 +4505,7 @@
 			(at 1.1 -0.95)
 			(size 1.04 0.53)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net 51 "unconnected-(Q3-S-Pad2)")
+			(net 41 "unconnected-(Q3-S-Pad2)")
 			(pinfunction "S")
 			(pintype "unspecified")
 			(uuid "b47821d4-ad7b-4585-85e1-aae5ecf63e69")
@@ -3552,7 +4514,7 @@
 			(at -1.1 0)
 			(size 1.04 0.53)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net 50 "unconnected-(Q3-D-Pad3)")
+			(net 40 "unconnected-(Q3-D-Pad3)")
 			(pinfunction "D")
 			(pintype "unspecified")
 			(uuid "5c87980d-d9e1-48da-8447-187fef03b71c")
@@ -3585,7 +4547,7 @@
 				)
 			)
 		)
-		(property "Value" "0805W8F100JT5E"
+		(property "Value" "10Ω"
 			(at 0 2 0)
 			(layer "F.SilkS")
 			(uuid "b1a6b9a8-63eb-455a-90f8-496058d09bb5")
@@ -3596,7 +4558,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount-UniOhm_10R-10R0-1_C17415.html"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -3608,7 +4570,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "125mW Thick Film Resistors 150V ±1% ±200ppm/℃ 10Ω 0805 Chip Resistor - Surface Mount ROHS"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -3620,7 +4582,33 @@
 				)
 			)
 		)
-		(path "/904946d2-eca8-4fbf-85fa-18f064d0f52d")
+		(property "LCSC Part" "C17415"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f002fbb9-b626-4d9c-bbd9-d115045db823")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "PartNumber" "0805W8F100JT5E"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ca24ab97-c5bd-4066-a2b2-76bb3b6f6b11")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(path "/d8fd8e3e-ab0b-487d-9ae4-ef63510a37df")
 		(sheetname "/")
 		(sheetfile "jlctest.kicad_sch")
 		(attr smd)
@@ -3710,7 +4698,7 @@
 			(at -0.97 0)
 			(size 1.13 1.38)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net 67 "unconnected-(R5-Pad1)")
+			(net 57 "unconnected-(R5-Pad1)")
 			(pinfunction "1")
 			(pintype "input")
 			(uuid "5f215301-a088-482c-8067-6454f8c99531")
@@ -3719,7 +4707,7 @@
 			(at 0.97 0)
 			(size 1.13 1.38)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net 66 "unconnected-(R5-Pad2)")
+			(net 56 "unconnected-(R5-Pad2)")
 			(pinfunction "2")
 			(pintype "input")
 			(uuid "480b0861-5a24-42ab-bd88-694c799fc946")
@@ -3763,7 +4751,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://lcsc.com/product-detail/Tactile-Switches_XKB-Enterprise-TS-1187-B-A-A_C318884.html"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -3775,7 +4763,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "None Without 50mA 5.1mm 100000 Times 160gf 12V 5.1mm 1.5mm Round Button Standing paste SPST SMD Tactile Switches ROHS"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -3783,6 +4771,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part" "C318884"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d0954658-9332-4a3a-979e-a2566c3295c6")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "PartNumber" "TS-1187A-B-A-B"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "7070e91e-3fd4-4cd4-8a5a-38cbb9593168")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -3988,7 +5002,7 @@
 			(at -3 -1.85)
 			(size 1 0.75)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net 76 "unconnected-(SW1-A-Pad1)")
+			(net 66 "unconnected-(SW1-A-Pad1)")
 			(pinfunction "A")
 			(pintype "unspecified")
 			(uuid "8aec1660-a695-4573-956a-3a217fe94848")
@@ -3997,7 +5011,7 @@
 			(at 3 -1.85)
 			(size 1 0.75)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net 79 "unconnected-(SW1-B-Pad2)")
+			(net 69 "unconnected-(SW1-B-Pad2)")
 			(pinfunction "B")
 			(pintype "unspecified")
 			(uuid "c04a808b-58dc-4422-861c-fb8b18c57162")
@@ -4006,7 +5020,7 @@
 			(at -3 1.85)
 			(size 1 0.75)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net 78 "unconnected-(SW1-C-Pad3)")
+			(net 68 "unconnected-(SW1-C-Pad3)")
 			(pinfunction "C")
 			(pintype "unspecified")
 			(uuid "add80628-519d-47ac-8a15-699c664eb5b1")
@@ -4015,7 +5029,7 @@
 			(at 3 1.85)
 			(size 1 0.75)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net 77 "unconnected-(SW1-D-Pad4)")
+			(net 67 "unconnected-(SW1-D-Pad4)")
 			(pinfunction "D")
 			(pintype "unspecified")
 			(uuid "a1bbe54d-56c7-4d3b-9336-dd54320a79d4")
@@ -4048,7 +5062,7 @@
 				)
 			)
 		)
-		(property "Value" "SS54_C22452"
+		(property "Value" "SS54"
 			(at 0 2.5 0)
 			(layer "F.Fab")
 			(uuid "e1fb3dce-032b-45ff-b844-2e55225d78fb")
@@ -4059,7 +5073,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://lcsc.com/product-detail/Schottky-Barrier-Diodes-SBD_SS54_C22452.html"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -4079,6 +5093,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part" "C22452"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0e71c705-0841-4f64-aca6-86dcd8408599")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "PartNumber" "SS54_C22452"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d2d05510-cad4-407c-bdd1-796361f66d74")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -4163,8 +5203,8 @@
 			(at 2.5 0)
 			(size 2.06 1.54)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net 23 "unconnected-(D2-A-Pad1)")
-			(pinfunction "A")
+			(net 1 "unconnected-(D2-K-Pad1)")
+			(pinfunction "K")
 			(pintype "unspecified")
 			(uuid "0d4b528c-4978-4b9f-aba3-1eeb1ee283b7")
 		)
@@ -4172,8 +5212,8 @@
 			(at -2.5 0)
 			(size 2.06 1.54)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net 24 "unconnected-(D2-K-Pad2)")
-			(pinfunction "K")
+			(net 2 "unconnected-(D2-A-Pad2)")
+			(pinfunction "A")
 			(pintype "unspecified")
 			(uuid "502623fa-0a87-4f23-aa19-ec70d4ee1621")
 		)
@@ -4216,7 +5256,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://lcsc.com/product-detail/General-Purpose-Amplifiers_STMicroelectronics_LM324DT_LM324DT_C71035.html"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -4228,7 +5268,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Quad 20nA 0.4V/us 1.3MHz SOIC-14 Operational Amplifier ROHS"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -4236,6 +5276,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part" "C71035"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e5292d30-ae7e-4706-868b-c667b3da60c6")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "PartNumber" "LM324DT"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "25feed39-d2a3-4dcd-a922-6c72a838765f")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -4343,8 +5409,8 @@
 			(at -3.81 2.77)
 			(size 0.57 2.04)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net 115 "unconnected-(U5-OUT1-Pad1)")
-			(pinfunction "OUT1")
+			(net 132 "unconnected-(U5-Q1-Pad1)")
+			(pinfunction "Q1")
 			(pintype "unspecified")
 			(uuid "a7b9bf38-a0a7-4324-9cdd-bbcc64a4a241")
 		)
@@ -4352,8 +5418,8 @@
 			(at -2.54 2.77)
 			(size 0.57 2.04)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net 114 "unconnected-(U5-IN1--Pad2)")
-			(pinfunction "IN1-")
+			(net 131 "unconnected-(U5-Q2-Pad2)")
+			(pinfunction "Q2")
 			(pintype "unspecified")
 			(uuid "87873c14-9768-440a-ab5c-460bfef48791")
 		)
@@ -4361,8 +5427,8 @@
 			(at -1.27 2.77)
 			(size 0.57 2.04)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net 109 "unconnected-(U5-IN1+-Pad3)")
-			(pinfunction "IN1+")
+			(net 125 "unconnected-(U5-Q3-Pad3)")
+			(pinfunction "Q3")
 			(pintype "unspecified")
 			(uuid "59719ac4-fc29-47eb-b035-f67f4679e92b")
 		)
@@ -4370,8 +5436,8 @@
 			(at 0 2.77)
 			(size 0.57 2.04)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net 113 "unconnected-(U5-VCC-Pad4)")
-			(pinfunction "VCC")
+			(net 130 "unconnected-(U5-Q4-Pad4)")
+			(pinfunction "Q4")
 			(pintype "unspecified")
 			(uuid "7e368878-439b-4eae-a7ca-b7647ae99083")
 		)
@@ -4379,8 +5445,8 @@
 			(at 1.27 2.77)
 			(size 0.57 2.04)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net 111 "unconnected-(U5-IN2+-Pad5)")
-			(pinfunction "IN2+")
+			(net 128 "unconnected-(U5-Q5-Pad5)")
+			(pinfunction "Q5")
 			(pintype "unspecified")
 			(uuid "5e0e05e1-eb50-461a-9115-8a97030793a5")
 		)
@@ -4388,8 +5454,8 @@
 			(at 2.54 2.77)
 			(size 0.57 2.04)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net 116 "unconnected-(U5-IN2--Pad6)")
-			(pinfunction "IN2-")
+			(net 133 "unconnected-(U5-Q6-Pad6)")
+			(pinfunction "Q6")
 			(pintype "unspecified")
 			(uuid "dc5a4dc5-3af9-4b99-8757-e5ebf9008be1")
 		)
@@ -4397,8 +5463,8 @@
 			(at 3.81 2.77)
 			(size 0.57 2.04)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net 106 "unconnected-(U5-OUT2-Pad7)")
-			(pinfunction "OUT2")
+			(net 122 "unconnected-(U5-Q7-Pad7)")
+			(pinfunction "Q7")
 			(pintype "unspecified")
 			(uuid "3ffcc352-fcef-4df4-8a16-4e49cd72fe9b")
 		)
@@ -4406,8 +5472,8 @@
 			(at 3.81 -2.77)
 			(size 0.57 2.04)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net 107 "unconnected-(U5-OUT3-Pad8)")
-			(pinfunction "OUT3")
+			(net 123 "unconnected-(U5-GND-Pad8)")
+			(pinfunction "GND")
 			(pintype "unspecified")
 			(uuid "57ec55fb-d16d-485c-86ec-551bcac492c4")
 		)
@@ -4415,8 +5481,8 @@
 			(at 2.54 -2.77)
 			(size 0.57 2.04)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net 112 "unconnected-(U5-IN3--Pad9)")
-			(pinfunction "IN3-")
+			(net 129 "unconnected-(U5-Q7S-Pad9)")
+			(pinfunction "Q7S")
 			(pintype "unspecified")
 			(uuid "72069a9c-e997-4aec-9f2e-1af02bcf97a8")
 		)
@@ -4424,8 +5490,8 @@
 			(at 1.27 -2.77)
 			(size 0.57 2.04)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net 108 "unconnected-(U5-IN3+-Pad10)")
-			(pinfunction "IN3+")
+			(net 124 "unconnected-(U5-~{MR}-Pad10)")
+			(pinfunction "~{MR}")
 			(pintype "unspecified")
 			(uuid "5968a652-cb45-469d-8537-b1cea53cf4a0")
 		)
@@ -4433,8 +5499,8 @@
 			(at 0 -2.77)
 			(size 0.57 2.04)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net 117 "unconnected-(U5-GND-Pad11)")
-			(pinfunction "GND")
+			(net 134 "unconnected-(U5-SHCP-Pad11)")
+			(pinfunction "SHCP")
 			(pintype "unspecified")
 			(uuid "f7aa216e-5d87-44ec-b67f-5348564ee8bc")
 		)
@@ -4442,8 +5508,8 @@
 			(at -1.27 -2.77)
 			(size 0.57 2.04)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net 118 "unconnected-(U5-IN4+-Pad12)")
-			(pinfunction "IN4+")
+			(net 135 "unconnected-(U5-STCP-Pad12)")
+			(pinfunction "STCP")
 			(pintype "unspecified")
 			(uuid "f99c8199-383c-4b95-b25b-540d16d9ce25")
 		)
@@ -4451,8 +5517,8 @@
 			(at -2.54 -2.77)
 			(size 0.57 2.04)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net 110 "unconnected-(U5-IN4--Pad13)")
-			(pinfunction "IN4-")
+			(net 126 "unconnected-(U5-~{OE}-Pad13)")
+			(pinfunction "~{OE}")
 			(pintype "unspecified")
 			(uuid "5b63c48d-42dc-4361-b709-7abbcd610788")
 		)
@@ -4460,8 +5526,8 @@
 			(at -3.81 -2.77)
 			(size 0.57 2.04)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net 105 "unconnected-(U5-OUT4-Pad14)")
-			(pinfunction "OUT4")
+			(net 121 "unconnected-(U5-DS-Pad14)")
+			(pinfunction "DS")
 			(pintype "unspecified")
 			(uuid "0a0c2fb8-b6bf-45c0-82b1-4874a24a612a")
 		)
@@ -4493,7 +5559,7 @@
 				)
 			)
 		)
-		(property "Value" "SP3232EEY-L/TR"
+		(property "Value" "SP3232EEY"
 			(at 0 4.5 0)
 			(layer "F.Fab")
 			(uuid "a7cda102-191b-432a-9518-ff25f93dd78f")
@@ -4504,7 +5570,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://lcsc.com/product-detail/RS232_SIPEX_SP3232EEY-L-TR_SP3232EEY_C13482.html"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -4516,7 +5582,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "235Kbps Transceiver 2/2 TSSOP-16 RS232 ICs ROHS"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -4524,6 +5590,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part" "C13482"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "973e958c-879f-47cc-a368-daedd62cf697")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "PartNumber" "SP3232EEY-L/TR"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6a087d8e-2389-4021-abe9-e62f66f49a84")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -4631,8 +5723,8 @@
 			(at -2.28 2.87)
 			(size 0.34 1.73)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net 142 "unconnected-(U7-C1+-Pad1)")
-			(pinfunction "C1+")
+			(net 143 "unconnected-(U7-Q1-Pad1)")
+			(pinfunction "Q1")
 			(pintype "unspecified")
 			(uuid "403fba8d-a3ab-48be-aae7-5ce9a92588a3")
 		)
@@ -4640,8 +5732,8 @@
 			(at -1.63 2.87)
 			(size 0.34 1.73)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net 148 "unconnected-(U7-V+-Pad2)")
-			(pinfunction "V+")
+			(net 148 "unconnected-(U7-Q2-Pad2)")
+			(pinfunction "Q2")
 			(pintype "unspecified")
 			(uuid "d999ce65-ed93-4aec-8668-62acb2ae212b")
 		)
@@ -4649,8 +5741,8 @@
 			(at -0.98 2.87)
 			(size 0.34 1.73)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net 137 "unconnected-(U7-C1--Pad3)")
-			(pinfunction "C1-")
+			(net 138 "unconnected-(U7-Q3-Pad3)")
+			(pinfunction "Q3")
 			(pintype "unspecified")
 			(uuid "24bf2f7d-cbb5-4906-8a66-4891676910dd")
 		)
@@ -4658,8 +5750,8 @@
 			(at -0.32 2.87)
 			(size 0.34 1.73)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net 146 "unconnected-(U7-C2+-Pad4)")
-			(pinfunction "C2+")
+			(net 146 "unconnected-(U7-Q4-Pad4)")
+			(pinfunction "Q4")
 			(pintype "unspecified")
 			(uuid "c91148b1-6a61-4f92-8946-a9081a76cbda")
 		)
@@ -4667,8 +5759,8 @@
 			(at 0.33 2.87)
 			(size 0.34 1.73)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net 149 "unconnected-(U7-C2--Pad5)")
-			(pinfunction "C2-")
+			(net 149 "unconnected-(U7-Q5-Pad5)")
+			(pinfunction "Q5")
 			(pintype "unspecified")
 			(uuid "ddb40da9-a311-44d4-9582-0e4a895318d8")
 		)
@@ -4676,8 +5768,8 @@
 			(at 0.98 2.87)
 			(size 0.34 1.73)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net 144 "unconnected-(U7-V--Pad6)")
-			(pinfunction "V-")
+			(net 144 "unconnected-(U7-Q6-Pad6)")
+			(pinfunction "Q6")
 			(pintype "unspecified")
 			(uuid "5ecd5172-31c0-42e0-8c7c-ae5c08f3439a")
 		)
@@ -4685,8 +5777,8 @@
 			(at 1.63 2.87)
 			(size 0.34 1.73)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net 139 "unconnected-(U7-T2OUT-Pad7)")
-			(pinfunction "T2OUT")
+			(net 140 "unconnected-(U7-Q7-Pad7)")
+			(pinfunction "Q7")
 			(pintype "unspecified")
 			(uuid "3d94843f-c178-423e-994d-c040499e7185")
 		)
@@ -4694,8 +5786,8 @@
 			(at 2.28 2.87)
 			(size 0.34 1.73)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net 150 "unconnected-(U7-R2IN-Pad8)")
-			(pinfunction "R2IN")
+			(net 152 "unconnected-(U7-GND-Pad8)")
+			(pinfunction "GND")
 			(pintype "unspecified")
 			(uuid "ff2c9a05-9506-4d3f-b1e5-6568fdc9b928")
 		)
@@ -4703,8 +5795,8 @@
 			(at 2.28 -2.87)
 			(size 0.34 1.73)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net 140 "unconnected-(U7-R2OUT-Pad9)")
-			(pinfunction "R2OUT")
+			(net 141 "unconnected-(U7-Q7S-Pad9)")
+			(pinfunction "Q7S")
 			(pintype "unspecified")
 			(uuid "3eb4e748-f44c-4a1e-97b2-4ae843f9c8b0")
 		)
@@ -4712,8 +5804,8 @@
 			(at 1.63 -2.87)
 			(size 0.34 1.73)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net 141 "unconnected-(U7-T2IN-Pad10)")
-			(pinfunction "T2IN")
+			(net 142 "unconnected-(U7-~{MR}-Pad10)")
+			(pinfunction "~{MR}")
 			(pintype "unspecified")
 			(uuid "3eb6fc2a-9fd9-4783-bd1a-26b3607a161c")
 		)
@@ -4721,8 +5813,8 @@
 			(at 0.98 -2.87)
 			(size 0.34 1.73)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net 136 "unconnected-(U7-T1IN-Pad11)")
-			(pinfunction "T1IN")
+			(net 137 "unconnected-(U7-SHCP-Pad11)")
+			(pinfunction "SHCP")
 			(pintype "unspecified")
 			(uuid "1f4ddc4c-6380-4ac1-b4a8-4af64bdd8562")
 		)
@@ -4730,8 +5822,8 @@
 			(at 0.33 -2.87)
 			(size 0.34 1.73)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net 138 "unconnected-(U7-R1OUT-Pad12)")
-			(pinfunction "R1OUT")
+			(net 139 "unconnected-(U7-STCP-Pad12)")
+			(pinfunction "STCP")
 			(pintype "unspecified")
 			(uuid "32c83bcf-a7df-4ea9-9bac-34db3caa17b2")
 		)
@@ -4739,8 +5831,8 @@
 			(at -0.32 -2.87)
 			(size 0.34 1.73)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net 135 "unconnected-(U7-R1IN-Pad13)")
-			(pinfunction "R1IN")
+			(net 136 "unconnected-(U7-~{OE}-Pad13)")
+			(pinfunction "~{OE}")
 			(pintype "unspecified")
 			(uuid "11b6d79b-0183-4a87-bebe-ab85b1689b42")
 		)
@@ -4748,8 +5840,8 @@
 			(at -0.98 -2.87)
 			(size 0.34 1.73)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net 147 "unconnected-(U7-T1OUT-Pad14)")
-			(pinfunction "T1OUT")
+			(net 147 "unconnected-(U7-DS-Pad14)")
+			(pinfunction "DS")
 			(pintype "unspecified")
 			(uuid "d7482df3-416e-417e-b575-0f2bbbd7a5bd")
 		)
@@ -4757,8 +5849,8 @@
 			(at -1.63 -2.87)
 			(size 0.34 1.73)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net 145 "unconnected-(U7-GND-Pad15)")
-			(pinfunction "GND")
+			(net 145 "unconnected-(U7-Q0-Pad15)")
+			(pinfunction "Q0")
 			(pintype "unspecified")
 			(uuid "7c170937-4b68-4de2-a90c-1d9af208ffe0")
 		)
@@ -4766,7 +5858,7 @@
 			(at -2.28 -2.87)
 			(size 0.34 1.73)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net 143 "unconnected-(U7-VCC-Pad16)")
+			(net 127 "unconnected-(U7-VCC-Pad16)")
 			(pinfunction "VCC")
 			(pintype "unspecified")
 			(uuid "44c5fc33-cb6e-48a7-890a-c69523963666")
@@ -4799,7 +5891,7 @@
 				)
 			)
 		)
-		(property "Value" "0603B103K500NT"
+		(property "Value" "10nF"
 			(at 0 1.5 0)
 			(layer "F.Fab")
 			(uuid "00586b97-6ce2-4422-aa8c-ded1bb400ccd")
@@ -4810,7 +5902,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_10nF-103-10-50V_C57112.html"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -4822,7 +5914,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "50V 10nF X7R ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -4830,6 +5922,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part" "C57112"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "18711172-0cb8-486d-bd3a-7035d8c2b85f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "PartNumber" "0603B103K500NT"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "05597c55-351d-42e2-aaf8-5773ae3981d4")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -4970,7 +6088,7 @@
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(net 11 "unconnected-(C2-Pad1)")
 			(pinfunction "1")
-			(pintype "input")
+			(pintype "unspecified")
 			(uuid "1c7e360d-abeb-40cb-ac28-49604a657868")
 		)
 		(pad "2" smd rect
@@ -4979,7 +6097,7 @@
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(net 12 "unconnected-(C2-Pad2)")
 			(pinfunction "2")
-			(pintype "input")
+			(pintype "unspecified")
 			(uuid "acb95520-c00d-4367-9740-22293e86c692")
 		)
 		(embedded_fonts no)
@@ -5021,7 +6139,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://lcsc.com/product-detail/Low-Dropout-Regulators-LDO_AMS_AMS1117-5-0_AMS1117-5-0_C6187.html"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -5033,7 +6151,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "68dB@(120Hz) 1A Fixed 5V Positive electrode 12V SOT-223 Voltage Regulators - Linear, Low Drop Out (LDO) Regulators ROHS"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -5041,6 +6159,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part" "C6187"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "54e4bd77-1f5e-48d7-a274-56e29ab78d49")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "PartNumber" "AMS1117-5.0"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "93f4d0c5-328d-44f0-9a34-636a59621888")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -5126,8 +6270,8 @@
 			(at 2.86 2.3)
 			(size 2.46 1.05)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net 156 "unconnected-(U9-GND-Pad1)")
-			(pinfunction "GND")
+			(net 158 "unconnected-(U9-Q1-Pad1)")
+			(pinfunction "Q1")
 			(pintype "unspecified")
 			(uuid "6fdc6391-52c6-4024-92ad-6c1d8344b325")
 		)
@@ -5135,8 +6279,8 @@
 			(at 2.86 0)
 			(size 2.46 1.05)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net 157 "unconnected-(U9-VOUT-Pad2)")
-			(pinfunction "VOUT")
+			(net 159 "unconnected-(U9-Q2-Pad2)")
+			(pinfunction "Q2")
 			(pintype "unspecified")
 			(uuid "79b958da-a1de-4a85-bd13-d3944d313f8f")
 		)
@@ -5144,8 +6288,8 @@
 			(at 2.86 -2.3)
 			(size 2.46 1.05)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net 155 "unconnected-(U9-VIN-Pad3)")
-			(pinfunction "VIN")
+			(net 157 "unconnected-(U9-Q3-Pad3)")
+			(pinfunction "Q3")
 			(pintype "unspecified")
 			(uuid "401ff5f7-07f5-42f7-82aa-b5a010776d8f")
 		)
@@ -5153,8 +6297,8 @@
 			(at -2.86 0)
 			(size 2.46 3.54)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net 158 "unconnected-(U9-VOUT-Pad4)")
-			(pinfunction "VOUT")
+			(net 160 "unconnected-(U9-Q4-Pad4)")
+			(pinfunction "Q4")
 			(pintype "unspecified")
 			(uuid "a1f6f013-a4fb-4dc3-ac98-f3be88434939")
 		)
@@ -5186,7 +6330,7 @@
 				)
 			)
 		)
-		(property "Value" "D882_C9634"
+		(property "Value" "D882"
 			(at 0 3.5 0)
 			(layer "F.Fab")
 			(uuid "34aa8ec6-b207-4ed4-a852-1cecd4d7c616")
@@ -5197,7 +6341,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://lcsc.com/product-detail/Transistors-NPN-PNP_D882_C9634.html"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -5209,7 +6353,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "60V 115mA 200mW 7.5Ω@10V,500mA 2.5V@250uA 1 N-Channel SOT-23 MOSFETs ROHS"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -5217,6 +6361,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part" "C9634"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "423bb92f-ddff-4e69-b363-967692d0e2e1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "PartNumber" "D882_C9634"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "420ff045-5373-45e6-b055-ae437b8f970f")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -5302,18 +6472,18 @@
 			(at 1.36 1.5)
 			(size 1.58 0.67)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net 56 "unconnected-(Q5-B-Pad1)")
-			(pinfunction "B")
-			(pintype "input")
+			(net 70 "unconnected-(Q5-G-Pad1)")
+			(pinfunction "G")
+			(pintype "unspecified")
 			(uuid "120e8495-0bf9-44bd-8ab7-905a3552c709")
 		)
 		(pad "2" smd custom
 			(at -1.36 0)
 			(size 0.01 0.01)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net 55 "unconnected-(Q5-C-Pad2)")
-			(pinfunction "C")
-			(pintype "input")
+			(net 47 "unconnected-(Q5-S-Pad2)")
+			(pinfunction "S")
+			(pintype "unspecified")
 			(thermal_bridge_angle 90)
 			(options
 				(clearance outline)
@@ -5353,9 +6523,9 @@
 			(at 1.36 -1.5)
 			(size 1.58 0.67)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net 57 "unconnected-(Q5-E-Pad3)")
-			(pinfunction "E")
-			(pintype "input")
+			(net 71 "unconnected-(Q5-D-Pad3)")
+			(pinfunction "D")
+			(pintype "unspecified")
 			(uuid "2487af7b-e0a7-4238-8254-475b41d05e97")
 		)
 		(embedded_fonts no)
@@ -5386,7 +6556,7 @@
 				)
 			)
 		)
-		(property "Value" "MMBT5551_C2145"
+		(property "Value" "MMBT5551"
 			(at 0 2.5 0)
 			(layer "F.Fab")
 			(uuid "a8d0302c-3ae0-459d-bede-752c7f348a7a")
@@ -5397,7 +6567,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://lcsc.com/product-detail/Transistors-NPN-PNP_MMBT5551-G1-H-200-300_C2145.html"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -5409,7 +6579,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "60V 115mA 200mW 7.5Ω@10V,500mA 2.5V@250uA 1 N-Channel SOT-23 MOSFETs ROHS"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -5417,6 +6587,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part" "C2145"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "dcb62219-f480-4a33-8eda-37123982a8ba")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "PartNumber" "MMBT5551_C2145"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "260c0ff4-ad25-4e93-a4ef-42de440b8b19")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -5512,8 +6708,8 @@
 			(at 1 0.95)
 			(size 1.25 0.7)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net 43 "unconnected-(Q1-B-Pad1)")
-			(pinfunction "B")
+			(net 35 "unconnected-(Q1-G-Pad1)")
+			(pinfunction "G")
 			(pintype "unspecified")
 			(uuid "91fbec8c-74a8-49e5-8943-4cfd806e497d")
 		)
@@ -5521,8 +6717,8 @@
 			(at 1 -0.95)
 			(size 1.25 0.7)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net 45 "unconnected-(Q1-E-Pad2)")
-			(pinfunction "E")
+			(net 37 "unconnected-(Q1-S-Pad2)")
+			(pinfunction "S")
 			(pintype "unspecified")
 			(uuid "e36513a1-3131-44a1-9f11-047889686e07")
 		)
@@ -5530,8 +6726,8 @@
 			(at -1 0)
 			(size 1.25 0.7)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net 44 "unconnected-(Q1-C-Pad3)")
-			(pinfunction "C")
+			(net 36 "unconnected-(Q1-D-Pad3)")
+			(pinfunction "D")
 			(pintype "unspecified")
 			(uuid "b125a3b3-624e-4954-ae2c-2275f85d73f8")
 		)
@@ -5563,7 +6759,7 @@
 				)
 			)
 		)
-		(property "Value" "SP485EEN-L/TR"
+		(property "Value" "SP485EEN"
 			(at 0 4.5 0)
 			(layer "F.Fab")
 			(uuid "46949f94-2a4d-4a27-ae8c-8d7556c34ce4")
@@ -5574,7 +6770,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://lcsc.com/product-detail/RS-485-RS-422_SIPEX_SP485EEN-L-TR_SP485EEN-L-TR_C6855.html"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -5586,7 +6782,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Transceiver 10Mbps 1/1 SOIC-8 RS-485 / RS-422 ICs ROHS"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -5594,6 +6790,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part" "C6855"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "94c79bb4-48ad-4715-8b96-432aecf33695")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "PartNumber" "SP485EEN-L/TR"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "8afc4604-c04d-46f6-95fc-d91977bcd8c9")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -5711,8 +6933,8 @@
 			(at -1.91 2.71)
 			(size 0.57 1.95)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net 90 "unconnected-(U3-RO-Pad1)")
-			(pinfunction "RO")
+			(net 90 "unconnected-(U3-Q1-Pad1)")
+			(pinfunction "Q1")
 			(pintype "unspecified")
 			(uuid "1f1d781a-a562-4cc4-8367-5120323cb93b")
 		)
@@ -5720,8 +6942,8 @@
 			(at -0.63 2.71)
 			(size 0.57 1.95)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net 91 "unconnected-(U3-~{RE}-Pad2)")
-			(pinfunction "~{RE}")
+			(net 91 "unconnected-(U3-Q2-Pad2)")
+			(pinfunction "Q2")
 			(pintype "unspecified")
 			(uuid "4f0aaf06-8750-4b9b-a910-a04ef452ca4f")
 		)
@@ -5729,8 +6951,8 @@
 			(at 0.63 2.71)
 			(size 0.57 1.95)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net 92 "unconnected-(U3-DE-Pad3)")
-			(pinfunction "DE")
+			(net 92 "unconnected-(U3-Q3-Pad3)")
+			(pinfunction "Q3")
 			(pintype "unspecified")
 			(uuid "7d7544fe-cd58-44b0-9eef-06f541a5ef58")
 		)
@@ -5738,8 +6960,8 @@
 			(at 1.9 2.71)
 			(size 0.57 1.95)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net 89 "unconnected-(U3-DI-Pad4)")
-			(pinfunction "DI")
+			(net 89 "unconnected-(U3-Q4-Pad4)")
+			(pinfunction "Q4")
 			(pintype "unspecified")
 			(uuid "17ff8a18-7809-4472-b089-88af2860d8e1")
 		)
@@ -5747,8 +6969,8 @@
 			(at 1.9 -2.71)
 			(size 0.57 1.95)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net 95 "unconnected-(U3-GND-Pad5)")
-			(pinfunction "GND")
+			(net 95 "unconnected-(U3-Q5-Pad5)")
+			(pinfunction "Q5")
 			(pintype "unspecified")
 			(uuid "ac9290ba-b89d-426d-9a38-47611b09d343")
 		)
@@ -5756,8 +6978,8 @@
 			(at 0.63 -2.71)
 			(size 0.57 1.95)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net 96 "unconnected-(U3-A-Pad6)")
-			(pinfunction "A")
+			(net 96 "unconnected-(U3-Q6-Pad6)")
+			(pinfunction "Q6")
 			(pintype "unspecified")
 			(uuid "b0220b04-16ad-46db-a2ef-2ed1499dd048")
 		)
@@ -5765,8 +6987,8 @@
 			(at -0.63 -2.71)
 			(size 0.57 1.95)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net 93 "unconnected-(U3-B-Pad7)")
-			(pinfunction "B")
+			(net 93 "unconnected-(U3-Q7-Pad7)")
+			(pinfunction "Q7")
 			(pintype "unspecified")
 			(uuid "7efd14d5-9e00-49eb-bd76-bf9212c621bb")
 		)
@@ -5774,8 +6996,8 @@
 			(at -1.91 -2.71)
 			(size 0.57 1.95)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net 94 "unconnected-(U3-VCC-Pad8)")
-			(pinfunction "VCC")
+			(net 94 "unconnected-(U3-GND-Pad8)")
+			(pinfunction "GND")
 			(pintype "unspecified")
 			(uuid "a82a90b8-7ded-4cca-9b68-f05f12561839")
 		)
@@ -5807,7 +7029,7 @@
 				)
 			)
 		)
-		(property "Value" "0402WGF0000TCE"
+		(property "Value" "0Ω"
 			(at 0 1.5 0)
 			(layer "F.Fab")
 			(uuid "24905a47-877a-454a-a153-1ba24c3d8853")
@@ -5818,7 +7040,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount-UniOhm_0R-0R0-1_C17168.html"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -5830,7 +7052,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "62.5mW Thick Film Resistors 50V ±800ppm/℃ ±1% 0Ω 0402 Chip Resistor - Surface Mount ROHS"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -5838,6 +7060,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part" "C17168"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e400da3d-1357-4726-8dd8-2897c0f053f8")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "PartNumber" "0402WGF0000TCE"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0de3fffc-d405-4de5-8f1d-e8f1e96619e7")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -5932,7 +7180,7 @@
 			(at -0.43 0)
 			(size 0.57 0.54)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net 59 "unconnected-(R1-Pad1)")
+			(net 49 "unconnected-(R1-Pad1)")
 			(pinfunction "1")
 			(pintype "input")
 			(uuid "df24dd6f-da27-47b3-bff3-3a0a642a9b4f")
@@ -5941,7 +7189,7 @@
 			(at 0.43 0)
 			(size 0.57 0.54)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net 58 "unconnected-(R1-Pad2)")
+			(net 48 "unconnected-(R1-Pad2)")
 			(pinfunction "2")
 			(pintype "input")
 			(uuid "2966503a-2892-42db-b27d-ec7838ec4c95")
@@ -5974,7 +7222,7 @@
 				)
 			)
 		)
-		(property "Value" "US1MG_C412437"
+		(property "Value" "US1MG"
 			(at 0 2.5 0)
 			(layer "F.Fab")
 			(uuid "07591825-022b-4edb-a4bd-5c242965ad4d")
@@ -5985,7 +7233,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://lcsc.com/product-detail/Diodes-Rectifiers-Fast-Recovery_MDD-Microdiode-Electronics-US1MG_C412437.html"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -6005,6 +7253,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part" "C412437"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "adf0fe92-02f9-4e64-9fa8-0ff474a1b717")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "PartNumber" "US1MG_C412437"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "cdd77530-0742-4805-8205-88ce2f7c19ad")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -6089,8 +7363,8 @@
 			(at -2.57 0)
 			(size 2.05 1.62)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net 25 "unconnected-(D3-C-Pad1)")
-			(pinfunction "C")
+			(net 3 "unconnected-(D3-K-Pad1)")
+			(pinfunction "K")
 			(pintype "unspecified")
 			(uuid "13a01df0-0f8c-4f62-a72b-24469f143237")
 		)
@@ -6098,7 +7372,7 @@
 			(at 2.57 0)
 			(size 2.05 1.62)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net 26 "unconnected-(D3-A-Pad2)")
+			(net 23 "unconnected-(D3-A-Pad2)")
 			(pinfunction "A")
 			(pintype "unspecified")
 			(uuid "a68c1c3e-d94a-4e82-8dbe-a737eeaf0291")
@@ -6131,7 +7405,7 @@
 				)
 			)
 		)
-		(property "Value" "S8550_C105432"
+		(property "Value" "S8550"
 			(at 0 2.5 0)
 			(layer "F.Fab")
 			(uuid "d00d7c5a-4738-467e-adbe-caa1206808c9")
@@ -6142,7 +7416,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://lcsc.com/product-detail/Transistors-NPN-PNP_S8550_C105432.html"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -6154,7 +7428,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "60V 115mA 200mW 7.5Ω@10V,500mA 2.5V@250uA 1 N-Channel SOT-23 MOSFETs ROHS"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -6162,6 +7436,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part" "C105432"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ede1636e-5954-41ff-a2e7-d12f48dcc9b8")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "PartNumber" "S8550"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e98ff418-6447-436a-a2ee-7ea7b0a1b02d")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -6257,27 +7557,27 @@
 			(at 1.24 0.95)
 			(size 1.07 0.6)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net 48 "unconnected-(Q2-Pad1)")
-			(pinfunction "1")
-			(pintype "input")
+			(net 46 "unconnected-(Q2-G-Pad1)")
+			(pinfunction "G")
+			(pintype "unspecified")
 			(uuid "c1b35fd6-9eb9-42c6-82e0-eb4600bc36af")
 		)
 		(pad "2" smd rect
 			(at 1.24 -0.95)
 			(size 1.07 0.6)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net 46 "unconnected-(Q2-Pad2)")
-			(pinfunction "2")
-			(pintype "input")
+			(net 38 "unconnected-(Q2-S-Pad2)")
+			(pinfunction "S")
+			(pintype "unspecified")
 			(uuid "08a82c3c-bd7a-425e-84d3-4d74c710535a")
 		)
 		(pad "3" smd rect
 			(at -1.24 0)
 			(size 1.07 0.6)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net 47 "unconnected-(Q2-Pad3)")
-			(pinfunction "3")
-			(pintype "input")
+			(net 45 "unconnected-(Q2-D-Pad3)")
+			(pinfunction "D")
+			(pintype "unspecified")
 			(uuid "900e1255-e222-4471-95cb-747bae1f872e")
 		)
 		(embedded_fonts no)
@@ -6308,7 +7608,7 @@
 				)
 			)
 		)
-		(property "Value" "TAJA106K016RNJ"
+		(property "Value" "10uF"
 			(at 0 2 0)
 			(layer "F.Fab")
 			(uuid "a90b79a9-86d3-4902-88b9-731acf93a76c")
@@ -6319,7 +7619,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://lcsc.com/product-detail/Tantalum-Capacitors_AVX_TAJA106K016RNJ_10uF-106-10-16V_C7171.html"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -6331,7 +7631,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "10uF 16V 3Ω@100kHz ±10% CASE-A-3216-18(mm) Tantalum Capacitors ROHS"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -6339,6 +7639,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part" "C7171"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3a30728d-95bc-442a-a350-d729b7b9cc63")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "PartNumber" "TAJA106K016RNJ"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0d254fe5-a344-4bd8-af98-48c336503ca4")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -6425,7 +7751,7 @@
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(net 17 "unconnected-(C5-Pad1)")
 			(pinfunction "1")
-			(pintype "input")
+			(pintype "unspecified")
 			(uuid "d749fc65-17b0-44f5-b374-a9b45c73e36e")
 		)
 		(pad "2" smd rect
@@ -6434,7 +7760,7 @@
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(net 18 "unconnected-(C5-Pad2)")
 			(pinfunction "2")
-			(pintype "input")
+			(pintype "unspecified")
 			(uuid "ebfacc16-4f9c-47c9-a51f-9ffeba3fbf7b")
 		)
 		(embedded_fonts no)
@@ -6465,7 +7791,7 @@
 				)
 			)
 		)
-		(property "Value" "L78M05ABDT-TR"
+		(property "Value" "L78M05"
 			(at 0 4.5 0)
 			(layer "F.Fab")
 			(uuid "69492a4c-efc0-49b5-918a-1ad42d520c65")
@@ -6476,7 +7802,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://lcsc.com/product-detail/Linear-Voltage-Regulators_STMicroelectronics_L78M05ABDT-TR_L78M05ABDT-TR_C58069.html"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -6488,7 +7814,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "62dB@(120Hz) 500mA Fixed 5V Positive electrode 35V TO-252-2(DPAK) Voltage Regulators - Linear, Low Drop Out (LDO) Regulators ROHS"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -6496,6 +7822,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part" "C58069"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "760b627c-d677-4b35-952e-b6710f8b4d0c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "PartNumber" "L78M05ABDT-TR"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "67d2d218-cd85-409b-b4da-7b9ee852eb8d")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -6662,27 +8014,27 @@
 			(at -3.48 -2.29)
 			(size 2.8 1.35)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net 160 "unconnected-(U10-IN-Pad1)")
-			(pinfunction "IN")
-			(pintype "power_in")
+			(net 162 "unconnected-(U10-Q1-Pad1)")
+			(pinfunction "Q1")
+			(pintype "unspecified")
 			(uuid "81dd5800-e180-4a73-ad9c-81319d24e15f")
 		)
 		(pad "3" smd rect
 			(at -3.48 2.29)
 			(size 2.8 1.5)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net 159 "unconnected-(U10-OUT-Pad3)")
-			(pinfunction "OUT")
-			(pintype "power_in")
+			(net 161 "unconnected-(U10-Q3-Pad3)")
+			(pinfunction "Q3")
+			(pintype "unspecified")
 			(uuid "04c7a4f8-8bc3-41e1-a12a-c9b064770316")
 		)
 		(pad "4" smd rect
 			(at 3.48 0.02)
 			(size 6.5 6)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net 161 "unconnected-(U10-GND-Pad4)")
-			(pinfunction "GND")
-			(pintype "power_in")
+			(net 163 "unconnected-(U10-Q4-Pad4)")
+			(pinfunction "Q4")
+			(pintype "unspecified")
 			(uuid "d6e9f0f1-21c8-48f1-95fc-35dcb93913ab")
 		)
 		(embedded_fonts no)
@@ -6713,7 +8065,7 @@
 				)
 			)
 		)
-		(property "Value" "1206W4F0000T5E"
+		(property "Value" "0Ω"
 			(at 0 2 0)
 			(layer "F.Fab")
 			(uuid "c23a1472-7b16-43e5-ba26-6e13b430c5b4")
@@ -6724,7 +8076,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount-UniOhm_0R-0R0-1_C17888.html"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -6736,7 +8088,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "250mW Thick Film Resistors 200V ±800ppm/℃ ±1% 0Ω 1206 Chip Resistor - Surface Mount ROHS"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -6744,6 +8096,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part" "C17888"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a985fb94-11e8-4d9e-be73-b9586c693828")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "PartNumber" "1206W4F0000T5E"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b846d2b7-ba12-4e20-bd35-82ff5d78eb76")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -6838,7 +8216,7 @@
 			(at -1.48 0)
 			(size 1.21 1.7)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net 65 "unconnected-(R4-Pad1)")
+			(net 55 "unconnected-(R4-Pad1)")
 			(pinfunction "1")
 			(pintype "input")
 			(uuid "cfc3f7cd-7d4f-4bd6-88f0-7d1ee1fd2704")
@@ -6847,7 +8225,7 @@
 			(at 1.48 0)
 			(size 1.21 1.7)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net 64 "unconnected-(R4-Pad2)")
+			(net 54 "unconnected-(R4-Pad2)")
 			(pinfunction "2")
 			(pintype "input")
 			(uuid "6798b4c4-f160-4d03-bf05-00ca005c265c")
@@ -6880,7 +8258,7 @@
 				)
 			)
 		)
-		(property "Value" "4D03WGJ0102T5E"
+		(property "Value" "1KΩ"
 			(at 0 2.5 0)
 			(layer "F.Fab")
 			(uuid "39c107ba-e6fb-47a7-84e9-f2a82706173a")
@@ -6891,7 +8269,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://lcsc.com/product-detail/Resistor-Networks-Arrays_1KR-102-5_C20197.html"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -6903,7 +8281,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "4 ±5% 1kΩ 62.5mW ±200ppm/℃ 0603x4 Resistor Networks, Arrays ROHS"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -6911,6 +8289,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part" "C20197"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c236f0ef-6c80-4559-9300-efb510b5e34f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "PartNumber" "4D03WGJ0102T5E"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "7c3b1d82-983a-4096-b411-669a099c7b1a")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -7005,7 +8409,7 @@
 			(at -1.2 0.9)
 			(size 0.65 0.8)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net 74 "unconnected-(RN1-Pad1)")
+			(net 64 "unconnected-(RN1-Pad1)")
 			(pinfunction "1")
 			(pintype "input")
 			(uuid "bd364464-03f7-4ec0-b993-f3bb96675d24")
@@ -7014,7 +8418,7 @@
 			(at -0.4 0.9)
 			(size 0.5 0.8)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net 68 "unconnected-(RN1-Pad2)")
+			(net 58 "unconnected-(RN1-Pad2)")
 			(pinfunction "2")
 			(pintype "input")
 			(uuid "005842d2-625d-49e0-955c-cc0c439bf8e5")
@@ -7023,7 +8427,7 @@
 			(at 0.4 0.9)
 			(size 0.5 0.8)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net 69 "unconnected-(RN1-Pad3)")
+			(net 59 "unconnected-(RN1-Pad3)")
 			(pinfunction "3")
 			(pintype "input")
 			(uuid "1ad9eac5-9c96-4f8d-b939-1d597eda3ff5")
@@ -7032,7 +8436,7 @@
 			(at 1.2 0.9)
 			(size 0.65 0.8)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net 72 "unconnected-(RN1-Pad4)")
+			(net 62 "unconnected-(RN1-Pad4)")
 			(pinfunction "4")
 			(pintype "input")
 			(uuid "b43edc84-8d5d-4980-b0de-f5a2eb4c2d1c")
@@ -7041,7 +8445,7 @@
 			(at 1.2 -0.9)
 			(size 0.65 0.8)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net 75 "unconnected-(RN1-Pad5)")
+			(net 65 "unconnected-(RN1-Pad5)")
 			(pinfunction "5")
 			(pintype "input")
 			(uuid "ff9df2e6-1a16-48a3-b13c-3a3a90f15737")
@@ -7050,7 +8454,7 @@
 			(at 0.4 -0.9)
 			(size 0.5 0.8)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net 70 "unconnected-(RN1-Pad6)")
+			(net 60 "unconnected-(RN1-Pad6)")
 			(pinfunction "6")
 			(pintype "input")
 			(uuid "34aea226-171c-46d9-96b0-1e95e365955a")
@@ -7059,7 +8463,7 @@
 			(at -0.4 -0.9)
 			(size 0.5 0.8)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net 71 "unconnected-(RN1-Pad7)")
+			(net 61 "unconnected-(RN1-Pad7)")
 			(pinfunction "7")
 			(pintype "input")
 			(uuid "76c49eb4-8011-4031-97cb-aac6728f31a7")
@@ -7068,7 +8472,7 @@
 			(at -1.2 -0.9)
 			(size 0.65 0.8)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net 73 "unconnected-(RN1-Pad8)")
+			(net 63 "unconnected-(RN1-Pad8)")
 			(pinfunction "8")
 			(pintype "input")
 			(uuid "b9b16d2e-d492-4b75-83af-9d743bce7555")
@@ -7112,7 +8516,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://lcsc.com/product-detail/Light-Emitting-Diodes-LED_white-0805_C34499.html"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -7132,6 +8536,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part" "C34499"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3f2ad73c-bbc8-4ad5-8366-d8482bf32e1e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "PartNumber" "whiteLEDSMD"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f77d1893-b648-486b-bd96-82454ecf87d1")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -7296,8 +8726,8 @@
 			(at 1.05 0 180)
 			(size 1 1.4)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net 42 "unconnected-(LED1-A-Pad1)")
-			(pinfunction "A")
+			(net 28 "unconnected-(LED1-+-Pad1)")
+			(pinfunction "+")
 			(pintype "unspecified")
 			(uuid "f1d63c4b-0ff1-44d1-800a-979bf08723fb")
 		)
@@ -7305,8 +8735,8 @@
 			(at -1.05 0 180)
 			(size 1 1.4)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net 41 "unconnected-(LED1-K-Pad2)")
-			(pinfunction "K")
+			(net 27 "unconnected-(LED1---Pad2)")
+			(pinfunction "-")
 			(pintype "unspecified")
 			(uuid "2c714d59-13d3-49e2-9b4d-a405a3638dba")
 		)
@@ -7338,7 +8768,7 @@
 				)
 			)
 		)
-		(property "Value" "X322516MLB4SI"
+		(property "Value" "16MHz"
 			(at 0 3 0)
 			(layer "F.Fab")
 			(uuid "20d043d4-30e6-405d-aba5-f77a48ab98a6")
@@ -7349,7 +8779,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://lcsc.com/product-detail/SMD-Crystals_YSX321SL-16MHZ-9PF-10PPM-40-85_C13738.html"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -7361,7 +8791,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "16MHz Surface Mount Crystal 9pF ±10ppm ±20ppm SMD3225-4P Crystals ROHS"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -7369,6 +8799,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part" "C13738"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "175a4b85-f1a4-488b-a5c9-b7325b9bd86b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "PartNumber" "X322516MLB4SI"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9dc024c4-20fd-4eec-94eb-dd4938593b70")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -7474,8 +8930,8 @@
 			(at -1.1 0.88)
 			(size 1.4 1.2)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net 164 "unconnected-(X1-OSC1-Pad1)")
-			(pinfunction "OSC1")
+			(net 170 "unconnected-(X1-Pad1)")
+			(pinfunction "1")
 			(pintype "unspecified")
 			(uuid "8f90daf7-d45c-45cb-8a89-72fd42728513")
 		)
@@ -7483,8 +8939,8 @@
 			(at 1.1 0.88)
 			(size 1.4 1.2)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net 165 "unconnected-(X1-GND-Pad2)")
-			(pinfunction "GND")
+			(net 171 "unconnected-(X1-Pad2)")
+			(pinfunction "2")
 			(pintype "unspecified")
 			(uuid "ff9345c0-1d91-4ba6-ba71-792c153e1b72")
 		)
@@ -7492,18 +8948,12 @@
 			(at 1.1 -0.88)
 			(size 1.4 1.2)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net 163 "unconnected-(X1-OSC2-Pad3)")
-			(pinfunction "OSC2")
-			(pintype "unspecified")
 			(uuid "3fcaa378-8464-47ad-a667-f13c9939c226")
 		)
 		(pad "4" smd rect
 			(at -1.1 -0.88)
 			(size 1.4 1.2)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net 162 "unconnected-(X1-GND-Pad4)")
-			(pinfunction "GND")
-			(pintype "unspecified")
 			(uuid "11429771-1327-4922-a502-9f7e35ac652f")
 		)
 		(embedded_fonts no)
@@ -7534,7 +8984,7 @@
 				)
 			)
 		)
-		(property "Value" "74HC595D,118"
+		(property "Value" "74HC595"
 			(at 0 4.5 0)
 			(layer "F.Fab")
 			(uuid "5d25a601-26bc-4955-add6-585f4e041319")
@@ -7545,7 +8995,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://lcsc.com/product-detail/74-Series_NXP_74HC595D-118_74HC595D_C5947.html"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -7557,7 +9007,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "8 2V~6V 1 Serial to serial or parallel SOIC-16 Shift Registers ROHS"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -7565,6 +9015,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part" "C5947"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "7b4191ef-70e4-4873-87db-a092d01e6bff")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "PartNumber" "74HC595D,118"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0eaee295-eff6-4d3e-9217-305185d9fc04")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -7672,7 +9148,7 @@
 			(at -4.45 2.74)
 			(size 0.6 1.97)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net 126 "unconnected-(U6-Q1-Pad1)")
+			(net 110 "unconnected-(U6-Q1-Pad1)")
 			(pinfunction "Q1")
 			(pintype "unspecified")
 			(uuid "520e7d3b-90f3-4782-a330-d3118c9227d0")
@@ -7681,7 +9157,7 @@
 			(at -3.18 2.74)
 			(size 0.6 1.97)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net 132 "unconnected-(U6-Q2-Pad2)")
+			(net 116 "unconnected-(U6-Q2-Pad2)")
 			(pinfunction "Q2")
 			(pintype "unspecified")
 			(uuid "d795d2cd-a871-47d3-9b47-cff825a78abb")
@@ -7690,7 +9166,7 @@
 			(at -1.91 2.74)
 			(size 0.6 1.97)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net 120 "unconnected-(U6-Q3-Pad3)")
+			(net 104 "unconnected-(U6-Q3-Pad3)")
 			(pinfunction "Q3")
 			(pintype "unspecified")
 			(uuid "29fb824a-4716-4da9-874b-8d2093130c70")
@@ -7699,7 +9175,7 @@
 			(at -0.63 2.74)
 			(size 0.6 1.97)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net 134 "unconnected-(U6-Q4-Pad4)")
+			(net 118 "unconnected-(U6-Q4-Pad4)")
 			(pinfunction "Q4")
 			(pintype "unspecified")
 			(uuid "e8c33a55-1d6f-4487-9a72-712e5b8c0290")
@@ -7708,7 +9184,7 @@
 			(at 0.63 2.74)
 			(size 0.6 1.97)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net 127 "unconnected-(U6-Q5-Pad5)")
+			(net 111 "unconnected-(U6-Q5-Pad5)")
 			(pinfunction "Q5")
 			(pintype "unspecified")
 			(uuid "61060c3c-aadf-4d1b-900d-5f3613553fa2")
@@ -7717,7 +9193,7 @@
 			(at 1.9 2.74)
 			(size 0.6 1.97)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net 131 "unconnected-(U6-Q6-Pad6)")
+			(net 115 "unconnected-(U6-Q6-Pad6)")
 			(pinfunction "Q6")
 			(pintype "unspecified")
 			(uuid "c8848a63-23a8-4f74-85b4-05d2b0be97c4")
@@ -7726,7 +9202,7 @@
 			(at 3.17 2.74)
 			(size 0.6 1.97)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net 123 "unconnected-(U6-Q7-Pad7)")
+			(net 107 "unconnected-(U6-Q7-Pad7)")
 			(pinfunction "Q7")
 			(pintype "unspecified")
 			(uuid "3b63b982-886a-4296-977f-2a58926e7bef")
@@ -7735,7 +9211,7 @@
 			(at 4.44 2.74)
 			(size 0.6 1.97)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net 133 "unconnected-(U6-GND-Pad8)")
+			(net 117 "unconnected-(U6-GND-Pad8)")
 			(pinfunction "GND")
 			(pintype "unspecified")
 			(uuid "e549bb91-f1dc-41f6-b05e-cc16b5b92b9b")
@@ -7744,7 +9220,7 @@
 			(at 4.44 -2.74)
 			(size 0.6 1.97)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net 119 "unconnected-(U6-Q7S-Pad9)")
+			(net 103 "unconnected-(U6-Q7S-Pad9)")
 			(pinfunction "Q7S")
 			(pintype "unspecified")
 			(uuid "011eab72-c749-47cf-872f-f08af9504ebf")
@@ -7753,7 +9229,7 @@
 			(at 3.17 -2.74)
 			(size 0.6 1.97)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net 125 "unconnected-(U6-~{MR}-Pad10)")
+			(net 109 "unconnected-(U6-~{MR}-Pad10)")
 			(pinfunction "~{MR}")
 			(pintype "unspecified")
 			(uuid "4b1c3009-2e1b-49a7-9611-33b4c91b9a37")
@@ -7762,7 +9238,7 @@
 			(at 1.9 -2.74)
 			(size 0.6 1.97)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net 124 "unconnected-(U6-SHCP-Pad11)")
+			(net 108 "unconnected-(U6-SHCP-Pad11)")
 			(pinfunction "SHCP")
 			(pintype "unspecified")
 			(uuid "46b12e8e-4a72-4c55-9e92-086243aa6602")
@@ -7771,7 +9247,7 @@
 			(at 0.63 -2.74)
 			(size 0.6 1.97)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net 122 "unconnected-(U6-STCP-Pad12)")
+			(net 106 "unconnected-(U6-STCP-Pad12)")
 			(pinfunction "STCP")
 			(pintype "unspecified")
 			(uuid "37519a72-6f90-4d86-8cce-558bc273b294")
@@ -7780,7 +9256,7 @@
 			(at -0.63 -2.74)
 			(size 0.6 1.97)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net 129 "unconnected-(U6-~{OE}-Pad13)")
+			(net 113 "unconnected-(U6-~{OE}-Pad13)")
 			(pinfunction "~{OE}")
 			(pintype "unspecified")
 			(uuid "7ecebf1d-b4a9-488f-b8c6-aae23f23a6d5")
@@ -7789,7 +9265,7 @@
 			(at -1.91 -2.74)
 			(size 0.6 1.97)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net 121 "unconnected-(U6-DS-Pad14)")
+			(net 105 "unconnected-(U6-DS-Pad14)")
 			(pinfunction "DS")
 			(pintype "unspecified")
 			(uuid "31f0b012-1855-4a6e-a87e-31ff4ac8a210")
@@ -7798,7 +9274,7 @@
 			(at -3.18 -2.74)
 			(size 0.6 1.97)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net 130 "unconnected-(U6-Q0-Pad15)")
+			(net 114 "unconnected-(U6-Q0-Pad15)")
 			(pinfunction "Q0")
 			(pintype "unspecified")
 			(uuid "a2ef793c-c1d6-4ddb-938b-e95c5c2fb104")
@@ -7807,7 +9283,7 @@
 			(at -4.45 -2.74)
 			(size 0.6 1.97)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net 128 "unconnected-(U6-VCC-Pad16)")
+			(net 112 "unconnected-(U6-VCC-Pad16)")
 			(pinfunction "VCC")
 			(pintype "unspecified")
 			(uuid "728f9170-f4d4-4922-8dc0-0530f5708470")
@@ -7840,7 +9316,7 @@
 				)
 			)
 		)
-		(property "Value" "0402B102K500NT"
+		(property "Value" "1nF"
 			(at 0 1.5 0)
 			(layer "F.Fab")
 			(uuid "817baec1-8d9f-4355-a43a-fc2d19df0658")
@@ -7851,7 +9327,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_1nF-102-10-50V_C1523.html"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -7863,7 +9339,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "50V 1nF X7R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -7871,6 +9347,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part" "C1523"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "78ece527-d888-4d62-8cf0-96f8107178fa")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "PartNumber" "0402B102K500NT"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e54d1fcb-a24a-4812-a159-e7e82ad612a1")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -8011,7 +9513,7 @@
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(net 10 "unconnected-(C1-Pad1)")
 			(pinfunction "1")
-			(pintype "input")
+			(pintype "unspecified")
 			(uuid "bd62bd08-0042-4e37-9c6b-08a5aefff28f")
 		)
 		(pad "2" smd rect
@@ -8020,7 +9522,7 @@
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(net 9 "unconnected-(C1-Pad2)")
 			(pinfunction "2")
-			(pintype "input")
+			(pintype "unspecified")
 			(uuid "aff16666-4e4f-4fa1-94bb-75e3b8fe1e08")
 		)
 		(embedded_fonts no)
@@ -8062,7 +9564,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://lcsc.com/product-detail/DC-DC-Converters_TI_TPS5430DDAR_TPS5430DDAR_C9864.html"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -8074,7 +9576,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Step-down type Adjustable 1.221V~32.04V 3A 5.5V~36V SOIC-8-EP DC-DC Converters ROHS"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -8082,6 +9584,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part" "C9864"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ac4ac52d-f20a-43f1-8166-087a4766af95")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "PartNumber" "TPS5430DDAR"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "32f38917-8664-4815-9282-449027af15f9")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -8279,8 +9807,8 @@
 			(at -2.7 -1.91)
 			(size 1.3 0.6)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net 88 "unconnected-(U2-BOOT-Pad1)")
-			(pinfunction "BOOT")
+			(net 88 "unconnected-(U2-Q1-Pad1)")
+			(pinfunction "Q1")
 			(pintype "unspecified")
 			(uuid "ed61ac4b-9730-4e3a-979b-f3764f40dfde")
 		)
@@ -8288,8 +9816,8 @@
 			(at -2.7 -0.63)
 			(size 1.3 0.6)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net 84 "unconnected-(U2-NC-Pad2)")
-			(pinfunction "NC")
+			(net 84 "unconnected-(U2-Q2-Pad2)")
+			(pinfunction "Q2")
 			(pintype "unspecified")
 			(uuid "b6eea6df-10e8-46b2-9855-71d22f3858b2")
 		)
@@ -8297,8 +9825,8 @@
 			(at -2.7 0.64)
 			(size 1.3 0.6)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net 87 "unconnected-(U2-NC-Pad3)")
-			(pinfunction "NC")
+			(net 87 "unconnected-(U2-Q3-Pad3)")
+			(pinfunction "Q3")
 			(pintype "unspecified")
 			(uuid "e46f8a71-e186-41ee-9cd6-308a13fa8534")
 		)
@@ -8306,8 +9834,8 @@
 			(at -2.7 1.91)
 			(size 1.3 0.6)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net 83 "unconnected-(U2-VSENSE-Pad4)")
-			(pinfunction "VSENSE")
+			(net 83 "unconnected-(U2-Q4-Pad4)")
+			(pinfunction "Q4")
 			(pintype "unspecified")
 			(uuid "736f9be0-e454-4f86-ad7e-8a9db1b01ae2")
 		)
@@ -8315,8 +9843,8 @@
 			(at 2.7 1.91)
 			(size 1.3 0.6)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net 82 "unconnected-(U2-ENA-Pad5)")
-			(pinfunction "ENA")
+			(net 82 "unconnected-(U2-Q5-Pad5)")
+			(pinfunction "Q5")
 			(pintype "unspecified")
 			(uuid "45c81fd3-6ab5-4ea6-a798-8e65d6de8df0")
 		)
@@ -8324,8 +9852,8 @@
 			(at 2.7 0.64)
 			(size 1.3 0.6)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net 86 "unconnected-(U2-GND-Pad6)")
-			(pinfunction "GND")
+			(net 86 "unconnected-(U2-Q6-Pad6)")
+			(pinfunction "Q6")
 			(pintype "unspecified")
 			(uuid "e45ff03e-eb26-4c92-b0ff-1a1f3d5216fe")
 		)
@@ -8333,8 +9861,8 @@
 			(at 2.7 -0.63)
 			(size 1.3 0.6)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net 81 "unconnected-(U2-VIN-Pad7)")
-			(pinfunction "VIN")
+			(net 81 "unconnected-(U2-Q7-Pad7)")
+			(pinfunction "Q7")
 			(pintype "unspecified")
 			(uuid "22d923ac-c50c-4d8c-9db6-d55687dceb77")
 		)
@@ -8342,8 +9870,8 @@
 			(at 2.7 -1.91)
 			(size 1.3 0.6)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net 80 "unconnected-(U2-PH-Pad8)")
-			(pinfunction "PH")
+			(net 80 "unconnected-(U2-GND-Pad8)")
+			(pinfunction "GND")
 			(pintype "unspecified")
 			(uuid "102c59f1-1c6e-4fa2-968b-77c6b9d96e2d")
 		)
@@ -8351,8 +9879,8 @@
 			(at 0 0)
 			(size 2.5 3.5)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net 85 "unconnected-(U2-PowerPAD-Pad9)")
-			(pinfunction "PowerPAD")
+			(net 85 "unconnected-(U2-Q7S-Pad9)")
+			(pinfunction "Q7S")
 			(pintype "unspecified")
 			(uuid "e17d5f6e-8857-4212-9fb3-03f37f13abbc")
 		)
@@ -8395,7 +9923,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://lcsc.com/product-detail/Low-Dropout-Regulators-LDO_AMS_AMS1117-3-3_AMS1117-3-3_C6186.html"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -8407,7 +9935,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "72dB@(120Hz) 1A Fixed 3.3V Positive electrode SOT-223 Voltage Regulators - Linear, Low Drop Out (LDO) Regulators ROHS"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -8415,6 +9943,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part" "C6186"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e09faf68-890a-4562-845a-24bbd967f8d3")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "PartNumber" "AMS1117-3.3"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "28f155d9-d152-4945-be2b-4e0d882f9114")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -8500,8 +10054,8 @@
 			(at 2.97 2.3)
 			(size 2.5 1.1)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net 151 "unconnected-(U8-GND-Pad1)")
-			(pinfunction "GND")
+			(net 153 "unconnected-(U8-Q1-Pad1)")
+			(pinfunction "Q1")
 			(pintype "unspecified")
 			(uuid "08f9f27c-b8d9-44f2-8930-fbafc6f716ab")
 		)
@@ -8509,8 +10063,8 @@
 			(at 2.97 0)
 			(size 2.5 1.1)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net 152 "unconnected-(U8-VOUT-Pad2)")
-			(pinfunction "VOUT")
+			(net 154 "unconnected-(U8-Q2-Pad2)")
+			(pinfunction "Q2")
 			(pintype "unspecified")
 			(uuid "ce77d95a-95f7-4dff-accb-b8f6952d7e75")
 		)
@@ -8518,8 +10072,8 @@
 			(at 2.97 -2.3)
 			(size 2.5 1.1)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net 153 "unconnected-(U8-VIN-Pad3)")
-			(pinfunction "VIN")
+			(net 155 "unconnected-(U8-Q3-Pad3)")
+			(pinfunction "Q3")
 			(pintype "unspecified")
 			(uuid "d61474ec-d98a-4037-a1f6-c3c8665ba2dc")
 		)
@@ -8527,8 +10081,8 @@
 			(at -2.97 0)
 			(size 2.34 3.6)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net 154 "unconnected-(U8-VOUT-Pad4)")
-			(pinfunction "VOUT")
+			(net 156 "unconnected-(U8-Q4-Pad4)")
+			(pinfunction "Q4")
 			(pintype "unspecified")
 			(uuid "e67f2f67-c02f-4ee0-a723-c7231d67ad8b")
 		)
@@ -8560,7 +10114,7 @@
 				)
 			)
 		)
-		(property "Value" "TAJB107K006RNJ"
+		(property "Value" "100uF"
 			(at 0 2.5 0)
 			(layer "F.Fab")
 			(uuid "f961861a-2744-43d6-b902-04563e2c5c74")
@@ -8571,7 +10125,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://lcsc.com/product-detail/Tantalum-Capacitors_AVX_TAJB107K006RNJ_100uF-107-10-6-3V_C16133.html"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -8583,7 +10137,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "100uF 6.3V 1.7Ω@100kHz ±10% CASE-B-3528-21(mm) Tantalum Capacitors ROHS"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -8591,6 +10145,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part" "C16133"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "68ebabf7-9571-41e3-a4f3-acbebeb683bd")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "PartNumber" "TAJB107K006RNJ"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3b827f0d-da6a-404a-9a3c-c4cacf8af25e")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -8677,7 +10257,7 @@
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(net 20 "unconnected-(C6-Pad1)")
 			(pinfunction "1")
-			(pintype "input")
+			(pintype "unspecified")
 			(uuid "ad401644-0654-4cc1-ad83-1b5e04b62caa")
 		)
 		(pad "2" smd rect
@@ -8686,7 +10266,7 @@
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(net 19 "unconnected-(C6-Pad2)")
 			(pinfunction "2")
-			(pintype "input")
+			(pintype "unspecified")
 			(uuid "8dbc2890-42e0-4eda-abd1-62edacdb4024")
 		)
 		(embedded_fonts no)
@@ -8717,7 +10297,7 @@
 				)
 			)
 		)
-		(property "Value" "GZ2012D101TF"
+		(property "Value" "100Ω@100MHz"
 			(at 0 2 0)
 			(layer "F.Fab")
 			(uuid "ecdf007a-a370-4bab-bf70-bebf5546bcda")
@@ -8728,7 +10308,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://lcsc.com/product-detail/Ferrite-Beads-And-Chips_100R-25-100MHz_C1015.html"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -8740,7 +10320,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "±25% 100Ω@100MHz 0805 Ferrite Beads ROHS"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -8748,6 +10328,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part" "C1015"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d2b8d9fd-d498-43b6-8d6e-a91d02bdf3ce")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "PartNumber" "GZ2012D101TF"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d22b4e17-b3c8-43ac-b85a-3d0573ecd224")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -8922,7 +10528,7 @@
 			(at -0.97 0)
 			(size 1.13 1.38)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net 39 "unconnected-(L2-Pad1)")
+			(net 33 "unconnected-(L2-Pad1)")
 			(pinfunction "1")
 			(pintype "unspecified")
 			(uuid "8af9e61d-e23e-4358-be6b-bffd323c6bd6")
@@ -8931,7 +10537,7 @@
 			(at 0.97 0)
 			(size 1.13 1.38)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net 40 "unconnected-(L2-Pad2)")
+			(net 34 "unconnected-(L2-Pad2)")
 			(pinfunction "2")
 			(pintype "unspecified")
 			(uuid "f45e689d-3a6e-4b02-883e-b628e8353f18")
@@ -8964,7 +10570,7 @@
 				)
 			)
 		)
-		(property "Value" "B5819W_C8598"
+		(property "Value" "B5819W"
 			(at 0 2 0)
 			(layer "F.Fab")
 			(uuid "96a1a179-c9d0-40fd-8b26-8aad12770689")
@@ -8975,7 +10581,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://lcsc.com/product-detail/Schottky-Barrier-Diodes-SBD_B5819W-SL_C8598.html"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -8995,6 +10601,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part" "C8598"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9fa8a96e-f77e-4cd7-ac12-fe91c54d9aaf")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "PartNumber" "B5819W_C8598"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9542997e-abe0-43c5-9c77-1ba05b1c4325")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -9169,8 +10801,8 @@
 			(at -1.7 0)
 			(size 1.2 0.95)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net 33 "unconnected-(D7---Pad1)")
-			(pinfunction "-")
+			(net 7 "unconnected-(D7-K-Pad1)")
+			(pinfunction "K")
 			(pintype "unspecified")
 			(uuid "975c6194-68d2-47ec-b802-71bd510ac33d")
 		)
@@ -9178,8 +10810,8 @@
 			(at 1.7 0)
 			(size 1.2 0.95)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net 34 "unconnected-(D7-+-Pad2)")
-			(pinfunction "+")
+			(net 8 "unconnected-(D7-A-Pad2)")
+			(pinfunction "A")
 			(pintype "unspecified")
 			(uuid "de018fe5-ac1d-433d-9ce2-a15ab5aa6dd5")
 		)
