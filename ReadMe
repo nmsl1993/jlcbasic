@@ -8,3 +8,6 @@ Edit the kicad_sym and .pretty files to change library references
 brew install easyeda2kicad
 easyeda2kicad --full --lcsc_id=
 
+==============
+
+Local modifications to use R_US resistor symbol
