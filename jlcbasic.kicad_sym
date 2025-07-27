@@ -110,29 +110,11 @@
 					(type none)
 				)
 			)
-			(pin input line
-				(at 5.08 0 180)
-				(length 2.54)
-				(name "2"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "2"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
 		)
 		(symbol "0Ω-0402_1_1"
 			(pin input line
-				(at -5.08 0 0)
-				(length 3.048)
+				(at -3.81 0 0)
+				(length 1.778)
 				(name "1"
 					(effects
 						(font
@@ -141,6 +123,24 @@
 					)
 				)
 				(number "1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at 3.81 0 180)
+				(length 1.27)
+				(name "2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "2"
 					(effects
 						(font
 							(size 1.27 1.27)
