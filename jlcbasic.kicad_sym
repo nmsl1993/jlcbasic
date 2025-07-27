@@ -384,18 +384,6 @@
 		(symbol "100nF-0402_0_1"
 			(polyline
 				(pts
-					(xy -0.51 0) (xy -2.54 0)
-				)
-				(stroke
-					(width 0)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
 					(xy -0.51 -2.03) (xy -0.51 2.03)
 				)
 				(stroke
@@ -418,21 +406,11 @@
 					(type none)
 				)
 			)
-			(polyline
-				(pts
-					(xy 2.54 0) (xy 0.51 0)
-				)
-				(stroke
-					(width 0)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
+		)
+		(symbol "100nF-0402_1_1"
 			(pin unspecified line
-				(at -5.08 0 0)
-				(length 2.54)
+				(at -3.81 0 0)
+				(length 3.175)
 				(name "1"
 					(effects
 						(font
@@ -449,8 +427,8 @@
 				)
 			)
 			(pin unspecified line
-				(at 5.08 0 180)
-				(length 2.54)
+				(at 3.81 0 180)
+				(length 3.175)
 				(name "2"
 					(effects
 						(font
