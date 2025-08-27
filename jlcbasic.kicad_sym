@@ -634,7 +634,7 @@
 				)
 			)
 		)
-		(property "Footprint" "jlcbasic:SOD-323_L1.8-W1.3-LS2.5-RD"
+		(property "Footprint" "PCM_Diode_SMD_Handsoldering_AKL:D_SOD-323_HandSoldering"
 			(at -0.254 -5.08 0)
 			(effects
 				(font
@@ -769,7 +769,7 @@
 				)
 			)
 		)
-		(property "Footprint" "jlcbasic:SOD-323_L1.8-W1.3-LS2.5-RD"
+		(property "Footprint" "PCM_Diode_SMD_Handsoldering_AKL:D_SOD-323_HandSoldering"
 			(at 0 -5.588 0)
 			(effects
 				(font
@@ -8502,7 +8502,7 @@
 				)
 			)
 		)
-		(property "Footprint" "jlcbasic:SOD-123F_L2.7-W1.6-LS3.8-RD"
+		(property "Footprint" "PCM_Diode_SMD_Handsoldering_AKL:D_SOD-123F"
 			(at 0 -7.62 0)
 			(effects
 				(font
@@ -20662,7 +20662,7 @@
 				)
 			)
 		)
-		(property "Footprint" "jlcbasic:SOD-123_L2.7-W1.6-LS3.7-RD-1"
+		(property "Footprint" "PCM_Diode_SMD_Handsoldering_AKL:D_SOD-123F"
 			(at 0 -7.62 0)
 			(effects
 				(font
@@ -21878,7 +21878,7 @@
 				)
 			)
 		)
-		(property "Footprint" "jlcbasic:SOD-123F_L2.8-W1.8-LS3.7-RD"
+		(property "Footprint" "PCM_Diode_SMD_Handsoldering_AKL:D_SOD-123F"
 			(at 0 -7.62 0)
 			(effects
 				(font
